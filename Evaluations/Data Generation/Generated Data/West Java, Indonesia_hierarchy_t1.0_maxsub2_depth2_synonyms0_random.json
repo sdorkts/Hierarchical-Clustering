@@ -1,0 +1,62 @@
+{
+  "Political Indicators": {
+    "Government Transparency": {
+      "Access to Public Records": {},
+      "Disclosure of Budget Allocations": {}
+    },
+    "Public Participation in Governance": {
+      "Voter Turnout Rates": {},
+      "Public Consultation Involvement": {}
+    }
+  },
+  "Military Operations": {
+    "Troop Deployment levels in West Java": {
+      "Number of Active Personnel in West Java": {},
+      "Deployment Duration in West Java": {}
+    },
+    "Frequency of Military Drills in West Java": {
+      "Types of Military Drills": {},
+      "Participation Levels in Drills": {}
+    }
+  },
+  "Economic Metrics": {
+    "Agricultural Output": {
+      "Rice Production": {},
+      "Corn Yield": {}
+    },
+    "Tourism Revenue": {
+      "Hotel Occupancy Rates": {},
+      "Visitor Spending Patterns": {}
+    }
+  },
+  "Social Metrics": {
+    "Educational Attainment Rates": {
+      "Literacy Rates": {},
+      "Higher Education Enrollment": {}
+    },
+    "Healthcare Access Levels": {
+      "Availability of Healthcare Facilities": {},
+      "Healthcare Workforce Density": {}
+    }
+  },
+  "Information Environment": {
+    "Digital Literacy Rates": {
+      "Digital Skills Proficiency": {},
+      "Online Safety Awareness": {}
+    },
+    "Access to Internet Services": {
+      "Internet Coverage in Rural Areas": {},
+      "Availability of Public Wi-Fi Networks": {}
+    }
+  },
+  "Infrastructure Resilience": {
+    "Transportation Network Stability": {
+      "Road Network Connectivity": {},
+      "Bridge Structural Integrity": {}
+    },
+    "Utility Service Reliability": {
+      "Electrical Grid Stability": {},
+      "Water Supply Continuity": {}
+    }
+  }
+}

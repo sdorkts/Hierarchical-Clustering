@@ -1,0 +1,62 @@
+{
+  "Fish Population Metrics": {
+    "Fish Species Abundance": {
+      "Species Richness in Offshore Wind Farm Areas": {},
+      "Species Density near Energy Extraction Sites": {}
+    },
+    "Biomass Composition": {
+      "Fish Species Biomass Distribution": {},
+      "Age Class Biomass Ratio": {}
+    }
+  },
+  "Fishing Effort & Utilization": {
+    "Fishing Fleet Deployment Levels": {
+      "Number of Active Vessels": {},
+      "Days at Sea per Vessel": {}
+    },
+    "Fishing Gear Usage Intensity": {
+      "Trawl Net Deployment Frequency": {},
+      "Longline Hook Count Per Fishing Trip": {}
+    }
+  },
+  "Governance Effectiveness & Stakeholder Engagement": {
+    "Regulatory Compliance Levels": {
+      "Offshore Energy Project Licensing Compliance": {},
+      "Marine Safety Regulation Adherence": {}
+    },
+    "Stakeholder Participation Rates in Decision-Making Processes": {
+      "Frequency of Stakeholder Consultations": {},
+      "Diversity of Stakeholder Representation": {}
+    }
+  },
+  "Offshore Energy Infrastructure Development": {
+    "Offshore Wind Turbine Installation": {
+      "Installation Site Density": {},
+      "Turbine Construction Scale": {}
+    },
+    "Subsea Cabling Networks": {
+      "Cable Length Deployment": {},
+      "Interconnection Point Density": {}
+    }
+  },
+  "Marine Environmental Quality": {
+    "Water Pollution Levels": {
+      "Chemical Contaminant Concentration": {},
+      "Microplastic Density": {}
+    },
+    "Seafloor Habitat Integrity": {
+      "Sediment Composition Variability": {},
+      "Benthic Species Diversity": {}
+    }
+  },
+  "Fisheries Economic Performance": {
+    "Revenue from Fisheries Exports": {
+      "Export Market Prices for Fishery Products": {},
+      "Volume of Fish Products Exported": {}
+    },
+    "Value of Fisheries-Related Jobs": {
+      "Income Levels in Fisheries Sector": {},
+      "Number of Fisheries-Related Employment Opportunities": {}
+    }
+  }
+}

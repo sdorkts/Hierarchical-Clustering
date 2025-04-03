@@ -1,0 +1,1614 @@
+,topic,category 0,category 1,category 2,category 3
+0,Ecosystem Health Indicators,Ecosystem Health Indicators,,,
+1,Biodiversity Levels,Ecosystem Health Indicators,Biodiversity Levels,,
+2,Species Richness,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,
+3,Habitat Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Habitat Diversity
+4,Keystone Species Presence,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Keystone Species Presence
+5,Invasive Species Count,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Invasive Species Count
+6,Pollinator Variety,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Pollinator Variety
+7,Migratory Species Use,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Migratory Species Use
+8,Trophic Level Range,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Trophic Level Range
+9,Freshwater Species Count,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Freshwater Species Count
+10,Biodiversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Biodiversity
+11,Species Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Species Diversity
+12,Floral Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Floral Diversity
+13,Faunal Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Faunal Diversity
+14,Taxonomic Richness,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Taxonomic Richness
+15,Ecological Variety,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Ecological Variety
+16,Biological Variety,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Biological Variety
+17,Species Count,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Species Count
+18,Species Variety,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Species Variety
+19,Community Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Community Diversity
+20,Ecological Richness,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Ecological Richness
+21,Biodiversity Index,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Biodiversity Index
+22,Species Composition,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Species Composition
+23,Richness of Species,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Richness of Species
+24,Biological Diversity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Biological Diversity
+25,Ecological Complexity,Ecosystem Health Indicators,Biodiversity Levels,Species Richness,Ecological Complexity
+26,Genetic Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,
+27,Allele Frequency Variance,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Allele Frequency Variance
+28,Genotype Distribution,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genotype Distribution
+29,Haplotype Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Haplotype Diversity
+30,Gene Pool Size,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Gene Pool Size
+31,Genetic Mutation Rate,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Mutation Rate
+32,Effective Population Size,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Effective Population Size
+33,Genetic Variation,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Variation
+34,Genetic Heterogeneity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Heterogeneity
+35,Genetic Diversity Index,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Diversity Index
+36,Allelic Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Allelic Diversity
+37,Genetic Polymorphism,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Polymorphism
+38,Genetic Variability,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Variability
+39,Population Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Population Diversity
+40,Genetic Resource Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Resource Diversity
+41,Genetic Differentiation,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Differentiation
+42,Ecological Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Ecological Diversity
+43,Genetic Makeup Variation,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genetic Makeup Variation
+44,Species Variation,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Species Variation
+45,Adaptive Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Adaptive Diversity
+46,Intraspecific Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Intraspecific Diversity
+47,Genomic Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity,Genomic Diversity
+48,Population Abundance,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,
+49,Mammalian Population Density,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Mammalian Population Density
+50,Avian Biomass Levels,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Avian Biomass Levels
+51,Aquatic Species Count,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Aquatic Species Count
+52,Insect Population Estimates,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Insect Population Estimates
+53,Plant Community Coverage,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Plant Community Coverage
+54,Population Density,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Population Density
+55,Population Size,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Population Size
+56,Species Abundance,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Species Abundance
+57,Ecological Density,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Ecological Density
+58,Biomass,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Biomass
+59,Community Abundance,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Community Abundance
+60,Numerical Strength,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Numerical Strength
+61,Organism Count,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Organism Count
+62,Demographic Abundance,Ecosystem Health Indicators,Biodiversity Levels,Population Abundance,Demographic Abundance
+63,Functional Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,
+64,Trophic Interactions,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Trophic Interactions
+65,Habitat Heterogeneity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Habitat Heterogeneity
+66,Nutrient Cycling,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Nutrient Cycling
+67,Pollination Services,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Pollination Services
+68,Seed Dispersal Patterns,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Seed Dispersal Patterns
+69,Decomposition Rates,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Decomposition Rates
+70,Functional Variation,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Functional Variation
+71,Ecological Functionality,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Ecological Functionality
+72,Diversity of Roles,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Diversity of Roles
+73,Functional Richness,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Functional Richness
+74,Trait Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Trait Diversity
+75,Ecosystem Complexity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Ecosystem Complexity
+76,Biodiversity of Functions,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Biodiversity of Functions
+77,Functional Ecosystem Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Functional Ecosystem Diversity
+78,Role Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Role Diversity
+79,Functional Composition,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Functional Composition
+80,Ecological Roles Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Ecological Roles Diversity
+81,Species Functionality,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Species Functionality
+82,Functional Traits Variation,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Functional Traits Variation
+83,Ecosystem Service Diversity,Ecosystem Health Indicators,Biodiversity Levels,Functional Diversity,Ecosystem Service Diversity
+84,Endemic Species Proportion,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,
+85,Habitat Suitability for Endemic Species,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Habitat Suitability for Endemic Species
+86,Population Viability of Endemic Species,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Population Viability of Endemic Species
+87,Threat Levels to Endemic Species,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Threat Levels to Endemic Species
+88,Reproductive Success of Endemic Species,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Reproductive Success of Endemic Species
+89,Geographical Range of Endemic Species Distribution,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Geographical Range of Endemic Species Distribution
+90,Native Species Ratio,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Native Species Ratio
+91,Indigenous Species Percentage,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Indigenous Species Percentage
+92,Local Species Share,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Local Species Share
+93,Endemic Flora and Fauna Ratio,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Endemic Flora and Fauna Ratio
+94,Regional Species Composition,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Regional Species Composition
+95,Endemic Biodiversity Fraction,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Endemic Biodiversity Fraction
+96,Local Diversity Rate,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Local Diversity Rate
+97,Indigenous Biodiversity Proportion,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Indigenous Biodiversity Proportion
+98,Endemic Species Share,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Endemic Species Share
+99,Native Species Representation,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Native Species Representation
+100,Regional Endemism Ratio,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Regional Endemism Ratio
+101,Endemic Species Index,Ecosystem Health Indicators,Biodiversity Levels,Endemic Species Proportion,Endemic Species Index
+102,Ecosystem Diversity,Ecosystem Health Indicators,Biodiversity Levels,Ecosystem Diversity,
+103,Flora and Fauna Diversity,Ecosystem Health Indicators,Biodiversity Levels,Flora and Fauna Diversity,
+104,Taxonomic Diversity,Ecosystem Health Indicators,Biodiversity Levels,Taxonomic Diversity,
+105,Biodiversity Metrics,Ecosystem Health Indicators,Biodiversity Levels,Biodiversity Metrics,
+106,Water Quality,Ecosystem Health Indicators,Water Quality,,
+107,Nutrient Levels,Ecosystem Health Indicators,Water Quality,Nutrient Levels,
+108,Nitrogen Concentration,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nitrogen Concentration
+109,Phosphorus Concentration,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Phosphorus Concentration
+110,Algal Biomass,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Algal Biomass
+111,Macrophyte Growth,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Macrophyte Growth
+112,Soil Nutrient Content,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Soil Nutrient Content
+113,Nutrient Concentration,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Concentration
+114,Nutrient Content,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Content
+115,Nutritional Value,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutritional Value
+116,Nutrient Density,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Density
+117,Nutrient Profile,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Profile
+118,Nutritional Levels,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutritional Levels
+119,Micronutrient Levels,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Micronutrient Levels
+120,Macronutrient Levels,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Macronutrient Levels
+121,Nutrient Composition,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Composition
+122,Nutrient Amounts,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutrient Amounts
+123,Nutritional Composition,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Nutritional Composition
+124,Biochemical Levels,Ecosystem Health Indicators,Water Quality,Nutrient Levels,Biochemical Levels
+125,Dissolved Oxygen Levels,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,
+126,Biological Oxygen Demand,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Biological Oxygen Demand
+127,Aquatic Plant Coverage,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Aquatic Plant Coverage
+128,Fish Population Health,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Fish Population Health
+129,Water Temperature,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Water Temperature
+130,Sediment Oxygen Demand,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Sediment Oxygen Demand
+131,Oxygen Saturation,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Saturation
+132,Oxygen Concentration,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Concentration
+133,Dissolved Oxygen Concentration,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Dissolved Oxygen Concentration
+134,DO Levels,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,DO Levels
+135,Oxygen Content,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Content
+136,Oxygen Availability,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Availability
+137,Oxygen Solubility,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Solubility
+138,Aquatic Oxygen Levels,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Aquatic Oxygen Levels
+139,Water Oxygen Levels,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Water Oxygen Levels
+140,Oxygen in Water,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen in Water
+141,Oxygen Supply,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Supply
+142,Dissolved O2,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Dissolved O2
+143,Total Dissolved Oxygen,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Total Dissolved Oxygen
+144,Oxygen Measurement,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Measurement
+145,pH Levels,Ecosystem Health Indicators,Water Quality,pH Levels,
+146,Acidity of Soil,Ecosystem Health Indicators,Water Quality,pH Levels,Acidity of Soil
+147,Alkalinity of Freshwater Bodies,Ecosystem Health Indicators,Water Quality,pH Levels,Alkalinity of Freshwater Bodies
+148,Buffering Capacity,Ecosystem Health Indicators,Water Quality,pH Levels,Buffering Capacity
+149,Ocean Acidification Levels,Ecosystem Health Indicators,Water Quality,pH Levels,Ocean Acidification Levels
+150,acidity,Ecosystem Health Indicators,Water Quality,pH Levels,acidity
+151,alkalinity,Ecosystem Health Indicators,Water Quality,pH Levels,alkalinity
+152,hydrogen ion concentration,Ecosystem Health Indicators,Water Quality,pH Levels,hydrogen ion concentration
+153,pH value,Ecosystem Health Indicators,Water Quality,pH Levels,pH value
+154,pH measurement,Ecosystem Health Indicators,Water Quality,pH Levels,pH measurement
+155,pH scale,Ecosystem Health Indicators,Water Quality,pH Levels,pH scale
+156,ionic balance,Ecosystem Health Indicators,Water Quality,pH Levels,ionic balance
+157,chemical balance,Ecosystem Health Indicators,Water Quality,pH Levels,chemical balance
+158,solution acidity,Ecosystem Health Indicators,Water Quality,pH Levels,solution acidity
+159,solution alkalinity,Ecosystem Health Indicators,Water Quality,pH Levels,solution alkalinity
+160,aqueous acidity,Ecosystem Health Indicators,Water Quality,pH Levels,aqueous acidity
+161,aqueous alkalinity,Ecosystem Health Indicators,Water Quality,pH Levels,aqueous alkalinity
+162,Turbidity,Ecosystem Health Indicators,Water Quality,Turbidity,
+163,Sediment Concentration,Ecosystem Health Indicators,Water Quality,Turbidity,Sediment Concentration
+164,Algal Bloom Density,Ecosystem Health Indicators,Water Quality,Turbidity,Algal Bloom Density
+165,Plankton Population Size,Ecosystem Health Indicators,Water Quality,Turbidity,Plankton Population Size
+166,cloudiness,Ecosystem Health Indicators,Water Quality,Turbidity,cloudiness
+167,murkiness,Ecosystem Health Indicators,Water Quality,Turbidity,murkiness
+168,opacity,Ecosystem Health Indicators,Water Quality,Turbidity,opacity
+169,haze,Ecosystem Health Indicators,Water Quality,Turbidity,haze
+170,sediment concentration,Ecosystem Health Indicators,Water Quality,Turbidity,sediment concentration
+171,pollution level,Ecosystem Health Indicators,Water Quality,Turbidity,pollution level
+172,water clarity,Ecosystem Health Indicators,Water Quality,Turbidity,water clarity
+173,contaminant level,Ecosystem Health Indicators,Water Quality,Turbidity,contaminant level
+174,Contaminant Concentrations,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,
+175,Heavy Metal Levels,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Heavy Metal Levels
+176,Pesticide Residues,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Pesticide Residues
+177,Pollutant Levels,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Pollutant Levels
+178,Toxin Density,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Toxin Density
+179,Impurity Concentrations,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Impurity Concentrations
+180,Adulterant Amounts,Ecosystem Health Indicators,Water Quality,Contaminant Concentrations,Adulterant Amounts
+181,Water Purity,Ecosystem Health Indicators,Water Quality,Water Purity,
+182,Hydrological Quality,Ecosystem Health Indicators,Water Quality,Hydrological Quality,
+183,Water Standards,Ecosystem Health Indicators,Water Quality,Water Standards,
+184,Aquatic Quality,Ecosystem Health Indicators,Water Quality,Aquatic Quality,
+185,Water Safety,Ecosystem Health Indicators,Water Quality,Water Safety,
+186,Water Cleanliness,Ecosystem Health Indicators,Water Quality,Water Cleanliness,
+187,Water Integrity,Ecosystem Health Indicators,Water Quality,Water Integrity,
+188,Water Condition,Ecosystem Health Indicators,Water Quality,Water Condition,
+189,Water Composition,Ecosystem Health Indicators,Water Quality,Water Composition,
+190,Water Assessment,Ecosystem Health Indicators,Water Quality,Water Assessment,
+191,Water Contamination Levels,Ecosystem Health Indicators,Water Quality,Water Contamination Levels,
+192,Water Health,Ecosystem Health Indicators,Water Quality,Water Health,
+193,Soil Health,Ecosystem Health Indicators,Soil Health,,
+194,Soil Organic Matter,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,
+195,Soil Carbon Sequestration,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Carbon Sequestration
+196,Soil Biodiversity Habitat,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Biodiversity Habitat
+197,Soil Erosion Resistance,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Erosion Resistance
+198,Soil Water Holding Capacity,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Water Holding Capacity
+199,Soil Pollutant Filtration,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Pollutant Filtration
+200,Soil pH Buffering,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil pH Buffering
+201,Soil Aggregate Stability,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,Soil Aggregate Stability
+202,humus,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,humus
+203,organic matter,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,organic matter
+204,soil carbon,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,soil carbon
+205,decomposed organic material,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,decomposed organic material
+206,plant residue,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,plant residue
+207,animal waste,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,animal waste
+208,compost,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,compost
+209,soil nutrients,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,soil nutrients
+210,biomass,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,biomass
+211,organic residues,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,organic residues
+212,microbial biomass,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,microbial biomass
+213,soil fertility,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,soil fertility
+214,peat,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,peat
+215,leaf litter,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,leaf litter
+216,organic amendments,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,organic amendments
+217,natural fertilizers,Ecosystem Health Indicators,Soil Health,Soil Organic Matter,natural fertilizers
+218,Soil Nutrient Levels,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,
+219,Nitrogen Content,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Nitrogen Content
+220,Phosphorus Availability,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Phosphorus Availability
+221,Potassium Levels,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Potassium Levels
+222,Soil Fertility,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Soil Fertility
+223,Nutrient Content in Soil,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Nutrient Content in Soil
+224,Soil Nutrient Concentration,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Soil Nutrient Concentration
+225,Soil Health Indicators,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Soil Health Indicators
+226,Nutrient Status of Soil,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Nutrient Status of Soil
+227,Soil Nutrient Profile,Ecosystem Health Indicators,Soil Health,Soil Nutrient Levels,Soil Nutrient Profile
+228,Soil Microbial Biomass,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,
+229,Microbial Diversity,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Microbial Diversity
+230,Carbon Biomass Content,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Carbon Biomass Content
+231,Nitrogen Biomass Content,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Nitrogen Biomass Content
+232,Microbial Activity Levels,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Microbial Activity Levels
+233,Fungal to Bacterial Ratio,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Fungal to Bacterial Ratio
+234,Soil Microbial Community,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Community
+235,Microbial Biomass in Soil,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Microbial Biomass in Soil
+236,Soil Microflora,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microflora
+237,Soil Microbial Population,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Population
+238,Soil Microbial Mass,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Mass
+239,Microbial Life in Soil,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Microbial Life in Soil
+240,Soil Microbial Diversity,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Diversity
+241,Soil Bacterial Biomass,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Bacterial Biomass
+242,Soil Fungal Biomass,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Fungal Biomass
+243,Soil Microbial Organisms,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Organisms
+244,Soil Biological Activity,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Biological Activity
+245,Soil Microbial Ecology,Ecosystem Health Indicators,Soil Health,Soil Microbial Biomass,Soil Microbial Ecology
+246,Soil Structure,Ecosystem Health Indicators,Soil Health,Soil Structure,
+247,Soil Aggregation,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Aggregation
+248,Soil Compaction,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Compaction
+249,Soil Porosity,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Porosity
+250,Soil Composition,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Composition
+251,Soil Texture,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Texture
+252,Soil Framework,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Framework
+253,Soil Arrangement,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Arrangement
+254,Soil Architecture,Ecosystem Health Indicators,Soil Health,Soil Structure,Soil Architecture
+255,Soil Moisture Content,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,
+256,Evapotranspiration Rates,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,Evapotranspiration Rates
+257, Water Infiltration Capacity,Ecosystem Health Indicators,Soil Health,Soil Moisture Content, Water Infiltration Capacity
+258,Soil Water Content,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,Soil Water Content
+259,Moisture Level in Soil,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,Moisture Level in Soil
+260,Soil Humidity,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,Soil Humidity
+261,Water Retention in Soil,Ecosystem Health Indicators,Soil Health,Soil Moisture Content,Water Retention in Soil
+262,Soil Quality,Ecosystem Health Indicators,Soil Health,Soil Quality,
+263,Soil Vitality,Ecosystem Health Indicators,Soil Health,Soil Vitality,
+264,Soil Condition,Ecosystem Health Indicators,Soil Health,Soil Condition,
+265,Soil Productivity,Ecosystem Health Indicators,Soil Health,Soil Productivity,
+266,Soil Sustainability,Ecosystem Health Indicators,Soil Health,Soil Sustainability,
+267,Soil Integrity,Ecosystem Health Indicators,Soil Health,Soil Integrity,
+268,Soil Ecosystem Health,Ecosystem Health Indicators,Soil Health,Soil Ecosystem Health,
+269,Soil Biotic Activity,Ecosystem Health Indicators,Soil Health,Soil Biotic Activity,
+270,Soil Nutrient Balance,Ecosystem Health Indicators,Soil Health,Soil Nutrient Balance,
+271,Habitat Extent,Ecosystem Health Indicators,Habitat Extent,,
+272,Forest Area,Ecosystem Health Indicators,Habitat Extent,Forest Area,
+273,Tree Canopy Density,Ecosystem Health Indicators,Habitat Extent,Forest Area,Tree Canopy Density
+274,Forest Biodiversity Levels,Ecosystem Health Indicators,Habitat Extent,Forest Area,Forest Biodiversity Levels
+275,Deforestation Rates,Ecosystem Health Indicators,Habitat Extent,Forest Area,Deforestation Rates
+276,Woodland,Ecosystem Health Indicators,Habitat Extent,Forest Area,Woodland
+277,Timberland,Ecosystem Health Indicators,Habitat Extent,Forest Area,Timberland
+278,Wooded region,Ecosystem Health Indicators,Habitat Extent,Forest Area,Wooded region
+279,Forestland,Ecosystem Health Indicators,Habitat Extent,Forest Area,Forestland
+280,Tree cover,Ecosystem Health Indicators,Habitat Extent,Forest Area,Tree cover
+281,Sylvan area,Ecosystem Health Indicators,Habitat Extent,Forest Area,Sylvan area
+282,Wetland Coverage,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,
+283,Vegetation Density,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Vegetation Density
+284,Wildlife Habitats,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Wildlife Habitats
+285,Marshland Area,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Marshland Area
+286,Swamp Coverage,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Swamp Coverage
+287,Bog Extent,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Bog Extent
+288,Floodplain Coverage,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Floodplain Coverage
+289,Wetland Area,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Wetland Area
+290,Waterlogged Terrain,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Waterlogged Terrain
+291,Aquatic Habitat Coverage,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Aquatic Habitat Coverage
+292,Riparian Zone Extent,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Riparian Zone Extent
+293,Estuarine Area,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Estuarine Area
+294,Hydric Soil Coverage,Ecosystem Health Indicators,Habitat Extent,Wetland Coverage,Hydric Soil Coverage
+295,Grassland Spread,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,
+296,Soil Carbon Content,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Soil Carbon Content
+297,Invasive Species Extent,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Invasive Species Extent
+298,Primary Productivity,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Primary Productivity
+299,Prairie Expansion,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Prairie Expansion
+300,Savanna Proliferation,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Savanna Proliferation
+301,Meadow Growth,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Meadow Growth
+302,Steppe Distribution,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Steppe Distribution
+303,Pasture Spread,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Pasture Spread
+304,Grassland Proliferation,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Grassland Proliferation
+305,Turf Expansion,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Turf Expansion
+306,Forage Area ,Ecosystem Health Indicators,Habitat Extent,Grassland Spread,Forage Area 
+307,Coral Reef Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,
+308,Coral Reef Area,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Area
+309,Coral Species Diversity,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Species Diversity
+310,Coral Cover Percentage,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Cover Percentage
+311,Water Depth Range of Reefs,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Water Depth Range of Reefs
+312,Coral Reef Bleaching Incidents,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Bleaching Incidents
+313,Coral Habitat Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Habitat Distribution
+314,Coral Ecosystem Spread,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Ecosystem Spread
+315,Coral Population Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Population Distribution
+316,Coral Biome Dispersion,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Biome Dispersion
+317,Coral Community Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Community Distribution
+318,Coral Formation Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Formation Distribution
+319,Coral Reef Location Patterns,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Location Patterns
+320,Coral Reef Spatial Distribution,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Spatial Distribution
+321,Coral Reef Biogeography,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Biogeography
+322,Coral Reef Presence,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Presence
+323,Coral Reef Range,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Range
+324,Coral Reef Habitat Mapping,Ecosystem Health Indicators,Habitat Extent,Coral Reef Distribution,Coral Reef Habitat Mapping
+325,Coastal Mangrove Range,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,
+326,Mangrove Species Diversity,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Mangrove Species Diversity
+327,Mangrove Canopy Cover,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Mangrove Canopy Cover
+328,Mangrove Ecosystem,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Mangrove Ecosystem
+329,Coastal Wetlands,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Coastal Wetlands
+330,Tidal Forests,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Tidal Forests
+331,Mangrove Habitat,Ecosystem Health Indicators,Habitat Extent,Coastal Mangrove Range,Mangrove Habitat
+332,Urban Green Spaces,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,
+333,Green Space Accessibility,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Green Space Accessibility
+334,Canopy Coverage,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Canopy Coverage
+335,Air Quality Improvement,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Air Quality Improvement
+336,Recreational Space Availability,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Recreational Space Availability
+337,City Parks,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,City Parks
+338,Public Gardens,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Public Gardens
+339,Urban Parks,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Urban Parks
+340,Greenbelts,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Greenbelts
+341,Community Gardens,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Community Gardens
+342,Nature Reserves,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Nature Reserves
+343,Open Spaces,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Open Spaces
+344,Botanical Gardens,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Botanical Gardens
+345,Recreational Areas,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Recreational Areas
+346,Green Corridors,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Green Corridors
+347,Parklands,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Parklands
+348,Urban Nature Areas,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Urban Nature Areas
+349,Green Roofs,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Green Roofs
+350,Plazas,Ecosystem Health Indicators,Habitat Extent,Urban Green Spaces,Plazas
+351,Desert Boundaries,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,
+352,Desert Vegetation Extent,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Vegetation Extent
+353,Soil Moisture Levels,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Soil Moisture Levels
+354,Animal Habitat Range,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Animal Habitat Range
+355,Desert Borders,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Borders
+356,Desert Limits,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Limits
+357,Desert Perimeters,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Perimeters
+358,Desert Edges,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Edges
+359,Desert Demarcations,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Demarcations
+360,Desert Frontier,Ecosystem Health Indicators,Habitat Extent,Desert Boundaries,Desert Frontier
+361,Habitat Range,Ecosystem Health Indicators,Habitat Extent,Habitat Range,
+362,Habitat Distribution,Ecosystem Health Indicators,Habitat Extent,Habitat Distribution,
+363,Habitat Area,Ecosystem Health Indicators,Habitat Extent,Habitat Area,
+364,Habitat Scope,Ecosystem Health Indicators,Habitat Extent,Habitat Scope,
+365,Habitat Coverage,Ecosystem Health Indicators,Habitat Extent,Habitat Coverage,
+366,Habitat Zone,Ecosystem Health Indicators,Habitat Extent,Habitat Zone,
+367,Habitat Region,Ecosystem Health Indicators,Habitat Extent,Habitat Region,
+368,Habitat Span,Ecosystem Health Indicators,Habitat Extent,Habitat Span,
+369,Habitat Territory,Ecosystem Health Indicators,Habitat Extent,Habitat Territory,
+370,Habitat Reach,Ecosystem Health Indicators,Habitat Extent,Habitat Reach,
+371,Habitat Locale,Ecosystem Health Indicators,Habitat Extent,Habitat Locale,
+372,Habitat Environment,Ecosystem Health Indicators,Habitat Extent,Habitat Environment,
+373,Habitat Field,Ecosystem Health Indicators,Habitat Extent,Habitat Field,
+374,Habitat Landscape,Ecosystem Health Indicators,Habitat Extent,Habitat Landscape,
+375,Habitat Expanse,Ecosystem Health Indicators,Habitat Extent,Habitat Expanse,
+376,Habitat Domain,Ecosystem Health Indicators,Habitat Extent,Habitat Domain,
+377,Environmental Health Metrics,Ecosystem Health Indicators,Environmental Health Metrics,,
+378,Biodiversity Indicators,Ecosystem Health Indicators,Biodiversity Indicators,,
+379,Ecosystem Vitality Measures,Ecosystem Health Indicators,Ecosystem Vitality Measures,,
+380,Ecological Condition Indicators,Ecosystem Health Indicators,Ecological Condition Indicators,,
+381,Sustainability Metrics,Ecosystem Health Indicators,Sustainability Metrics,,
+382,Ecosystem Integrity Assessments,Ecosystem Health Indicators,Ecosystem Integrity Assessments,,
+383,Habitat Quality Indicators,Ecosystem Health Indicators,Habitat Quality Indicators,,
+384,Ecosystem Function Metrics,Ecosystem Health Indicators,Ecosystem Function Metrics,,
+385,Economic Impact Metrics,Economic Impact Metrics,,,
+386,Gross Domestic Product (GDP),Economic Impact Metrics,Gross Domestic Product (GDP),,
+387,Agricultural Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,
+388,Crop Yield,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Crop Yield
+389,Livestock Production,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Livestock Production
+390,Agricultural Export Volume,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Agricultural Export Volume
+391,Irrigated Land Area,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Irrigated Land Area
+392,Use of Agrochemicals,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Use of Agrochemicals
+393,Water Consumption in Agriculture,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Water Consumption in Agriculture
+394,Farm Income Levels,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Farm Income Levels
+395,Farm Production,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Farm Production
+396,Agricultural Production,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Agricultural Production
+397,Harvest Volume,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Harvest Volume
+398,Yield Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Yield Output
+399,Field Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Field Output
+400,Farm Yield,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Farm Yield
+401,Produce Quantity,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Produce Quantity
+402,Agricultural Yield,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Agricultural Yield
+403,Crop Production,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Crop Production
+404,Farm Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Farm Output
+405,Harvest Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Harvest Output
+406,Agricultural Efficiency,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Agricultural Efficiency
+407,Yield Performance,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Yield Performance
+408,Produce Output,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Produce Output
+409,Farming Results,Economic Impact Metrics,Gross Domestic Product (GDP),Agricultural Output,Farming Results
+410,Manufacturing Output,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,
+411,Factory Production Levels,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Factory Production Levels
+412,Manufacturing Employment,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Manufacturing Employment
+413,Supply Chain Efficiency,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Supply Chain Efficiency
+414,Manufactured Goods Inventory,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Manufactured Goods Inventory
+415,Capital Investment in Manufacturing,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Capital Investment in Manufacturing
+416,Production Volume,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Production Volume
+417,Manufactured Goods,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Manufactured Goods
+418,Output Production,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Output Production
+419,Fabrication Output,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Fabrication Output
+420,Industrial Output,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Industrial Output
+421,Manufacturing Yield,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Manufacturing Yield
+422,Production Output,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Production Output
+423,Goods Production,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Goods Production
+424,Output Level,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Output Level
+425,Manufacturing Production,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Manufacturing Production
+426,Output Quantity,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Output Quantity
+427,Factory Output,Economic Impact Metrics,Gross Domestic Product (GDP),Manufacturing Output,Factory Output
+428,Service Sector Production,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,
+429,Tourism Activity Levels,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Tourism Activity Levels
+430,Professional Services Output,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Professional Services Output
+431,Healthcare Services Delivery,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Healthcare Services Delivery
+432,Tertiary Sector Output,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Tertiary Sector Output
+433,Service Industry Output,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Service Industry Output
+434,Service Sector Output,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Service Sector Output
+435,Tertiary Production,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Tertiary Production
+436,Service Delivery Production,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Service Delivery Production
+437,Non-Goods Production,Economic Impact Metrics,Gross Domestic Product (GDP),Service Sector Production,Non-Goods Production
+438,Industrial Energy Production,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,
+439,Energy Supply Costs,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Energy Supply Costs
+440,Energy Output Efficiency,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Energy Output Efficiency
+441,Industrial Energy Usage Levels,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Industrial Energy Usage Levels
+442,Manufacturing Energy Generation,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Manufacturing Energy Generation
+443,Commercial Power Production,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Commercial Power Production
+444,Industrial Power Generation,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Industrial Power Generation
+445,Energy Manufacturing,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Energy Manufacturing
+446,Industrial Electricity Production,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Industrial Electricity Production
+447,Utility-Scale Energy Production,Economic Impact Metrics,Gross Domestic Product (GDP),Industrial Energy Production,Utility-Scale Energy Production
+448,Renewable Energy Capacity,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,
+449,Installed Solar Power Capacity,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Installed Solar Power Capacity
+450,Wind Turbine Generation Capability,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Wind Turbine Generation Capability
+451,Hydropower Generation Potential,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Hydropower Generation Potential
+452,Sustainable Energy Potential,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Sustainable Energy Potential
+453,Clean Energy Capacity,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Clean Energy Capacity
+454,Green Energy Capability,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Green Energy Capability
+455,Alternative Energy Capacity,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Alternative Energy Capacity
+456,Regenerative Energy Resources,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Regenerative Energy Resources
+457,Eco-friendly Energy Output,Economic Impact Metrics,Gross Domestic Product (GDP),Renewable Energy Capacity,Eco-friendly Energy Output
+458,Infrastructure Development,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,
+459,Transportation Network Density,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Transportation Network Density
+460,Public Transit Accessibility,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Public Transit Accessibility
+461,Digital Infrastructure Expansion,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Digital Infrastructure Expansion
+462,Electricity Grid Reliability,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Electricity Grid Reliability
+463,Broadband Internet Penetration,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Broadband Internet Penetration
+464,Infrastructure Expansion,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Expansion
+465,Infrastructure Improvement,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Improvement
+466,Infrastructure Enhancement,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Enhancement
+467,Infrastructure Growth,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Growth
+468,Infrastructure Construction,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Construction
+469,Infrastructure Investment,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Investment
+470,Infrastructure Projects,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Projects
+471,Infrastructure Planning,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Planning
+472,Infrastructure Upgrading,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Upgrading
+473,Infrastructure Modernization,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Modernization
+474,Infrastructure Establishment,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Establishment
+475,Infrastructure Revitalization,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Revitalization
+476,Infrastructure Framework Development,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure Framework Development
+477,Infrastructure System Development,Economic Impact Metrics,Gross Domestic Product (GDP),Infrastructure Development,Infrastructure System Development
+478,National Income,Economic Impact Metrics,Gross Domestic Product (GDP),National Income,
+479,Economic Output,Economic Impact Metrics,Gross Domestic Product (GDP),Economic Output,
+480,Gross National Product (GNP),Economic Impact Metrics,Gross Domestic Product (GDP),Gross National Product (GNP),
+481,Total Economic Activity,Economic Impact Metrics,Gross Domestic Product (GDP),Total Economic Activity,
+482,Domestic Economic Production,Economic Impact Metrics,Gross Domestic Product (GDP),Domestic Economic Production,
+483,Aggregate Economic Performance,Economic Impact Metrics,Gross Domestic Product (GDP),Aggregate Economic Performance,
+484,National Output,Economic Impact Metrics,Gross Domestic Product (GDP),National Output,
+485,Economic Growth Measure,Economic Impact Metrics,Gross Domestic Product (GDP),Economic Growth Measure,
+486,Gross Domestic Income,Economic Impact Metrics,Gross Domestic Product (GDP),Gross Domestic Income,
+487,Total Value Added,Economic Impact Metrics,Gross Domestic Product (GDP),Total Value Added,
+488,Market Value of Goods and Services,Economic Impact Metrics,Gross Domestic Product (GDP),Market Value of Goods and Services,
+489,National Economic Performance,Economic Impact Metrics,Gross Domestic Product (GDP),National Economic Performance,
+490,Real GDP,Economic Impact Metrics,Gross Domestic Product (GDP),Real GDP,
+491,Nominal GDP,Economic Impact Metrics,Gross Domestic Product (GDP),Nominal GDP,
+492,Investment Levels,Economic Impact Metrics,Investment Levels,,
+493,Renewable Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,
+494,Job Creation in Renewable Energy Sectors,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Job Creation in Renewable Energy Sectors
+495,Renewable Energy Project Financing Levels,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Renewable Energy Project Financing Levels
+496,Market Share of Renewable Energy Companies,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Market Share of Renewable Energy Companies
+497,Cost Competitiveness of Renewable Energy Technologies,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Cost Competitiveness of Renewable Energy Technologies
+498,Foreign Direct Investment in Renewable Energy,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Foreign Direct Investment in Renewable Energy
+499,Renewable Energy Export Volumes,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Renewable Energy Export Volumes
+500,Sustainable Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Sustainable Energy Investments
+501,Clean Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Clean Energy Investments
+502,Green Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Green Energy Investments
+503,Alternative Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Alternative Energy Investments
+504,Eco-Friendly Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Eco-Friendly Energy Investments
+505,Regenerative Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Regenerative Energy Investments
+506,Resilient Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Resilient Energy Investments
+507,Natural Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Natural Energy Investments
+508,Low-Carbon Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Low-Carbon Energy Investments
+509,Solar Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Solar Energy Investments
+510,Wind Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Wind Energy Investments
+511,Hydro Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Hydro Energy Investments
+512,Biomass Energy Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Biomass Energy Investments
+513,Energy Transition Investments,Economic Impact Metrics,Investment Levels,Renewable Energy Investments,Energy Transition Investments
+514,Infrastructure Development Funding,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,
+515,Public Infrastructure Investment Levels,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Public Infrastructure Investment Levels
+516,Private Sector Contributions,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Private Sector Contributions
+517,International Development Aid,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,International Development Aid
+518,Transportation Infrastructure Allocations,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Transportation Infrastructure Allocations
+519,Digital Infrastructure Spending,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Digital Infrastructure Spending
+520,Infrastructure Investment Financing,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Investment Financing
+521,Capital for Infrastructure Projects,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Capital for Infrastructure Projects
+522,Public Works Funding,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Public Works Funding
+523,Infrastructure Financing,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Financing
+524,Construction Project Funding,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Construction Project Funding
+525,Infrastructure Capital Investment,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Capital Investment
+526,Developmental Funding for Infrastructure,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Developmental Funding for Infrastructure
+527,Infrastructure Grant Funding,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Grant Funding
+528,Public Infrastructure Financing,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Public Infrastructure Financing
+529,Infrastructure Project Financing,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Project Financing
+530,Funding for Public Infrastructure,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Funding for Public Infrastructure
+531,Infrastructure Development Capital,Economic Impact Metrics,Investment Levels,Infrastructure Development Funding,Infrastructure Development Capital
+532,Sustainable Technology Investments,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,
+533,Research and Development Spending,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Research and Development Spending
+534,Market Adoption Rates of Sustainable Technologies,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Market Adoption Rates of Sustainable Technologies
+535,Cost Efficiency of Sustainable Technologies,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Cost Efficiency of Sustainable Technologies
+536,Eco-friendly Technology Investments,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Eco-friendly Technology Investments
+537,Green Technology Funding,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Green Technology Funding
+538,Renewable Technology Investments,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Renewable Technology Investments
+539,Sustainable Tech Financing,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Sustainable Tech Financing
+540,Environmental Technology Investments,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Environmental Technology Investments
+541,Clean Technology Capital,Economic Impact Metrics,Investment Levels,Sustainable Technology Investments,Clean Technology Capital
+542,Green Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,
+543,Volume of Green Bonds Issued,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Volume of Green Bonds Issued
+544,Market Share of Green Bonds,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Market Share of Green Bonds
+545,Green Bond Return Rates,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Green Bond Return Rates
+546,Diversity of Issuers in Green Bond Market,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Diversity of Issuers in Green Bond Market
+547,Capital Raised for Renewable Energy Projects via Green Bonds,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Capital Raised for Renewable Energy Projects via Green Bonds
+548,Corporate Participation in Green Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Corporate Participation in Green Bond Issuance
+549,Cross-Border Green Bond Transactions,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Cross-Border Green Bond Transactions
+550,Sustainable Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Sustainable Bond Issuance
+551,Environmental Bond Offering,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Environmental Bond Offering
+552,Eco-Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Eco-Bond Issuance
+553,Climate Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Climate Bond Issuance
+554,Green Financing,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Green Financing
+555,Green Debt Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Green Debt Issuance
+556,Renewable Energy Bond Offering,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Renewable Energy Bond Offering
+557,Sustainable Investment Bonds,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Sustainable Investment Bonds
+558,Green Loan Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Green Loan Issuance
+559,Eco-Friendly Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Eco-Friendly Bond Issuance
+560,Impact Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Impact Bond Issuance
+561,Socially Responsible Bond Offering,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Socially Responsible Bond Offering
+562,Green Project Financing,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Green Project Financing
+563,Climate-Aligned Bond Issuance,Economic Impact Metrics,Investment Levels,Green Bond Issuance,Climate-Aligned Bond Issuance
+564,Capital Allocation,Economic Impact Metrics,Investment Levels,Capital Allocation,
+565,Funding Tiers,Economic Impact Metrics,Investment Levels,Funding Tiers,
+566,Investment Categories,Economic Impact Metrics,Investment Levels,Investment Categories,
+567,Financial Commitment Levels,Economic Impact Metrics,Investment Levels,Financial Commitment Levels,
+568,Investment Grades,Economic Impact Metrics,Investment Levels,Investment Grades,
+569,Resource Investment Stages,Economic Impact Metrics,Investment Levels,Resource Investment Stages,
+570,Investment Scales,Economic Impact Metrics,Investment Levels,Investment Scales,
+571,Capital Investment Brackets,Economic Impact Metrics,Investment Levels,Capital Investment Brackets,
+572,Trade Volume,Economic Impact Metrics,Trade Volume,,
+573,Cross-Border Energy Transfers,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,
+574,Trade Volumes of Energy Commodities,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Trade Volumes of Energy Commodities
+575,Cross-Border Energy Infrastructure Investments,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Cross-Border Energy Infrastructure Investments
+576,Tariff Rates on Energy Products,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Tariff Rates on Energy Products
+577,Energy Transit Fees,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Energy Transit Fees
+578,Cross-Border Energy Trade Balances,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Cross-Border Energy Trade Balances
+579,International Energy Trade,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,International Energy Trade
+580,Transnational Energy Exchange,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Transnational Energy Exchange
+581,Global Energy Transfers,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Global Energy Transfers
+582,Interstate Energy Transactions,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Interstate Energy Transactions
+583,Cross-National Energy Flow,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Cross-National Energy Flow
+584,Borderless Energy Supply,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Borderless Energy Supply
+585,Multinational Energy Distribution,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Multinational Energy Distribution
+586,Transboundary Energy Movement,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Transboundary Energy Movement
+587,Crossfrontier Energy Commerce,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Crossfrontier Energy Commerce
+588,Global Power Transfers,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Global Power Transfers
+589,Intercontinental Energy Trade,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Intercontinental Energy Trade
+590,Regional Energy Cooperation,Economic Impact Metrics,Trade Volume,Cross-Border Energy Transfers,Regional Energy Cooperation
+591,Agricultural Commodity Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,
+592,Crop Production Volumes,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Crop Production Volumes
+593,Commodity Price Indexes,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Commodity Price Indexes
+594,Agricultural Trade Balances,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agricultural Trade Balances
+595,Futures Contract Volumes,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Futures Contract Volumes
+596,Market Accessibility,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Market Accessibility
+597,Commodity Storage Capacities,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Commodity Storage Capacities
+598,Agricultural Market,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agricultural Market
+599,Farm Produce Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Farm Produce Exchange
+600,Commodity Trading Platform,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Commodity Trading Platform
+601,Grain Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Grain Exchange
+602,Agri-Commodity Market,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agri-Commodity Market
+603,Crop Trading Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Crop Trading Exchange
+604,Farm Goods Market,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Farm Goods Market
+605,Agricultural Trading Hub,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agricultural Trading Hub
+606,Produce Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Produce Exchange
+607,Commodity Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Commodity Exchange
+608,Agri-Trade Platform,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agri-Trade Platform
+609,Harvest Market,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Harvest Market
+610,Farmers' Exchange,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Farmers' Exchange
+611,Agricultural Futures Market,Economic Impact Metrics,Trade Volume,Agricultural Commodity Exchange,Agricultural Futures Market
+612,Trading Volume,Economic Impact Metrics,Trade Volume,Trading Volume,
+613,Transaction Volume,Economic Impact Metrics,Trade Volume,Transaction Volume,
+614,Market Volume,Economic Impact Metrics,Trade Volume,Market Volume,
+615,Sales Volume,Economic Impact Metrics,Trade Volume,Sales Volume,
+616,Employment Rates,Economic Impact Metrics,Employment Rates,,
+617,Renewable Energy Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,
+618,Solar Energy Workforce Size,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Solar Energy Workforce Size
+619,Wind Energy Job Creation,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Wind Energy Job Creation
+620,Hydroelectric Project Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Hydroelectric Project Employment
+621,Geothermal Industry Positions,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Geothermal Industry Positions
+622,Biomass Power Station Staffing,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Biomass Power Station Staffing
+623,Sustainable Energy Jobs,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Sustainable Energy Jobs
+624,Green Energy Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Green Energy Employment
+625,Clean Energy Careers,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Clean Energy Careers
+626,Eco-Friendly Job Opportunities,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Eco-Friendly Job Opportunities
+627,Alternative Energy Workforce,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Alternative Energy Workforce
+628,Renewable Sector Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Renewable Sector Employment
+629,Sustainable Workforce,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Sustainable Workforce
+630,Clean Tech Jobs,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Clean Tech Jobs
+631,Environmental Energy Careers,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Environmental Energy Careers
+632,Green Sector Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Green Sector Employment
+633,Renewable Resource Jobs,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Renewable Resource Jobs
+634,Sustainable Development Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Sustainable Development Employment
+635,Low-Carbon Job Market,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Low-Carbon Job Market
+636,Eco-Energy Employment,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Eco-Energy Employment
+637,Renewable Industry Careers,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Renewable Industry Careers
+638,Sustainable Energy Workforce,Economic Impact Metrics,Employment Rates,Renewable Energy Employment,Sustainable Energy Workforce
+639,Green Infrastructure Job Opportunities,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,
+640,Urban Green Space Development Employment,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Urban Green Space Development Employment
+641,Public Transportation Infrastructure Jobs,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Public Transportation Infrastructure Jobs
+642,Stormwater Management Workforce,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Stormwater Management Workforce
+643,Wetland Restoration Labor Opportunities,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Wetland Restoration Labor Opportunities
+644,Green Roofs Installation Jobs,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Green Roofs Installation Jobs
+645,Eco-friendly Construction Labor,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Eco-friendly Construction Labor
+646,Bioswale Implementation Workforce,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Bioswale Implementation Workforce
+647,Sustainable Infrastructure Employment,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Sustainable Infrastructure Employment
+648,Eco-Friendly Job Openings,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Eco-Friendly Job Openings
+649,Environmental Infrastructure Careers,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Environmental Infrastructure Careers
+650,Green Jobs in Infrastructure,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Green Jobs in Infrastructure
+651,Sustainable Development Positions,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Sustainable Development Positions
+652,Ecological Infrastructure Employment,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Ecological Infrastructure Employment
+653,Renewable Infrastructure Job Vacancies,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Renewable Infrastructure Job Vacancies
+654,Green Urban Development Opportunities,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Green Urban Development Opportunities
+655,Sustainable Engineering Job Opportunities,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Sustainable Engineering Job Opportunities
+656,Environmental Job Prospects,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Environmental Job Prospects
+657,Green Technology Employment,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Green Technology Employment
+658,Eco-Innovation Career Openings,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Eco-Innovation Career Openings
+659,Sustainable Design Job Opportunities,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Sustainable Design Job Opportunities
+660,Climate Resilient Infrastructure Careers,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Climate Resilient Infrastructure Careers
+661,Green Building Job Openings,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Green Building Job Openings
+662,Natural Resource Management Employment,Economic Impact Metrics,Employment Rates,Green Infrastructure Job Opportunities,Natural Resource Management Employment
+663,Environmental Consulting Employment,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,
+664,Environmental Project Contracts,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Project Contracts
+665,Consulting Revenue Streams,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Consulting Revenue Streams
+666,Workforce Size in Environmental Consulting,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Workforce Size in Environmental Consulting
+667,Number of Environmental Impact Assessments,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Number of Environmental Impact Assessments
+668,Scope of Environmental Policy Advisory Services,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Scope of Environmental Policy Advisory Services
+669,Technological Innovation Adoption in Consulting Practices,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Technological Innovation Adoption in Consulting Practices
+670,Client Diversity in Environmental Consulting,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Client Diversity in Environmental Consulting
+671,Environmental Advisory Jobs,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Advisory Jobs
+672,Sustainability Consulting Careers,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Sustainability Consulting Careers
+673,Ecological Consulting Positions,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Ecological Consulting Positions
+674,Environmental Analysis Employment,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Analysis Employment
+675,Green Consulting Opportunities,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Green Consulting Opportunities
+676,Environmental Services Jobs,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Services Jobs
+677,Sustainability Employment,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Sustainability Employment
+678,Environmental Assessment Careers,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Assessment Careers
+679,Conservation Consulting Roles,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Conservation Consulting Roles
+680,Environmental Management Positions,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Management Positions
+681,Eco-Consulting Jobs,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Eco-Consulting Jobs
+682,Environmental Science Employment,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Science Employment
+683,Natural Resource Consulting Jobs,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Natural Resource Consulting Jobs
+684,Environmental Policy Careers,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Policy Careers
+685,Climate Change Consulting Opportunities,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Climate Change Consulting Opportunities
+686,Environmental Compliance Employment,Economic Impact Metrics,Employment Rates,Environmental Consulting Employment,Environmental Compliance Employment
+687,Sustainable Agriculture Workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,
+688,Farm Employment Levels,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Farm Employment Levels
+689,Agricultural Training Programs,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Agricultural Training Programs
+690,Agroforestry Workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Agroforestry Workforce
+691,Organic Farming Employment,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Organic Farming Employment
+692,Agricultural Supply Chain Jobs,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Agricultural Supply Chain Jobs
+693,Precision Agriculture Technicians,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Precision Agriculture Technicians
+694,Soil Management Employment,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Soil Management Employment
+695,Eco-friendly farming labor,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Eco-friendly farming labor
+696,Green agriculture workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Green agriculture workforce
+697,Sustainable farming personnel,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Sustainable farming personnel
+698,Environmental agriculture team,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Environmental agriculture team
+699,Renewable farming labor force,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Renewable farming labor force
+700,Conservation agriculture workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Conservation agriculture workforce
+701,Sustainable farming staff,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Sustainable farming staff
+702,Ecological farming workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Ecological farming workforce
+703,Organic agriculture labor,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Organic agriculture labor
+704,Regenerative agriculture team,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Regenerative agriculture team
+705,Sustainable agronomy workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Sustainable agronomy workforce
+706,Responsible farming personnel,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Responsible farming personnel
+707,Climate-smart agriculture labor,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Climate-smart agriculture labor
+708,Sustainable land management workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Sustainable land management workforce
+709,Agroecological workforce,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Agroecological workforce
+710,Resilient agriculture labor force,Economic Impact Metrics,Employment Rates,Sustainable Agriculture Workforce,Resilient agriculture labor force
+711,Job Statistics,Economic Impact Metrics,Employment Rates,Job Statistics,
+712,Workforce Participation Rates,Economic Impact Metrics,Employment Rates,Workforce Participation Rates,
+713,Labor Market Rates,Economic Impact Metrics,Employment Rates,Labor Market Rates,
+714,Employment Levels,Economic Impact Metrics,Employment Rates,Employment Levels,
+715,Job Availability Rates,Economic Impact Metrics,Employment Rates,Job Availability Rates,
+716,Occupational Rates,Economic Impact Metrics,Employment Rates,Occupational Rates,
+717,Hiring Rates,Economic Impact Metrics,Employment Rates,Hiring Rates,
+718,Employment Figures,Economic Impact Metrics,Employment Rates,Employment Figures,
+719,Consumer Spending,Economic Impact Metrics,Consumer Spending,,
+720,Household Disposable Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,
+721,Utility Costs,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Utility Costs
+722,Housing Expenses,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Housing Expenses
+723,Transportation Expenses,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Transportation Expenses
+724,Net Household Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Net Household Income
+725,Available Household Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Available Household Income
+726,Discretionary Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Discretionary Income
+727,Post-Tax Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Post-Tax Income
+728,Spendable Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Spendable Income
+729,Family Disposable Income,Economic Impact Metrics,Consumer Spending,Household Disposable Income,Family Disposable Income
+730,Credit Card Usage,Economic Impact Metrics,Consumer Spending,Credit Card Usage,
+731,Credit Card Transaction Volume,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Transaction Volume
+732,Credit Card Debt Levels,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Debt Levels
+733,Interest Paid on Credit Cards,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Interest Paid on Credit Cards
+734,Credit Card Delinquency Rates,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Delinquency Rates
+735,Credit Card Rewards Allocation,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Rewards Allocation
+736,Credit Card Transactions,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Transactions
+737,Credit Card Expenditure,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Expenditure
+738,Credit Card Spending,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Spending
+739,Credit Card Utilization,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Utilization
+740,Credit Card Payments,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Payments
+741,Credit Card Charges,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Charges
+742,Credit Card Activity,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Activity
+743,Credit Card Purchases,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Purchases
+744,Credit Card Management,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Management
+745,Credit Card Consumption,Economic Impact Metrics,Consumer Spending,Credit Card Usage,Credit Card Consumption
+746,Retail Sales Volume,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,
+747,Consumer Energy Product Sales,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Consumer Energy Product Sales
+748,Eco-friendly Product Sales,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Eco-friendly Product Sales
+749,Retail Sales Quantity,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Retail Sales Quantity
+750,Sales Volume at Retail,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Sales Volume at Retail
+751,Retail Transaction Volume,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Retail Transaction Volume
+752,Retail Sales Figures,Economic Impact Metrics,Consumer Spending,Retail Sales Volume,Retail Sales Figures
+753,E-commerce Spending,Economic Impact Metrics,Consumer Spending,E-commerce Spending,
+754,Online Consumer Purchasing Frequency,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Online Consumer Purchasing Frequency
+755,Average Transaction Value in E-commerce,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Average Transaction Value in E-commerce
+756,Digital Payment Adoption Rates,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Digital Payment Adoption Rates
+757,Mobile Commerce Transactions,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Mobile Commerce Transactions
+758,E-commerce Platform Traffic,Economic Impact Metrics,Consumer Spending,E-commerce Spending,E-commerce Platform Traffic
+759,Online Shopping Expenditure,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Online Shopping Expenditure
+760,Digital Retail Spending,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Digital Retail Spending
+761,E-commerce Expenditure,Economic Impact Metrics,Consumer Spending,E-commerce Spending,E-commerce Expenditure
+762,Internet Shopping Costs,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Internet Shopping Costs
+763,Virtual Store Purchases,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Virtual Store Purchases
+764,Web-Based Buying Expenses,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Web-Based Buying Expenses
+765,Online Retail Investment,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Online Retail Investment
+766,Cyber Shopping Outlay,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Cyber Shopping Outlay
+767,E-commerce Financial Outflow,Economic Impact Metrics,Consumer Spending,E-commerce Spending,E-commerce Financial Outflow
+768,Digital Marketplace Spending,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Digital Marketplace Spending
+769,Internet Retail Expenditure,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Internet Retail Expenditure
+770,Online Purchase Costs,Economic Impact Metrics,Consumer Spending,E-commerce Spending,Online Purchase Costs
+771,Luxury Goods Purchases,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,
+772,High-Net-Worth Individual Spending,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,High-Net-Worth Individual Spending
+773,Luxury Brand Market Share,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,Luxury Brand Market Share
+774,High-End Retail Acquisitions,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,High-End Retail Acquisitions
+775,Premium Product Purchases,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,Premium Product Purchases
+776,Exclusive Merchandise Buying,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,Exclusive Merchandise Buying
+777,Upscale Goods Acquisitions,Economic Impact Metrics,Consumer Spending,Luxury Goods Purchases,Upscale Goods Acquisitions
+778,Household Expenditure,Economic Impact Metrics,Consumer Spending,Household Expenditure,
+779,Personal Consumption,Economic Impact Metrics,Consumer Spending,Personal Consumption,
+780,Retail Spending,Economic Impact Metrics,Consumer Spending,Retail Spending,
+781,Consumer Expenditure,Economic Impact Metrics,Consumer Spending,Consumer Expenditure,
+782,Purchasing Activity,Economic Impact Metrics,Consumer Spending,Purchasing Activity,
+783,Spending Habits,Economic Impact Metrics,Consumer Spending,Spending Habits,
+784,Consumer Outlays,Economic Impact Metrics,Consumer Spending,Consumer Outlays,
+785,Market Demand,Economic Impact Metrics,Consumer Spending,Market Demand,
+786,Economic Consumption,Economic Impact Metrics,Consumer Spending,Economic Consumption,
+787,Consumer Behavior,Economic Impact Metrics,Consumer Spending,Consumer Behavior,
+788,Discretionary Spending,Economic Impact Metrics,Consumer Spending,Discretionary Spending,
+789,Business Profit Margins,Economic Impact Metrics,Business Profit Margins,,
+790,Operational Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,
+791,Labor Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Labor Costs
+792,Material Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Material Costs
+793,Maintenance Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Maintenance Expenses
+794,Utility Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Utility Expenses
+795,Transportation Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Transportation Costs
+796,Regulatory Compliance Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Regulatory Compliance Costs
+797,Operating Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Operating Expenses
+798,Operating Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Operating Costs
+799,Operational Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Operational Expenses
+800,Running Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Running Costs
+801,Business Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Business Expenses
+802,Cost of Operations,Economic Impact Metrics,Business Profit Margins,Operational Costs,Cost of Operations
+803,Administrative Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Administrative Costs
+804,Overhead Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Overhead Costs
+805,Fixed Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Fixed Costs
+806,Variable Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Variable Costs
+807,Direct Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Direct Costs
+808,Indirect Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Indirect Costs
+809,Management Expenses,Economic Impact Metrics,Business Profit Margins,Operational Costs,Management Expenses
+810,Production Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Production Costs
+811,Service Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Service Costs
+812,Maintenance Costs,Economic Impact Metrics,Business Profit Margins,Operational Costs,Maintenance Costs
+813,Pricing Strategies,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,
+814,Price Elasticity,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Price Elasticity
+815,Cost-Plus Pricing Ratios,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Cost-Plus Pricing Ratios
+816,Dynamic Pricing Variability,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Dynamic Pricing Variability
+817,Bundle Pricing Effectiveness,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Bundle Pricing Effectiveness
+818,Penetration Pricing Coverage,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Penetration Pricing Coverage
+819,Pricing Models,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Pricing Models
+820,Price Setting Techniques,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Price Setting Techniques
+821,Costing Approaches,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Costing Approaches
+822,Pricing Methods,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Pricing Methods
+823,Price Strategies,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Price Strategies
+824,Value-Based Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Value-Based Pricing
+825,Dynamic Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Dynamic Pricing
+826,Penetration Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Penetration Pricing
+827,Skimming Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Skimming Pricing
+828,Competitive Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Competitive Pricing
+829,Discount Strategies,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Discount Strategies
+830,Psychological Pricing,Economic Impact Metrics,Business Profit Margins,Pricing Strategies,Psychological Pricing
+831,Revenue Streams,Economic Impact Metrics,Business Profit Margins,Revenue Streams,
+832,Renewable Energy Revenues,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Renewable Energy Revenues
+833,Carbon Credit Sales,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Carbon Credit Sales
+834,Eco-Tourism Income,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Eco-Tourism Income
+835,Conservation Grants,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Conservation Grants
+836,Sustainable Product Sales,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Sustainable Product Sales
+837,Income Sources,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Income Sources
+838,Earnings Channels,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Earnings Channels
+839,Financial Streams,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Financial Streams
+840,Profit Avenues,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Profit Avenues
+841,Cash Flow Sources,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Cash Flow Sources
+842,Sales Outlets,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Sales Outlets
+843,Monetary Streams,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Monetary Streams
+844,Revenue Channels,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Revenue Channels
+845,Income Avenues,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Income Avenues
+846,Profit Streams,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Profit Streams
+847,Funding Sources,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Funding Sources
+848,Revenue Sources,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Revenue Sources
+849,Economic Streams,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Economic Streams
+850,Cash Inflows,Economic Impact Metrics,Business Profit Margins,Revenue Streams,Cash Inflows
+851,Market Share,Economic Impact Metrics,Business Profit Margins,Market Share,
+852,Customer Base Size,Economic Impact Metrics,Business Profit Margins,Market Share,Customer Base Size
+853,Product Diversification,Economic Impact Metrics,Business Profit Margins,Market Share,Product Diversification
+854,Geographic Distribution,Economic Impact Metrics,Business Profit Margins,Market Share,Geographic Distribution
+855,Distribution Network Size,Economic Impact Metrics,Business Profit Margins,Market Share,Distribution Network Size
+856,Market Position,Economic Impact Metrics,Business Profit Margins,Market Share,Market Position
+857,Sales Share,Economic Impact Metrics,Business Profit Margins,Market Share,Sales Share
+858,Industry Share,Economic Impact Metrics,Business Profit Margins,Market Share,Industry Share
+859,Competitive Share,Economic Impact Metrics,Business Profit Margins,Market Share,Competitive Share
+860,Market Penetration,Economic Impact Metrics,Business Profit Margins,Market Share,Market Penetration
+861,Customer Base Percentage,Economic Impact Metrics,Business Profit Margins,Market Share,Customer Base Percentage
+862,Share of Market,Economic Impact Metrics,Business Profit Margins,Market Share,Share of Market
+863,Market Segment Share,Economic Impact Metrics,Business Profit Margins,Market Share,Market Segment Share
+864,Profitability Ratios,Economic Impact Metrics,Business Profit Margins,Profitability Ratios,
+865,Net Profit Margins,Economic Impact Metrics,Business Profit Margins,Net Profit Margins,
+866,Gross Profit Margins,Economic Impact Metrics,Business Profit Margins,Gross Profit Margins,
+867,Operating Profit Margins,Economic Impact Metrics,Business Profit Margins,Operating Profit Margins,
+868,Earnings Margins,Economic Impact Metrics,Business Profit Margins,Earnings Margins,
+869,Return on Sales,Economic Impact Metrics,Business Profit Margins,Return on Sales,
+870,Margin of Profit,Economic Impact Metrics,Business Profit Margins,Margin of Profit,
+871,Profit Ratios,Economic Impact Metrics,Business Profit Margins,Profit Ratios,
+872,Financial Margins,Economic Impact Metrics,Business Profit Margins,Financial Margins,
+873,Net Income Margins,Economic Impact Metrics,Business Profit Margins,Net Income Margins,
+874,Economic Performance Indicators,Economic Impact Metrics,Economic Performance Indicators,,
+875,Financial Impact Assessments,Economic Impact Metrics,Financial Impact Assessments,,
+876,Economic Evaluation Metrics,Economic Impact Metrics,Economic Evaluation Metrics,,
+877,Financial Outcome Measures,Economic Impact Metrics,Financial Outcome Measures,,
+878,Economic Effect Measurements,Economic Impact Metrics,Economic Effect Measurements,,
+879,Economic Benefit Metrics,Economic Impact Metrics,Economic Benefit Metrics,,
+880,Cost-Benefit Analysis Tools,Economic Impact Metrics,Cost-Benefit Analysis Tools,,
+881,Economic Contribution Indicators,Economic Impact Metrics,Economic Contribution Indicators,,
+882,Financial Impact Metrics,Economic Impact Metrics,Financial Impact Metrics,,
+883,Economic Performance Metrics,Economic Impact Metrics,Economic Performance Metrics,,
+884,Economic Value Assessment,Economic Impact Metrics,Economic Value Assessment,,
+885,Return on Investment Metrics,Economic Impact Metrics,Return on Investment Metrics,,
+886,Economic Efficiency Indicators,Economic Impact Metrics,Economic Efficiency Indicators,,
+887,Impact Assessment Metrics,Economic Impact Metrics,Impact Assessment Metrics,,
+888,Socioeconomic Impact Metrics,Economic Impact Metrics,Socioeconomic Impact Metrics,,
+889,Economic Analysis Tools,Economic Impact Metrics,Economic Analysis Tools,,
+890,Energy Security Performance,Energy Security Performance,,,
+891,Energy Supply Reliability,Energy Security Performance,Energy Supply Reliability,,
+892,Grid Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,
+893,Frequency Regulation,Energy Security Performance,Energy Supply Reliability,Grid Stability,Frequency Regulation
+894,Voltage Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Voltage Stability
+895,Renewable Integration Capability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Renewable Integration Capability
+896,Demand Response Efficacy,Energy Security Performance,Energy Supply Reliability,Grid Stability,Demand Response Efficacy
+897,Grid Reliability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Grid Reliability
+898,Power System Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Power System Stability
+899,Network Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Network Stability
+900,Electrical Grid Resilience,Energy Security Performance,Energy Supply Reliability,Grid Stability,Electrical Grid Resilience
+901,Energy Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,Energy Stability
+902,Grid Balance,Energy Security Performance,Energy Supply Reliability,Grid Stability,Grid Balance
+903,Power Grid Integrity,Energy Security Performance,Energy Supply Reliability,Grid Stability,Power Grid Integrity
+904,System Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability,System Stability
+905,Fuel Reserve Levels,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,
+906,Strategic Petroleum Reserves,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Strategic Petroleum Reserves
+907,Natural Gas Storage Capacity,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Natural Gas Storage Capacity
+908,Coal Stockpiles,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Coal Stockpiles
+909,Biofuel Inventory Levels,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Biofuel Inventory Levels
+910,Energy Stockpiles,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Energy Stockpiles
+911,Fuel Inventory Status,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Fuel Inventory Status
+912,Fuel Supply Metrics,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Fuel Supply Metrics
+913,Energy Reserves,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Energy Reserves
+914,Fuel Availability Levels,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Fuel Availability Levels
+915,Petroleum Stock Levels,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Petroleum Stock Levels
+916,Fuel Supply Inventory,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Fuel Supply Inventory
+917,Energy Resource Levels,Energy Security Performance,Energy Supply Reliability,Fuel Reserve Levels,Energy Resource Levels
+918,Infrastructure Resilience,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,
+919,Transmission Network Integrity,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Transmission Network Integrity
+920,Distribution System Durability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Distribution System Durability
+921,Pipeline Robustness,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Pipeline Robustness
+922,Smart Grid Integration,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Smart Grid Integration
+923,Renewable Energy Infrastructure Adaptability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Renewable Energy Infrastructure Adaptability
+924,Cybersecurity Measures in Energy Systems,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Cybersecurity Measures in Energy Systems
+925,Structural robustness,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Structural robustness
+926,System durability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,System durability
+927,Infrastructure sustainability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Infrastructure sustainability
+928,Resilient systems,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Resilient systems
+929,Adaptive infrastructure,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Adaptive infrastructure
+930,Infrastructure reliability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Infrastructure reliability
+931,Disaster-resistant infrastructure,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Disaster-resistant infrastructure
+932,Operational continuity,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Operational continuity
+933,Infrastructure stability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Infrastructure stability
+934,Resilience engineering,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Resilience engineering
+935,Crisis preparedness,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Crisis preparedness
+936,Infrastructure adaptability,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Infrastructure adaptability
+937,Emergency resilience,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Emergency resilience
+938,Robust infrastructure,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Robust infrastructure
+939,Infrastructure fortification,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Infrastructure fortification
+940,Resilience planning,Energy Security Performance,Energy Supply Reliability,Infrastructure Resilience,Resilience planning
+941,Supply Chain Continuity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,
+942,Resource Availability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Resource Availability
+943,Logistics Efficiency,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Logistics Efficiency
+944,Supplier Diversity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supplier Diversity
+945,Distribution Network Reliability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Distribution Network Reliability
+946,Inventory Management,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Inventory Management
+947,Supply Chain Transparency,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Transparency
+948,Contractual Flexibility,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Contractual Flexibility
+949,Supply Chain Resilience,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Resilience
+950,Operational Continuity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Operational Continuity
+951,Supply Chain Stability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Stability
+952,Logistical Consistency,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Logistical Consistency
+953,Supply Chain Reliability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Reliability
+954,Supply Chain Sustainability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Sustainability
+955,Operational Reliability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Operational Reliability
+956,Supply Chain Integrity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Integrity
+957,Process Continuity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Process Continuity
+958,Supply Chain Management,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Management
+959,Logistical Continuity,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Logistical Continuity
+960,Supply Chain Flow,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Flow
+961,Supply Chain Cohesion,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Cohesion
+962,Supply Chain Persistence,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Persistence
+963,Supply Chain Adaptability,Energy Security Performance,Energy Supply Reliability,Supply Chain Continuity,Supply Chain Adaptability
+964,Interconnection Quality,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,
+965,Transmission Efficiency,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Transmission Efficiency
+966,Cross-Border Capacity,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Cross-Border Capacity
+967,Network Reliability,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Network Reliability
+968,Connectivity Standard,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Connectivity Standard
+969,Link Performance,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Link Performance
+970,Network Integrity,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Network Integrity
+971,Connection Reliability,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Connection Reliability
+972,Interlink Efficiency,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Interlink Efficiency
+973,Data Transmission Quality,Energy Security Performance,Energy Supply Reliability,Interconnection Quality,Data Transmission Quality
+974,Generation Capacity,Energy Security Performance,Energy Supply Reliability,Generation Capacity,
+975,Renewable Energy Share,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Renewable Energy Share
+976,Installed Power Plants,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Installed Power Plants
+977,Capacity Utilization Rate,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Capacity Utilization Rate
+978,Energy Storage Capacity,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Energy Storage Capacity
+979,Production Capacity,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Production Capacity
+980,Output Capacity,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Output Capacity
+981,Generating Capability,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Generating Capability
+982,Energy Production Capacity,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Energy Production Capacity
+983,Power Generation Potential,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Power Generation Potential
+984,Capacity for Generation,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Capacity for Generation
+985,Output Potential,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Output Potential
+986,Generation Output,Energy Security Performance,Energy Supply Reliability,Generation Capacity,Generation Output
+987,Emergency Response Capability,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,
+988,Energy Supply Reserve,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Energy Supply Reserve
+989,Response Personnel Readiness,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Response Personnel Readiness
+990,Crisis Communication Infrastructure,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Crisis Communication Infrastructure
+991,Crisis Management Ability,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Crisis Management Ability
+992,Disaster Response Readiness,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Disaster Response Readiness
+993,Emergency Preparedness Capacity,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Emergency Preparedness Capacity
+994,Rapid Response Capability,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Rapid Response Capability
+995,Incident Management Proficiency,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Incident Management Proficiency
+996,Contingency Response Skill,Energy Security Performance,Energy Supply Reliability,Emergency Response Capability,Contingency Response Skill
+997,Power Supply Dependability,Energy Security Performance,Energy Supply Reliability,Power Supply Dependability,
+998,Energy Provision Stability,Energy Security Performance,Energy Supply Reliability,Energy Provision Stability,
+999,Electricity Supply Consistency,Energy Security Performance,Energy Supply Reliability,Electricity Supply Consistency,
+1000,Power Delivery Reliability,Energy Security Performance,Energy Supply Reliability,Power Delivery Reliability,
+1001,Energy Supply Assurance,Energy Security Performance,Energy Supply Reliability,Energy Supply Assurance,
+1002,Electricity Reliability,Energy Security Performance,Energy Supply Reliability,Electricity Reliability,
+1003,Energy Availability,Energy Security Performance,Energy Supply Reliability,Energy Availability,
+1004,Power Supply Integrity,Energy Security Performance,Energy Supply Reliability,Power Supply Integrity,
+1005,Energy Distribution Reliability,Energy Security Performance,Energy Supply Reliability,Energy Distribution Reliability,
+1006,Power Generation Consistency,Energy Security Performance,Energy Supply Reliability,Power Generation Consistency,
+1007,Energy Supply Trustworthiness,Energy Security Performance,Energy Supply Reliability,Energy Supply Trustworthiness,
+1008,Electricity Provision Reliability,Energy Security Performance,Energy Supply Reliability,Electricity Provision Reliability,
+1009,Energy Supply Security,Energy Security Performance,Energy Supply Reliability,Energy Supply Security,
+1010,Power Resource Stability,Energy Security Performance,Energy Supply Reliability,Power Resource Stability,
+1011,Energy Resilience Assessment,Energy Security Performance,Energy Resilience Assessment,,
+1012,Energy Stability Evaluation,Energy Security Performance,Energy Stability Evaluation,,
+1013,Energy Security Effectiveness,Energy Security Performance,Energy Security Effectiveness,,
+1014,Human Wellbeing Measures,Human Wellbeing Measures,,,
+1015,Physical Health Status,Human Wellbeing Measures,Physical Health Status,,
+1016,Chronic Disease Prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,
+1017,Obesity Rates,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Obesity Rates
+1018,Diabetes Prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Diabetes Prevalence
+1019,Cardiovascular Disease Cases,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Cardiovascular Disease Cases
+1020,Respiratory Disease Rates,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Respiratory Disease Rates
+1021,Cancer Incidence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Cancer Incidence
+1022,Long-term illness frequency,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Long-term illness frequency
+1023,Persistent disease occurrence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Persistent disease occurrence
+1024,Ongoing health condition prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Ongoing health condition prevalence
+1025,Continual disease rate,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Continual disease rate
+1026,Prolonged illness prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Prolonged illness prevalence
+1027,Enduring health issue frequency,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Enduring health issue frequency
+1028,Sustained disease incidence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Sustained disease incidence
+1029,Prolonged condition prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Prolonged condition prevalence
+1030,Constant illness rate,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Constant illness rate
+1031,Long-standing disease prevalence,Human Wellbeing Measures,Physical Health Status,Chronic Disease Prevalence,Long-standing disease prevalence
+1032,Infectious Disease Incidence,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,
+1033,Viral Infection Rates,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Viral Infection Rates
+1034,Bacterial Infection Rates,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Bacterial Infection Rates
+1035,Zoonotic Disease Occurrence,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Zoonotic Disease Occurrence
+1036,Antibiotic Resistance Cases,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Antibiotic Resistance Cases
+1037,Vaccine Coverage,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Vaccine Coverage
+1038,Infectious Disease Occurrence,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Occurrence
+1039,Infectious Disease Prevalence,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Prevalence
+1040,Infectious Disease Rate,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Rate
+1041,Infectious Disease Frequency,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Frequency
+1042,Infectious Disease Cases,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Cases
+1043,Infectious Disease Morbidity,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Morbidity
+1044,Infectious Disease Outbreak,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Outbreak
+1045,Infectious Disease Statistics,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Statistics
+1046,Infectious Disease Burden,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Burden
+1047,Infectious Disease Transmission Rate,Human Wellbeing Measures,Physical Health Status,Infectious Disease Incidence,Infectious Disease Transmission Rate
+1048,Physical Well-being,Human Wellbeing Measures,Physical Health Status,Physical Well-being,
+1049,Bodily Health Condition,Human Wellbeing Measures,Physical Health Status,Bodily Health Condition,
+1050,Somatic Health Status,Human Wellbeing Measures,Physical Health Status,Somatic Health Status,
+1051,Physical Fitness Level,Human Wellbeing Measures,Physical Health Status,Physical Fitness Level,
+1052,Nutritional Intake Quality,Human Wellbeing Measures,Nutritional Intake Quality,,
+1053,Dietary Diversity,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,
+1054,Variety of Food Sources,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Variety of Food Sources
+1055,Consumption of Plant-based Foods,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Consumption of Plant-based Foods
+1056,Intake of Animal-sourced Foods,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Intake of Animal-sourced Foods
+1057,Frequency of Meals,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Frequency of Meals
+1058,Inclusion of Traditional Foods,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Inclusion of Traditional Foods
+1059,Dietary Balance,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Dietary Balance
+1060,Nutritional Variety,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Nutritional Variety
+1061,Dietary Variety,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Dietary Variety
+1062,Food Diversity,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Food Diversity
+1063,Nutritional Diversity,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Nutritional Diversity
+1064,Dietary Range,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Dietary Range
+1065,Varied Diet,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Varied Diet
+1066,Food Variety,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Food Variety
+1067,Diverse Nutrition,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Diverse Nutrition
+1068,Dietary Heterogeneity,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Dietary Heterogeneity
+1069,Balanced Diet,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Balanced Diet
+1070,Culinary Diversity,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Culinary Diversity
+1071,Nutritional Spectrum,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Diversity,Nutritional Spectrum
+1072,Micronutrient Sufficiency,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,
+1073,Vitamin A Levels,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Vitamin A Levels
+1074,Iron Levels,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Iron Levels
+1075,Zinc Levels,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Zinc Levels
+1076,Iodine Levels,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Iodine Levels
+1077,Calcium Levels,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Calcium Levels
+1078,Micronutrient Adequacy,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Adequacy
+1079,Micronutrient Balance,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Balance
+1080,Micronutrient Completeness,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Completeness
+1081,Vitamin and Mineral Sufficiency,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Vitamin and Mineral Sufficiency
+1082,Essential Nutrient Availability,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Essential Nutrient Availability
+1083,Micronutrient Richness,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Richness
+1084,Nutritional Sufficiency,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Nutritional Sufficiency
+1085,Micronutrient Status,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Status
+1086,Nutritional Balance,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Nutritional Balance
+1087,Trace Element Adequacy,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Trace Element Adequacy
+1088,Micronutrient Provision,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Provision
+1089,Micronutrient Requirements Met,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Micronutrient Requirements Met
+1090,Nutrient Sufficiency,Human Wellbeing Measures,Nutritional Intake Quality,Micronutrient Sufficiency,Nutrient Sufficiency
+1091,Dietary Quality,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Quality,
+1092,Food Quality,Human Wellbeing Measures,Nutritional Intake Quality,Food Quality,
+1093,Dietary Intake Assessment,Human Wellbeing Measures,Nutritional Intake Quality,Dietary Intake Assessment,
+1094,Access to Clean Water,Human Wellbeing Measures,Access to Clean Water,,
+1095,Potable Water Supply,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,
+1096,Water Quality Standards,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Water Quality Standards
+1097,Water Accessibility Rate,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Water Accessibility Rate
+1098,Drinking Water Source,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Drinking Water Source
+1099,Safe Water Supply,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Safe Water Supply
+1100,Clean Water Provision,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Clean Water Provision
+1101,Consumable Water Resource,Human Wellbeing Measures,Access to Clean Water,Potable Water Supply,Consumable Water Resource
+1102,Water Infrastructure Coverage,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,
+1103,Piped Water Access,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Piped Water Access
+1104,Water Distribution Network Efficiency,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Distribution Network Efficiency
+1105,Water Storage Capacity,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Storage Capacity
+1106,Rural Water Infrastructure Development,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Rural Water Infrastructure Development
+1107,Water Supply Network,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Supply Network
+1108,Hydraulic Infrastructure,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Hydraulic Infrastructure
+1109,Water Distribution System,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Distribution System
+1110,Water Service Provision,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Service Provision
+1111,Aquatic Infrastructure Coverage,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Aquatic Infrastructure Coverage
+1112,Water Accessibility Framework,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Accessibility Framework
+1113,Water Resource Management,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Resource Management
+1114,Water Delivery System,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Coverage,Water Delivery System
+1115,Sanitation Facilities Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,
+1116,Availability of Hygienic Toilets,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Availability of Hygienic Toilets
+1117,Access to Handwashing Stations,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Access to Handwashing Stations
+1118,Provision of Soap and Sanitizers,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Provision of Soap and Sanitizers
+1119,Waste Management Facilities,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Waste Management Facilities
+1120,Maintenance Frequency of Sanitation Units,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Maintenance Frequency of Sanitation Units
+1121,Hygiene Infrastructure Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Hygiene Infrastructure Access
+1122,Clean Water Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Clean Water Access
+1123,Waste Disposal Facilities Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Waste Disposal Facilities Access
+1124,Sanitary Services Availability,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Sanitary Services Availability
+1125,Restroom Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Restroom Access
+1126,Public Hygiene Facilities,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Public Hygiene Facilities
+1127,Health and Sanitation Services,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Health and Sanitation Services
+1128,Toilet Facilities Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Toilet Facilities Access
+1129,Sewage Management Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Sewage Management Access
+1130,Environmental Sanitation Access,Human Wellbeing Measures,Access to Clean Water,Sanitation Facilities Access,Environmental Sanitation Access
+1131,Clean Water Availability,Human Wellbeing Measures,Access to Clean Water,Clean Water Availability,
+1132,Safe Water Access,Human Wellbeing Measures,Access to Clean Water,Safe Water Access,
+1133,Potable Water Access,Human Wellbeing Measures,Access to Clean Water,Potable Water Access,
+1134,Water Sanitation Access,Human Wellbeing Measures,Access to Clean Water,Water Sanitation Access,
+1135,Drinking Water Accessibility,Human Wellbeing Measures,Access to Clean Water,Drinking Water Accessibility,
+1136,Hygienic Water Supply,Human Wellbeing Measures,Access to Clean Water,Hygienic Water Supply,
+1137,Human Development Indicators,Human Wellbeing Measures,Human Development Indicators,,
+1138,Quality of Life Metrics,Human Wellbeing Measures,Quality of Life Metrics,,
+1139,Wellbeing Indices,Human Wellbeing Measures,Wellbeing Indices,,
+1140,Social Progress Indicators,Human Wellbeing Measures,Social Progress Indicators,,
+1141,Life Satisfaction Measures,Human Wellbeing Measures,Life Satisfaction Measures,,
+1142,Health and Happiness Assessments,Human Wellbeing Measures,Health and Happiness Assessments,,
+1143,Social Conflict Intensity,Social Conflict Intensity,,,
+1144,Protest Frequency,Social Conflict Intensity,Protest Frequency,,
+1145,Energy Policy Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,
+1146,Protester Participation Numbers,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Protester Participation Numbers
+1147,Frequency of Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Frequency of Protests
+1148,Geographic Spread of Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Geographic Spread of Protests
+1149,Government Response Severity,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Government Response Severity
+1150,Public Support Levels for Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Public Support Levels for Protests
+1151,Media Coverage Volume,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Media Coverage Volume
+1152,Diversity of Protester Demographics,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Diversity of Protester Demographics
+1153,Energy Activism,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Activism
+1154,Energy Advocacy Demonstrations,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Advocacy Demonstrations
+1155,Renewable Energy Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Renewable Energy Protests
+1156,Climate Action Rallies,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Climate Action Rallies
+1157,Sustainable Energy Marches,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Sustainable Energy Marches
+1158,Energy Reform Demonstrations,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Reform Demonstrations
+1159,Fossil Fuel Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Fossil Fuel Protests
+1160,Green Energy Advocacy,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Green Energy Advocacy
+1161,Environmental Policy Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Environmental Policy Protests
+1162,Energy Transition Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Transition Protests
+1163,Clean Energy Campaigns,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Clean Energy Campaigns
+1164,Energy Justice Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Justice Protests
+1165,Climate Change Demonstrations,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Climate Change Demonstrations
+1166,Energy Regulation Activism,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy Regulation Activism
+1167,Power Policy Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Power Policy Protests
+1168,Energy System Protests,Social Conflict Intensity,Protest Frequency,Energy Policy Protests,Energy System Protests
+1169,Land Use Disputes,Social Conflict Intensity,Protest Frequency,Land Use Disputes,
+1170,Number of Legal Actions,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Number of Legal Actions
+1171,Protests Related to Land Rights,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Protests Related to Land Rights
+1172,Incidents of Trespassing or Squatting,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Incidents of Trespassing or Squatting
+1173,Conflicts Over Traditional Lands,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Conflicts Over Traditional Lands
+1174,Community Negotiation Sessions,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Community Negotiation Sessions
+1175,Land Use Conflicts,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Land Use Conflicts
+1176,Zoning Disputes,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Zoning Disputes
+1177,Property Use Controversies,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Property Use Controversies
+1178,Land Development Disagreements,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Land Development Disagreements
+1179,Land Management Conflicts,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Land Management Conflicts
+1180,Real Estate Disputes,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Real Estate Disputes
+1181,Spatial Planning Conflicts,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Spatial Planning Conflicts
+1182,Land Rights Issues,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Land Rights Issues
+1183,Territorial Disputes,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Territorial Disputes
+1184,Environmental Land Use Conflicts,Social Conflict Intensity,Protest Frequency,Land Use Disputes,Environmental Land Use Conflicts
+1185,Resource Allocation Grievances,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,
+1186,Water Access Disputes,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Water Access Disputes
+1187,Food Distribution Inequities,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Food Distribution Inequities
+1188,Housing Availability Tensions,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Housing Availability Tensions
+1189,Healthcare Resource Competition,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Healthcare Resource Competition
+1190,Mineral Rights Conflicts,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Mineral Rights Conflicts
+1191,Resource Distribution Issues,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Distribution Issues
+1192,Resource Management Complaints,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Management Complaints
+1193,Allocation Disputes,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Allocation Disputes
+1194,Resource Assignment Grievances,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Assignment Grievances
+1195,Funding Allocation Concerns,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Funding Allocation Concerns
+1196,Resource Sharing Complaints,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Sharing Complaints
+1197,Resource Utilization Discontent,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Utilization Discontent
+1198,Distribution Equity Issues,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Distribution Equity Issues
+1199,Resource Equity Grievances,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Equity Grievances
+1200,Resource Deployment Complaints,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Deployment Complaints
+1201,Allocation Inequity Concerns,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Allocation Inequity Concerns
+1202,Resource Access Grievances,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Access Grievances
+1203,Resource Disbursement Complaints,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Disbursement Complaints
+1204,Resource Access Issues,Social Conflict Intensity,Protest Frequency,Resource Allocation Grievances,Resource Access Issues
+1205,Environmental Protection Movements,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,
+1206,Environmental Activism Participation,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Environmental Activism Participation
+1207,Public Demonstrations on Habitat Conservation,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Public Demonstrations on Habitat Conservation
+1208,Community Engagement in Renewable Initiatives,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Community Engagement in Renewable Initiatives
+1209,Ecological Advocacy Groups,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Ecological Advocacy Groups
+1210,Conservation Initiatives,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Conservation Initiatives
+1211,Sustainability Campaigns,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Sustainability Campaigns
+1212,Green Activism,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Green Activism
+1213,Environmentalism,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Environmentalism
+1214,Nature Conservation Movements,Social Conflict Intensity,Protest Frequency,Environmental Protection Movements,Nature Conservation Movements
+1215,Demonstration Rate,Social Conflict Intensity,Protest Frequency,Demonstration Rate,
+1216,Protest Rate,Social Conflict Intensity,Protest Frequency,Protest Rate,
+1217,Activism Frequency,Social Conflict Intensity,Protest Frequency,Activism Frequency,
+1218,Civil Disobedience Frequency,Social Conflict Intensity,Protest Frequency,Civil Disobedience Frequency,
+1219,Uprising Incidence,Social Conflict Intensity,Protest Frequency,Uprising Incidence,
+1220,Rally Frequency,Social Conflict Intensity,Protest Frequency,Rally Frequency,
+1221,Social Movement Rate,Social Conflict Intensity,Protest Frequency,Social Movement Rate,
+1222,Dissent Frequency,Social Conflict Intensity,Protest Frequency,Dissent Frequency,
+1223,Public Protest Occurrence,Social Conflict Intensity,Protest Frequency,Public Protest Occurrence,
+1224,Activist Mobilization Frequency,Social Conflict Intensity,Protest Frequency,Activist Mobilization Frequency,
+1225,Demonstration Incidence,Social Conflict Intensity,Protest Frequency,Demonstration Incidence,
+1226,Protest Event Rate,Social Conflict Intensity,Protest Frequency,Protest Event Rate,
+1227,Riot Occurrence,Social Conflict Intensity,Riot Occurrence,,
+1228,Urban Area Tension,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,
+1229,Protests and Demonstrations,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Protests and Demonstrations
+1230,Public Safety Concerns,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Public Safety Concerns
+1231,Community-police Relations,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Community-police Relations
+1232,Housing Unaffordability,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Housing Unaffordability
+1233,Infrastructure Strain,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Infrastructure Strain
+1234,City Stress,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,City Stress
+1235,Metropolitan Strain,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Metropolitan Strain
+1236,Urban Conflict,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Urban Conflict
+1237,Civic Tension,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Civic Tension
+1238,Municipal Friction,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Municipal Friction
+1239,Citywide Anxiety,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Citywide Anxiety
+1240,Urban Discontent,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Urban Discontent
+1241,Metropolitan Pressure,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Metropolitan Pressure
+1242,Community Strain,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Community Strain
+1243,Urban Discord,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Urban Discord
+1244,Civic Unease,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Civic Unease
+1245,City Tension,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,City Tension
+1246,Urban Strife,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Urban Strife
+1247,Metropolitan Turmoil,Social Conflict Intensity,Riot Occurrence,Urban Area Tension,Metropolitan Turmoil
+1248,Resource Access Disparity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,
+1249,Water Allocation Inequity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Water Allocation Inequity
+1250,Land Ownership Disparities,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Land Ownership Disparities
+1251,Food Distribution Imbalances,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Food Distribution Imbalances
+1252,Mineral Resource Distribution Variance,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Mineral Resource Distribution Variance
+1253,Timber Access Inequality,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Timber Access Inequality
+1254,Resource Inequality,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Inequality
+1255,Access Gap,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Access Gap
+1256,Resource Distribution Discrepancy,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Distribution Discrepancy
+1257,Access Disparity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Access Disparity
+1258,Resource Allocation Inequity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Allocation Inequity
+1259,Equity Gap,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Equity Gap
+1260,Resource Accessibility Disparity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Accessibility Disparity
+1261,Access Inequality,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Access Inequality
+1262,Resource Availability Discrepancy,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Availability Discrepancy
+1263,Opportunity Gap,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Opportunity Gap
+1264,Access Imbalance,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Access Imbalance
+1265,Resource Utilization Disparity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Utilization Disparity
+1266,Service Access Disparity,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Service Access Disparity
+1267,Resource Divide,Social Conflict Intensity,Riot Occurrence,Resource Access Disparity,Resource Divide
+1268,Cultural Clashes,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,
+1269,Language Barriers,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Language Barriers
+1270,Religious Tensions,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Religious Tensions
+1271,Ethnic Group Conflicts,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Ethnic Group Conflicts
+1272,Cultural Assimilation Pressures,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Assimilation Pressures
+1273,Traditional Practices Resistance,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Traditional Practices Resistance
+1274,Cultural Conflicts,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Conflicts
+1275,Cultural Confrontations,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Confrontations
+1276,Cultural Disputes,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Disputes
+1277,Cultural Differences,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Differences
+1278,Cultural Frictions,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Frictions
+1279,Cultural Tensions,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Tensions
+1280,Cultural Divergences,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Divergences
+1281,Cross-Cultural Conflicts,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cross-Cultural Conflicts
+1282,Intercultural Conflicts,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Intercultural Conflicts
+1283,Ethnic Tensions,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Ethnic Tensions
+1284,Societal Frictions,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Societal Frictions
+1285,Cultural Misunderstandings,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Misunderstandings
+1286,Cultural Discrepancies,Social Conflict Intensity,Riot Occurrence,Cultural Clashes,Cultural Discrepancies
+1287,Socioeconomic Fractures,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,
+1288,Income Inequality,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Income Inequality
+1289,Employment Disparities,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Employment Disparities
+1290,Access to Education,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Access to Education
+1291,Healthcare Inequities,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Healthcare Inequities
+1292,Housing Affordability,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Housing Affordability
+1293,Digital Divide,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Digital Divide
+1294,Economic Disparities,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Economic Disparities
+1295,Social Inequality,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Social Inequality
+1296,Class Divisions,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Class Divisions
+1297,Wealth Gaps,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Wealth Gaps
+1298,Economic Segregation,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Economic Segregation
+1299,Social Stratification,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Social Stratification
+1300,Poverty Lines,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Poverty Lines
+1301,Economic Disjunctions,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Economic Disjunctions
+1302,Social Fragmentation,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Social Fragmentation
+1303,Financial Disparities,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Financial Disparities
+1304,Income Discrepancies,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Income Discrepancies
+1305,Economic Polarization,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Economic Polarization
+1306,Societal Divisions,Social Conflict Intensity,Riot Occurrence,Socioeconomic Fractures,Societal Divisions
+1307,Political Dissent Levels,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,
+1308,Protest Participation,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Protest Participation
+1309,Public Disapproval Ratings,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Public Disapproval Ratings
+1310,Civil Disobedience Incidents,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Civil Disobedience Incidents
+1311,Political Opposition Intensity,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Opposition Intensity
+1312,Levels of Political Discontent,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Levels of Political Discontent
+1313,Degree of Political Resistance,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Degree of Political Resistance
+1314,Political Disagreement Magnitude,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Disagreement Magnitude
+1315,Intensity of Political Dissent,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Intensity of Political Dissent
+1316,Political Unrest Levels,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Unrest Levels
+1317,Magnitude of Political Opposition,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Magnitude of Political Opposition
+1318,Political Protest Levels,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Protest Levels
+1319,Political Disaffection Scale,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Disaffection Scale
+1320,Political Discord Intensity,Social Conflict Intensity,Riot Occurrence,Political Dissent Levels,Political Discord Intensity
+1321,Civil Unrest,Social Conflict Intensity,Riot Occurrence,Civil Unrest,
+1322,Public Disturbance,Social Conflict Intensity,Riot Occurrence,Public Disturbance,
+1323,Social Uprising,Social Conflict Intensity,Riot Occurrence,Social Uprising,
+1324,Mob Violence,Social Conflict Intensity,Riot Occurrence,Mob Violence,
+1325,Demonstration Gone Awry,Social Conflict Intensity,Riot Occurrence,Demonstration Gone Awry,
+1326,Insurrection,Social Conflict Intensity,Riot Occurrence,Insurrection,
+1327,Protest Escalation,Social Conflict Intensity,Riot Occurrence,Protest Escalation,
+1328,Tumult,Social Conflict Intensity,Riot Occurrence,Tumult,
+1329,Rebellion,Social Conflict Intensity,Riot Occurrence,Rebellion,
+1330,Disorderly Conduct,Social Conflict Intensity,Riot Occurrence,Disorderly Conduct,
+1331,Civil Disobedience,Social Conflict Intensity,Riot Occurrence,Civil Disobedience,
+1332,Chaotic Gathering,Social Conflict Intensity,Riot Occurrence,Chaotic Gathering,
+1333,Public Demonstration Size,Social Conflict Intensity,Public Demonstration Size,,
+1334,Number of Participants,Social Conflict Intensity,Public Demonstration Size,Number of Participants,
+1335,Protester Attendance in Energy Policies,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Protester Attendance in Energy Policies
+1336,Activist Mobilization in Ecosystem Protection,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Activist Mobilization in Ecosystem Protection
+1337,Community Involvement in Energy Transition Debates,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Community Involvement in Energy Transition Debates
+1338,Participant Count,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Participant Count
+1339,Total Participants,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Total Participants
+1340,Attendee Number,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Attendee Number
+1341,Enrollment Figures,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Enrollment Figures
+1342,Participation Level,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Participation Level
+1343,Participant Volume,Social Conflict Intensity,Public Demonstration Size,Number of Participants,Participant Volume
+1344,Duration of Demonstrations,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,
+1345,Consecutive Days of Demonstrations,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Consecutive Days of Demonstrations
+1346,Hours Per Day of Active Protest,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Hours Per Day of Active Protest
+1347,Frequency of Multi-day Demonstrations in Period,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Frequency of Multi-day Demonstrations in Period
+1348,Length of Protests,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Length of Protests
+1349,Time Frame of Demonstrations,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Time Frame of Demonstrations
+1350,Period of Marches,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Period of Marches
+1351,Duration of Rallies,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Duration of Rallies
+1352,Span of Demonstrative Events,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Span of Demonstrative Events
+1353,Timeline of Public Demonstrations,Social Conflict Intensity,Public Demonstration Size,Duration of Demonstrations,Timeline of Public Demonstrations
+1354,Public Infrastructure Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,
+1355,Road and Transportation Blockages,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Road and Transportation Blockages
+1356,Public Transit Disruptions,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public Transit Disruptions
+1357,Utility and Energy Supply Interruptions,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Utility and Energy Supply Interruptions
+1358,Damage to Public Buildings,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Damage to Public Buildings
+1359,Communication Network Outages,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Communication Network Outages
+1360,Impact on Emergency Services,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Impact on Emergency Services
+1361,Community Infrastructure Effect,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Community Infrastructure Effect
+1362,Public Works Influence,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public Works Influence
+1363,Civic Infrastructure Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Civic Infrastructure Impact
+1364,Urban Development Effect,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Urban Development Effect
+1365,Infrastructure Public Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Infrastructure Public Impact
+1366,Social Infrastructure Outcome,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Social Infrastructure Outcome
+1367,Public Facility Influence,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public Facility Influence
+1368,Community Development Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Community Development Impact
+1369,Infrastructure Societal Effect,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Infrastructure Societal Effect
+1370,Public Services Outcome,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public Services Outcome
+1371,Civic Development Influence,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Civic Development Influence
+1372,Urban Infrastructure Effect,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Urban Infrastructure Effect
+1373,Public Asset Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public Asset Impact
+1374,Community Services Effect,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Community Services Effect
+1375,Infrastructure Accessibility Impact,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Infrastructure Accessibility Impact
+1376,Public System Influence,Social Conflict Intensity,Public Demonstration Size,Public Infrastructure Impact,Public System Influence
+1377,Demonstration Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,
+1378,Crowdfunding Contributions,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Crowdfunding Contributions
+1379,Nonprofit Organization Support,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Nonprofit Organization Support
+1380,Private Donor Investments,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Private Donor Investments
+1381,Corporate Sponsorships,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Corporate Sponsorships
+1382,Government Grant Allocations,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Government Grant Allocations
+1383,International Aid for Activism,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,International Aid for Activism
+1384,Pilot Funding Amounts,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Pilot Funding Amounts
+1385,Trial Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Trial Funding Levels
+1386,Demonstration Grant Sizes,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Demonstration Grant Sizes
+1387,Prototype Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Prototype Funding Levels
+1388,Test Funding Amounts,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Test Funding Amounts
+1389,Exhibition Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Exhibition Funding Levels
+1390,Showcase Funding Amounts,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Showcase Funding Amounts
+1391,Demonstration Financial Support,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Demonstration Financial Support
+1392,Sample Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Sample Funding Levels
+1393,Demonstration Budget Allocations,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Demonstration Budget Allocations
+1394,Trial Grant Amounts,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Trial Grant Amounts
+1395,Exemplar Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Exemplar Funding Levels
+1396,Demonstration Project Funding,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Demonstration Project Funding
+1397,Initial Funding Levels,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Initial Funding Levels
+1398,Pilot Program Funding,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Pilot Program Funding
+1399,Demonstration Investment Amounts,Social Conflict Intensity,Public Demonstration Size,Demonstration Funding Levels,Demonstration Investment Amounts
+1400,Protester Diversity,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,
+1401,Ethnic Group Representation,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Ethnic Group Representation
+1402,Socioeconomic Background Variability,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Socioeconomic Background Variability
+1403,Demonstrator Variety,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Demonstrator Variety
+1404,Activist Representation,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Activist Representation
+1405,Rally Inclusiveness,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Rally Inclusiveness
+1406,Opposition Spectrum,Social Conflict Intensity,Public Demonstration Size,Protester Diversity,Opposition Spectrum
+1407,Crowd Size,Social Conflict Intensity,Public Demonstration Size,Crowd Size,
+1408,Attendance Count,Social Conflict Intensity,Public Demonstration Size,Attendance Count,
+1409,Turnout,Social Conflict Intensity,Public Demonstration Size,Turnout,
+1410,Gathering Size,Social Conflict Intensity,Public Demonstration Size,Gathering Size,
+1411,Audience Size,Social Conflict Intensity,Public Demonstration Size,Audience Size,
+1412,Demonstration Scale,Social Conflict Intensity,Public Demonstration Size,Demonstration Scale,
+1413,Event Size,Social Conflict Intensity,Public Demonstration Size,Event Size,
+1414,Public Assembly Size,Social Conflict Intensity,Public Demonstration Size,Public Assembly Size,
+1415,Mobilization Size,Social Conflict Intensity,Public Demonstration Size,Mobilization Size,
+1416,Protest Size,Social Conflict Intensity,Public Demonstration Size,Protest Size,
+1417,Rally Attendance,Social Conflict Intensity,Public Demonstration Size,Rally Attendance,
+1418,Public Gathering Size,Social Conflict Intensity,Public Demonstration Size,Public Gathering Size,
+1419,Demonstration Attendance,Social Conflict Intensity,Public Demonstration Size,Demonstration Attendance,
+1420,Civil Disobedience Levels,Social Conflict Intensity,Civil Disobedience Levels,,
+1421,Public Noncompliance Instances,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,
+1422,Public Protests Against Energy Policies,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Protests Against Energy Policies
+1423,Unauthorized Urban Demonstrations,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Unauthorized Urban Demonstrations
+1424,Incidents of Civil Unrest in Natural Reserves,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Incidents of Civil Unrest in Natural Reserves
+1425,Unlicensed Gatherings at Fossil Fuel Sites,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Unlicensed Gatherings at Fossil Fuel Sites
+1426,Instances of Road Blockades,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Instances of Road Blockades
+1427,Unauthorized Environmental Advocacy Events,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Unauthorized Environmental Advocacy Events
+1428,Public Disobedience Cases,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Disobedience Cases
+1429,Community Noncompliance Events,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Community Noncompliance Events
+1430,Civic Disregard Incidents,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Civic Disregard Incidents
+1431,Social Noncompliance Examples,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Social Noncompliance Examples
+1432,Public Defiance Situations,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Defiance Situations
+1433,Collective Noncompliance Instances,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Collective Noncompliance Instances
+1434,Civil Disobedience Cases,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Civil Disobedience Cases
+1435,Public Resistance Events,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Resistance Events
+1436,Community Nonadherence Incidents,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Community Nonadherence Incidents
+1437,Public Noncompliance Examples,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Noncompliance Examples
+1438,Civic Noncompliance Situations,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Civic Noncompliance Situations
+1439,Social Defiance Cases,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Social Defiance Cases
+1440,Community Disobedience Instances,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Community Disobedience Instances
+1441,Public Noncompliance Scenarios,Social Conflict Intensity,Civil Disobedience Levels,Public Noncompliance Instances,Public Noncompliance Scenarios
+1442,Symbolic Acts of Resistance,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,
+1443,Climate-Themed Art Installations,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Climate-Themed Art Installations
+1444,Renewable Energy Protest Symbols,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Renewable Energy Protest Symbols
+1445,Public Demonstrations Featuring Environmental Icons,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Public Demonstrations Featuring Environmental Icons
+1446,Symbolic Acts of Defiance,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Symbolic Acts of Defiance
+1447,Rituals of Protest,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Rituals of Protest
+1448,Emblems of Rebellion,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Emblems of Rebellion
+1449,Ceremonial Resistance,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Ceremonial Resistance
+1450,Acts of Symbolic Rebellion,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Acts of Symbolic Rebellion
+1451,Manifestations of Dissent,Social Conflict Intensity,Civil Disobedience Levels,Symbolic Acts of Resistance,Manifestations of Dissent
+1452,Boycotts on Energy Consumption,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,
+1453,Public Support for Energy Boycotts,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Public Support for Energy Boycotts
+1454,Media Coverage of Energy Boycotts,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Media Coverage of Energy Boycotts
+1455,Frequency of Energy Boycott Participation,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Frequency of Energy Boycott Participation
+1456,Energy Consumption Bans,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Energy Consumption Bans
+1457,Energy Usage Protests,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Energy Usage Protests
+1458,Energy Consumption Rejections,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Energy Consumption Rejections
+1459,Energy Usage Boycotts,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Energy Usage Boycotts
+1460,Protests Against Energy Consumption,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Protests Against Energy Consumption
+1461,Energy Consumption Withdrawals,Social Conflict Intensity,Civil Disobedience Levels,Boycotts on Energy Consumption,Energy Consumption Withdrawals
+1462,Nonviolent Occupations of Key Resources,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,
+1463,Duration of Occupations,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Duration of Occupations
+1464,Scope of Resources Occupied,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Scope of Resources Occupied
+1465,Frequency of Occupation Events,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Frequency of Occupation Events
+1466,Diversity of Participant Groups,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Diversity of Participant Groups
+1467,Peaceful Resource Control,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Peaceful Resource Control
+1468,Nonviolent Resource Seizure,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Nonviolent Resource Seizure
+1469,Nonviolent Occupation of Assets,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Nonviolent Occupation of Assets
+1470,Civil Disobedience for Resource Access,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Civil Disobedience for Resource Access
+1471,Peaceful Resource Takeover,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Peaceful Resource Takeover
+1472,Nonviolent Resource Management,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Nonviolent Resource Management
+1473,Passive Resistance for Resource Rights,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Passive Resistance for Resource Rights
+1474,Nonviolent Claiming of Resources,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Nonviolent Claiming of Resources
+1475,Peaceful Occupation of Essential Resources,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Peaceful Occupation of Essential Resources
+1476,Nonviolent Assertion of Resource Ownership,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Occupations of Key Resources,Nonviolent Assertion of Resource Ownership
+1477,Civil Disobedience Campaign Duration,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,
+1478,Number of Participating Groups,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Number of Participating Groups
+1479,Frequency of Protest Events,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Frequency of Protest Events
+1480,Geographic Spread of Activities,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Geographic Spread of Activities
+1481,Civil Resistance Period,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Civil Resistance Period
+1482,Nonviolent Protest Duration,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Nonviolent Protest Duration
+1483,Social Movement Timeline,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Social Movement Timeline
+1484,Activism Campaign Length,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Activism Campaign Length
+1485,Demonstration Duration,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Demonstration Duration
+1486,Resistance Effort Span,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Resistance Effort Span
+1487,Protest Action Period,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Protest Action Period
+1488,Civil Rights Campaign Timeline,Social Conflict Intensity,Civil Disobedience Levels,Civil Disobedience Campaign Duration,Civil Rights Campaign Timeline
+1489,Civil Resistance Levels,Social Conflict Intensity,Civil Disobedience Levels,Civil Resistance Levels,
+1490,Nonviolent Protest Tiers,Social Conflict Intensity,Civil Disobedience Levels,Nonviolent Protest Tiers,
+1491,Disobedience Gradations,Social Conflict Intensity,Civil Disobedience Levels,Disobedience Gradations,
+1492,Resistance Intensity Levels,Social Conflict Intensity,Civil Disobedience Levels,Resistance Intensity Levels,
+1493,Protest Severity Categories,Social Conflict Intensity,Civil Disobedience Levels,Protest Severity Categories,
+1494,Civil Noncompliance Scales,Social Conflict Intensity,Civil Disobedience Levels,Civil Noncompliance Scales,
+1495,Disobedience Spectrum,Social Conflict Intensity,Civil Disobedience Levels,Disobedience Spectrum,
+1496,Activism Levels,Social Conflict Intensity,Civil Disobedience Levels,Activism Levels,
+1497,Resistance Phases,Social Conflict Intensity,Civil Disobedience Levels,Resistance Phases,
+1498,Social Dissent Levels,Social Conflict Intensity,Civil Disobedience Levels,Social Dissent Levels,
+1499,Intergroup Tension,Social Conflict Intensity,Intergroup Tension,,
+1500,Cultural Division Perception,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,
+1501,Public Opinion Polarization,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Public Opinion Polarization
+1502,Cross-Cultural Communication Barriers,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cross-Cultural Communication Barriers
+1503,Cultural Representation in Media,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Representation in Media
+1504,Historical Memory Conflicts,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Historical Memory Conflicts
+1505,Cultural Policy Disputes,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Policy Disputes
+1506,Cultural Segmentation Awareness,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Segmentation Awareness
+1507,Cultural Fragmentation Insight,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Fragmentation Insight
+1508,Cultural Disparity Recognition,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Disparity Recognition
+1509,Cultural Differentiation Perception,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Differentiation Perception
+1510,Cultural Division Awareness,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Division Awareness
+1511,Cultural Separation Insight,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Separation Insight
+1512,Cultural Diversity Perception,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Diversity Perception
+1513,Cultural Stratification Awareness,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Stratification Awareness
+1514,Cultural Polarization Recognition,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Polarization Recognition
+1515,Cultural Partition Insight,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Partition Insight
+1516,Cultural Disunity Perception,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Disunity Perception
+1517,Cultural Boundary Awareness,Social Conflict Intensity,Intergroup Tension,Cultural Division Perception,Cultural Boundary Awareness
+1518,Resource Access Disparities,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,
+1519,Water Resource Allocation,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Water Resource Allocation
+1520,Land Ownership Distribution,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Land Ownership Distribution
+1521,Access to Renewable Energy,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Access to Renewable Energy
+1522,Availability of Fossil Fuels,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Availability of Fossil Fuels
+1523,Distribution of Mineral Resources,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Distribution of Mineral Resources
+1524,Resource Inequities,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Resource Inequities
+1525,Resource Distribution Gaps,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Resource Distribution Gaps
+1526,Access Disparities,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Access Disparities
+1527,Resource Allocation Imbalances,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Resource Allocation Imbalances
+1528,Inequitable Resource Access,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Inequitable Resource Access
+1529,Access Deficiencies,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Access Deficiencies
+1530,Resource Accessibility Gaps,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Resource Accessibility Gaps
+1531,Disparities in Resource Availability,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Disparities in Resource Availability
+1532,Access Barriers,Social Conflict Intensity,Intergroup Tension,Resource Access Disparities,Access Barriers
+1533,Identity Group Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,
+1534,Political Representation Disparity,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Political Representation Disparity
+1535,Social Cohesion Levels,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Social Cohesion Levels
+1536,Cultural Recognition Claims,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Cultural Recognition Claims
+1537,Intergroup Trust,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Intergroup Trust
+1538,Ethnic or Religious Segregation,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Ethnic or Religious Segregation
+1539,Historical Grievance Prevalence,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Historical Grievance Prevalence
+1540,Social Group Rivalry,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Social Group Rivalry
+1541,Cultural Identity Contest,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Cultural Identity Contest
+1542,Group Identity Conflict,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Group Identity Conflict
+1543,Collective Identity Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Collective Identity Competition
+1544,Identity-Based Rivalry,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Identity-Based Rivalry
+1545,Ethnic Group Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Ethnic Group Competition
+1546,Factional Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Factional Competition
+1547,Community Identity Struggle,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Community Identity Struggle
+1548,In-group Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,In-group Competition
+1549,Identity-Based Strife,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Identity-Based Strife
+1550,Social Identity Contest,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Social Identity Contest
+1551,Group Identity Clash,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Group Identity Clash
+1552,Cultural Rivalry,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Cultural Rivalry
+1553,Identity Group Struggle,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Identity Group Struggle
+1554,Collective Competition,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Collective Competition
+1555,Social Identity Rivalry,Social Conflict Intensity,Intergroup Tension,Identity Group Competition,Social Identity Rivalry
+1556,Intergroup Conflict,Social Conflict Intensity,Intergroup Tension,Intergroup Conflict,
+1557,Group Friction,Social Conflict Intensity,Intergroup Tension,Group Friction,
+1558,Intergroup Strife,Social Conflict Intensity,Intergroup Tension,Intergroup Strife,
+1559,Social Tension,Social Conflict Intensity,Intergroup Tension,Social Tension,
+1560,Group Hostility,Social Conflict Intensity,Intergroup Tension,Group Hostility,
+1561,Intragroup Competition,Social Conflict Intensity,Intergroup Tension,Intragroup Competition,
+1562,Government Intervention Incidents,Social Conflict Intensity,Government Intervention Incidents,,
+1563,Law Enforcement Deployment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,
+1564,Police Personnel Allocation,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Personnel Allocation
+1565,Emergency Response Units,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Emergency Response Units
+1566,Riot Control Equipment Inventory,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Riot Control Equipment Inventory
+1567,Community Engagement Initiatives,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Community Engagement Initiatives
+1568,Surveillance Operations,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Surveillance Operations
+1569,Patrol Frequency,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Patrol Frequency
+1570,Specialized Task Forces,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Specialized Task Forces
+1571,Police Deployment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Deployment
+1572,Law Enforcement Assignment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Assignment
+1573,Police Operation,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Operation
+1574,Law Enforcement Mobilization,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Mobilization
+1575,Security Forces Deployment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Security Forces Deployment
+1576,Police Presence,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Presence
+1577,Law Enforcement Action,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Action
+1578,Police Staffing,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Staffing
+1579,Law Enforcement Strategy,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Strategy
+1580,Operational Readiness,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Operational Readiness
+1581,Tactical Deployment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Tactical Deployment
+1582,Law Enforcement Engagement,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Engagement
+1583,Police Resource Allocation,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Resource Allocation
+1584,Public Safety Deployment,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Public Safety Deployment
+1585,Law Enforcement Coordination,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Law Enforcement Coordination
+1586,Police Field Operations,Social Conflict Intensity,Government Intervention Incidents,Law Enforcement Deployment,Police Field Operations
+1587,Curfew Implementation,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,
+1588,Curfew Duration,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Duration
+1589,Curfew Compliance Rates,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Compliance Rates
+1590,Civil Unrest Incidents,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Civil Unrest Incidents
+1591,Curfew Enforcement,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Enforcement
+1592,Curfew Regulation,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Regulation
+1593,Curfew Establishment,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Establishment
+1594,Curfew Application,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Application
+1595,Curfew Policy,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Policy
+1596,Curfew Mandate,Social Conflict Intensity,Government Intervention Incidents,Curfew Implementation,Curfew Mandate
+1597,State Involvement Events,Social Conflict Intensity,Government Intervention Incidents,State Involvement Events,
+1598,Public Sector Interventions,Social Conflict Intensity,Government Intervention Incidents,Public Sector Interventions,
+1599,Regulatory Action Instances,Social Conflict Intensity,Government Intervention Incidents,Regulatory Action Instances,
+1600,Administrative Engagement Cases,Social Conflict Intensity,Government Intervention Incidents,Administrative Engagement Cases,
+1601,Social Tension Level,Social Conflict Intensity,Social Tension Level,,
+1602,Conflict Severity,Social Conflict Intensity,Conflict Severity,,
+1603,Interpersonal Discord Intensity,Social Conflict Intensity,Interpersonal Discord Intensity,,
+1604,Social Friction Degree,Social Conflict Intensity,Social Friction Degree,,
+1605,Dispute Intensity,Social Conflict Intensity,Dispute Intensity,,
+1606,Conflict Magnitude,Social Conflict Intensity,Conflict Magnitude,,
+1607,Social Strife Level,Social Conflict Intensity,Social Strife Level,,
+1608,Hostility Intensity,Social Conflict Intensity,Hostility Intensity,,
+1609,Disagreement Severity,Social Conflict Intensity,Disagreement Severity,,
+1610,Social Discord Intensity,Social Conflict Intensity,Social Discord Intensity,,
+1611,Tension Magnitude,Social Conflict Intensity,Tension Magnitude,,
+1612,Conflict Dynamics,Social Conflict Intensity,Conflict Dynamics,,

@@ -1,0 +1,43 @@
+,topic,category 0,category 1,category 2
+0,Political Indicators,Political Indicators,,
+1,Government Transparency,Political Indicators,Government Transparency,
+2,Access to Public Records,Political Indicators,Government Transparency,Access to Public Records
+3,Disclosure of Budget Allocations,Political Indicators,Government Transparency,Disclosure of Budget Allocations
+4,Public Participation in Governance,Political Indicators,Public Participation in Governance,
+5,Voter Turnout Rates,Political Indicators,Public Participation in Governance,Voter Turnout Rates
+6,Public Consultation Involvement,Political Indicators,Public Participation in Governance,Public Consultation Involvement
+7,Military Operations,Military Operations,,
+8,Troop Deployment levels in West Java,Military Operations,Troop Deployment levels in West Java,
+9,Number of Active Personnel in West Java,Military Operations,Troop Deployment levels in West Java,Number of Active Personnel in West Java
+10,Deployment Duration in West Java,Military Operations,Troop Deployment levels in West Java,Deployment Duration in West Java
+11,Frequency of Military Drills in West Java,Military Operations,Frequency of Military Drills in West Java,
+12,Types of Military Drills,Military Operations,Frequency of Military Drills in West Java,Types of Military Drills
+13,Participation Levels in Drills,Military Operations,Frequency of Military Drills in West Java,Participation Levels in Drills
+14,Economic Metrics,Economic Metrics,,
+15,Agricultural Output,Economic Metrics,Agricultural Output,
+16,Rice Production,Economic Metrics,Agricultural Output,Rice Production
+17,Corn Yield,Economic Metrics,Agricultural Output,Corn Yield
+18,Tourism Revenue,Economic Metrics,Tourism Revenue,
+19,Hotel Occupancy Rates,Economic Metrics,Tourism Revenue,Hotel Occupancy Rates
+20,Visitor Spending Patterns,Economic Metrics,Tourism Revenue,Visitor Spending Patterns
+21,Social Metrics,Social Metrics,,
+22,Educational Attainment Rates,Social Metrics,Educational Attainment Rates,
+23,Literacy Rates,Social Metrics,Educational Attainment Rates,Literacy Rates
+24,Higher Education Enrollment,Social Metrics,Educational Attainment Rates,Higher Education Enrollment
+25,Healthcare Access Levels,Social Metrics,Healthcare Access Levels,
+26,Availability of Healthcare Facilities,Social Metrics,Healthcare Access Levels,Availability of Healthcare Facilities
+27,Healthcare Workforce Density,Social Metrics,Healthcare Access Levels,Healthcare Workforce Density
+28,Information Environment,Information Environment,,
+29,Digital Literacy Rates,Information Environment,Digital Literacy Rates,
+30,Digital Skills Proficiency,Information Environment,Digital Literacy Rates,Digital Skills Proficiency
+31,Online Safety Awareness,Information Environment,Digital Literacy Rates,Online Safety Awareness
+32,Access to Internet Services,Information Environment,Access to Internet Services,
+33,Internet Coverage in Rural Areas,Information Environment,Access to Internet Services,Internet Coverage in Rural Areas
+34,Availability of Public Wi-Fi Networks,Information Environment,Access to Internet Services,Availability of Public Wi-Fi Networks
+35,Infrastructure Resilience,Infrastructure Resilience,,
+36,Transportation Network Stability,Infrastructure Resilience,Transportation Network Stability,
+37,Road Network Connectivity,Infrastructure Resilience,Transportation Network Stability,Road Network Connectivity
+38,Bridge Structural Integrity,Infrastructure Resilience,Transportation Network Stability,Bridge Structural Integrity
+39,Utility Service Reliability,Infrastructure Resilience,Utility Service Reliability,
+40,Electrical Grid Stability,Infrastructure Resilience,Utility Service Reliability,Electrical Grid Stability
+41,Water Supply Continuity,Infrastructure Resilience,Utility Service Reliability,Water Supply Continuity

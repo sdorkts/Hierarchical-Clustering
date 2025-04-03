@@ -1,0 +1,636 @@
+,topic,category 0,category 1,category 2,category 3
+0,Political Indicators,Political Indicators,,,
+1,Voter Turnout,Political Indicators,Voter Turnout,,
+2,Voter Registration Rates,Political Indicators,Voter Turnout,Voter Registration Rates,
+3,Youth Voter Registration,Political Indicators,Voter Turnout,Voter Registration Rates,Youth Voter Registration
+4,Rural Voter Registration,Political Indicators,Voter Turnout,Voter Registration Rates,Rural Voter Registration
+5,Election Day Accessibility,Political Indicators,Voter Turnout,Election Day Accessibility,
+6,Polling Station Proximity,Political Indicators,Voter Turnout,Election Day Accessibility,Polling Station Proximity
+7,Availability of Transportation to Polling Stations,Political Indicators,Voter Turnout,Election Day Accessibility,Availability of Transportation to Polling Stations
+8,Language Assistance at Polling Stations,Political Indicators,Voter Turnout,Election Day Accessibility,Language Assistance at Polling Stations
+9,Disability Access Provisions,Political Indicators,Voter Turnout,Election Day Accessibility,Disability Access Provisions
+10,Election Day Public Holidays,Political Indicators,Voter Turnout,Election Day Accessibility,Election Day Public Holidays
+11,Voter Assistance Services,Political Indicators,Voter Turnout,Election Day Accessibility,Voter Assistance Services
+12,Polling Station Operating Hours,Political Indicators,Voter Turnout,Election Day Accessibility,Polling Station Operating Hours
+13,Civic Education Programs,Political Indicators,Voter Turnout,Civic Education Programs,
+14,Curriculum Inclusion in Schools,Political Indicators,Voter Turnout,Civic Education Programs,Curriculum Inclusion in Schools
+15,Participation in Workshops and Seminars,Political Indicators,Voter Turnout,Civic Education Programs,Participation in Workshops and Seminars
+16,Community Outreach Initiatives,Political Indicators,Voter Turnout,Civic Education Programs,Community Outreach Initiatives
+17,Youth Engagement Programs,Political Indicators,Voter Turnout,Civic Education Programs,Youth Engagement Programs
+18,Partnerships with Local Organizations,Political Indicators,Voter Turnout,Civic Education Programs,Partnerships with Local Organizations
+19,Public Awareness Campaigns,Political Indicators,Voter Turnout,Civic Education Programs,Public Awareness Campaigns
+20,Teacher Training in Civic Education,Political Indicators,Voter Turnout,Civic Education Programs,Teacher Training in Civic Education
+21,Use of Digital Tools for Civic Learning,Political Indicators,Voter Turnout,Civic Education Programs,Use of Digital Tools for Civic Learning
+22,Campaign Engagement,Political Indicators,Voter Turnout,Campaign Engagement,
+23,Rally Attendance,Political Indicators,Voter Turnout,Campaign Engagement,Rally Attendance
+24,Volunteer Participation,Political Indicators,Voter Turnout,Campaign Engagement,Volunteer Participation
+25,Social Media Interactions,Political Indicators,Voter Turnout,Campaign Engagement,Social Media Interactions
+26,Campaign Merchandise Distribution,Political Indicators,Voter Turnout,Campaign Engagement,Campaign Merchandise Distribution
+27,Public Opinion Poll Ratings,Political Indicators,Voter Turnout,Campaign Engagement,Public Opinion Poll Ratings
+28,Trust in Electoral Process,Political Indicators,Voter Turnout,Trust in Electoral Process,
+29,Electoral Transparency Levels,Political Indicators,Voter Turnout,Trust in Electoral Process,Electoral Transparency Levels
+30,Incidence of Electoral Fraud Allegations,Political Indicators,Voter Turnout,Trust in Electoral Process,Incidence of Electoral Fraud Allegations
+31,Effectiveness of Election Monitoring Bodies,Political Indicators,Voter Turnout,Trust in Electoral Process,Effectiveness of Election Monitoring Bodies
+32,Public Confidence in Election Results Validity,Political Indicators,Voter Turnout,Trust in Electoral Process,Public Confidence in Election Results Validity
+33,Integrity of Electoral Roll Maintenance,Political Indicators,Voter Turnout,Trust in Electoral Process,Integrity of Electoral Roll Maintenance
+34,Political Party Representation,Political Indicators,Political Party Representation,,
+35,Seats Held by Each Political Party,Political Indicators,Political Party Representation,Seats Held by Each Political Party,
+36,Number of Seats Held by Major Political Parties,Political Indicators,Political Party Representation,Seats Held by Each Political Party,Number of Seats Held by Major Political Parties
+37,Number of Seats Allocated to Minority Political Parties,Political Indicators,Political Party Representation,Seats Held by Each Political Party,Number of Seats Allocated to Minority Political Parties
+38,Seats Held by Newly Established Political Parties,Political Indicators,Political Party Representation,Seats Held by Each Political Party,Seats Held by Newly Established Political Parties
+39,Seats Designated for Electoral Districts,Political Indicators,Political Party Representation,Seats Held by Each Political Party,Seats Designated for Electoral Districts
+40,Reserved Seats for Special Interest Groups,Political Indicators,Political Party Representation,Seats Held by Each Political Party,Reserved Seats for Special Interest Groups
+41,Diversity of Political Party Representation,Political Indicators,Political Party Representation,Diversity of Political Party Representation,
+42,Ethnic Diversity Among Party Representatives,Political Indicators,Political Party Representation,Diversity of Political Party Representation,Ethnic Diversity Among Party Representatives
+43,Representation of Women in Political Parties,Political Indicators,Political Party Representation,Diversity of Political Party Representation,Representation of Women in Political Parties
+44,Age Range of Elected Officials in Political Parties,Political Indicators,Political Party Representation,Diversity of Political Party Representation,Age Range of Elected Officials in Political Parties
+45,Education Background of Party Leaders,Political Indicators,Political Party Representation,Diversity of Political Party Representation,Education Background of Party Leaders
+46,Religious Representation in Political Party Leadership,Political Indicators,Political Party Representation,Diversity of Political Party Representation,Religious Representation in Political Party Leadership
+47,Presence and Influence of Regional Parties,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,
+48,Number of Regional Party Offices in West Java,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Number of Regional Party Offices in West Java
+49,Membership Size of Each Regional Party in West Java,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Membership Size of Each Regional Party in West Java
+50,Frequency of Regional Party Events and Rallies,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Frequency of Regional Party Events and Rallies
+51,Media Coverage of Regional Parties,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Media Coverage of Regional Parties
+52,Influence on Local Policy Decisions,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Influence on Local Policy Decisions
+53,Public Support for Regional Party Policies,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Public Support for Regional Party Policies
+54,Presence of Regional Party Symbols and Branding in Public Areas,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Presence of Regional Party Symbols and Branding in Public Areas
+55,Participation of Regional Parties in Local Elections,Political Indicators,Political Party Representation,Presence and Influence of Regional Parties,Participation of Regional Parties in Local Elections
+56,Changes in Party Leadership within Representation,Political Indicators,Political Party Representation,Changes in Party Leadership within Representation,
+57,Turnover Rate of Political Leaders,Political Indicators,Political Party Representation,Changes in Party Leadership within Representation,Turnover Rate of Political Leaders
+58,Duration of Leadership Tenure,Political Indicators,Political Party Representation,Changes in Party Leadership within Representation,Duration of Leadership Tenure
+59,Frequency of Leadership Elections,Political Indicators,Political Party Representation,Changes in Party Leadership within Representation,Frequency of Leadership Elections
+60,Level of Collaboration Between Parties,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,
+61,Frequency of Joint Policy Initiatives Between Parties,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,Frequency of Joint Policy Initiatives Between Parties
+62,Number of Cross-Party Committees Formed,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,Number of Cross-Party Committees Formed
+63,Degree of Bipartisan Support for Local Legislation,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,Degree of Bipartisan Support for Local Legislation
+64,Engagement in Cross-Party Dialogues and Mediation Sessions,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,Engagement in Cross-Party Dialogues and Mediation Sessions
+65,Instances of Shared Public Declarations or Statements,Political Indicators,Political Party Representation,Level of Collaboration Between Parties,Instances of Shared Public Declarations or Statements
+66,Representation of Major Political Alliances,Political Indicators,Political Party Representation,Representation of Major Political Alliances,
+67,Proportion of Elected Officials from Major Alliances,Political Indicators,Political Party Representation,Representation of Major Political Alliances,Proportion of Elected Officials from Major Alliances
+68,Voter Turnout in Support of Major Alliances,Political Indicators,Political Party Representation,Representation of Major Political Alliances,Voter Turnout in Support of Major Alliances
+69,Legislation Sponsored by Political Parties,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,
+70,Number of Bills Sponsored by Major Parties,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,Number of Bills Sponsored by Major Parties
+71,Proportion of Local vs. National Legislative Proposals,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,Proportion of Local vs. National Legislative Proposals
+72,Focus Areas of Proposed Legislation,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,Focus Areas of Proposed Legislation
+73,Cross-Party Support for Sponsored Bills,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,Cross-Party Support for Sponsored Bills
+74,Frequency of Legislative Amendments Proposed,Political Indicators,Political Party Representation,Legislation Sponsored by Political Parties,Frequency of Legislative Amendments Proposed
+75,Legislative Activity,Political Indicators,Legislative Activity,,
+76,Number of Bills Passed in West Java,Political Indicators,Legislative Activity,Number of Bills Passed in West Java,
+77,Legislative Approval Rates in West Java,Political Indicators,Legislative Activity,Number of Bills Passed in West Java,Legislative Approval Rates in West Java
+78,Number of New Legislative Proposals in West Java,Political Indicators,Legislative Activity,Number of Bills Passed in West Java,Number of New Legislative Proposals in West Java
+79,Frequency of Amendments to Local Laws,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,
+80,Number of Public Consultations Held Before Amendments,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,Number of Public Consultations Held Before Amendments
+81,Frequency of Local Government Policy Shifts,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,Frequency of Local Government Policy Shifts
+82,Count of Stakeholder Engagement Sessions,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,Count of Stakeholder Engagement Sessions
+83,Rate of Proposal Submissions for Law Amendments,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,Rate of Proposal Submissions for Law Amendments
+84,Volume of Judicial Reviews Related to Local Laws,Political Indicators,Legislative Activity,Frequency of Amendments to Local Laws,Volume of Judicial Reviews Related to Local Laws
+85,Attendance Rates of Regional Legislative Sessions,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,
+86,Legislative Session Frequency,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Legislative Session Frequency
+87,Quorum Achievement Levels,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Quorum Achievement Levels
+88,Representation Across Political Parties,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Representation Across Political Parties
+89,Session Length in Hours,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Session Length in Hours
+90,Committee Participation Rates,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Committee Participation Rates
+91,Cross-Regional Meeting Attendance,Political Indicators,Legislative Activity,Attendance Rates of Regional Legislative Sessions,Cross-Regional Meeting Attendance
+92,Government Stability,Political Indicators,Government Stability,,
+93,Political Corruption Perception,Political Indicators,Government Stability,Political Corruption Perception,
+94,Local Government Transparency,Political Indicators,Government Stability,Political Corruption Perception,Local Government Transparency
+95,Public Trust in Elected Officials,Political Indicators,Government Stability,Political Corruption Perception,Public Trust in Elected Officials
+96,Campaign Financing Openness,Political Indicators,Government Stability,Political Corruption Perception,Campaign Financing Openness
+97,Anti-Corruption Enforcement Visibility,Political Indicators,Government Stability,Political Corruption Perception,Anti-Corruption Enforcement Visibility
+98,Judicial Independence,Political Indicators,Government Stability,Judicial Independence,
+99,Freedom of Legal Institutions,Political Indicators,Government Stability,Judicial Independence,Freedom of Legal Institutions
+100,Judicial Decision Transparency,Political Indicators,Government Stability,Judicial Independence,Judicial Decision Transparency
+101,Appointment Process Integrity,Political Indicators,Government Stability,Judicial Independence,Appointment Process Integrity
+102,Bureaucratic Efficiency,Political Indicators,Government Stability,Bureaucratic Efficiency,
+103,Public Service Delivery Speed,Political Indicators,Government Stability,Bureaucratic Efficiency,Public Service Delivery Speed
+104,Administrative Procedure Complexity,Political Indicators,Government Stability,Bureaucratic Efficiency,Administrative Procedure Complexity
+105,Government Agency Coordination,Political Indicators,Government Stability,Bureaucratic Efficiency,Government Agency Coordination
+106,Regulatory Framework Clarity,Political Indicators,Government Stability,Bureaucratic Efficiency,Regulatory Framework Clarity
+107,Policy Continuity,Political Indicators,Government Stability,Policy Continuity,
+108,Legislative Stability,Political Indicators,Government Stability,Policy Continuity,Legislative Stability
+109,Government Leadership Tenure,Political Indicators,Government Stability,Policy Continuity,Government Leadership Tenure
+110,Policy Implementation Consistency,Political Indicators,Government Stability,Policy Continuity,Policy Implementation Consistency
+111,Regulatory Framework Stability,Political Indicators,Government Stability,Policy Continuity,Regulatory Framework Stability
+112,Intergovernmental Collaboration,Political Indicators,Government Stability,Policy Continuity,Intergovernmental Collaboration
+113,Party System Stability,Political Indicators,Government Stability,Policy Continuity,Party System Stability
+114,Public Opinion Support,Political Indicators,Public Opinion Support,,
+115,Public Trust in Local Government,Political Indicators,Public Opinion Support,Public Trust in Local Government,
+116,Transparency in Local Decision-Making,Political Indicators,Public Opinion Support,Public Trust in Local Government,Transparency in Local Decision-Making
+117,Accessibility of Local Government Services,Political Indicators,Public Opinion Support,Public Trust in Local Government,Accessibility of Local Government Services
+118,Approval Ratings of Regional Leaders,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,
+119,Perception of Leader Integrity,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Perception of Leader Integrity
+120,Public Satisfaction with Regional Governance,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Public Satisfaction with Regional Governance
+121,Trust in Local Leadership Decisions,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Trust in Local Leadership Decisions
+122,Support for Leader's Policy Initiatives,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Support for Leader's Policy Initiatives
+123,Responsiveness to Local Community Needs,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Responsiveness to Local Community Needs
+124,Clarity of Communication from Leaders,Political Indicators,Public Opinion Support,Approval Ratings of Regional Leaders,Clarity of Communication from Leaders
+125,Satisfaction with Public Policies,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,
+126,Accessibility of Public Services,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Accessibility of Public Services
+127,Effectiveness of Policy Implementation,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Effectiveness of Policy Implementation
+128,Transparency in Policy Formulation,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Transparency in Policy Formulation
+129,Public Understanding of Policy Objectives,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Public Understanding of Policy Objectives
+130,Satisfaction with Local Transportation Policies,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Satisfaction with Local Transportation Policies
+131,Public Health Policy Outcomes,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Public Health Policy Outcomes
+132,Educational Policy Satisfaction,Political Indicators,Public Opinion Support,Satisfaction with Public Policies,Educational Policy Satisfaction
+133,Perception of Political Corruption,Political Indicators,Public Opinion Support,Perception of Political Corruption,
+134,Media Coverage of Corruption Scandals,Political Indicators,Public Opinion Support,Perception of Political Corruption,Media Coverage of Corruption Scandals
+135,Transparency of Government Contract Bidding,Political Indicators,Public Opinion Support,Perception of Political Corruption,Transparency of Government Contract Bidding
+136,Frequency of Anti-Corruption Protests,Political Indicators,Public Opinion Support,Perception of Political Corruption,Frequency of Anti-Corruption Protests
+137,Public Perception of Judicial Integrity,Political Indicators,Public Opinion Support,Perception of Political Corruption,Public Perception of Judicial Integrity
+138,Community Engagement in Political Dialogues,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,
+139,Participation Rate in Public Forums,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,Participation Rate in Public Forums
+140,Frequency of Community Meetings,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,Frequency of Community Meetings
+141,Diversity of Voices in Political Discussions,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,Diversity of Voices in Political Discussions
+142,Number of Grassroots Political Initiatives,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,Number of Grassroots Political Initiatives
+143,Engagement in Online Political Platforms,Political Indicators,Public Opinion Support,Community Engagement in Political Dialogues,Engagement in Online Political Platforms
+144,Military Operations,Military Operations,,,
+145,Military Personnel Deployment,Military Operations,Military Personnel Deployment,,
+146,Troop Stationing Locations,Military Operations,Military Personnel Deployment,Troop Stationing Locations,
+147,Forward Operating Bases,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Forward Operating Bases
+148,Temporary Patrol Outposts,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Temporary Patrol Outposts
+149,Strategic Barracks,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Strategic Barracks
+150,Joint Training Facilities,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Joint Training Facilities
+151,Checkpoint Installations,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Checkpoint Installations
+152,Equipment Depots,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Equipment Depots
+153,Naval Watch Stations,Military Operations,Military Personnel Deployment,Troop Stationing Locations,Naval Watch Stations
+154,Rotation Schedules,Military Operations,Military Personnel Deployment,Rotation Schedules,
+155,Frequency of Troop Rotations,Military Operations,Military Personnel Deployment,Rotation Schedules,Frequency of Troop Rotations
+156,Personnel Count per Rotation,Military Operations,Military Personnel Deployment,Rotation Schedules,Personnel Count per Rotation
+157,Transportation Logistics,Military Operations,Military Personnel Deployment,Rotation Schedules,Transportation Logistics
+158,Integration with Local Forces,Military Operations,Military Personnel Deployment,Rotation Schedules,Integration with Local Forces
+159,Training and Readiness Programs,Military Operations,Military Personnel Deployment,Rotation Schedules,Training and Readiness Programs
+160,Communication and Coordination Protocols,Military Operations,Military Personnel Deployment,Rotation Schedules,Communication and Coordination Protocols
+161,Deployment Duration,Military Operations,Military Personnel Deployment,Deployment Duration,
+162,Deployment Length in Jungle Terrain,Military Operations,Military Personnel Deployment,Deployment Duration,Deployment Length in Jungle Terrain
+163,Mission Duration Under Peacekeeping Assignments,Military Operations,Military Personnel Deployment,Deployment Duration,Mission Duration Under Peacekeeping Assignments
+164,Operational Field Units,Military Operations,Military Personnel Deployment,Operational Field Units,
+165,Reconnaissance Missions,Military Operations,Military Personnel Deployment,Operational Field Units,Reconnaissance Missions
+166,Supply and Logistics Capacity,Military Operations,Military Personnel Deployment,Operational Field Units,Supply and Logistics Capacity
+167,Weapons and Equipment Stock,Military Operations,Weapons and Equipment Stock,,
+168,Small Arms Inventory,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,
+169,Rifles and Carbines Count,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,Rifles and Carbines Count
+170,Handguns Availability,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,Handguns Availability
+171,Submachine Guns Stock,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,Submachine Guns Stock
+172,Shotguns Inventory,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,Shotguns Inventory
+173,Sniper Rifles Quantity,Military Operations,Weapons and Equipment Stock,Small Arms Inventory,Sniper Rifles Quantity
+174,Ammunition Stockpile,Military Operations,Weapons and Equipment Stock,Ammunition Stockpile,
+175,Ammunition Depot Capacity,Military Operations,Weapons and Equipment Stock,Ammunition Stockpile,Ammunition Depot Capacity
+176,Ammunition Procurement Rate,Military Operations,Weapons and Equipment Stock,Ammunition Stockpile,Ammunition Procurement Rate
+177,Ammunition Storage Conditions,Military Operations,Weapons and Equipment Stock,Ammunition Stockpile,Ammunition Storage Conditions
+178,Armored Vehicle Availability,Military Operations,Weapons and Equipment Stock,Armored Vehicle Availability,
+179,Operational Armored Units,Military Operations,Weapons and Equipment Stock,Armored Vehicle Availability,Operational Armored Units
+180,Maintenance Capacity for Armored Vehicles,Military Operations,Weapons and Equipment Stock,Armored Vehicle Availability,Maintenance Capacity for Armored Vehicles
+181,Armored Vehicle Supply Lines,Military Operations,Weapons and Equipment Stock,Armored Vehicle Availability,Armored Vehicle Supply Lines
+182,Training Programs for Armored Vehicle Crews,Military Operations,Weapons and Equipment Stock,Armored Vehicle Availability,Training Programs for Armored Vehicle Crews
+183,Artillery and Heavy Weapon Systems,Military Operations,Weapons and Equipment Stock,Artillery and Heavy Weapon Systems,
+184,Artillery Unit Allocation,Military Operations,Weapons and Equipment Stock,Artillery and Heavy Weapon Systems,Artillery Unit Allocation
+185,Heavy Weaponry Maintenance Status,Military Operations,Weapons and Equipment Stock,Artillery and Heavy Weapon Systems,Heavy Weaponry Maintenance Status
+186,Precision Guided Munition Inventory,Military Operations,Weapons and Equipment Stock,Artillery and Heavy Weapon Systems,Precision Guided Munition Inventory
+187,Crew Training Levels for Heavy Weapons,Military Operations,Weapons and Equipment Stock,Artillery and Heavy Weapon Systems,Crew Training Levels for Heavy Weapons
+188,Naval Vessel Deployment,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,
+189,Patrol Vessel Presence,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,Patrol Vessel Presence
+190,Supply Ship Allocation,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,Supply Ship Allocation
+191,Amphibious Craft Utilization,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,Amphibious Craft Utilization
+192,Carrier Strike Group Operations,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,Carrier Strike Group Operations
+193,Submarine Activity,Military Operations,Weapons and Equipment Stock,Naval Vessel Deployment,Submarine Activity
+194,Aircraft Fleet Size,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,
+195,Fixed-Wing Combat Aircraft Quantity,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,Fixed-Wing Combat Aircraft Quantity
+196,Rotary-Wing Aircraft Inventory,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,Rotary-Wing Aircraft Inventory
+197,Transport Aircraft Availability,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,Transport Aircraft Availability
+198,Unmanned Aerial Vehicle (UAV) Capability,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,Unmanned Aerial Vehicle (UAV) Capability
+199,Tanker Aircraft Strength,Military Operations,Weapons and Equipment Stock,Aircraft Fleet Size,Tanker Aircraft Strength
+200,Training and Readiness Levels,Military Operations,Training and Readiness Levels,,
+201,Unit Cohesion,Military Operations,Training and Readiness Levels,Unit Cohesion,
+202,Team Communication,Military Operations,Training and Readiness Levels,Unit Cohesion,Team Communication
+203,Leadership Effectiveness,Military Operations,Training and Readiness Levels,Unit Cohesion,Leadership Effectiveness
+204,Trust and Reliance,Military Operations,Training and Readiness Levels,Unit Cohesion,Trust and Reliance
+205,Shared Mission Understanding,Military Operations,Training and Readiness Levels,Unit Cohesion,Shared Mission Understanding
+206,Interpersonal Relationships,Military Operations,Training and Readiness Levels,Unit Cohesion,Interpersonal Relationships
+207,Training and Development,Military Operations,Training and Readiness Levels,Unit Cohesion,Training and Development
+208,Cultural Integration,Military Operations,Training and Readiness Levels,Unit Cohesion,Cultural Integration
+209,Simulated Combat Drills,Military Operations,Training and Readiness Levels,Simulated Combat Drills,
+210,Participation Rates of Military Personnel,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Participation Rates of Military Personnel
+211,Intensity of Scenario Complexity,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Intensity of Scenario Complexity
+212,Duration of Drill Exercises,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Duration of Drill Exercises
+213,Variety of Terrain Utilized for Drills,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Variety of Terrain Utilized for Drills
+214,Level of Technological Integration,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Level of Technological Integration
+215,Scale of Resource Allocation for Drills,Military Operations,Training and Readiness Levels,Simulated Combat Drills,Scale of Resource Allocation for Drills
+216,Joint Operations and Exercises,Military Operations,Joint Operations and Exercises,,
+217,Number of Joint Military Drills Conducted,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,
+218,Count of Joint Urban Warfare Simulations in West Java,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,Count of Joint Urban Warfare Simulations in West Java
+219,Number of Interoperability Training Sessions in Coastal Regions,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,Number of Interoperability Training Sessions in Coastal Regions
+220,Volume of Amphibious Assault Drills near West Java Islands,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,Volume of Amphibious Assault Drills near West Java Islands
+221,Extent of Combined Cyber Defense Exercises in West Java,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,Extent of Combined Cyber Defense Exercises in West Java
+222,Volume of Joint Intelligence Sharing Workshops Hosted,Military Operations,Joint Operations and Exercises,Number of Joint Military Drills Conducted,Volume of Joint Intelligence Sharing Workshops Hosted
+223,Scale of Multinational Naval Exercises,Military Operations,Joint Operations and Exercises,Scale of Multinational Naval Exercises,
+224,Number of Naval Vessels Deployed,Military Operations,Joint Operations and Exercises,Scale of Multinational Naval Exercises,Number of Naval Vessels Deployed
+225,Geographic Coverage of Training Areas,Military Operations,Joint Operations and Exercises,Scale of Multinational Naval Exercises,Geographic Coverage of Training Areas
+226,Diversity of Participating Armed Forces,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,
+227,Variety of Nationalities Represented,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Variety of Nationalities Represented
+228,Range of Military Branches Included,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Range of Military Branches Included
+229,Extent of Cultural Training Provided,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Extent of Cultural Training Provided
+230,Scope of Language Capabilities,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Scope of Language Capabilities
+231,Diversity in Strategic Approaches,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Diversity in Strategic Approaches
+232,Inclusion of Female Military Personnel,Military Operations,Joint Operations and Exercises,Diversity of Participating Armed Forces,Inclusion of Female Military Personnel
+233,Frequency of Joint Air Force Maneuvers,Military Operations,Joint Operations and Exercises,Frequency of Joint Air Force Maneuvers,
+234,Number of Aerial Training Exercises,Military Operations,Joint Operations and Exercises,Frequency of Joint Air Force Maneuvers,Number of Aerial Training Exercises
+235,Variety of Participating Aircraft,Military Operations,Joint Operations and Exercises,Frequency of Joint Air Force Maneuvers,Variety of Participating Aircraft
+236,Frequency of Cross-border Airspace Coordination,Military Operations,Joint Operations and Exercises,Frequency of Joint Air Force Maneuvers,Frequency of Cross-border Airspace Coordination
+237,Level of Integrated Tactical Operations,Military Operations,Joint Operations and Exercises,Frequency of Joint Air Force Maneuvers,Level of Integrated Tactical Operations
+238,Complexity of Inter-service Communication Systems,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,
+239,Volume of Secure Digital Communication Channels,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,Volume of Secure Digital Communication Channels
+240,Number of Interoperable Communication Protocols,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,Number of Interoperable Communication Protocols
+241,Complexity of Encryption Technologies Used,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,Complexity of Encryption Technologies Used
+242,Range of Communication Frequencies Utilized,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,Range of Communication Frequencies Utilized
+243,Diversity of Equipment Compatibility Standards,Military Operations,Joint Operations and Exercises,Complexity of Inter-service Communication Systems,Diversity of Equipment Compatibility Standards
+244,Duration of Combined Ground Operations,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,
+245,Length of Tactical Engagements,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Length of Tactical Engagements
+246,Number of Ground Force Units Involved,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Number of Ground Force Units Involved
+247,Operational Coverage Area,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Operational Coverage Area
+248,Duration of Logistical Support Operations,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Duration of Logistical Support Operations
+249,Extent of Reconnaissance Missions,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Extent of Reconnaissance Missions
+250,Intensity of Urban Warfare Training,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Intensity of Urban Warfare Training
+251,Timeframe of Defensive Posture Implementation,Military Operations,Joint Operations and Exercises,Duration of Combined Ground Operations,Timeframe of Defensive Posture Implementation
+252,Territorial Patrols and Surveillance,Military Operations,Territorial Patrols and Surveillance,,
+253,Frequency of Aerial Patrols,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,
+254,Number of Aerial Logistical Support Missions,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,Number of Aerial Logistical Support Missions
+255,Frequency of Reconnaissance and Surveillance Flights,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,Frequency of Reconnaissance and Surveillance Flights
+256,Intensity of Pilot Training Exercises,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,Intensity of Pilot Training Exercises
+257,Volume of Airspace Security Drills,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,Volume of Airspace Security Drills
+258,Rate of Tactical Airlift Operations,Military Operations,Territorial Patrols and Surveillance,Frequency of Aerial Patrols,Rate of Tactical Airlift Operations
+259,Number of Ground Surveillance Missions,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,
+260,Frequency of Reconnaissance Patrols in Rural Areas,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Frequency of Reconnaissance Patrols in Rural Areas
+261,Extent of Intelligence Gathering Operations,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Extent of Intelligence Gathering Operations
+262,Volume of Terrain Mapping Activities,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Volume of Terrain Mapping Activities
+263,Number of Field Observation Posts Established,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Number of Field Observation Posts Established
+264,Scale of Nighttime Surveillance Operations,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Scale of Nighttime Surveillance Operations
+265,Number of Units Engaged in Ground Signal Interceptions,Military Operations,Territorial Patrols and Surveillance,Number of Ground Surveillance Missions,Number of Units Engaged in Ground Signal Interceptions
+266,Extent of Coastal Monitoring Activity,Military Operations,Territorial Patrols and Surveillance,Extent of Coastal Monitoring Activity,
+267,Number of Naval Patrol Vessels Employed,Military Operations,Territorial Patrols and Surveillance,Extent of Coastal Monitoring Activity,Number of Naval Patrol Vessels Employed
+268,Frequency of Radar Surveillance Operations,Military Operations,Territorial Patrols and Surveillance,Extent of Coastal Monitoring Activity,Frequency of Radar Surveillance Operations
+269,Use of Sonar Systems for Underwater Monitoring,Military Operations,Territorial Patrols and Surveillance,Extent of Coastal Monitoring Activity,Use of Sonar Systems for Underwater Monitoring
+270,Implementation of Coastal Sensor Networks,Military Operations,Territorial Patrols and Surveillance,Extent of Coastal Monitoring Activity,Implementation of Coastal Sensor Networks
+271,Deployment of Unmanned Aerial Vehicles (UAVs),Military Operations,Territorial Patrols and Surveillance,Deployment of Unmanned Aerial Vehicles (UAVs),
+272,Range of UAV Surveillance Coverage,Military Operations,Territorial Patrols and Surveillance,Deployment of Unmanned Aerial Vehicles (UAVs),Range of UAV Surveillance Coverage
+273,Number of UAV Sorties,Military Operations,Territorial Patrols and Surveillance,Deployment of Unmanned Aerial Vehicles (UAVs),Number of UAV Sorties
+274,Operation of Military Checkpoints,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,
+275,Number of Personnel at Checkpoints,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Number of Personnel at Checkpoints
+276,Frequency of Vehicle Inspections,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Frequency of Vehicle Inspections
+277,Duration of Each Checkpoint Operation,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Duration of Each Checkpoint Operation
+278,Coverage Area of Checkpoints,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Coverage Area of Checkpoints
+279,Quantity of Security Equipment Utilized,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Quantity of Security Equipment Utilized
+280,Volume of Civilian Interactions,Military Operations,Territorial Patrols and Surveillance,Operation of Military Checkpoints,Volume of Civilian Interactions
+281,Engagement in River Patrol Activities,Military Operations,Territorial Patrols and Surveillance,Engagement in River Patrol Activities,
+282,Number of Patrol Boats Deployed,Military Operations,Territorial Patrols and Surveillance,Engagement in River Patrol Activities,Number of Patrol Boats Deployed
+283,Intensity of Night Operations,Military Operations,Territorial Patrols and Surveillance,Engagement in River Patrol Activities,Intensity of Night Operations
+284,Scope of Area Coverage,Military Operations,Territorial Patrols and Surveillance,Engagement in River Patrol Activities,Scope of Area Coverage
+285,Volume of Intelligence Gathered,Military Operations,Territorial Patrols and Surveillance,Engagement in River Patrol Activities,Volume of Intelligence Gathered
+286,Economic Metrics,Economic Metrics,,,
+287,Tourism Revenue,Economic Metrics,Tourism Revenue,,
+288,Visitor Numbers,Economic Metrics,Tourism Revenue,Visitor Numbers,
+289,Domestic Tourist Arrivals,Economic Metrics,Tourism Revenue,Visitor Numbers,Domestic Tourist Arrivals
+290,International Tourist Arrivals,Economic Metrics,Tourism Revenue,Visitor Numbers,International Tourist Arrivals
+291,Visitor Flow to Tourist Attractions,Economic Metrics,Tourism Revenue,Visitor Numbers,Visitor Flow to Tourist Attractions
+292,Festival and Event Attendance,Economic Metrics,Tourism Revenue,Visitor Numbers,Festival and Event Attendance
+293,Inter-Island Visitor Numbers,Economic Metrics,Tourism Revenue,Visitor Numbers,Inter-Island Visitor Numbers
+294,Average Daily Expenditure of Tourists,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,
+295,Local Transportation Spending,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,Local Transportation Spending
+296,Dining and Beverage Expenditure,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,Dining and Beverage Expenditure
+297,Souvenir and Local Goods Purchases,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,Souvenir and Local Goods Purchases
+298,Cultural and Recreational Activity Fees,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,Cultural and Recreational Activity Fees
+299,Accommodation-Related Costs,Economic Metrics,Tourism Revenue,Average Daily Expenditure of Tourists,Accommodation-Related Costs
+300,Length of Stay,Economic Metrics,Tourism Revenue,Length of Stay,
+301,Average Tourist Length of Stay in West Java,Economic Metrics,Tourism Revenue,Length of Stay,Average Tourist Length of Stay in West Java
+302,Duration of Stay in Cultural Heritage Sites,Economic Metrics,Tourism Revenue,Length of Stay,Duration of Stay in Cultural Heritage Sites
+303,Length of Stay in Ecotourism Destinations,Economic Metrics,Tourism Revenue,Length of Stay,Length of Stay in Ecotourism Destinations
+304,Hotel Occupancy Rates,Economic Metrics,Tourism Revenue,Hotel Occupancy Rates,
+305,Room Revenue per Available Room (RevPAR),Economic Metrics,Tourism Revenue,Hotel Occupancy Rates,Room Revenue per Available Room (RevPAR)
+306,Average Room Rate,Economic Metrics,Tourism Revenue,Hotel Occupancy Rates,Average Room Rate
+307,Number of Available Rooms,Economic Metrics,Tourism Revenue,Hotel Occupancy Rates,Number of Available Rooms
+308,Group Booking Rates,Economic Metrics,Tourism Revenue,Hotel Occupancy Rates,Group Booking Rates
+309,Agricultural Output,Economic Metrics,Agricultural Output,,
+310,Crop Yield,Economic Metrics,Agricultural Output,Crop Yield,
+311,Rice Yield per Hectare,Economic Metrics,Agricultural Output,Crop Yield,Rice Yield per Hectare
+312,Maize Production Volume,Economic Metrics,Agricultural Output,Crop Yield,Maize Production Volume
+313,Soybean Output,Economic Metrics,Agricultural Output,Crop Yield,Soybean Output
+314,Coffee Harvest Count,Economic Metrics,Agricultural Output,Crop Yield,Coffee Harvest Count
+315,Tea Leaf Quality,Economic Metrics,Agricultural Output,Crop Yield,Tea Leaf Quality
+316,Cassava Tuber Size,Economic Metrics,Agricultural Output,Crop Yield,Cassava Tuber Size
+317,Chili Pepper Harvest Weight,Economic Metrics,Agricultural Output,Crop Yield,Chili Pepper Harvest Weight
+318,Livestock Production,Economic Metrics,Agricultural Output,Livestock Production,
+319,Cattle Population,Economic Metrics,Agricultural Output,Livestock Production,Cattle Population
+320,Poultry Output,Economic Metrics,Agricultural Output,Livestock Production,Poultry Output
+321,Dairy Production,Economic Metrics,Agricultural Output,Livestock Production,Dairy Production
+322,Feed Utilization,Economic Metrics,Agricultural Output,Livestock Production,Feed Utilization
+323,Biosecurity Practices,Economic Metrics,Agricultural Output,Livestock Production,Biosecurity Practices
+324,Fisheries Output,Economic Metrics,Agricultural Output,Fisheries Output,
+325,Fish Catch Volume,Economic Metrics,Agricultural Output,Fisheries Output,Fish Catch Volume
+326,Aquaculture Production,Economic Metrics,Agricultural Output,Fisheries Output,Aquaculture Production
+327,Seafood Processing Capacity,Economic Metrics,Agricultural Output,Fisheries Output,Seafood Processing Capacity
+328,Agri-commodity Exports,Economic Metrics,Agricultural Output,Agri-commodity Exports,
+329,Export Volume of Palm Oil,Economic Metrics,Agricultural Output,Agri-commodity Exports,Export Volume of Palm Oil
+330,Export Revenue from Coffee,Economic Metrics,Agricultural Output,Agri-commodity Exports,Export Revenue from Coffee
+331,Social Metrics,Social Metrics,,,
+332,Population Growth in Urban Areas,Social Metrics,Population Growth in Urban Areas,,
+333,Urban Birth Rates,Social Metrics,Population Growth in Urban Areas,Urban Birth Rates,
+334,Access to Maternal Health Services in Urban Areas,Social Metrics,Population Growth in Urban Areas,Urban Birth Rates,Access to Maternal Health Services in Urban Areas
+335,Employment Rates of Urban Mothers,Social Metrics,Population Growth in Urban Areas,Urban Birth Rates,Employment Rates of Urban Mothers
+336,Prevalence of Cultural Practices Influencing Birth Rates in Urban Settings,Social Metrics,Population Growth in Urban Areas,Urban Birth Rates,Prevalence of Cultural Practices Influencing Birth Rates in Urban Settings
+337,Migration to Urban Centers,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,
+338,Urban Employment Opportunities,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,Urban Employment Opportunities
+339,Rural-Urban Migration Rates,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,Rural-Urban Migration Rates
+340,Urban Educational Facilities Utilization,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,Urban Educational Facilities Utilization
+341,Urban Cultural Integration,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,Urban Cultural Integration
+342,Urban Healthcare Accessibility,Social Metrics,Population Growth in Urban Areas,Migration to Urban Centers,Urban Healthcare Accessibility
+343,Urban Household Sizes,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,
+344,Number of Multi-Generational Households,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Number of Multi-Generational Households
+345,Household Occupancy Rate,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Household Occupancy Rate
+346,Average Household Income in Urban Areas,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Average Household Income in Urban Areas
+347,Access to Urban Childcare Facilities,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Access to Urban Childcare Facilities
+348,Urban Household Education Levels,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Urban Household Education Levels
+349,Proportion of Households with Access to Digital Technology,Social Metrics,Population Growth in Urban Areas,Urban Household Sizes,Proportion of Households with Access to Digital Technology
+350,Urban Housing Density,Social Metrics,Population Growth in Urban Areas,Urban Housing Density,
+351,Housing Unit Availability,Social Metrics,Population Growth in Urban Areas,Urban Housing Density,Housing Unit Availability
+352,Occupancy Rates per Housing Unit,Social Metrics,Population Growth in Urban Areas,Urban Housing Density,Occupancy Rates per Housing Unit
+353,Access to Urban Public Services,Social Metrics,Population Growth in Urban Areas,Access to Urban Public Services,
+354,Availability of Urban Health Facilities,Social Metrics,Population Growth in Urban Areas,Access to Urban Public Services,Availability of Urban Health Facilities
+355,Public Transportation Accessibility,Social Metrics,Population Growth in Urban Areas,Access to Urban Public Services,Public Transportation Accessibility
+356,Urban Education Enrollment Rates,Social Metrics,Population Growth in Urban Areas,Access to Urban Public Services,Urban Education Enrollment Rates
+357,Urban Population Age Distribution,Social Metrics,Population Growth in Urban Areas,Urban Population Age Distribution,
+358,Proportion of Elderly Residents,Social Metrics,Population Growth in Urban Areas,Urban Population Age Distribution,Proportion of Elderly Residents
+359,Youth Population Ratio,Social Metrics,Population Growth in Urban Areas,Urban Population Age Distribution,Youth Population Ratio
+360,Median Age of Urban Residents,Social Metrics,Population Growth in Urban Areas,Urban Population Age Distribution,Median Age of Urban Residents
+361,Working Age Population Share,Social Metrics,Population Growth in Urban Areas,Urban Population Age Distribution,Working Age Population Share
+362,Educational Attainment Levels,Social Metrics,Educational Attainment Levels,,
+363,Secondary School Graduation Rates,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,
+364,Access to Educational Resources,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,Access to Educational Resources
+365,Student Attendance Rates,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,Student Attendance Rates
+366,Teacher-Student Ratios,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,Teacher-Student Ratios
+367,Parental Engagement in Education,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,Parental Engagement in Education
+368,Extracurricular Program Availability,Social Metrics,Educational Attainment Levels,Secondary School Graduation Rates,Extracurricular Program Availability
+369,Literacy Rates among Adults,Social Metrics,Educational Attainment Levels,Literacy Rates among Adults,
+370,Reading Comprehension Levels,Social Metrics,Educational Attainment Levels,Literacy Rates among Adults,Reading Comprehension Levels
+371,Access to Adult Education Programs,Social Metrics,Educational Attainment Levels,Literacy Rates among Adults,Access to Adult Education Programs
+372,Access to Higher Education,Social Metrics,Educational Attainment Levels,Access to Higher Education,
+373,University Enrollment Rates,Social Metrics,Educational Attainment Levels,Access to Higher Education,University Enrollment Rates
+374,Scholarship Availability,Social Metrics,Educational Attainment Levels,Access to Higher Education,Scholarship Availability
+375,Proximity to Higher Education Institutions,Social Metrics,Educational Attainment Levels,Access to Higher Education,Proximity to Higher Education Institutions
+376,Internet Access for Online Learning,Social Metrics,Educational Attainment Levels,Access to Higher Education,Internet Access for Online Learning
+377,Faculty-to-Student Ratio,Social Metrics,Educational Attainment Levels,Access to Higher Education,Faculty-to-Student Ratio
+378,Vocational Training Enrollment,Social Metrics,Educational Attainment Levels,Vocational Training Enrollment,
+379,Skill Development Program Participation,Social Metrics,Educational Attainment Levels,Vocational Training Enrollment,Skill Development Program Participation
+380,Local Industry Partnership Initiatives,Social Metrics,Educational Attainment Levels,Vocational Training Enrollment,Local Industry Partnership Initiatives
+381,Youth Vocational Engagement,Social Metrics,Educational Attainment Levels,Vocational Training Enrollment,Youth Vocational Engagement
+382,Early Childhood Education Participation,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,
+383,Enrollment Rates in Early Childhood Education Programs,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Enrollment Rates in Early Childhood Education Programs
+384,Access to Early Childhood Education Facilities,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Access to Early Childhood Education Facilities
+385,Availability of Qualified Early Childhood Educators,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Availability of Qualified Early Childhood Educators
+386,Parental Awareness and Attitudes Towards Early Education,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Parental Awareness and Attitudes Towards Early Education
+387,Government Funding for Early Childhood Education Initiatives,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Government Funding for Early Childhood Education Initiatives
+388,Community-based Early Childhood Education Initiatives,Social Metrics,Educational Attainment Levels,Early Childhood Education Participation,Community-based Early Childhood Education Initiatives
+389,Healthcare Access and Utilization,Social Metrics,Healthcare Access and Utilization,,
+390,Availability of Primary Care Facilities,Social Metrics,Healthcare Access and Utilization,Availability of Primary Care Facilities,
+391,Primary Care Facility Distribution,Social Metrics,Healthcare Access and Utilization,Availability of Primary Care Facilities,Primary Care Facility Distribution
+392,Operational Hours of Primary Care Facilities,Social Metrics,Healthcare Access and Utilization,Availability of Primary Care Facilities,Operational Hours of Primary Care Facilities
+393,Patient Capacity in Primary Care Facilities,Social Metrics,Healthcare Access and Utilization,Availability of Primary Care Facilities,Patient Capacity in Primary Care Facilities
+394,Quality Assurance Accreditation of Primary Care Facilities,Social Metrics,Healthcare Access and Utilization,Availability of Primary Care Facilities,Quality Assurance Accreditation of Primary Care Facilities
+395,Number of Healthcare Providers,Social Metrics,Healthcare Access and Utilization,Number of Healthcare Providers,
+396,Density of Healthcare Professionals per Capita,Social Metrics,Healthcare Access and Utilization,Number of Healthcare Providers,Density of Healthcare Professionals per Capita
+397,Number of Specialized Medical Practitioners,Social Metrics,Healthcare Access and Utilization,Number of Healthcare Providers,Number of Specialized Medical Practitioners
+398,Quantity of Registered Nursing Staff,Social Metrics,Healthcare Access and Utilization,Number of Healthcare Providers,Quantity of Registered Nursing Staff
+399,Basis for Healthcare Provider Training Programs,Social Metrics,Healthcare Access and Utilization,Number of Healthcare Providers,Basis for Healthcare Provider Training Programs
+400,Frequency of Health Check-ups,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,
+401,Frequency of Routine Adult Health Screenings,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,Frequency of Routine Adult Health Screenings
+402,Frequency of Child Immunization Visits,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,Frequency of Child Immunization Visits
+403,Frequency of Chronic Disease Monitoring Consultations,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,Frequency of Chronic Disease Monitoring Consultations
+404,Frequency of Elderly Health Assessments,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,Frequency of Elderly Health Assessments
+405,Frequency of Occupational Health Examinations,Social Metrics,Healthcare Access and Utilization,Frequency of Health Check-ups,Frequency of Occupational Health Examinations
+406,Utilization of Preventive Health Services,Social Metrics,Healthcare Access and Utilization,Utilization of Preventive Health Services,
+407,Vaccination Coverage Rates,Social Metrics,Healthcare Access and Utilization,Utilization of Preventive Health Services,Vaccination Coverage Rates
+408,Rate of Health Screenings,Social Metrics,Healthcare Access and Utilization,Utilization of Preventive Health Services,Rate of Health Screenings
+409,Participation in Public Health Campaigns,Social Metrics,Healthcare Access and Utilization,Utilization of Preventive Health Services,Participation in Public Health Campaigns
+410,Uptake of Immunization Programs in Schools,Social Metrics,Healthcare Access and Utilization,Utilization of Preventive Health Services,Uptake of Immunization Programs in Schools
+411,Access to Affordable Medication,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,
+412,Availability of Subsidized Medications,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Availability of Subsidized Medications
+413,Coverage of Health Insurance Plans,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Coverage of Health Insurance Plans
+414,Cost of Generic Medications,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Cost of Generic Medications
+415,Distribution of Pharmacies in Rural Areas,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Distribution of Pharmacies in Rural Areas
+416,Access to Prescription Assistance Programs,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Access to Prescription Assistance Programs
+417,Proportion of Population with Pharmacy Access,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Proportion of Population with Pharmacy Access
+418,Stocks of Essential Medicines,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Stocks of Essential Medicines
+419,Awareness of Medication Assistance Initiatives,Social Metrics,Healthcare Access and Utilization,Access to Affordable Medication,Awareness of Medication Assistance Initiatives
+420,Reach of Health Education Programs,Social Metrics,Healthcare Access and Utilization,Reach of Health Education Programs,
+421,Participation Rates in Health Workshops,Social Metrics,Healthcare Access and Utilization,Reach of Health Education Programs,Participation Rates in Health Workshops
+422,Distribution of Health Education Materials,Social Metrics,Healthcare Access and Utilization,Reach of Health Education Programs,Distribution of Health Education Materials
+423,Attendance at Community Health Talks,Social Metrics,Healthcare Access and Utilization,Reach of Health Education Programs,Attendance at Community Health Talks
+424,Health Literacy Levels Among School Students,Social Metrics,Healthcare Access and Utilization,Reach of Health Education Programs,Health Literacy Levels Among School Students
+425,Maternal and Child Health Service Utilization,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,
+426,Number of Antenatal Care Visits,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Number of Antenatal Care Visits
+427,Rate of Skilled Birth Attendance,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Rate of Skilled Birth Attendance
+428,Coverage of Immunization Programs for Children,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Coverage of Immunization Programs for Children
+429,Availability of Postnatal Services,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Availability of Postnatal Services
+430,Utilization of Nutrition Programs for Mothers and Children,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Utilization of Nutrition Programs for Mothers and Children
+431,Participation in Maternal Health Education Workshops,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Participation in Maternal Health Education Workshops
+432,Access to Family Planning Services,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Access to Family Planning Services
+433,Engagement in Child Growth Monitoring Activities,Social Metrics,Healthcare Access and Utilization,Maternal and Child Health Service Utilization,Engagement in Child Growth Monitoring Activities
+434,Household Income Distribution,Social Metrics,Household Income Distribution,,
+435,Income Equality Across Regions,Social Metrics,Household Income Distribution,Income Equality Across Regions,
+436,Access to Education Opportunities,Social Metrics,Household Income Distribution,Income Equality Across Regions,Access to Education Opportunities
+437,Healthcare Access and Quality,Social Metrics,Household Income Distribution,Income Equality Across Regions,Healthcare Access and Quality
+438,Access to Quality Employment Opportunities,Social Metrics,Household Income Distribution,Access to Quality Employment Opportunities,
+439,Availability of Vocational Training Programs,Social Metrics,Household Income Distribution,Access to Quality Employment Opportunities,Availability of Vocational Training Programs
+440,Diversity of Employment Sectors,Social Metrics,Household Income Distribution,Access to Quality Employment Opportunities,Diversity of Employment Sectors
+441,Quality of Work Conditions in Emerging Industries,Social Metrics,Household Income Distribution,Access to Quality Employment Opportunities,Quality of Work Conditions in Emerging Industries
+442,Wage Disparity Among Different Sectors,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,
+443,Wage Differences Between Agricultural and Industrial Sectors,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,Wage Differences Between Agricultural and Industrial Sectors
+444,Disparity in Earnings Within Public and Private Educational Institutions,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,Disparity in Earnings Within Public and Private Educational Institutions
+445,Income Variation Between Technology and Traditional Handicraft Industries,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,Income Variation Between Technology and Traditional Handicraft Industries
+446,Salary Differences in Health Services and Retail Jobs,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,Salary Differences in Health Services and Retail Jobs
+447,Earnings Gap Between Tourism and Manufacturing Workers,Social Metrics,Household Income Distribution,Wage Disparity Among Different Sectors,Earnings Gap Between Tourism and Manufacturing Workers
+448,Household Savings Rates,Social Metrics,Household Income Distribution,Household Savings Rates,
+449,Household Income Levels in West Java,Social Metrics,Household Income Distribution,Household Savings Rates,Household Income Levels in West Java
+450,Access to Financial Education Programs,Social Metrics,Household Income Distribution,Household Savings Rates,Access to Financial Education Programs
+451,Availability of Savings and Investment Products,Social Metrics,Household Income Distribution,Household Savings Rates,Availability of Savings and Investment Products
+452,Cultural Attitudes Towards Saving,Social Metrics,Household Income Distribution,Household Savings Rates,Cultural Attitudes Towards Saving
+453,Cost of Living in Urban and Rural Areas,Social Metrics,Household Income Distribution,Household Savings Rates,Cost of Living in Urban and Rural Areas
+454,Access to Digital Banking Services,Social Metrics,Household Income Distribution,Household Savings Rates,Access to Digital Banking Services
+455,Community Engagement and Participation,Social Metrics,Community Engagement and Participation,,
+456,Volunteerism Rates in Community Initiatives,Social Metrics,Community Engagement and Participation,Volunteerism Rates in Community Initiatives,
+457,Participation Rates in Environmental Clean-Up Programs,Social Metrics,Community Engagement and Participation,Volunteerism Rates in Community Initiatives,Participation Rates in Environmental Clean-Up Programs
+458,Enrollment in Community Education and Literacy Projects,Social Metrics,Community Engagement and Participation,Volunteerism Rates in Community Initiatives,Enrollment in Community Education and Literacy Projects
+459,Involvement in Local Health and Wellness Campaigns,Social Metrics,Community Engagement and Participation,Volunteerism Rates in Community Initiatives,Involvement in Local Health and Wellness Campaigns
+460,Participation in Local Cultural and Religious Events,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,
+461,Attendance Rates at Traditional Dance Performances,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Attendance Rates at Traditional Dance Performances
+462,Participation Levels in Local Religious Celebrations,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Participation Levels in Local Religious Celebrations
+463,Local Engagement in Cultural Festivals,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Local Engagement in Cultural Festivals
+464,Presence at Community Puppet Shows,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Presence at Community Puppet Shows
+465,Involvement in Mosque and Temple Activities,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Involvement in Mosque and Temple Activities
+466,Participation in Batik Workshops and Exhibitions,Social Metrics,Community Engagement and Participation,Participation in Local Cultural and Religious Events,Participation in Batik Workshops and Exhibitions
+467,Involvement in Neighborhood Associations and Meetings,Social Metrics,Community Engagement and Participation,Involvement in Neighborhood Associations and Meetings,
+468,Attendance at Local Governance Meetings,Social Metrics,Community Engagement and Participation,Involvement in Neighborhood Associations and Meetings,Attendance at Local Governance Meetings
+469,Active Membership in Neighborhood Watch Programs,Social Metrics,Community Engagement and Participation,Involvement in Neighborhood Associations and Meetings,Active Membership in Neighborhood Watch Programs
+470,Membership in Social and Recreational Clubs,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,
+471,Frequency of Club Activities,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,Frequency of Club Activities
+472,Variety of Club Types,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,Variety of Club Types
+473,Demographic Diversity of Club Members,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,Demographic Diversity of Club Members
+474,Average Club Size,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,Average Club Size
+475,Availability of Club Facilities,Social Metrics,Community Engagement and Participation,Membership in Social and Recreational Clubs,Availability of Club Facilities
+476,Information Environment,Information Environment,,,
+477,Digital Literacy Rates,Information Environment,Digital Literacy Rates,,
+478,Digital Literacy Education Programs,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,
+479,Digital Literacy Curriculum Development,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Digital Literacy Curriculum Development
+480,Teacher Training and Development for Digital Literacy,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Teacher Training and Development for Digital Literacy
+481,Public Awareness Campaigns on Digital Literacy,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Public Awareness Campaigns on Digital Literacy
+482,Community Workshops for Digital Skills,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Community Workshops for Digital Skills
+483,Digital Learning Resource Availability,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Digital Learning Resource Availability
+484,Collaboration with Local Tech Industries,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Collaboration with Local Tech Industries
+485,Assessment Tools for Digital Literacy Proficiency,Information Environment,Digital Literacy Rates,Digital Literacy Education Programs,Assessment Tools for Digital Literacy Proficiency
+486,Internet Access and Usage Skills,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,
+487,Household Internet Connectivity,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,Household Internet Connectivity
+488,Public Wi-Fi Availability,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,Public Wi-Fi Availability
+489,Mobile Data Coverage,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,Mobile Data Coverage
+490,Online Content Creation,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,Online Content Creation
+491,Digital Communication Proficiency,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,Digital Communication Proficiency
+492,E-Government Service Accessibility,Information Environment,Digital Literacy Rates,Internet Access and Usage Skills,E-Government Service Accessibility
+493,Access to Information Technology,Information Environment,Access to Information Technology,,
+494,Internet Penetration,Information Environment,Access to Information Technology,Internet Penetration,
+495,Broadband Subscription Rates,Information Environment,Access to Information Technology,Internet Penetration,Broadband Subscription Rates
+496,Digital Literacy Programs,Information Environment,Access to Information Technology,Internet Penetration,Digital Literacy Programs
+497,Mobile Device Ownership,Information Environment,Access to Information Technology,Mobile Device Ownership,
+498,Smartphone Penetration,Information Environment,Access to Information Technology,Mobile Device Ownership,Smartphone Penetration
+499,Mobile Internet Subscription Rates,Information Environment,Access to Information Technology,Mobile Device Ownership,Mobile Internet Subscription Rates
+500,Usage of Mobile Applications,Information Environment,Access to Information Technology,Mobile Device Ownership,Usage of Mobile Applications
+501,Ownership of Multiple Devices,Information Environment,Access to Information Technology,Mobile Device Ownership,Ownership of Multiple Devices
+502,Digital Infrastructure Development,Information Environment,Access to Information Technology,Digital Infrastructure Development,
+503,Broadband Network Expansion,Information Environment,Access to Information Technology,Digital Infrastructure Development,Broadband Network Expansion
+504,Data Center Capacity,Information Environment,Access to Information Technology,Digital Infrastructure Development,Data Center Capacity
+505,Infrastructure Resilience,Infrastructure Resilience,,,
+506,Flood Control Systems,Infrastructure Resilience,Flood Control Systems,,
+507,Levee and Embankment Integrity,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,
+508,Soil Compaction Levels,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Soil Compaction Levels
+509,Vegetation Density on Levees,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Vegetation Density on Levees
+510,Erosion Rates of Embankments,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Erosion Rates of Embankments
+511,Structural Integrity of Floodwalls,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Structural Integrity of Floodwalls
+512,Seepage Control Measures,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Seepage Control Measures
+513,Material Composition of Levees,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Material Composition of Levees
+514,Inspection Frequency and Assessment,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Inspection Frequency and Assessment
+515,Load-bearing Capacity of Embankments,Infrastructure Resilience,Flood Control Systems,Levee and Embankment Integrity,Load-bearing Capacity of Embankments
+516,Drainage Capacity,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,
+517,Stormwater Infiltration Systems Efficiency,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Stormwater Infiltration Systems Efficiency
+518,Channel Flow Rates,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Channel Flow Rates
+519,Urban Drainage Infrastructure Coverage,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Urban Drainage Infrastructure Coverage
+520,Vegetative Cover and Green Infrastructure,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Vegetative Cover and Green Infrastructure
+521,Drainage System Maintenance Regularity,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Drainage System Maintenance Regularity
+522,Runoff Collection and Storage Capacity,Infrastructure Resilience,Flood Control Systems,Drainage Capacity,Runoff Collection and Storage Capacity
+523,Pumping Station Effectiveness,Infrastructure Resilience,Flood Control Systems,Pumping Station Effectiveness,
+524,Pump Capacity,Infrastructure Resilience,Flood Control Systems,Pumping Station Effectiveness,Pump Capacity
+525,Operational Reliability,Infrastructure Resilience,Flood Control Systems,Pumping Station Effectiveness,Operational Reliability
+526,Maintenance Frequency,Infrastructure Resilience,Flood Control Systems,Pumping Station Effectiveness,Maintenance Frequency
+527,Floodplain Management,Infrastructure Resilience,Flood Control Systems,Floodplain Management,
+528,Wetland Conservation Areas,Infrastructure Resilience,Flood Control Systems,Floodplain Management,Wetland Conservation Areas
+529,Floodplain Zoning Regulations,Infrastructure Resilience,Flood Control Systems,Floodplain Management,Floodplain Zoning Regulations
+530,Flood Defense Structures,Infrastructure Resilience,Flood Control Systems,Floodplain Management,Flood Defense Structures
+531,Riverbank Stabilization Projects,Infrastructure Resilience,Flood Control Systems,Floodplain Management,Riverbank Stabilization Projects
+532,Erosion Control Measures,Infrastructure Resilience,Flood Control Systems,Floodplain Management,Erosion Control Measures
+533,Reservoir Storage Levels,Infrastructure Resilience,Flood Control Systems,Reservoir Storage Levels,
+534,Rainwater Capture Efficiency,Infrastructure Resilience,Flood Control Systems,Reservoir Storage Levels,Rainwater Capture Efficiency
+535,Sedimentation Rates,Infrastructure Resilience,Flood Control Systems,Reservoir Storage Levels,Sedimentation Rates
+536,Water Allocation Capacity,Infrastructure Resilience,Flood Control Systems,Reservoir Storage Levels,Water Allocation Capacity
+537,Canal Network Maintenance,Infrastructure Resilience,Flood Control Systems,Canal Network Maintenance,
+538,Sediment Buildup,Infrastructure Resilience,Flood Control Systems,Canal Network Maintenance,Sediment Buildup
+539,Canal Liner Condition,Infrastructure Resilience,Flood Control Systems,Canal Network Maintenance,Canal Liner Condition
+540,Vegetation Management,Infrastructure Resilience,Flood Control Systems,Canal Network Maintenance,Vegetation Management
+541,Water Flow Regulation,Infrastructure Resilience,Flood Control Systems,Canal Network Maintenance,Water Flow Regulation
+542,Seismic Design Standards,Infrastructure Resilience,Seismic Design Standards,,
+543,Seismic Building Codes Compliance,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,
+544,Building Inspection Frequencies,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Building Inspection Frequencies
+545,Compliance Rate of Newly Constructed Buildings,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Compliance Rate of Newly Constructed Buildings
+546,Training Programs for Engineers and Inspectors,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Training Programs for Engineers and Inspectors
+547,Public Awareness and Education Campaigns,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Public Awareness and Education Campaigns
+548,Adoption Rate of Updated Seismic Codes,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Adoption Rate of Updated Seismic Codes
+549,Integration of Local Geotechnical Data in Code Guidelines,Infrastructure Resilience,Seismic Design Standards,Seismic Building Codes Compliance,Integration of Local Geotechnical Data in Code Guidelines
+550,Earthquake-Resistant Material Usage,Infrastructure Resilience,Seismic Design Standards,Earthquake-Resistant Material Usage,
+551,Local Production of Earthquake-Resistant Materials,Infrastructure Resilience,Seismic Design Standards,Earthquake-Resistant Material Usage,Local Production of Earthquake-Resistant Materials
+552,Adoption of Innovative Construction Techniques in West Java,Infrastructure Resilience,Seismic Design Standards,Earthquake-Resistant Material Usage,Adoption of Innovative Construction Techniques in West Java
+553,Seismic Retrofit Implementation,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,
+554,Number of Retrofitted Public Buildings,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Number of Retrofitted Public Buildings
+555,Seismic Strengthening of Historical Structures,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Seismic Strengthening of Historical Structures
+556,Retrofit Adoption in Residential Buildings,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Retrofit Adoption in Residential Buildings
+557,Availability of Local Retrofit Technologies,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Availability of Local Retrofit Technologies
+558,Training Programs for Retrofit Professionals,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Training Programs for Retrofit Professionals
+559,Community Awareness on Seismic Retrofitting,Infrastructure Resilience,Seismic Design Standards,Seismic Retrofit Implementation,Community Awareness on Seismic Retrofitting
+560,Seismic Hazard Assessment Coverage,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,
+561,Geological Survey Extent in West Java,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,Geological Survey Extent in West Java
+562,Seismological Station Density,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,Seismological Station Density
+563,Historical Seismic Data Availability,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,Historical Seismic Data Availability
+564,Seismic Risk Zone Mapping,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,Seismic Risk Zone Mapping
+565,Community Awareness Program Reach,Infrastructure Resilience,Seismic Design Standards,Seismic Hazard Assessment Coverage,Community Awareness Program Reach
+566,Structural Health Monitoring Systems,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,
+567,Sensor Network Density in Infrastructure,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Sensor Network Density in Infrastructure
+568,Data Collection Frequency from Monitoring Systems,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Data Collection Frequency from Monitoring Systems
+569,Real-Time Monitoring System Availability,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Real-Time Monitoring System Availability
+570,Automated Condition Assessment Capability,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Automated Condition Assessment Capability
+571,Predictive Maintenance Implementation,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Predictive Maintenance Implementation
+572,System Integration across Infrastructure,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,System Integration across Infrastructure
+573,Community Awareness and Training Programs,Infrastructure Resilience,Seismic Design Standards,Structural Health Monitoring Systems,Community Awareness and Training Programs
+574,Transportation Network Robustness,Infrastructure Resilience,Transportation Network Robustness,,
+575,Road Surface Integrity,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,
+576,Asphalt Condition,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Asphalt Condition
+577,Pavement Thickness,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Pavement Thickness
+578,Surface Drainage Effectiveness,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Surface Drainage Effectiveness
+579,Crack Density,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Crack Density
+580,Skid Resistance Levels,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Skid Resistance Levels
+581,Load Bearing Capacity,Infrastructure Resilience,Transportation Network Robustness,Road Surface Integrity,Load Bearing Capacity
+582,Bridge Structural Strength,Infrastructure Resilience,Transportation Network Robustness,Bridge Structural Strength,
+583,Load-Bearing Capacity,Infrastructure Resilience,Transportation Network Robustness,Bridge Structural Strength,Load-Bearing Capacity
+584,Material Durability,Infrastructure Resilience,Transportation Network Robustness,Bridge Structural Strength,Material Durability
+585,Foundation Stability,Infrastructure Resilience,Transportation Network Robustness,Bridge Structural Strength,Foundation Stability
+586,Public Transit Capacity,Infrastructure Resilience,Transportation Network Robustness,Public Transit Capacity,
+587,Bus Fleet Size,Infrastructure Resilience,Transportation Network Robustness,Public Transit Capacity,Bus Fleet Size
+588,Train Passenger Density,Infrastructure Resilience,Transportation Network Robustness,Public Transit Capacity,Train Passenger Density
+589,Scheduled Service Frequency,Infrastructure Resilience,Transportation Network Robustness,Public Transit Capacity,Scheduled Service Frequency
+590,Station Throughput,Infrastructure Resilience,Transportation Network Robustness,Public Transit Capacity,Station Throughput
+591,Traffic Signal Reliability,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,
+592,Signal Timing Accuracy,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,Signal Timing Accuracy
+593,Power Supply Stability,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,Power Supply Stability
+594,Hardware Durability,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,Hardware Durability
+595,System Software Updates,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,System Software Updates
+596,Environmental Adaptability,Infrastructure Resilience,Transportation Network Robustness,Traffic Signal Reliability,Environmental Adaptability
+597,Railway Track Quality,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,
+598,Track Material Durability,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,Track Material Durability
+599,Rail Alignment Precision,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,Rail Alignment Precision
+600,Ballast Density Consistency,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,Ballast Density Consistency
+601,Track Joint Security,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,Track Joint Security
+602,Drainage System Efficiency,Infrastructure Resilience,Transportation Network Robustness,Railway Track Quality,Drainage System Efficiency
+603,Port Infrastructure Condition,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,
+604,Dock Structural Integrity,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Dock Structural Integrity
+605,Port Equipment Availability,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Port Equipment Availability
+606,Harbor Depth Adequacy,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Harbor Depth Adequacy
+607,Cargo Handling Capacity,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Cargo Handling Capacity
+608,Container Storage Availability,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Container Storage Availability
+609,Port Traffic Management Efficiency,Infrastructure Resilience,Transportation Network Robustness,Port Infrastructure Condition,Port Traffic Management Efficiency
+610,Airport Operational Efficiency,Infrastructure Resilience,Transportation Network Robustness,Airport Operational Efficiency,
+611,Runway Maintenance Quality,Infrastructure Resilience,Transportation Network Robustness,Airport Operational Efficiency,Runway Maintenance Quality
+612,Baggage Handling System Capacity,Infrastructure Resilience,Transportation Network Robustness,Airport Operational Efficiency,Baggage Handling System Capacity
+613,Energy Supply Security,Infrastructure Resilience,Energy Supply Security,,
+614,Renewable Energy Capacity,Infrastructure Resilience,Energy Supply Security,Renewable Energy Capacity,
+615,Solar Panel Installations,Infrastructure Resilience,Energy Supply Security,Renewable Energy Capacity,Solar Panel Installations
+616,Wind Turbine Deployments,Infrastructure Resilience,Energy Supply Security,Renewable Energy Capacity,Wind Turbine Deployments
+617,Geothermal Plant Operations,Infrastructure Resilience,Energy Supply Security,Renewable Energy Capacity,Geothermal Plant Operations
+618,Grid Stability,Infrastructure Resilience,Energy Supply Security,Grid Stability,
+619,Transmission Line Reliability,Infrastructure Resilience,Energy Supply Security,Grid Stability,Transmission Line Reliability
+620,Distribution Network Maintenance,Infrastructure Resilience,Energy Supply Security,Grid Stability,Distribution Network Maintenance
+621,Load Balancing Efficiency,Infrastructure Resilience,Energy Supply Security,Grid Stability,Load Balancing Efficiency
+622,Grid Monitoring Systems,Infrastructure Resilience,Energy Supply Security,Grid Stability,Grid Monitoring Systems
+623,Fault Detection Technologies,Infrastructure Resilience,Energy Supply Security,Grid Stability,Fault Detection Technologies
+624,System Redundancy Measures,Infrastructure Resilience,Energy Supply Security,Grid Stability,System Redundancy Measures
+625,Energy Storage Systems,Infrastructure Resilience,Energy Supply Security,Energy Storage Systems,
+626,Battery Capacity for Residential Areas,Infrastructure Resilience,Energy Supply Security,Energy Storage Systems,Battery Capacity for Residential Areas
+627,Integration with Off-Grid Communities,Infrastructure Resilience,Energy Supply Security,Energy Storage Systems,Integration with Off-Grid Communities
+628,Community-Based Energy Storage Monitoring,Infrastructure Resilience,Energy Supply Security,Energy Storage Systems,Community-Based Energy Storage Monitoring
+629,Cyclone and Weather-Adaptive Storage Design,Infrastructure Resilience,Energy Supply Security,Energy Storage Systems,Cyclone and Weather-Adaptive Storage Design
+630,Backup Power Solutions,Infrastructure Resilience,Energy Supply Security,Backup Power Solutions,
+631,Generator Availability,Infrastructure Resilience,Energy Supply Security,Backup Power Solutions,Generator Availability
+632,Redundancy Levels,Infrastructure Resilience,Energy Supply Security,Backup Power Solutions,Redundancy Levels
+633,Fuel Supply Security,Infrastructure Resilience,Energy Supply Security,Backup Power Solutions,Fuel Supply Security
+634,Load Capacity,Infrastructure Resilience,Energy Supply Security,Backup Power Solutions,Load Capacity

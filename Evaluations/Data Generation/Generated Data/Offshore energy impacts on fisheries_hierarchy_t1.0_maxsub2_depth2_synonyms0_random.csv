@@ -1,0 +1,43 @@
+,topic,category 0,category 1,category 2
+0,Fish Population Metrics,Fish Population Metrics,,
+1,Fish Species Abundance,Fish Population Metrics,Fish Species Abundance,
+2,Species Richness in Offshore Wind Farm Areas,Fish Population Metrics,Fish Species Abundance,Species Richness in Offshore Wind Farm Areas
+3,Species Density near Energy Extraction Sites,Fish Population Metrics,Fish Species Abundance,Species Density near Energy Extraction Sites
+4,Biomass Composition,Fish Population Metrics,Biomass Composition,
+5,Fish Species Biomass Distribution,Fish Population Metrics,Biomass Composition,Fish Species Biomass Distribution
+6,Age Class Biomass Ratio,Fish Population Metrics,Biomass Composition,Age Class Biomass Ratio
+7,Fishing Effort & Utilization,Fishing Effort & Utilization,,
+8,Fishing Fleet Deployment Levels,Fishing Effort & Utilization,Fishing Fleet Deployment Levels,
+9,Number of Active Vessels,Fishing Effort & Utilization,Fishing Fleet Deployment Levels,Number of Active Vessels
+10,Days at Sea per Vessel,Fishing Effort & Utilization,Fishing Fleet Deployment Levels,Days at Sea per Vessel
+11,Fishing Gear Usage Intensity,Fishing Effort & Utilization,Fishing Gear Usage Intensity,
+12,Trawl Net Deployment Frequency,Fishing Effort & Utilization,Fishing Gear Usage Intensity,Trawl Net Deployment Frequency
+13,Longline Hook Count Per Fishing Trip,Fishing Effort & Utilization,Fishing Gear Usage Intensity,Longline Hook Count Per Fishing Trip
+14,Governance Effectiveness & Stakeholder Engagement,Governance Effectiveness & Stakeholder Engagement,,
+15,Regulatory Compliance Levels,Governance Effectiveness & Stakeholder Engagement,Regulatory Compliance Levels,
+16,Offshore Energy Project Licensing Compliance,Governance Effectiveness & Stakeholder Engagement,Regulatory Compliance Levels,Offshore Energy Project Licensing Compliance
+17,Marine Safety Regulation Adherence,Governance Effectiveness & Stakeholder Engagement,Regulatory Compliance Levels,Marine Safety Regulation Adherence
+18,Stakeholder Participation Rates in Decision-Making Processes,Governance Effectiveness & Stakeholder Engagement,Stakeholder Participation Rates in Decision-Making Processes,
+19,Frequency of Stakeholder Consultations,Governance Effectiveness & Stakeholder Engagement,Stakeholder Participation Rates in Decision-Making Processes,Frequency of Stakeholder Consultations
+20,Diversity of Stakeholder Representation,Governance Effectiveness & Stakeholder Engagement,Stakeholder Participation Rates in Decision-Making Processes,Diversity of Stakeholder Representation
+21,Offshore Energy Infrastructure Development,Offshore Energy Infrastructure Development,,
+22,Offshore Wind Turbine Installation,Offshore Energy Infrastructure Development,Offshore Wind Turbine Installation,
+23,Installation Site Density,Offshore Energy Infrastructure Development,Offshore Wind Turbine Installation,Installation Site Density
+24,Turbine Construction Scale,Offshore Energy Infrastructure Development,Offshore Wind Turbine Installation,Turbine Construction Scale
+25,Subsea Cabling Networks,Offshore Energy Infrastructure Development,Subsea Cabling Networks,
+26,Cable Length Deployment,Offshore Energy Infrastructure Development,Subsea Cabling Networks,Cable Length Deployment
+27,Interconnection Point Density,Offshore Energy Infrastructure Development,Subsea Cabling Networks,Interconnection Point Density
+28,Marine Environmental Quality,Marine Environmental Quality,,
+29,Water Pollution Levels,Marine Environmental Quality,Water Pollution Levels,
+30,Chemical Contaminant Concentration,Marine Environmental Quality,Water Pollution Levels,Chemical Contaminant Concentration
+31,Microplastic Density,Marine Environmental Quality,Water Pollution Levels,Microplastic Density
+32,Seafloor Habitat Integrity,Marine Environmental Quality,Seafloor Habitat Integrity,
+33,Sediment Composition Variability,Marine Environmental Quality,Seafloor Habitat Integrity,Sediment Composition Variability
+34,Benthic Species Diversity,Marine Environmental Quality,Seafloor Habitat Integrity,Benthic Species Diversity
+35,Fisheries Economic Performance,Fisheries Economic Performance,,
+36,Revenue from Fisheries Exports,Fisheries Economic Performance,Revenue from Fisheries Exports,
+37,Export Market Prices for Fishery Products,Fisheries Economic Performance,Revenue from Fisheries Exports,Export Market Prices for Fishery Products
+38,Volume of Fish Products Exported,Fisheries Economic Performance,Revenue from Fisheries Exports,Volume of Fish Products Exported
+39,Value of Fisheries-Related Jobs,Fisheries Economic Performance,Value of Fisheries-Related Jobs,
+40,Income Levels in Fisheries Sector,Fisheries Economic Performance,Value of Fisheries-Related Jobs,Income Levels in Fisheries Sector
+41,Number of Fisheries-Related Employment Opportunities,Fisheries Economic Performance,Value of Fisheries-Related Jobs,Number of Fisheries-Related Employment Opportunities

@@ -1,0 +1,2545 @@
+{
+  "Political Indicators": {
+    "Voter Turnout Rates": {
+      "Youth Voter Participation": {
+        "Youth Voter Turnout Rates": {
+          "Youth Voter Registration Numbers": {
+            "Online voter registration participation": {},
+            "Youth political advocacy groups": {},
+            "High school civic education programs": {},
+            "Local government youth outreach initiatives": {}
+          },
+          "Accessibility of Polling Stations for Youth": {
+            "Number of youth-friendly polling locations": {},
+            "Availability of public transportation to polling sites for youth": {},
+            "Extent of youth-targeted voting awareness campaigns": {}
+          }
+        },
+        "Political Awareness Among Youth": {
+          "Participation in Political Discussions": {
+            "Community Forum Attendance": {},
+            "Engagement in Political Online Groups": {},
+            "Participation in Town Hall Meetings": {},
+            "Involvement in Political Debates": {}
+          },
+          "Awareness of Political Platforms": {
+            "Understanding of Party Manifestos": {},
+            "Recognition of Political Leadership": {},
+            "Knowledge of Policy Proposals": {}
+          }
+        },
+        "Youth Engagement in Political Campaigns": {
+          "Participation in Political Rallies": {
+            "Number of Attendees at Rallies": {},
+            "Frequency of Rallies Held": {},
+            "Diversity of Political Groups Represented": {},
+            "Level of Youth Participation": {}
+          },
+          "Involvement in Campaign Volunteer Programs": {
+            "Volunteer Recruitment Numbers": {},
+            "Diversity of Volunteer Demographics": {},
+            "Volunteer Training Sessions": {},
+            "Volunteer Retention Rates": {}
+          }
+        }
+      },
+      "Rural Voter Engagement": {
+        "Community Political Participation Events": {
+          "Voter Registration Drives": {
+            "Number of Registration Centers": {},
+            "Volume of Voter Outreach Programs": {}
+          },
+          "Political Campaign Rallies": {
+            "Rally Attendance Numbers": {},
+            "Local Candidate Endorsements": {},
+            "Frequency of Campaign Rallies": {},
+            "Distribution of Campaign Materials": {}
+          },
+          "Town Hall Meetings Participation": {
+            "Number of Attendees at Town Hall Meetings": {},
+            "Frequency of Town Hall Meetings Held": {}
+          },
+          "Civic Education Sessions Frequency": {
+            "Local Government Workshops Frequency": {},
+            "Community Civic Engagement Programs": {},
+            "School-Based Civic Curriculum Sessions": {},
+            "Frequency of Legal Rights Awareness Programs": {}
+          }
+        },
+        "Access to Polling Stations": {
+          "Availability of Polling Station Locations": {
+            "Polling Station Density": {},
+            "Geographic Coverage of Polling Stations": {},
+            "Accessibility of Polling Station Facilities": {}
+          },
+          "Polling Station Operational Hours": {
+            "Polling Station Opening Times": {},
+            "Polling Station Closing Times": {},
+            "Allocation of Polling Station Operating Days": {}
+          },
+          "Voter Transportation Accessibility": {
+            "Availability of Public Transport Routes to Polling Stations": {},
+            "Frequency of Public Transport Services on Election Day": {}
+          },
+          "Polling Station Staffing Levels": {
+            "Staff-to-Voter Ratio": {},
+            "Staff Training Duration": {}
+          }
+        },
+        "Political Trust Levels in Local Government": {
+          "Public Confidence in Local Elections": {
+            "Trust in Election Process": {}
+          },
+          "Perception of Local Government Transparency": {
+            "Access to Public Information": {},
+            "Presence of Anti-Corruption Measures": {}
+          }
+        }
+      },
+      "Voter Registration Rates": {
+        "Urban Voter Registration Rates": {
+          "Voter Turnout in Urban Areas": {
+            "Availability of Polling Stations": {},
+            "Urban Political Campaign Engagement": {}
+          },
+          "Age Demographics of Urban Voters": {
+            "Proportion of Young Voters in Urban West Java": {},
+            "Percentage of Middle-aged Voters in Major Cities": {},
+            "Elderly Voter Representation in Metropolitan Areas": {},
+            "Age Group Distribution in Urban Voting Populations": {}
+          },
+          "Political Party Affiliation in Urban Regions": {
+            "Political Campaign Presence in Urban Areas": {},
+            "Urban Political Rally Attendance Rates": {}
+          },
+          "Migration Impact on Urban Voting Populations": {
+            "Urban voter registration shifts": {},
+            "Cultural diversity in urban voting": {},
+            "Language barriers in political engagement": {},
+            "Migrant community political representation": {}
+          }
+        },
+        "Online Voter Registration Adoption": {
+          "Digital Infrastructure Accessibility": {
+            "Internet Penetration Rates": {},
+            "Mobile Network Coverage": {},
+            "Digital Literacy Programs": {}
+          },
+          "User Engagement in Voter Education Platforms": {
+            "Participation in Voter Education Programs": {},
+            "Frequency of Access to Voter Education Content": {}
+          }
+        },
+        "Registration Accuracy and Errors": {
+          "Voter Identification Verification Rates": {
+            "Accuracy of Voter ID Card Issuance": {},
+            "Frequency of Voter Roll Updates": {},
+            "Instances of Voter ID Fraud": {}
+          },
+          "Duplicate Registration Instances": {
+            "Number of Duplicate Voter Entries": {},
+            "Cases of Multiple ID Issuance": {}
+          },
+          "Inaccurate Address Records": {
+            "Address Completeness in Voter Registry": {},
+            "Address Discrepancies in Election Materials Delivery": {},
+            "Incidence of Mismatched Address Data in Official Records": {},
+            "Frequency of Address Updates in Voter Database": {}
+          },
+          "Misclassification of Voter Eligibility": {
+            "Incorrect Age Categorization": {},
+            "Non-Citizen Voter Inclusion": {}
+          }
+        }
+      },
+      "Voter Education Initiatives": {
+        "Community Outreach Programs": {
+          "Participation in Local Governance Meetings": {
+            "Attendance Rates at Village Council Meetings": {},
+            "Frequency of Public Discussions on Local Policies": {},
+            "Participation of Marginalized Communities": {},
+            "Number of Citizen Proposals Submitted": {}
+          },
+          "Engagement with Rural Community Leaders": {
+            "Frequency of Leadership Collaboration Meetings": {},
+            "Representation of Rural Concerns in Policy Discussions": {},
+            "Involvement in Policy Implementation Processes": {}
+          },
+          "Initiatives for Public Feedback Collection": {
+            "Public Consultation Sessions": {},
+            "Feedback Channels in Urban Areas": {},
+            "Multi-stakeholder Policy Forums": {}
+          }
+        },
+        "Civic Education Workshops": {
+          "Participant Enrollment": {
+            "Political Party Membership": {}
+          },
+          "Frequency of Workshops": {
+            "Policy Development Workshops": {},
+            "Citizen Engagement Workshops": {}
+          }
+        }
+      }
+    },
+    "Political Party Representation": {
+      "Legislative Seats Allocation": {
+        "Number of Seats for Political Parties": {
+          "Proportion of Seats Held by Major Political Parties": {
+            "Change in Party Representation within Provincial Committees": {},
+            "Influence of Major Parties on Legislative Agendas": {}
+          },
+          "Seats Occupied by Regional Political Movements": {
+            "Representation of Sundanese Cultural Parties": {},
+            "Participation of Regional Advocacy Groups": {},
+            "Influence of Local Political Alliances": {}
+          }
+        },
+        "Representation of Demographic Groups": {
+          "Representation of Ethnic Groups": {
+            "Political office representation of Sundanese": {},
+            "Legislative participation of Javanese": {},
+            "Policy influence of Betawi": {},
+            "Electoral candidacy diversity": {}
+          },
+          "Representation of Age Demographics": {
+            "Youth Voter Turnout": {},
+            "Age Diversity in Political Candidates": {},
+            "Age Composition in Legislative Bodies": {}
+          },
+          "Representation of Women's Groups": {
+            "Women's participation in local government councils": {},
+            "Proportion of women candidates in regional elections": {},
+            "Women's leadership roles in political parties": {}
+          }
+        },
+        "Allocated Seats for Electoral Districts": {
+          "Population Distribution Across Districts": {
+            "Urbanization Levels in Districts": {},
+            "Population Density Variations": {}
+          },
+          "District Boundary Adjustments": {
+            "Legislative Representation Allocation": {},
+            "Resource Allocation among Districts": {},
+            "Electoral District Competitiveness": {}
+          },
+          "Voter Turnout per District": {
+            "Voter Registration Rates per District": {},
+            "Voting Accessibility and Facilities per District": {}
+          }
+        }
+      },
+      "Local Political Leadership": {
+        "Electoral Participation Rates": {
+          "Voter Registration Levels": {
+            "Youth Voter Registration Rates": {},
+            "Urban Versus Rural Voter Registration": {},
+            "Registration of New Voters": {}
+          },
+          "Voter Turnout Variance by Region": {
+            "Voter Participation Rate in Urban Areas": {},
+            "Voter Participation Rate in Rural Areas": {},
+            "Voter Participation Rate among Ethnic Minorities": {}
+          }
+        },
+        "Approval Ratings of Elected Officials": {
+          "Public Trust in Policy Decisions": {
+            "Satisfaction with Local Governance Initiatives": {},
+            "Confidence in Regional Legal Institutions": {}
+          },
+          "Media Coverage Sentiments": {
+            "Sentiment Towards Government Initiatives": {},
+            "Perception of Political Accountability": {},
+            "Coverage of Political Campaigns": {}
+          },
+          "Community Satisfaction with Governance": {
+            "Citizen Engagement in Local Governance": {},
+            "Quality of Public Service Delivery": {}
+          },
+          "Perception of Leadership Transparency": {
+            "Public Access to Government Information": {},
+            "Visibility of Leadership Decision-Making Processes": {}
+          }
+        },
+        "Local Government Stability": {
+          "Autonomy of Local Leadership": {
+            "Local Policy-Making Authority": {},
+            "Independence in Budget Management": {}
+          },
+          "Effectiveness of Local Governance": {
+            "Quality of Public Services": {},
+            "Citizen Participation in Governance": {},
+            "Transparency of Local Decision-making": {},
+            "Efficiency of Local Bureaucracy": {}
+          },
+          "Security of Local Government Institutions": {
+            "Municipal Regulatory Stability": {},
+            "Integrity of Local Elections": {},
+            "Law Enforcement Autonomy": {},
+            "Public Institution Transparency": {}
+          }
+        },
+        "Public Engagement in Policy Development": {
+          "Civic Participation in Public Consultations": {
+            "Public Attendance at Town Hall Meetings": {},
+            "Number of Submissions in Public Comment Periods": {}
+          },
+          "Involvement in Policy Forum Discussions": {
+            "Attendance at Regional Policy Forums": {},
+            "Frequency of Contributions to Forum Discussions": {},
+            "Representation of Diverse Groups in Forums": {}
+          },
+          "Contribution to Local Policy Proposals": {
+            "Local Stakeholder Advocacy": {},
+            "Representation in Policy Drafting Committees": {},
+            "Influence of Traditional Leadership in Policy-making": {},
+            "Academic and Research Contributions to Policy Proposals": {}
+          },
+          "Engagement in Public Opinion Surveys": {
+            "Public Survey Participation Rates": {},
+            "Demographic Representation in Surveys": {},
+            "Frequency of Survey Distribution": {},
+            "Response Rate Variability": {}
+          }
+        }
+      },
+      "Party Membership Enrollment": {
+        "Urban versus Rural Membership Distribution": {
+          "Community Political Participation": {
+            "Civic Engagement Activities": {}
+          },
+          "Local Political Representation": {
+            "Elected Local Officials": {},
+            "Local Government Councils": {}
+          }
+        },
+        "Youth Membership Engagement": {
+          "Participation in Political Campaigns": {
+            "Volunteer Involvement in Campaign Activities": {}
+          },
+          "Attendance at Political Rallies": {
+            "Frequency of Political Rallies": {},
+            "Diversity of Attendees": {},
+            "Engagement Levels at Rallies": {}
+          },
+          "Membership in Youth Political Organizations": {
+            "Number of Youth Members in Political Parties": {},
+            "Youth Involvement in Student Political Councils": {},
+            "Formation of Youth-Focused Political Workshops": {},
+            "Youth Membership in Local Political Advocacy Groups": {}
+          },
+          "Involvement in Political Decision-Making Processes": {
+            "Local Government Participation": {},
+            "Community Consultation Frequency": {}
+          }
+        },
+        "Membership Retention Rates": {
+          "Local Chapter Engagement": {
+            "Membership Growth": {},
+            "Event Participation": {}
+          },
+          "Leadership Continuity": {
+            "Governance Stability": {},
+            "Policy Consistency": {}
+          },
+          "Cultural Alignment with Regional Values": {
+            "Adherence to Traditional Customs": {},
+            "Regional Representation in Policy-making": {},
+            "Support for Local Governance Structures": {},
+            "Participation in Regional Cultural Events": {}
+          }
+        },
+        "Membership Diversity (ethnicity and gender)": {
+          "Ethnic Representation in Political Parties": {
+            "Ethnic Diversity in Party Leadership Positions": {},
+            "Representation of Ethnic Groups in Regional Political Platforms": {},
+            "Membership Rates of Ethnic Minorities in Major Political Parties": {}
+          },
+          "Gender Distribution in Political Leadership Roles": {
+            "Proportion of Women Mayors": {},
+            "Gender Balance in Regional Council Leadership": {},
+            "Female Representation in Political Party Leadership": {},
+            "Number of Women Legislative Candidates": {}
+          },
+          "Diversity in Political Campaign Participation": {
+            "Cultural Representation in Political Rally Attendance": {},
+            "Age Group Diversity among Political Campaign Volunteers": {},
+            "Religious Sect Involvement in Political Campaign Events": {}
+          },
+          "Minority Group Representation in Governance Bodies": {
+            "Malay Representation in Local Councils": {},
+            "Sundanese Participation in Provincial Assemblies": {},
+            "Indigenous Voices in Municipal Governance": {},
+            "Religious Minority Inclusion in Regional Committees": {}
+          }
+        }
+      }
+    },
+    "Public Policy Implementation": {
+      "Regulatory Compliance in Local Governments": {
+        "Local Government Policy Enforcement": {
+          "Effectiveness of Local Policy Implementation": {
+            "Community Engagement in Policy Decisions": {}
+          },
+          "Compliance with Zoning Regulations": {
+            "Number of Zoning Violation Reports": {},
+            "Frequency of Zoning Regulation Inspections": {}
+          },
+          "Frequency of Local Policy Review and Updates": {
+            "Frequency of Public Consultations": {},
+            "Number of Stakeholder Engagement Sessions": {}
+          }
+        },
+        "Transparency in Local Government Operations": {
+          "Public Access to Government Documents": {
+            "Number of Digitized Government Archives": {},
+            "Availability of Public Consultation Reports": {},
+            "Frequency of Public Updates on Policy Changes": {}
+          },
+          "Disclosure of Government Expenditures": {
+            "Budget Allocation Transparency": {},
+            "Detailed Reporting of Programmatic Spending": {},
+            "Clarity in Intergovernmental Fiscal Transfers": {},
+            "Visibility of Official Travel Expenditures": {}
+          },
+          "Community Participation in Decision-Making": {
+            "Local Stakeholder Engagement": {},
+            "Community Representation in Local Councils": {}
+          },
+          "Transparency in Public Procurement Processes": {
+            "Corruption Prevention Mechanisms": {},
+            "Oversight and Accountability Structures": {}
+          }
+        },
+        "Legal Adherence to Regional Governance Standards": {
+          "Compliance with Regional Election Laws": {
+            "Voter Registration Integrity": {},
+            "Candidate Eligibility Verification": {},
+            "Electoral Roll Accuracy": {},
+            "Campaign Finance Monitoring": {}
+          },
+          "Adherence to Decentralization Regulations": {
+            "Local Government Autonomy": {},
+            "Fiscal Decentralization": {}
+          },
+          "Alignment with Environmental Governance Standards": {
+            "Implementation of Sustainable Land Use Policies": {},
+            "Integration of Environmental Impact Assessments in Policy Development": {},
+            "Adoption of Renewable Energy Regulations": {}
+          }
+        },
+        "Monitoring and Accountability Systems": {
+          "Efficacy of Citizen Feedback Mechanisms": {
+            "Number of Active Public Consultation Events": {},
+            "Percentage of Citizen Participation in Feedback Platforms": {},
+            "Response Time to Feedback from Government Officials": {}
+          },
+          "Frequency of Political Audits": {
+            "Frequency of Audits on Local Government Spending": {},
+            "Frequency of Audits on Political Party Financing": {}
+          },
+          "Strength of Anti-Corruption Measures": {
+            "Number of Corruption Prosecutions": {},
+            "Strength of Regulatory Compliance": {},
+            "Transparency of Government Expenditures": {}
+          },
+          "Independence of Electoral Commissions": {
+            "Electoral Commission Funding Levels": {},
+            "Legal Autonomy of Electoral Commissions": {},
+            "Level of Electoral Commission Transparency": {},
+            "Public Confidence in the Electoral Commission": {}
+          }
+        }
+      },
+      "Efficiency of Public Service Delivery": {
+        "Quality of Public Health Services": {
+          "Availability of Healthcare Facilities": {
+            "Number of Public Health Clinics": {},
+            "Availability of Medical Equipment": {},
+            "Capacity of Emergency Healthcare Services": {}
+          },
+          "Access to Trained Healthcare Professionals": {
+            "Number of Licensed Medical Practitioners": {},
+            "Healthcare Training Program Enrollment": {},
+            "Distribution of Healthcare Workforce in Rural Areas": {}
+          }
+        },
+        "Timeliness of Government Project Completion": {
+          "Project Management Efficiency": {
+            "Regulatory Compliance Rate": {},
+            "Stakeholder Engagement Levels": {},
+            "Policy Implementation Timeliness": {}
+          },
+          "Bureaucratic Process Duration": {
+            "Permit Approval Time for Businesses": {},
+            "Length of Administrative Procedure for Land Acquisition": {},
+            "Time Required for Government Document Processing": {}
+          }
+        },
+        "Citizen Satisfaction with Administrative Services": {
+          "Efficiency of Service Delivery": {
+            "Public Administrative Responsiveness": {},
+            "Availability of Public Services": {},
+            "Quality of Public Service Provision": {}
+          },
+          "Transparency of Administrative Processes": {
+            "Clarity in Government Reporting": {}
+          }
+        }
+      },
+      "Public Access to Policy Information": {
+        "Availability of Legislative Proceedings": {
+          "Accessibility of Public Consultations": {
+            "Participation Rates in Public Forums": {},
+            "Availability of Public Consultation Channels": {}
+          },
+          "Frequency of Legislative Sessions": {
+            "Number of Bills Reviewed": {},
+            "Legislator Attendance": {},
+            "Committee Meetings": {},
+            "Duration of Sessions": {}
+          }
+        },
+        "Transparency in Government Budgeting": {
+          "Publicly Accessible Financial Reports": {
+            "Transparency in Government Spending": {},
+            "Public Financial Audits": {},
+            "Local Government Revenue Reports": {}
+          },
+          "Detail in Budget Allocation Descriptions": {
+            "Specificity in Education Funding Details": {},
+            "Clarity in Health Sector Expenditures": {},
+            "Transparency in Infrastructure Project Allocations": {},
+            "Granularity in Agricultural Subsidy Descriptions": {}
+          }
+        },
+        "Accessibility of E-Government Services": {
+          "User Registration Efficiency": {
+            "Time Required for Registration Processing": {},
+            "Availability of Digital Registration Options": {}
+          },
+          "Service Platform Usability": {
+            "Ease of Access to Government Services Online": {},
+            "User Satisfaction with E-Government Platforms": {},
+            "Engagement with Digital Platforms for Public Consultations": {}
+          },
+          "Availability of Multilingual Interfaces": {
+            "Regional Government Policies on Language Support": {},
+            "Public Sector Interface Language Options": {},
+            "Multilingual Communication Tools in Local Governance": {},
+            "Political Campaign Materials in Multiple Languages": {}
+          },
+          "Coverage of Rural Internet Access": {
+            "Government Funding for Rural Internet Projects": {},
+            "Regulatory Support for Rural Telecommunication": {},
+            "Local Partnerships for Infrastructure Development": {}
+          }
+        }
+      }
+    }
+  },
+  "Military Operations": {
+    "Force Deployment Levels": {
+      "Troop Concentration in Strategic Areas": {
+        "Ground Force Deployment": {
+          "Strategic Base Establishment": {
+            "Logistical Capacity": {},
+            "Security Perimeter Size": {},
+            "Base Infrastructure Complexity": {},
+            "Personnel Accommodation Capacity": {}
+          },
+          "Troop Strength in Combat Zones": {
+            "Forward Operating Bases Personnel": {},
+            "Special Forces Deployment Levels": {},
+            "Infantry Battalion Presence": {},
+            "Air Support Crew Allocation": {}
+          }
+        },
+        "Logistical Support Units Presence": {
+          "Supply Depot Locations": {
+            "Strategic Site Accessibility": {},
+            "Storage Capacity": {},
+            "Security Level": {},
+            "Proximity to Key Military Assets": {}
+          },
+          "Transport Fleet Size": {
+            "Naval Vessel Count": {},
+            "Air Transport Aircraft Count": {},
+            "Armored Vehicle Number": {},
+            "Helicopter Fleet Size": {}
+          },
+          "Logistics Personnel Count": {
+            "Local Supply Chain Managers": {},
+            "Transportation Coordinators": {},
+            "Field Operations Support Staff": {}
+          },
+          "Maintenance Facility Availability": {
+            "Equipment Repair Capacity": {},
+            "Personnel Training Levels": {},
+            "Facility Operational Hours": {},
+            "Inventory of Spare Parts": {}
+          }
+        }
+      },
+      "Naval Fleet Presence": {
+        "Naval Patrol Missions": {
+          "Patrol Frequency": {
+            "Personnel Allocation": {},
+            "Patrol Duration": {},
+            "Route Variation": {}
+          },
+          "Area Coverage": {
+            "Surveillance Radius": {},
+            "Personnel Distribution": {},
+            "Airspace Control Zones": {}
+          },
+          "Vessel Deployment": {
+            "Naval Fleet Size": {},
+            "Operational Readiness": {}
+          }
+        },
+        "Warship Stationing": {
+          "Port Capacity and Utilization": {
+            "Berthing Facilities Usage": {},
+            "Loading and Unloading Efficiency": {}
+          },
+          "Fleet Composition and Distribution": {
+            "Naval Vessel Deployment in Local Waters": {},
+            "Aerial Surveillance and Reconnaissance Missions": {}
+          },
+          "Logistical Support and Supply Chains": {
+            "Supply Route Efficiency": {},
+            "Weaponry and Ammunition Stockpiles": {},
+            "Fuel and Energy Resources Allocation": {},
+            "Field Medical Supply Distribution": {}
+          },
+          "Operational Readiness and Maintenance": {
+            "Equipment Maintenance Levels": {},
+            "Troop Training Intensity": {},
+            "Ammunition Stockpile Status": {}
+          }
+        }
+      },
+      "Air Squadron Allocation": {
+        "Number of Squadrons Deployed": {
+          "Number of Airbases Utilized": {
+            "Airbase Capacity Utilization": {},
+            "Number of Tactical Runways": {}
+          },
+          "Number of Personnel Deployed": {
+            "Infantry Units Assigned": {},
+            "Special Forces Deployment": {},
+            "Support Personnel Allocation": {}
+          },
+          "Mission Duration": {
+            "Operation Tempo": {},
+            "Maintenance Cycles": {},
+            "Supply Chain Efficiency": {},
+            "Terrain Navigation Complexity": {}
+          },
+          "Sortie Frequency": {
+            "Aircraft Availability": {},
+            "Refueling Operations": {},
+            "Air Traffic Management": {},
+            "Training and Simulation Hours": {}
+          }
+        },
+        "Types of Aircraft Assigned": {
+          "Fighter Aircraft Utilization": {
+            "Pilot Training Hours": {},
+            "Aerial Combat Exercises": {},
+            "Fuel Consumption Rates": {}
+          },
+          "Transport Aircraft Deployment": {
+            "Number of Transport Aircraft Missions": {},
+            "Cargo Capacity Utilization": {}
+          },
+          "Reconnaissance Aircraft Assignment": {
+            "Reconnaissance Flight Mission Frequency": {},
+            "Surveillance Coverage Area": {},
+            "Sensor Data Collection Volume": {}
+          }
+        },
+        "Logistical Support for Air Operations": {
+          "Fuel Storage Capacity": {
+            "Storage Tank Volume": {},
+            "Fuel Reserve Levels": {},
+            "Supply Chain Reliability": {}
+          },
+          "Runway Maintenance Status": {
+            "Runway Surface Integrity": {},
+            "Availability of Maintenance Equipment": {}
+          },
+          "Availability of Spare Parts": {
+            "Supply Chain Efficiency for Spare Parts": {},
+            "Inventory Levels of Critical Spare Parts": {}
+          },
+          "Number of Logistical Personnel Available": {
+            "Trained Supply Chain Officers": {},
+            "Inventory Management Specialists": {},
+            "Transport Coordination Staff": {},
+            "Field Logistics Technicians": {}
+          }
+        }
+      },
+      "Reserve Forces Activation": {
+        "Mobilization of Army Reserve Units": {
+          "Personnel Deployment": {
+            "Troop Allocation in Coastal Regions": {},
+            "Military Intelligence Staff Assignments": {},
+            "Medical Support Personnel Distribution": {}
+          },
+          "Readiness Levels": {
+            "Equipment Availability": {},
+            "Logistics and Supply Chains": {},
+            "Training and Exercises": {},
+            "Intelligence Gathering Capabilities": {}
+          },
+          "Command and Control Activation": {
+            "Communication Infrastructure Utilization": {},
+            "Coordination Efficiency among Units": {},
+            "Command Leadership Responsiveness": {}
+          }
+        },
+        "Integration and Training Exercises": {
+          "Joint Tactical Maneuvers": {
+            "Coordination of Infantry Movements": {},
+            "Integration of Mechanized Units": {},
+            "Air-Ground Support Synchronization": {},
+            "Naval and Amphibious Operations": {}
+          },
+          "Interagency Coordination Drills": {
+            "Interagency Communication Efficiency": {},
+            "Resource Allocation Effectiveness": {}
+          },
+          "Combined Arms Training": {
+            "Infantry and Armor Integration Exercises": {},
+            "Artillery and Air Support Coordination": {}
+          },
+          "Cultural Familiarization Programs": {
+            "Language Proficiency Training in Sundanese": {},
+            "Engagements with Local Cultural Leaders": {}
+          }
+        }
+      }
+    },
+    "Military Engagements": {
+      "Joint Training Exercises": {
+        "Multinational Collaboration": {
+          "Coalition Logistics Support": {
+            "Logistical Coordination Points": {},
+            "Transport Asset Availability": {},
+            "Fuel and Resource Stores": {}
+          }
+        },
+        "Urban Terrain Navigation": {
+          "Density of Obstructions": {
+            "Natural Terrain Features": {},
+            "Man-Made Barriers": {}
+          },
+          "Building Access Points": {
+            "Access Point Security Measures": {},
+            "Traffic Flow Control at Access Points": {}
+          },
+          "Road Width Variability": {
+            "Vehicle Maneuverability Space": {},
+            "Troop Movement Capacity": {},
+            "Logistical Transport Efficiency": {},
+            "Emergency Evacuation Routes": {}
+          },
+          "Visibility Range in Urban Areas": {
+            "Street Lighting Levels": {},
+            "Airborne Particulate Density": {},
+            "Vegetation Cover": {},
+            "Building Height Variance": {}
+          }
+        },
+        "Joint Command Synchronization": {
+          "Communication Protocols": {
+            "Secure Communication Channels": {},
+            "Signal Clarity and Reliability": {},
+            "Encryption Standards": {},
+            "Interoperability with Local Forces": {}
+          },
+          "Command and Control Integration": {
+            "Interoperability of Military Systems": {},
+            "Multi-Agency Coordination Activities": {},
+            "Information Sharing Frameworks": {}
+          },
+          "Resource Allocation and Management": {
+            "Logistical Support Capacity": {},
+            "Personnel Assignment Levels": {}
+          },
+          "Operational Timing and Coordination": {
+            "Joint Exercise Schedules": {},
+            "Coordinated Strike Windows": {},
+            "Timing of Troop Movements": {}
+          }
+        }
+      },
+      "Live Combat Simulations": {
+        "Terrain Familiarity": {
+          "Jungle Navigation Skills": {
+            "Terrain Familiarity in Dense Forestry": {},
+            "Compass and Map Reading Proficiency": {},
+            "Use of Natural Landmarks for Orientation": {},
+            "Skill in Constructing Temporary Shelters": {}
+          },
+          "Coastal Operation Tactics": {
+            "Amphibious Assault Readiness": {},
+            "Naval Reconnaissance Capabilities": {},
+            "Coastal Defenses Management": {},
+            "Marine Logistics Efficiency": {}
+          },
+          "Highland Maneuver Strategies": {
+            "Topographical Intelligence Gathering": {},
+            "Mountain Warfare Training Proficiency": {}
+          }
+        },
+        "Civic Infrastructure Acclimatization": {
+          "Road and Bridge Assessment": {
+            "Structural Integrity Evaluations": {},
+            "Trafficability Analysis": {},
+            "Security Risk Assessments": {}
+          },
+          "Communication Network Integration": {
+            "Signal Interoperability": {},
+            "Network Coverage Efficiency": {}
+          },
+          "Supply Chain Adaptation": {
+            "Logistical Coordination Efficiency": {},
+            "Resource Allocation Flexibility": {},
+            "Transport Route Security": {}
+          }
+        }
+      },
+      "Amphibious Operations": {
+        "Landing Craft Availability": {
+          "Number of Operational Landing Craft": {
+            "Deployment Frequency of Landing Craft": {},
+            "Number of Outfitted Landing Craft": {},
+            "Landing Craft Mission Capacity": {}
+          },
+          "Maintenance Levels of Landing Craft": {
+            "Availability of Spare Parts for Landing Craft": {},
+            "Frequency of Scheduled Maintenance Checks for Landing Craft": {}
+          },
+          "Crew Readiness for Landing Craft Operation": {
+            "Training Hours Completed by Crew": {},
+            "Physical Fitness Levels of Crew Members": {},
+            "Proficiency in Navigation and Communication Systems": {}
+          },
+          "Fuel Supply for Landing Craft in West Java": {
+            "Availability of Fuel Storage Facilities": {},
+            "Efficiency of Fuel Transportation Networks": {},
+            "Frequency of Fuel Resupply Missions": {}
+          }
+        },
+        "Beachhead Establishment": {
+          "Secured Perimeter Size": {
+            "Area of Surveillance Coverage": {},
+            "Number of Checkpoints": {},
+            "Length of Defensive Structures": {}
+          },
+          "Troop Concentration": {
+            "Deployment Density in Urban Areas": {},
+            "Unit Coordination in Mountainous Terrain": {},
+            "Reserve Forces in Strategic Locations": {},
+            "Contingent Size in Coastal Regions": {}
+          },
+          "Operational Supply Chain": {
+            "Logistics Support Level": {}
+          }
+        },
+        "Maritime Support Coordination": {
+          "Vessel Traffic Management": {
+            "Naval Coordination Efforts": {},
+            "Vessel Tracking Infrastructure Utilization": {}
+          },
+          "Logistical Supply Routing": {
+            "Supply Inventory Levels": {},
+            "Transport Fleet Availability": {},
+            "Route Security Measures": {}
+          },
+          "Coastal Surveillance Operations": {
+            "Radar Detection Range": {},
+            "Surveillance Drone Deployment": {},
+            "Alert Response Readiness": {},
+            "Patrol Vessel Coverage": {}
+          }
+        },
+        "Naval and Marine Assets Deployment": {
+          "Naval Patrol Frequency": {
+            "Number of Patrol Vessels Deployed": {},
+            "Duration of Patrol Missions": {}
+          }
+        }
+      },
+      "Air Manoeuvres": {
+        "Sortie Rates": {
+          "Flight Hours": {
+            "Sorties Conducted": {},
+            "Training Exercise Duration": {},
+            "Pilot Operational Time": {}
+          },
+          "Pilot Readiness": {
+            "Simulator Training Hours": {},
+            "Medical Fitness Levels": {},
+            "Cognitive Performance Under Stress": {}
+          },
+          "Mission Planning Complexity": {
+            "Terrain Analysis": {},
+            "Intelligence Requirements": {},
+            "Logistical Coordination": {},
+            "Communication Network Robustness": {}
+          }
+        },
+        "Aerial Refueling Capacity": {
+          "Tanker Availability": {
+            "Aerial Refueling Missions": {},
+            "Tanker Fleet Maintenance": {}
+          },
+          "Refueling Infrastructure": {
+            "Refueling Station Accessibility": {}
+          }
+        }
+      }
+    }
+  },
+  "Economic Metrics": {
+    "Agricultural Output in West Java": {
+      "Crop Yield Levels": {
+        "Rice Production Levels": {
+          "Yield per hectare": {
+            "Soil fertility levels": {},
+            "Seed quality": {},
+            "Irrigation efficiency": {},
+            "Pest and disease impact": {}
+          },
+          "Area harvested": {
+            "Rice farm plots allocated": {},
+            "Land conversion for agriculture": {}
+          },
+          "Labor input in rice farming": {
+            "Number of agricultural laborers": {},
+            "Average working hours per laborer": {},
+            "Labor productivity in rice farming": {}
+          },
+          "Rice cultivation costs": {
+            "Seed prices": {},
+            "Fertilizer costs": {},
+            "Irrigation expenses": {},
+            "Land rental rates": {}
+          }
+        },
+        "Horticultural Crop Output": {
+          "Fruit Yield in West Java": {
+            "Land area dedicated to fruit cultivation": {},
+            "Average fruit harvest per hectare": {}
+          },
+          "Vegetable Production Volume in West Java": {
+            "Area Harvested for Vegetables in West Java": {},
+            "Yield per Hectare of Vegetables in West Java": {}
+          },
+          "Horticultural Export Quantities from West Java": {
+            "Floriculture Export Volume": {},
+            "Herbs and Spices Export Volume": {},
+            "Tea Export Volume": {}
+          }
+        }
+      },
+      "Livestock Production": {
+        "Cattle Population Size": {
+          "Breeding Success Rate": {
+            "Calving Rate": {},
+            "Artificial Insemination Uptake": {},
+            "Calf Mortality Rate": {},
+            "Breeding Season Efficiency": {}
+          },
+          "Cattle Feed Supply": {
+            "Availability of Forage Crops": {},
+            "Importation of Feed Ingredients": {},
+            "Local Feed Production Capacity": {},
+            "Market Prices for Feed": {}
+          }
+        },
+        "Milk Yield Volume": {
+          "Feeding Efficiency": {
+            "Feed Conversion Ratio": {},
+            "Nutrient Absorption Rates": {},
+            "Feed Cost Efficiency": {}
+          },
+          "Genetic Variability in Dairy Cattle": {
+            "Milk Yield Variation": {},
+            "Growth Rate Diversity": {},
+            "Breeding Value Range": {}
+          },
+          "Farmers' Access to Veterinary Services": {
+            "Availability of Veterinary Professionals": {},
+            "Cost of Veterinary Services": {}
+          },
+          "Farm Management Practices": {
+            "Crop Yield Optimization": {},
+            "Resource Allocation Efficiency": {},
+            "Cost Management Strategies": {}
+          }
+        },
+        "Poultry Egg Production": {
+          "Egg Yield per Hen": {
+            "Egg Quality Grades": {},
+            "Hen Health Indicators": {}
+          },
+          "Number of Laying Hens": {
+            "Hen Population Density": {},
+            "Age Distribution of Laying Hens": {}
+          },
+          "Market Egg Supply": {
+            "Egg Price Variability": {},
+            "Egg Storage Capacity": {}
+          }
+        }
+      }
+    },
+    "Tourism Revenue in West Java": {
+      "Visitor Numbers to Tourist Attractions in West Java": {
+        "Domestic Tourist Arrivals": {
+          "Hotel Occupancy Rates": {
+            "Room Booking Trends": {},
+            "Average Length of Stay": {}
+          },
+          "Local Transportation Usage": {
+            "Commute Frequency": {},
+            "Public Transportation Ridership": {},
+            "Ride-Hailing Service Utilization": {}
+          },
+          "Tourist Attraction Attendance": {
+            "Visitor Numbers at Heritage Sites": {},
+            "Attendance at Cultural Festivals": {},
+            "Guest Numbers at National Parks": {},
+            "Participation in Guided Tours": {}
+          }
+        },
+        "International Tourist Arrivals": {
+          "Tourist Expenditure": {
+            "Spending on Local Attractions": {},
+            "Dining and Culinary Experience Expenditure": {}
+          }
+        }
+      },
+      "Average Spending per Tourist": {
+        "Accommodation Expenditure": {
+          "Hotel occupancy rates": {
+            "Tourist Accommodation Count": {},
+            "Business Convention Bookings": {}
+          },
+          "Average cost per night of accommodation": {
+            "Tourism demand patterns in West Java": {},
+            "Seasonal pricing strategies of accommodations in West Java": {}
+          },
+          "Ratio of budget to luxury accommodations": {
+            "Ratio of locally-owned to international luxury hotels": {},
+            "Proportion of budget to luxury hotel rooms": {},
+            "Number of tourism facilities per accommodation type": {},
+            "Revenue from budget versus luxury accommodations": {}
+          }
+        },
+        "Food and Beverage Spending": {
+          "Household Food Expenditure": {
+            "Grocery Prices": {},
+            "Home-cooked Meal Frequency": {}
+          },
+          "Restaurant and Dining Expenses": {
+            "Average Meal Cost": {},
+            "Dining Frequency": {},
+            "Restaurant Employment Levels": {},
+            "Restaurant Revenue": {}
+          },
+          "Beverage Consumption Spending": {
+            "Household Spending on Non-Alcoholic Beverages": {},
+            "Retail Sales of Alcoholic Beverages": {},
+            "Beverage Imports and Exports": {},
+            "Beverage Production Output in Local Industries": {}
+          }
+        }
+      }
+    }
+  },
+  "Social Metrics": {
+    "Educational Attainment Levels": {
+      "Literacy Rates": {
+        "Adult Literacy Programs Participation": {
+          "Enrollment Numbers in Adult Literacy Programs": {
+            "Number of New Program Registrations": {},
+            "Demographic Distribution of Participants": {},
+            "Frequency of Classes Offered": {}
+          },
+          "Completion Rates of Adult Literacy Courses": {
+            "Literacy Course Attendance Rates": {},
+            "Instructor Availability": {},
+            "Resource Accessibility for Adult Learners": {}
+          }
+        },
+        "Access to Educational Materials": {
+          "Distribution of Digital Learning Resources": {
+            "Access to Online Educational Platforms": {},
+            "Availability of Digital Devices for Students": {},
+            "Connectivity and Internet Access in Schools": {}
+          },
+          "Availability of Textbooks in Schools": {
+            "Number of Schools with Adequate Textbook Supplies": {},
+            "Student Access to Physical Textbooks": {}
+          }
+        },
+        "Community Library Utilization": {
+          "Library Attendance Rates": {
+            "Student Group Visits to Libraries": {},
+            "Library Program Participation": {},
+            "Digital Resource Usage in Libraries": {}
+          },
+          "Number of Community Events Hosted in Libraries": {
+            "Cultural Workshops in Libraries": {},
+            "Educational Seminars in Libraries": {}
+          },
+          "Volume of Book Loans": {
+            "Children's Books Loaned": {},
+            "Educational Institutions Loan Participation": {},
+            "Frequency of Book Renewal": {},
+            "Digital Book Loans": {}
+          },
+          "Library Membership Registrations": {
+            "Youth Membership Registrations": {},
+            "Senior Citizen Membership Registrations": {},
+            "Digital Library Membership Registrations": {}
+          }
+        },
+        "Early Childhood Education Enrollment": {
+          "Preschool Program Availability": {
+            "Number of Accredited Preschool Facilities": {},
+            "Enrollment Capacity per Preschool": {}
+          },
+          "Parental Enrollment Decisions": {
+            "Availability of School Transportation": {},
+            "Parent Education Levels": {},
+            "Perceived Educational Quality": {},
+            "Access to Information on Schools": {}
+          },
+          "Teacher-to-Child Ratios": {
+            "Qualified teacher availability": {},
+            "Classroom size": {},
+            "Teacher workload": {}
+          }
+        }
+      },
+      "High School Graduation Rates": {
+        "Student Attendance Rates": {
+          "Transportation Accessibility for Students": {
+            "Public School Bus Availability": {},
+            "Distance to Nearest Public Transportation for Students": {},
+            "Transportation Cost for Families": {}
+          },
+          "Health-Related School Absences": {
+            "Infectious Disease Incidence": {},
+            "Nutritional Deficiency Levels": {},
+            "Access to Healthcare Services for Students": {},
+            "Parental Health Education": {}
+          },
+          "Cultural and Religious Observance Days": {
+            "Participation Rates in Cultural Festivals": {},
+            "Attendance at Religious Ceremonies": {},
+            "Public Recognition and Celebration of Local Traditions": {}
+          },
+          "Weather Conditions and Natural Disasters Impacting Attendance": {
+            "Extreme rainfall days causing school closures": {},
+            "Frequency of flooding affecting school access": {},
+            "Incidents of landslides impacting community mobility": {}
+          }
+        },
+        "Teacher-to-Student Ratios": {
+          "Classroom Size": {
+            "Student-to-Teacher Ratio": {},
+            "Available Classroom Space": {},
+            "Number of Enrolled Students": {},
+            "Classroom Attendance Rates": {}
+          },
+          "Number of Qualified Teachers": {
+            "Teacher Training Programs": {},
+            "Certification Acquisition": {},
+            "Teacher Retention Rates": {}
+          }
+        },
+        "Availability of Educational Resources": {
+          "Number of Educational Institutions": {
+            "Primary Schools": {},
+            "Universities and Higher Education Institutions": {}
+          },
+          "Availability of Learning Materials": {
+            "Allocation of Textbooks": {},
+            "Distribution of Traditional Learning Aids": {},
+            "Community-Based Educational Resources": {}
+          },
+          "Access to Digital Education Platforms": {
+            "Number of Rural Internet Connectivity Points": {},
+            "Household Access to Mobile Devices for Education": {},
+            "Utilization Rates of E-Learning Platforms": {}
+          },
+          "Scholarship and Financial Aid Opportunities": {
+            "Bursary and Grants Availability": {},
+            "Criteria for Eligibility": {},
+            "Number of Scholarship Applicants": {},
+            "Public Awareness and Promotion Campaigns": {}
+          }
+        },
+        "Parental Involvement Levels": {
+          "Parental participation in school activities": {
+            "Attendance at school events": {},
+            "Volunteer contributions in classrooms": {},
+            "Participation in parent-teacher associations": {}
+          },
+          "Quality of parent-teacher communication": {
+            "Frequency of communication channels used": {},
+            "Clarity and relevance of information exchanged": {}
+          },
+          "Parental support for homework": {
+            "Availability of educational resources at home": {},
+            "Frequency of parent-child study sessions": {}
+          },
+          "Involvement in school governance bodies": {
+            "Number of parents serving on school committees": {},
+            "Frequency of meetings attended by community members": {},
+            "Variety of stakeholder groups represented in school boards": {},
+            "Student representation in decision-making processes": {}
+          }
+        }
+      },
+      "Enrollment in Higher Education Institutions": {
+        "Access to Financial Aid": {
+          "Scholarship Availability": {
+            "Number of Scholarships Offered": {},
+            "Diversity of Scholarships Available": {},
+            "Accessibility of Scholarship Information": {}
+          },
+          "Reach of Microfinance Programs": {
+            "Number of Microfinance Beneficiaries": {},
+            "Diversity of Loan Recipients": {},
+            "Geographic Distribution of Microfinance Services": {},
+            "Repayment Rate of Microfinance Loans": {}
+          }
+        },
+        "Availability of Diverse Academic Programs": {
+          "Variety of Language Instruction": {
+            "Number of Multilingual Educational Programs": {},
+            "Diversity of Languages Offered in Schools": {}
+          },
+          "Number of Arts and Humanities Offerings": {
+            "Cultural Arts Programs": {},
+            "History and Heritage Studies": {},
+            "Creative Writing Workshops": {}
+          }
+        },
+        "Enrollment in Technical and Vocational Education": {
+          "Student Completion Rates": {
+            "Secondary school graduation rates": {},
+            "Transition rates from junior to senior high school": {},
+            "Attendance rates in educational programs": {},
+            "Dropout rates during schooling years": {}
+          },
+          "Infrastructure Capacity of Institutions": {
+            "Public Healthcare Facility Capacity": {},
+            "Access to Educational Infrastructure": {}
+          },
+          "Job Placement Rates Post-Graduation": {
+            "Number of Graduates Employed in Local Industries": {},
+            "Retention Rates of Graduates in First-Year Employment": {},
+            "Alignment of Graduate Skills with Local Industry Demands": {},
+            "Proportion of Graduates Pursuing Entrepreneurship": {}
+          }
+        },
+        "Participation of Underrepresented Groups": {
+          "Participation in Local Governance": {
+            "Voter Turnout in Regional Elections": {},
+            "Attendance at Local Government Meetings": {},
+            "Public Involvement in Policy Development": {},
+            "Citizen Feedback and Complaints": {}
+          },
+          "Inclusion in Cultural Events": {
+            "Attendance Diversity": {},
+            "Language Representation in Performances": {}
+          },
+          "Representation in Community Organizations": {
+            "Gender Diversity in Leadership Roles": {},
+            "Youth Membership in Community Groups": {},
+            "Ethnic Representation in Organizational Committees": {}
+          }
+        }
+      }
+    },
+    "Healthcare Access and Quality": {
+      "Availability of Healthcare Professionals": {
+        "Number of Licensed Doctors": {
+          "Number of Specialized Doctors": {
+            "Number of Cardiologists": {},
+            "Number of Pediatricians": {},
+            "Number of Oncologists": {},
+            "Number of Neurologists": {}
+          },
+          "Number of Doctors in Public Hospitals": {
+            "Distribution of Doctors across Regional Hospitals": {},
+            "Availability of General Practitioners in Public Facilities": {}
+          },
+          "Number of Practicing Female Doctors": {
+            "Number of Female Medical Graduates": {},
+            "Female Doctor Retention Rates": {},
+            "Number of Female Doctors in Rural Areas": {}
+          },
+          "Proportion of Doctors to Population": {
+            "Doctors in Urban Areas per Population": {},
+            "Doctors in Rural Areas per Population": {},
+            "Doctors per Population in Community Health Clinics": {}
+          }
+        },
+        "Distribution of Nurses in Urban vs. Rural Areas": {
+          "Urban nurse-to-population ratio": {
+            "Ratio of nurses to healthcare facilities in urban areas": {},
+            "Average patient load per urban nurse": {},
+            "Distribution of urban nurses across neighborhoods": {},
+            "Urban nurse retention rates": {}
+          },
+          "Rural nurse-to-population ratio": {
+            "Rural healthcare facility density": {},
+            "Rural nurse training program enrollment": {},
+            "Availability of healthcare supplies in rural areas": {}
+          }
+        }
+      },
+      "Patient Satisfaction Levels": {
+        "Quality of Healthcare Facilities": {
+          "Number of Healthcare Professionals per Facility": {
+            "Ratio of Healthcare Professionals to Patients": {},
+            "Diversity of Healthcare Staff Specializations": {},
+            "Turnover Rate of Healthcare Workers": {}
+          },
+          "Hygiene and Cleanliness Standards": {
+            "Waste Disposal Frequency": {},
+            "Public Access to Sanitation Facilities": {},
+            "Community Health Awareness Programs": {}
+          },
+          "Maintenance of Facility Infrastructure": {
+            "Structural Integrity Inspections": {},
+            "Maintenance Staffing Levels": {}
+          }
+        },
+        "Patient Experience with Healthcare Services": {
+          "Patient Satisfaction Scores": {
+            "Healthcare Facility Cleanliness Levels": {},
+            "Availability of Patient Support Services": {}
+          },
+          "Patient-Provider Communication Quality": {
+            "Clarity of Communication": {},
+            "Patient Engagement in Care Discussions": {},
+            "Frequency of Follow-Up Communication": {}
+          },
+          "Cultural Competence in Healthcare Delivery": {
+            "Healthcare Provider Diversity": {},
+            "Culturally Tailored Health Programs": {}
+          },
+          "Patient Safety Incidents": {
+            "Medication Errors in Hospitals": {},
+            "Infection Rates in Healthcare Facilities": {}
+          }
+        },
+        "Access to Healthcare Resources": {
+          "Availability of Medical Professionals": {
+            "Doctor-to-patient ratio": {},
+            "Distribution of specialists": {},
+            "Availability of rural healthcare workers": {}
+          },
+          "Distribution of Medical Supplies": {
+            "Distribution to Rural Areas": {},
+            "Equitable Allocation Across Demographics": {},
+            "Timeliness of Supply Distribution": {},
+            "Stock Levels at Healthcare Facilities": {}
+          },
+          "Access to Health Insurance Coverage": {
+            "Enrollment Rates in National Health Insurance Programs": {},
+            "Coverage of Preventive Health Services": {},
+            "Availability of Subsidized Health Plans": {},
+            "Access to Employer-Provided Health Insurance": {}
+          }
+        },
+        "Wait Times for Medical Services": {
+          "Patient Triage Time": {
+            "Emergency Room Wait Time": {},
+            "Nurse-to-Patient Ratio": {},
+            "Availability of Triage Personnel": {},
+            "Patient Information Processing Time": {}
+          },
+          "Specialist Appointment Scheduling": {
+            "Appointment Availability": {},
+            "Patient Wait Times for Specialist Appointments": {}
+          }
+        }
+      }
+    },
+    "Cultural Engagement Rates": {
+      "Participation in Traditional Arts Events": {
+        "Frequency of Traditional Dance Performances": {
+          "Community Participation in Dance Events": {
+            "Attendance Rates at Dance Events": {},
+            "Diversity of Participant Demographics": {},
+            "Frequency of Dance Workshops and Classes": {}
+          },
+          "Number of Dance Groups and Troupes Active": {
+            "Traditional Dance Groups": {},
+            "Contemporary Dance Troupes": {},
+            "Dance Training Facilities": {},
+            "Cultural Exchange Programs": {}
+          }
+        },
+        "Participation in Traditional Music Workshops": {
+          "Number of Registered Participants": {
+            "Local Community Events": {},
+            "Cultural Festival Attendees": {},
+            "Educational Program Enrollments": {},
+            "Recreational Club Memberships": {}
+          },
+          "Diversity of Musical Instruments Used": {
+            "Types of Traditional Instruments Used": {},
+            "Representation of Ethnic Groups in Instrumentation": {},
+            "Variety of Instrument Families Utilized": {}
+          },
+          "Frequency of Workshop Sessions": {
+            "Number of Community Workshop Collaborations": {},
+            "Frequency of Cultural Heritage Workshops": {}
+          },
+          "Level of Instructor Expertise": {
+            "Educational Qualifications of Instructors": {},
+            "Years of Teaching Experience in Traditional Music": {}
+          }
+        },
+        "Engagement in Traditional Art Exhibitions": {
+          "Visitor Attendance at Art Exhibitions": {
+            "Exhibition Session Bookings": {}
+          },
+          "Participation in Art Workshops": {
+            "Number of Workshops Conducted": {},
+            "Variety of Artistic Techniques Offered": {},
+            "Frequency of Repeat Attendees": {}
+          },
+          "Involvement of Local Artisans": {
+            "Local Artisan Collaborations": {},
+            "Artisan Market Presence": {}
+          }
+        },
+        "Attendance at Traditional Theater Performances": {
+          "Number of Traditional Theater Shows Hosted": {
+            "Cultural Festival Participation": {},
+            "Community Theater Group Formations": {},
+            "Workshop and Training Initiatives": {},
+            "Sponsorship and Funding Sources": {}
+          },
+          "Diversity of Audience Demographics": {
+            "Cultural Background Representation": {},
+            "Age Group Distribution": {},
+            "Gender Diversity": {}
+          },
+          "Popularity of Specific Plays or Performances": {
+            "Audience Attendance Numbers": {},
+            "Social Media Engagement with Performances": {},
+            "Ticket Sales Volumes": {}
+          }
+        }
+      },
+      "Membership in Community Cultural Organizations": {
+        "Membership diversity in cultural organizations": {
+          "Ethnic representation within memberships": {
+            "Sundanese representation within community organizations": {},
+            "Javanese participation in cultural associations": {},
+            "Ethnic diversity in cooperative memberships in rural areas": {}
+          },
+          "Age diversity among members": {
+            "Age range within community groups": {},
+            "Participation rates by age cohort": {},
+            "Age diversity in leadership roles": {},
+            "Generational representation in cultural events": {}
+          },
+          "Gender distribution in member demographics": {
+            "Proportion of female leadership roles": {},
+            "Gender balance in community groups": {}
+          }
+        },
+        "Inter-organizational collaborations within cultural communities": {
+          "Number of collaborative events": {
+            "Community workshops": {},
+            "Joint educational seminars": {}
+          },
+          "Shared resource initiatives": {
+            "Community garden projects": {},
+            "Public transportation usage": {},
+            "Shared water management systems": {},
+            "Collaborative educational resources": {}
+          },
+          "Incidence of cultural exchange programs": {
+            "Student participation in exchange programs": {},
+            "Frequency of intercultural workshops": {},
+            "Number of cultural exhibitions": {},
+            "Participation in traditional crafts exchanges": {}
+          },
+          "Formation of joint cultural initiatives": {
+            "Intercommunity artistic collaborations": {},
+            "Cultural tourism partnerships": {},
+            "Bilateral cultural workshops": {},
+            "Youth cultural exchange programs": {}
+          }
+        }
+      }
+    }
+  },
+  "Information Environment": {
+    "Internet Penetration": {
+      "Household Internet Access": {
+        "Internet Connection Stability": {
+          "Network Latency": {
+            "Routing Efficiency": {},
+            "Packet Loss Rate": {}
+          },
+          "Bandwidth Availability": {
+            "Internet Service Provider (ISP) Coverage": {},
+            "Broadband Infrastructure Expansion": {}
+          },
+          "Signal Strength Consistency": {
+            "Transmission Tower Density": {},
+            "Frequency Interference": {},
+            "Signal Coverage Area": {},
+            "Reception Quality": {}
+          }
+        },
+        "Data Usage Per Household": {
+          "Average Data Consumption per Family": {
+            "Social Media Engagement": {},
+            "Online Educational Resource Usage": {}
+          },
+          "Streaming Service Usage": {
+            "Subscription Volume": {},
+            "Content Diversity": {},
+            "Viewer Engagement": {},
+            "Regional Digital Access": {}
+          },
+          "Online Shopping Frequency": {
+            "Mobile internet coverage": {},
+            "E-commerce platform variety": {},
+            "Digital literacy rates": {},
+            "Payment method availability": {}
+          }
+        },
+        "Number of Connected Devices Per Household": {
+          "Smartphone Penetration": {
+            "Mobile Application Usage": {},
+            "Mobile Internet Accessibility": {}
+          },
+          "Internet of Things (IoT) Devices": {
+            "IoT-Based Agricultural Monitoring": {},
+            "Urban IoT Infrastructure Development": {}
+          },
+          "Connected Home Appliances": {
+            "User Data Privacy in Connected Appliances": {},
+            "Integration with Smart Home Networks": {},
+            "Energy Consumption of Connected Devices": {}
+          },
+          "Wearable Technology": {
+            "Fitness Monitoring Adoption": {},
+            "Wearable Payment Systems Usage": {},
+            "Health Data Integration": {},
+            "Fashion and Aesthetic Wearables": {}
+          }
+        }
+      },
+      "Mobile Internet Connectivity": {
+        "Mobile Internet Network Coverage": {
+          "Network Signal Strength": {
+            "Signal Reception Quality": {},
+            "Interference Levels": {},
+            "Bandwidth Capacity": {}
+          },
+          "4G and 5G Availability": {
+            "Spectrum Allocation": {},
+            "Base Station Density": {},
+            "Technology Adoption Rates": {},
+            "Urban Connectivity": {}
+          },
+          "Coverage of Rural Areas": {
+            "Internet Access Penetration": {},
+            "Digital Literacy Levels": {}
+          },
+          "Service Provider Diversity": {
+            "Variety of Internet Service Providers": {},
+            "Range of Telecommunication Brands Available": {},
+            "Diversity in Digital Service Offerings": {}
+          }
+        },
+        "Mobile Data Usage Levels": {
+          "Mobile Internet Data Traffic Volume": {
+            "Video Streaming Data Volume": {},
+            "Social Media Data Traffic": {},
+            "Online Gaming Data Usage": {}
+          },
+          "App Usage Patterns in Mobile Devices": {
+            "Daily Active Users": {},
+            "Average Session Duration": {}
+          }
+        }
+      },
+      "Public Wi-Fi Availability": {
+        "Wi-Fi Coverage Areas in Public Places": {
+          "Extent of Wi-Fi Signal Range": {
+            "Rural Accessibility to Wi-Fi": {},
+            "Wi-Fi Coverage in Urban Areas": {}
+          },
+          "Number of Wi-Fi Certified Locations": {
+            "Urban Wi-Fi Coverage Density": {},
+            "Educational Wi-Fi Access Points": {},
+            "Public Facility Wi-Fi Installations": {},
+            "Wi-Fi Certification in Business Districts": {}
+          },
+          "Quality of Wi-Fi Connections": {
+            "Wi-Fi Signal Stability": {},
+            "Data Transfer Speed": {}
+          }
+        },
+        "Number of Wi-Fi Access Points": {
+          "Wi-Fi Access Points in Educational Institutions": {
+            "Number of Wi-Fi Access Points in Schools": {},
+            "Bandwidth Capacity per Wi-Fi Access Point": {},
+            "Coverage Area of Wi-Fi Networks in Universities": {}
+          },
+          "Wi-Fi Hotspots in Hospitality Venues": {
+            "Number of Wi-Fi Hotspots in Hotels": {},
+            "Coverage Area of Wi-Fi Networks in Caf\u00e9s": {},
+            "Bandwidth Availability in Resorts": {},
+            "User Access Points in Restaurants": {}
+          },
+          "Number of Community Wi-Fi Networks": {
+            "Municipal Wi-Fi Initiatives": {},
+            "Community Center Wi-Fi Installations": {},
+            "Public Wi-Fi in Libraries": {}
+          },
+          "Wi-Fi Access Points in Residential Complexes": {
+            "Density of Access Points": {},
+            "Network Bandwidth Allocation": {}
+          }
+        },
+        "Public Wi-Fi Usage Rates": {
+          "Number of Active Public Wi-Fi Users": {
+            "Regional Wi-Fi Accessibility": {},
+            "User Demographics Using Public Wi-Fi": {},
+            "Frequency of Wi-Fi Access Points Utilization": {},
+            "Number of Public Wi-Fi Networks": {}
+          },
+          "Duration of Public Wi-Fi Sessions": {
+            "Session Time in Educational Institutions": {},
+            "Session Time in Urban Public Spaces": {},
+            "Session Time for Government Services Access": {},
+            "Session Time in Tourist Hotspots": {}
+          },
+          "Data Volume Transmitted via Public Wi-Fi": {
+            "Types of Data Transmitted": {},
+            "Bandwidth Utilization": {}
+          }
+        },
+        "Internet Bandwidth Availability in Public Spots": {
+          "Bandwidth per User in Public Libraries": {
+            "Digital Resource Accessibility in Public Libraries": {},
+            "User Connections per Library Node": {}
+          },
+          "Bandwidth Allocation for Educational Institutions": {
+            "Bandwidth Distribution Among Schools": {},
+            "Internet Speed at Educational Facilities": {}
+          },
+          "Bandwidth Capacity at Public Parks": {
+            "Wi-Fi Coverage Area": {},
+            "Data Transmission Speed": {},
+            "Number of Simultaneous Connections": {}
+          },
+          "Peak Bandwidth Utilization in Urban Hotspots": {
+            "Network Coverage Density in Urban Hotspots": {},
+            "User Traffic Patterns in Urban Hotspots": {},
+            "Data Throughput Rates in Urban Hotspots": {},
+            "Congestion Levels in Urban Hotspots": {}
+          }
+        }
+      },
+      "Broadband Subscription Rates": {
+        "Rural Broadband Adoption Levels": {
+          "Internet Literacy Rates in Rural Areas": {
+            "Access to Digital Literacy Programs": {}
+          },
+          "Availability of Localized Online Content": {
+            "Volume of Local Language Multimedia Content": {},
+            "Number of Localized Community News Platforms": {}
+          },
+          "Adoption of Internet-Based Education Resources": {
+            "Number of Schools Integrating Digital Curricula": {},
+            "Access to High-Speed Internet for Educational Purposes": {}
+          },
+          "Engagement with E-Government Services": {
+            "User Access to E-Government Portals": {},
+            "Frequency of Online Service Transactions": {},
+            "Usage of Mobile Applications for Government Services": {},
+            "Digital Communication Between Government and Citizens": {}
+          }
+        },
+        "Fiber Optic Network Coverage": {
+          "Urban Fiber Optic Density": {
+            "Number of Urban Fiber Optic Networks": {},
+            "Length of Fiber Optic Cable Installed in Urban Areas": {},
+            "Urban Fiber Optic Network Capacity": {},
+            "Urban Fiber Optic Connection Points": {}
+          },
+          "Network Reliability": {
+            "Signal Strength Stability": {},
+            "Latency Variability": {},
+            "Data Throughput Consistency": {}
+          },
+          "Household Fiber Optic Access Rates": {
+            "Rural Household Connectivity": {},
+            "Fiber Optic Subscription Levels": {}
+          }
+        }
+      }
+    },
+    "Media Diversity": {
+      "Number of Independent Media Outlets": {
+        "Local vs. National Ownership Distribution": {
+          "Local Media Outlet Presence": {
+            "Number of Local Newspapers": {},
+            "Diversity of Local Radio Stations": {}
+          },
+          "National Media Network Influence": {
+            "Audience Reach": {},
+            "Media Content Diversity": {},
+            "Advertising Revenue": {},
+            "Journalistic Standards": {}
+          }
+        },
+        "Access to Funding Sources": {
+          "Availability of Research Grants for Media": {
+            "Research grant application volume": {},
+            "Diversity of research grant sources": {},
+            "Media research project output": {}
+          },
+          "Accessibility of Microfinancing for Small Media Enterprises": {
+            "Availability of Digital Financial Services": {},
+            "Number of Microfinance Institutions": {},
+            "Financial Literacy among Media Entrepreneurs": {}
+          }
+        },
+        "Journalist Employment Rates": {
+          "Number of Media Outlets": {
+            "Television Channels": {},
+            "Radio Stations": {},
+            "Online News Portals": {},
+            "Print Newspapers": {}
+          },
+          "Availability of Journalism Training Programs": {
+            "Number of Journalism Workshops": {},
+            "Access to Online Journalism Courses": {}
+          }
+        },
+        "Diversity of Editorial Slants": {
+          "Cultural Representation in Media Content": {
+            "Diversity of Ethnic Representation in Local Films": {},
+            "Presence of Traditional Arts and Crafts in Television Programming": {},
+            "Variety of Indigenous Cultural Narratives in Print Media": {}
+          },
+          "Frequency of Alternative Perspectives": {
+            "Local Editorial Diversity": {},
+            "Public Access to Diverse Forums": {},
+            "Academic Publications with Varied Viewpoints": {}
+          }
+        }
+      },
+      "Range of Languages Available in Media Publications": {
+        "Diversity of Local Languages in Publications": {
+          "Presence of Sundanese Language Publications": {
+            "Number of Sundanese Language Periodicals": {},
+            "Availability of Sundanese Educational Materials": {}
+          },
+          "Availability of West Javanese Dialect Translations": {
+            "Number of Translated Media Publications": {},
+            "Volume of Educational Resources in Dialect": {},
+            "Access to Digital Translation Tools": {}
+          },
+          "Frequency of Local Language Literary Events": {
+            "Number of Cultural Festival Readings": {},
+            "Instances of Storytelling Workshops": {},
+            "Frequency of Poetry Recitals": {}
+          }
+        },
+        "Inclusion of Indigenous Languages in Media": {
+          "Broadcast Content in Sundanese": {
+            "Number of Sundanese Broadcast Channels": {},
+            "Diversity of Sundanese Programming Genres": {},
+            "Audience Reach of Sundanese Broadcasts": {}
+          },
+          "Online Platforms Utilizing Sundanese Language": {
+            "User Engagement in Sundanese Digital Communities": {},
+            "Availability of Sundanese Language Content": {},
+            "Development of Sundanese Language Applications": {},
+            "Digital Literacy in Sundanese among Users": {}
+          }
+        }
+      },
+      "Types of Media Content Available": {
+        "Local Cultural Programming": {
+          "Traditional Music Performances": {
+            "Frequency of Performance Acts": {},
+            "Diversity of Musical Genres": {},
+            "Audience Attendance Levels": {},
+            "Number of Traditional Music Venues": {}
+          },
+          "Cultural Festivals Frequency": {
+            "Local Festival Program Announcements": {},
+            "Community Engagement Activities": {},
+            "Cultural Festival Educational Workshops": {}
+          },
+          "Local Art Exhibitions": {
+            "Number of Participating Local Artists": {},
+            "Diversity of Art Styles Displayed": {}
+          },
+          "Traditional Culinary Events": {
+            "Traditional Recipe Documentation": {},
+            "Culinary Storytelling Platforms": {}
+          }
+        },
+        "Environmental News Coverage": {
+          "Air Quality Reporting": {
+            "Pollutant Concentration Levels Reporting": {},
+            "Community Air Quality Monitoring Initiatives": {}
+          },
+          "Deforestation Coverage": {
+            "Satellite Imagery Monitoring": {},
+            "Deforestation News Outlets": {},
+            "Social Media Awareness on Deforestation": {},
+            "Local Community Reporting": {}
+          },
+          "Wildlife Conservation Awareness": {
+            "Public Engagement in Conservation Programs": {},
+            "Distribution of Educational Materials on Local Wildlife": {}
+          },
+          "Climate Change Impact Analysis": {
+            "Sea Level Rise Data Dissemination": {},
+            "Rainfall Pattern Analysis": {}
+          }
+        },
+        "Educational Content in Regional Dialects": {
+          "Dialect-Specific Learning Materials": {
+            "Textbook Publication in Sundanese": {},
+            "Online Learning Platforms in Sundanese": {},
+            "Audio-Visual Content Availability in Sundanese": {},
+            "Local Literature Accessibility in Sundanese": {}
+          },
+          "Teacher Training in Regional Dialects": {
+            "Proficiency in Sundanese Language among Teachers": {},
+            "Availability of Training Programs in Regional West Java Dialects": {},
+            "Teacher Certification in Regional Linguistic Competencies": {}
+          }
+        }
+      }
+    },
+    "Digital Literacy Rates": {
+      "Digital Skills Adoption": {
+        "E-learning Platform Usage": {
+          "User Engagement Levels": {
+            "Online Community Interaction": {},
+            "Social Media Activity": {},
+            "Local News Platform Participation": {}
+          },
+          "Technical Support Availability": {
+            "Technical Support Workforce": {},
+            "Technical Support Infrastructure": {},
+            "Remote Assistance Capability": {}
+          }
+        },
+        "Access to Digital Devices": {
+          "Smartphone Ownership": {
+            "Smartphone Penetration Rate": {},
+            "Variety of Smartphone Models Available": {}
+          },
+          "Internet Connectivity": {
+            "ISP Coverage": {}
+          },
+          "Digital Device Distribution in Schools": {
+            "Availability of Digital Learning Tools": {},
+            "Teacher Training on Digital Device Usage": {},
+            "Integration of Digital Curriculum": {}
+          },
+          "Public Access to Computers": {
+            "Number of Community Computer Centers": {},
+            "Availability of Public Computer Stations in Libraries": {}
+          }
+        }
+      },
+      "Online Safety Awareness": {
+        "Cybersecurity Training Programs": {
+          "Number of Certified Cybersecurity Professionals": {
+            "Cybersecurity Certification Programs Enrollment": {},
+            "Local Certified Trainers in Cybersecurity": {},
+            "Accredited Certification Organizations in West Java": {}
+          },
+          "Frequency of Cybersecurity Workshops": {
+            "Attendance Rates at Workshops": {},
+            "Variety of Cybersecurity Workshop Topics": {},
+            "Number of Cybersecurity Workshop Locations": {},
+            "Frequency of Industry (SME) Participation in Workshops": {}
+          }
+        },
+        "Awareness Campaigns on Internet Privacy": {
+          "Social Media Engagement in Privacy Campaigns": {
+            "User Participation in Online Privacy Forums": {},
+            "Frequency of Privacy-Related Content Sharing": {},
+            "Diversity of Social Media Platforms Utilized": {}
+          },
+          "Community-Based Internet Safety Workshops": {
+            "Workshop Participation Rates": {},
+            "Local Internet Safety Knowledge": {}
+          }
+        }
+      },
+      "Critical Evaluation of Online Content": {
+        "Media Literacy Programs in West Java": {
+          "Curriculum Development in Media Literacy Education in West Java": {
+            "Integration of Local Culture in Media Literacy Curriculum": {},
+            "Adaptation to Digital Platforms in Media Literacy Curriculum": {},
+            "Diversity of Media Sources in Curriculum Content": {},
+            "Teacher Training Programs for Media Literacy in West Java": {}
+          },
+          "Engagement Levels in Media Literacy Workshops in West Java": {
+            "Participation Rates of Local Communities": {},
+            "Frequency of Interactive Sessions": {}
+          }
+        },
+        "Fact-Checking Initiatives among West Java Communities": {
+          "Participation in Fact-Checking Workshops": {
+            "Workshop Attendance Rates": {},
+            "Number of Fact-Checking Initiatives Created": {},
+            "Local Community Engagement": {}
+          },
+          "Collaboration with Local Journalists": {
+            "Frequency of Joint Investigative Projects": {},
+            "Number of Community Reporting Sessions": {}
+          }
+        },
+        "Access to Reliable News Sources in West Java": {
+          "Diversity of Reliable News Outlets in West Java": {
+            "Variety of National and International News Perspectives Available in West Java": {},
+            "Number of Independent News Initiatives in West Java": {},
+            "Public Accessibility to Diverse News Sources in West Java": {},
+            "Availability of Unbiased Print Media Outlets in West Java": {}
+          },
+          "Availability of Local Language News Sources in West Java": {
+            "Number of Local Language Journalists in West Java": {},
+            "Volume of Local Language News Content Produced in West Java": {}
+          },
+          "Subscription Rates to Credible News Platforms in West Java": {
+            "Age Demographics of Subscribers in West Java": {},
+            "Digital Literacy Levels of Subscribers in West Java": {},
+            "Subscriber Satisfaction with News Platforms in West Java": {},
+            "Retention Rates of News Platform Subscribers in West Java": {}
+          },
+          "Distribution Reach of Trustworthy News Networks in West Java": {
+            "Coverage Area of Reliable News Broadcasts in West Java": {},
+            "Penetration of Digital News Platforms in Rural and Urban West Java": {},
+            "Access to News Distribution Networks in Remote Regions of West Java": {}
+          }
+        },
+        "Online Disinformation Awareness in West Java": {
+          "Level of Public Engagement in Online Discussions": {
+            "Volume of Comments on Local Government Social Media Posts": {},
+            "Participation in Online Community Forums Related to Regional Development": {}
+          },
+          "Frequency of Localized Disinformation Campaigns": {
+            "Number of Online Platforms Facilitating Disinformation": {},
+            "Volume of Disinformation Content Produced Locally": {},
+            "Reach of Disinformation Among Local Population": {},
+            "Diversity of Actors Involved in Disinformation Campaigns": {}
+          }
+        }
+      }
+    },
+    "Access to Local News Outlets": {
+      "Number of Local News Publications": {
+        "Publication Variety": {
+          "Online news platforms": {
+            "User engagement metrics": {},
+            "Number of news articles published": {},
+            "Audience reach in West Java": {}
+          },
+          "Local journal publications": {
+            "Research article volume": {},
+            "Citation frequency in local studies": {}
+          },
+          "Indonesian language publications": {
+            "Local book publication volumes": {},
+            "Magazine issuance frequencies": {},
+            "Indonesian language academic papers": {}
+          }
+        },
+        "Digital Media Outlets": {
+          "Online News Platforms": {
+            "Variety of News Sources": {},
+            "Article Publication Frequency": {},
+            "Local Language Content Availability": {}
+          },
+          "Social Media Channels": {
+            "User Engagement Levels on Social Media": {},
+            "Content Volume in Regional Languages": {},
+            "Influence of Social Media Influencers": {}
+          },
+          "Digital Content Creation": {
+            "Local Language Content Production": {},
+            "Cultural Heritage Digitalization": {},
+            "Regional Artistic Collaborations": {}
+          },
+          "Mobile News Applications": {
+            "Application Accessibility": {},
+            "Local Content Availability": {},
+            "User Interface Design": {}
+          }
+        },
+        "Print Media Presence": {
+          "Newspaper Circulation": {
+            "Regional Newspaper Subscribers": {},
+            "Digital Access to Print Editions": {},
+            "Distribution Network Reach": {}
+          },
+          "Print Advertising Volume": {
+            "Local Newspaper Advertisements": {},
+            "Magazine Advertising Space": {},
+            "Billboard Presence": {}
+          }
+        }
+      },
+      "Frequency of News Updates": {
+        "Online News Publishing Rates": {
+          "Number of News Articles Published in West Java": {
+            "Articles Covering Local Government Policies in West Java": {},
+            "Reports on Environmental Issues in West Java": {},
+            "Articles Focusing on Cultural Events in West Java": {},
+            "Coverage of Health-Related News in West Java": {}
+          },
+          "Frequency of News Updates on West Java Events": {
+            "Timing of News Bulletin Releases": {},
+            "Number of Live Coverage Events": {}
+          },
+          "Diversity of Local News Providers in West Java": {
+            "Number of Independent News Outlets": {},
+            "Variety of News Content Offered": {},
+            "Representation of Minority Voices in News": {},
+            "Proportion of Hyperlocal News": {}
+          },
+          "Volume of Reader Engagement on West Java News Platforms": {
+            "Comments on West Java News Articles": {},
+            "Social Media Shares of West Java News Content": {},
+            "Time Spent on West Java News Websites": {}
+          }
+        },
+        "Social Media News Posts": {
+          "Engagement Levels on News Posts": {
+            "User Interaction Rates": {},
+            "Number of Shares and Reposts": {},
+            "Comment Volume": {}
+          },
+          "Frequency of Local News Sharing": {
+            "Social Media Shares of Local News": {},
+            "Distribution of Local News via Messaging Apps": {},
+            "Local News Circulation in Community Bulletins": {},
+            "Frequency of Local TV News Segments": {}
+          },
+          "Diversity of News Sources": {
+            "Availability of Indigenous Language News Outlets": {},
+            "Variety of Digital News Platforms": {},
+            "Number of Independent News Organizations": {}
+          },
+          "Sentiment Tone of News Comments": {
+            "Positivity in West Java News Comments": {},
+            "Negativity in Local Community Discussions": {},
+            "Neutrality in Regional News Feedback": {}
+          }
+        },
+        "Live News Broadcasts": {
+          "Broadcast Frequency in Regional Dialects": {
+            "Number of Regional Language Radio Stations": {},
+            "Diversity of Programs in Sundanese Dialect": {}
+          },
+          "Localization of News Content": {
+            "Usage of Local Languages in News Content": {},
+            "Coverage of Community Events": {},
+            "Presence of Localized Online News Platforms": {}
+          },
+          "Number of Local News Reporters": {
+            "Local Journalism Graduates": {},
+            "Regional News Agency Employment": {},
+            "Freelance Reporter Engagement": {}
+          },
+          "Accessibility through Local Television Networks": {
+            "Availability of Local Language Subtitles": {},
+            "Variety of Television Platforms": {},
+            "Number of Broadcast Hours": {}
+          }
+        }
+      }
+    }
+  },
+  "Infrastructure Resilience": {
+    "Flood Defense Systems": {
+      "River Channel Capacity Enhancement": {
+        "Sediment Management": {
+          "River Dredging Efforts": {
+            "Dredged Material Volume": {},
+            "Equipment Utilization Rate": {},
+            "Sediment Removal Frequency": {},
+            "River Capacity Restoration": {}
+          },
+          "Sediment Trap Installation": {
+            "Trap Capacity Efficiency": {},
+            "Installation Frequency": {},
+            "Maintenance Accessibility": {}
+          },
+          "Reservoir Sediment Capacity": {
+            "Sediment Accumulation Rates": {},
+            "Reservoir Storage Capacity": {}
+          },
+          "Sediment Transport Modeling": {
+            "Sediment Load Analysis": {},
+            "Riverbank Erosion Assessment": {},
+            "Channel Morphology Changes": {},
+            "Floodplain Sediment Deposition": {}
+          }
+        },
+        "Vegetation Control": {
+          "Roadside Vegetation Density": {
+            "Vegetation Species Diversity": {},
+            "Vegetation Canopy Cover": {}
+          },
+          "Power Line Clearance Distances": {
+            "Vegetation Growth Under Power Lines": {},
+            "Structural Integrity of Supporting Towers": {},
+            "Monitoring Systems for Clearance Distances": {}
+          },
+          "Railway Vegetation Encroachment": {
+            "Vegetation Density along Railway Tracks": {},
+            "Frequency of Vegetation Maintenance": {},
+            "Extent of Track Obstruction by Vegetation": {},
+            "Diversity of Plant Species near Tracks": {}
+          },
+          "Floodplain Vegetation Density": {
+            "Riparian Plant Coverage": {},
+            "Vegetative Biomass Accumulation": {},
+            "Biodiversity Levels in Floodplains": {},
+            "Soil Stabilization by Vegetation": {}
+          }
+        }
+      },
+      "Urban Drainage Network Expansion": {
+        "Drainage Pipe Capacity": {
+          "Pipe Diameter": {
+            "Pipe Material Durability": {},
+            "Pressure Stress Tolerance": {},
+            "Corrosion Resistance Levels": {}
+          },
+          "Flow Rate Capacity": {
+            "River Discharge Rates": {},
+            "Stormwater Runoff Management": {},
+            "Reservoir Water Levels": {},
+            "Drainage Channel Capacity": {}
+          }
+        },
+        "Drainage Network Coverage Area": {
+          "Total Length of Drainage Channels": {
+            "Urban Drainage Canal Length": {},
+            "Rural Drainage Network Length": {},
+            "Coastal Drainage Infrastructure Length": {},
+            "Flood-Prone Area Drainage Length": {}
+          },
+          "Area Served by Drainage Systems": {
+            "Population Coverage by Drainage Systems": {},
+            "Efficiency of Water Flow Management": {},
+            "Maintenance Frequency of Drainage Infrastructure": {},
+            "Adaptability of Drainage Systems to Extreme Weather": {}
+          }
+        },
+        "Floodgate Quantity and Operation": {
+          "Floodgate Maintenance Frequency": {
+            "Inspection Frequency of Mechanical Components": {},
+            "Water Flow Impact Assessment": {},
+            "Floodgate Structure Health Assessment": {},
+            "Debris Clearance Schedule": {}
+          },
+          "Automated Floodgate Control Systems": {
+            "Floodgate Automation Technology": {},
+            "Floodgate Network Integration": {}
+          },
+          "Floodgate Monitoring Equipment": {
+            "Sensor Accuracy": {},
+            "Data Transmission Efficiency": {},
+            "Monitoring Coverage Area": {}
+          },
+          "Floodgate Capacity": {
+            "Water Retention Volume": {},
+            "Flow Rate Regulation": {}
+          }
+        },
+        "Stormwater Collection Efficiency": {
+          "Rainwater Infiltration Rate": {
+            "Soil Permeability": {},
+            "Vegetative Cover": {}
+          },
+          "Permeable Surface Area": {
+            "Pervious Pavement Coverage": {},
+            "Green Roof Implementation": {},
+            "Vegetative Swales Volume": {},
+            "Bioswale Capacity": {}
+          },
+          "Storm Drain Maintenance Frequency": {
+            "Inspection Schedule Consistency": {},
+            "Clogging Incidents": {},
+            "Drainage Equipment Condition": {},
+            "Community Reporting Activities": {}
+          },
+          "Urban Watershed Capacity": {
+            "Retention Basin Volume": {},
+            "Green Infrastructure Implementation": {},
+            "Urban Wetland Areas": {}
+          }
+        }
+      },
+      "Reservoir and Retention Basin Capacity": {
+        "Water Storage Volume": {
+          "Reservoir Capacity": {
+            "Spillway Capacity": {},
+            "Sedimentation Rates": {},
+            "Structural Integrity": {}
+          },
+          "Aquifer Levels": {
+            "Groundwater Recharge Rate": {},
+            "Subsurface Water Quality": {},
+            "Depth of Aquifer Layers": {},
+            "Water Extraction Volume": {}
+          },
+          "Catchment Area Management": {
+            "Watershed Capacity": {},
+            "Riparian Vegetation Density": {},
+            "Flood Mitigation Structures": {}
+          },
+          "Rainwater Harvesting Systems": {
+            "Collection Efficiency": {},
+            "System Durability": {},
+            "Distribution Network Coverage": {}
+          }
+        },
+        "Sediment Accumulation": {
+          "Sediment Composition": {
+            "Sediment Grain Size Distribution": {},
+            "Mineral Composition Variability": {}
+          },
+          "Sediment Transport Dynamics": {
+            "River Flow Patterns in West Java": {},
+            "Sediment Load in Waterways of West Java": {}
+          },
+          "Sedimentation Rate": {
+            "Riverbed Elevation": {},
+            "Waterway Navigability": {}
+          },
+          "Erosion Control Measures": {
+            "Vegetative Buffer Zones": {},
+            "Retaining Wall Structures": {},
+            "Riprap Installations": {},
+            "Sediment Trapping Systems": {}
+          }
+        },
+        "Discharge Flow Management": {
+          "River Channel Capacity": {
+            "Sediment Accumulation in Channels": {},
+            "Riverbank Reinforcement Structures": {}
+          },
+          "Flood Control Mechanisms": {
+            "Levee and Embankment Integrity": {},
+            "Floodgate and Sluice Operations": {},
+            "Reservoir and Dam Capacities": {},
+            "Wetland and Mangrove Restoration": {}
+          },
+          "Rainwater Runoff Diversion": {
+            "Permeable Pavement Implementation": {},
+            "Green Roof Installations": {},
+            "Drainage Channel Maintenance": {}
+          }
+        }
+      }
+    },
+    "Seismic Strengthening Measures": {
+      "Building Code Compliance": {
+        "Construction Material Standards": {
+          "Seismic Design Requirements": {
+            "Earthquake-Resistant Building Materials Adoption": {},
+            "Adherence to Seismic Zoning Regulations": {}
+          },
+          "Corrosion Resistance Standards": {
+            "Coating Material Durability": {},
+            "Metal Alloy Composition Standards": {}
+          },
+          "Load-Bearing Capacity Specifications": {
+            "Material Strength Assessments": {},
+            "Structural Stability Evaluations": {}
+          }
+        },
+        "Permit Issuance Rates": {
+          "Processing Time for Permit Approvals": {
+            "Resource Allocation for Permit Processing": {},
+            "Efficiency of Administrative Procedures": {},
+            "Number of Review Stages in Permit Approval": {}
+          },
+          "Number of Permits Issued for Flood-Resilient Infrastructure": {
+            "Urban Drainage System Enhancements Permits": {},
+            "Flood-Resilient Building Construction Permits": {},
+            "Green Infrastructure Development Permits": {}
+          }
+        },
+        "Inspection Frequency": {
+          "Bridge Inspection Cycles": {
+            "Structural Health Monitoring": {},
+            "Material Deterioration Assessment": {},
+            "Environmental Impact Analysis": {}
+          },
+          "Roadway Condition Assessments": {
+            "Surface Wear of Pavement": {},
+            "Drainage System Efficiency": {}
+          },
+          "Utility Network Monitoring": {
+            "Water Supply Network Sensors": {},
+            "Electric Grid Performance Analytics": {},
+            "Telecommunications System Diagnostics": {}
+          },
+          "Building Safety Evaluations": {
+            "Seismic Risk Assessments": {},
+            "Flood Resistance Testing": {},
+            "Structural Material Analysis": {}
+          }
+        },
+        "Developer Adherence to Regulations": {
+          "Regulatory Compliance in Project Planning": {
+            "Environmental Impact Assessments": {},
+            "Permit Acquisition Timeliness": {},
+            "Risk Mitigation Strategies": {}
+          },
+          "Standards Application in Execution": {
+            "Construction Material Quality": {},
+            "Structural Integrity Assessments": {}
+          },
+          "Documentation and Reporting Fidelity": {
+            "Accuracy of Structural Integrity Assessments": {},
+            "Consistency in Maintenance Records": {},
+            "Thoroughness of Risk Assessment Reports": {},
+            "Clarity of Emergency Response Documentation": {}
+          }
+        }
+      },
+      "Retrofitting of Existing Structures": {
+        "Structural Integrity Enhancements": {
+          "Bridge Load-Bearing Capacity Improvements": {
+            "Material Strength Enhancements": {},
+            "Structural Design Optimizations": {},
+            "Load Testing Frequency": {},
+            "Maintenance and Rehabilitation Programs": {}
+          },
+          "Building Foundation Strengthening": {
+            "Seismic Base Isolation Systems": {},
+            "Soil Stabilization Measures": {},
+            "Foundation Waterproofing Techniques": {},
+            "Load Distribution Optimization": {}
+          },
+          "Road Surface Reinforcement": {
+            "Material Durability": {},
+            "Climate Adaptation Measures": {},
+            "Road Maintenance Practices": {},
+            "Traffic Load Capacity": {}
+          }
+        },
+        "Seismic Reinforcement Measures": {
+          "Foundation Stabilization": {
+            "Soil Erosion Control Measures": {},
+            "Use of Geosynthetic Materials": {},
+            "Piling and Deep Foundation Techniques": {}
+          },
+          "Seismic Retrofitting of Bridges": {
+            "Structural Reinforcement Techniques": {},
+            "Durability of Retrofitting Materials": {}
+          },
+          "Earthquake-Resistant Building Design": {
+            "Building Material Innovation": {},
+            "Structural Design Adaptability": {},
+            "Architectural Design Testing": {}
+          },
+          "Community-Based Resilience Training": {
+            "Disaster Preparedness Workshops": {},
+            "Volunteer Response Teams": {}
+          }
+        },
+        "Material Durability Improvements": {
+          "Corrosion Resistance of Concrete": {
+            "Saltwater Exposure Resistance in Concrete Structures": {},
+            "Use of Corrosion-Inhibiting Admixtures in Concrete": {},
+            "Quality of Reinforcement Steel in Concrete Construction": {}
+          },
+          "Humidity and Temperature Adaptation": {
+            "Thermal Insulation Efficiency in Buildings": {},
+            "Ventilation System Performance": {},
+            "Moisture Barrier Effectiveness in Construction": {},
+            "HVAC System Sustainability": {}
+          },
+          "Longevity of Road Surfacing Materials": {
+            "Material Wear Resistance": {},
+            "Structural Integrity Over Time": {}
+          }
+        }
+      },
+      "Community Preparedness Infrastructure": {
+        "Emergency Response Facilities": {
+          "Structural Integrity of Evacuation Shelters": {
+            "Seismic Resistance Standards": {},
+            "Structural Load Capacity": {}
+          },
+          "Availability of Medical Response Units": {
+            "Number of Operational Ambulances": {},
+            "Distribution of Medical Personnel": {},
+            "Availability of Medical Supplies": {}
+          },
+          "Functionality of Emergency Communication Systems": {
+            "Coverage Area of Communication Networks": {},
+            "Redundancy in Communication Channels": {},
+            "Reliability of Emergency Broadcast Systems": {},
+            "Integration with Local Warning Systems": {}
+          },
+          "Capacity of Disaster Relief Centers": {
+            "Storage Space for Emergency Supplies": {},
+            "Accommodation Facilities for Displaced Individuals": {},
+            "Availability of Trained Personnel": {}
+          }
+        },
+        "Public Awareness and Training Programs": {
+          "Community Engagement Initiatives": {
+            "Local Volunteer Programs": {},
+            "Participation in Resilience Planning Meetings": {},
+            "Community Feedback Mechanisms": {}
+          },
+          "Educational Outreach Sessions": {
+            "Utilization of Local Educational Facilities": {},
+            "Frequency of Disaster Preparedness Workshops": {}
+          },
+          "Public Information Campaigns": {
+            "Dissemination Efficiency": {},
+            "Message Clarity": {},
+            "Feedback Mechanisms": {}
+          }
+        }
+      }
+    },
+    "Critical Utility Service Reliability": {
+      "Electricity Supply Stability": {
+        "Grid Reliability": {
+          "Transmission Line Integrity": {
+            "Line Maintenance Frequency": {},
+            "Load Capacity": {},
+            "Design Adaptability": {}
+          },
+          "Grid Stability during Natural Disasters": {
+            "Renewable Energy Integration": {},
+            "Battery Storage Capacity": {}
+          }
+        },
+        "Power Generation Capacity": {
+          "Backup Generation Systems": {
+            "System Capacity": {},
+            "Maintenance and Reliability": {}
+          },
+          "Fuel Supply Stability": {
+            "Distribution Network Robustness": {},
+            "Emergency Fuel Reserves": {}
+          },
+          "Technological Modernization": {
+            "Digital Infrastructure Development": {},
+            "Smart Transportation Systems": {},
+            "Urban Planning with IoT Integration": {},
+            "Telecommunication Network Expansion": {}
+          }
+        }
+      },
+      "Water Distribution Continuity": {
+        "Water Supply Infrastructure Condition": {
+          "Pipeline Integrity": {
+            "Corrosion Resistance": {},
+            "Structural Strength": {},
+            "Leak Detection Effectiveness": {}
+          },
+          "Pumping Efficiency": {
+            "Energy Consumption by Pumping Stations": {},
+            "Operational Capacity of Pumping Facilities": {},
+            "Maintenance Frequency of Pumping Equipment": {}
+          }
+        },
+        "Water Quality Maintenance": {
+          "Water Treatment Effectiveness": {
+            "Water Filtration System Efficiency": {},
+            "Chemical Treatment Capacity": {},
+            "Operational Reliability of Treatment Facilities": {}
+          },
+          "Water Contamination Level Monitoring": {
+            "Real-time Water Quality Sensors Deployment": {},
+            "Contaminant Concentration Data Collection": {},
+            "Analytical Accuracy of Monitoring Equipment": {}
+          },
+          "Distribution System Integrity": {
+            "Pipeline Condition Monitoring": {},
+            "Leakage Detection Systems": {}
+          }
+        }
+      },
+      "Telecommunication Network Integrity": {
+        "Network Redundancy Systems": {
+          "Backup Power Systems": {
+            "Microgrid Deployment": {}
+          },
+          "Data Center Redundancy": {
+            "Cooling System Efficiency": {},
+            "Network Connectivity Redundancy": {},
+            "Security System Layers": {},
+            "Storage Capacity Management": {}
+          },
+          "Emergency Communication Channels": {
+            "Community Alert Systems": {},
+            "Telecommunication Network Reliability": {}
+          },
+          "Failover Protocol Utilization": {
+            "Grid Switching Mechanisms": {},
+            "Load Balancing Efficiency": {},
+            "Network Path Diversity": {},
+            "Service Downtime Reduction": {}
+          }
+        },
+        "Cable and Antenna Physical Conditions": {
+          "Corrosion Levels of Antenna Structures": {
+            "Rate of Material Degradation in Coastal Conditions": {},
+            "Effectiveness of Anti-Corrosion Treatments on Metal Surfaces": {}
+          },
+          "Integrity of Cable Insulation": {
+            "Material Durability of Insulation": {},
+            "Moisture Resistance of Insulation": {},
+            "Thermal Stability of Insulation": {}
+          },
+          "Structural Stability of Mounting Frameworks": {
+            "Load-bearing capacity of framework joints": {},
+            "Foundation integrity under seismic stress": {}
+          }
+        }
+      }
+    }
+  }
+}

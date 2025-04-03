@@ -1,0 +1,543 @@
+,topic,category 0,category 1,category 2,category 3
+0,Ecosystem Health Indicators,Ecosystem Health Indicators,,,
+1,Biodiversity Index,Ecosystem Health Indicators,Biodiversity Index,,
+2,Species Richness,Ecosystem Health Indicators,Biodiversity Index,Species Richness,
+3,Number of Endemic Species,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Number of Endemic Species
+4,Variety of Pollinator Species,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Variety of Pollinator Species
+5,Diversity of Marine Species,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Diversity of Marine Species
+6,Forest Species Diversity,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Forest Species Diversity
+7,Freshwater Species Variety,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Freshwater Species Variety
+8,Presence of Keystone Species,Ecosystem Health Indicators,Biodiversity Index,Species Richness,Presence of Keystone Species
+9,Genetic Diversity,Ecosystem Health Indicators,Biodiversity Index,Genetic Diversity,
+10,Allelic Variation,Ecosystem Health Indicators,Biodiversity Index,Genetic Diversity,Allelic Variation
+11,Genetic Population Structure,Ecosystem Health Indicators,Biodiversity Index,Genetic Diversity,Genetic Population Structure
+12,Adaptive Genetic Traits,Ecosystem Health Indicators,Biodiversity Index,Genetic Diversity,Adaptive Genetic Traits
+13,Habitat Connectivity,Ecosystem Health Indicators,Biodiversity Index,Habitat Connectivity,
+14,Corridor Lengths,Ecosystem Health Indicators,Biodiversity Index,Habitat Connectivity,Corridor Lengths
+15,Landscape Permeability,Ecosystem Health Indicators,Biodiversity Index,Habitat Connectivity,Landscape Permeability
+16,Patch Size Distribution,Ecosystem Health Indicators,Biodiversity Index,Habitat Connectivity,Patch Size Distribution
+17,Population Abundance,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,
+18,Herbivore Population Density,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,Herbivore Population Density
+19,Pollinator Population Size,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,Pollinator Population Size
+20,Predator Population Levels,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,Predator Population Levels
+21,Aquatic Organism Abundance,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,Aquatic Organism Abundance
+22,Migratory Bird Population Numbers,Ecosystem Health Indicators,Biodiversity Index,Population Abundance,Migratory Bird Population Numbers
+23,Invasive Species Presence,Ecosystem Health Indicators,Biodiversity Index,Invasive Species Presence,
+24,Invasive Species Population Density,Ecosystem Health Indicators,Biodiversity Index,Invasive Species Presence,Invasive Species Population Density
+25,Range of Invasive Species Distribution,Ecosystem Health Indicators,Biodiversity Index,Invasive Species Presence,Range of Invasive Species Distribution
+26,Soil Quality,Ecosystem Health Indicators,Soil Quality,,
+27,Soil Organic Matter Content,Ecosystem Health Indicators,Soil Quality,Soil Organic Matter Content,
+28,Carbon Sequestration Capacity,Ecosystem Health Indicators,Soil Quality,Soil Organic Matter Content,Carbon Sequestration Capacity
+29,Soil Carbon Fractionation,Ecosystem Health Indicators,Soil Quality,Soil Organic Matter Content,Soil Carbon Fractionation
+30,Rate of Organic Matter Decomposition,Ecosystem Health Indicators,Soil Quality,Soil Organic Matter Content,Rate of Organic Matter Decomposition
+31,Soil Nutrient Levels,Ecosystem Health Indicators,Soil Quality,Soil Nutrient Levels,
+32,Soil Nitrogen Concentration,Ecosystem Health Indicators,Soil Quality,Soil Nutrient Levels,Soil Nitrogen Concentration
+33,Soil Phosphorus Availability,Ecosystem Health Indicators,Soil Quality,Soil Nutrient Levels,Soil Phosphorus Availability
+34,Soil Potassium Content,Ecosystem Health Indicators,Soil Quality,Soil Nutrient Levels,Soil Potassium Content
+35,Soil Microbial Diversity,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,
+36,Microbial Species Richness,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,Microbial Species Richness
+37,Microbial Evenness,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,Microbial Evenness
+38,Microbial Biomass,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,Microbial Biomass
+39,Functional Diversity of Microbes,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,Functional Diversity of Microbes
+40,Soil Microbial Respiration,Ecosystem Health Indicators,Soil Quality,Soil Microbial Diversity,Soil Microbial Respiration
+41,Soil Structure,Ecosystem Health Indicators,Soil Quality,Soil Structure,
+42,Soil Compaction,Ecosystem Health Indicators,Soil Quality,Soil Structure,Soil Compaction
+43,Aggregate Stability,Ecosystem Health Indicators,Soil Quality,Soil Structure,Aggregate Stability
+44,Soil Porosity,Ecosystem Health Indicators,Soil Quality,Soil Structure,Soil Porosity
+45,Soil Texture,Ecosystem Health Indicators,Soil Quality,Soil Structure,Soil Texture
+46,Root Penetration Depth,Ecosystem Health Indicators,Soil Quality,Soil Structure,Root Penetration Depth
+47,Soil Moisture,Ecosystem Health Indicators,Soil Quality,Soil Moisture,
+48,Infiltration Rate,Ecosystem Health Indicators,Soil Quality,Soil Moisture,Infiltration Rate
+49,Evapotranspiration Rate,Ecosystem Health Indicators,Soil Quality,Soil Moisture,Evapotranspiration Rate
+50,Soil Water Retention Capacity,Ecosystem Health Indicators,Soil Quality,Soil Moisture,Soil Water Retention Capacity
+51,Soil Contamination Levels,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,
+52,Heavy Metal Concentration,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,Heavy Metal Concentration
+53,Pesticide Residues,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,Pesticide Residues
+54,Polycyclic Aromatic Hydrocarbons,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,Polycyclic Aromatic Hydrocarbons
+55,Persistent Organic Pollutants,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,Persistent Organic Pollutants
+56,Radioactive Contaminants,Ecosystem Health Indicators,Soil Quality,Soil Contamination Levels,Radioactive Contaminants
+57,Water Quality,Ecosystem Health Indicators,Water Quality,,
+58,Dissolved Oxygen Levels,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,
+59,Oxygen Saturation in Freshwater Bodies,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Oxygen Saturation in Freshwater Bodies
+60,Hypoxic Zones,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Hypoxic Zones
+61,Aerobic Microorganism Activity,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Aerobic Microorganism Activity
+62,Fish Species Respiratory Efficiency,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Fish Species Respiratory Efficiency
+63,Aquatic Plant Photosynthesis Rates,Ecosystem Health Indicators,Water Quality,Dissolved Oxygen Levels,Aquatic Plant Photosynthesis Rates
+64,Nutrient Concentration,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,
+65,Nitrogen Levels,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,Nitrogen Levels
+66,Phosphorus Concentrations,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,Phosphorus Concentrations
+67,Algal Bloom Frequency,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,Algal Bloom Frequency
+68,Organic Carbon Content,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,Organic Carbon Content
+69,Silica Availability,Ecosystem Health Indicators,Water Quality,Nutrient Concentration,Silica Availability
+70,pH Balance,Ecosystem Health Indicators,Water Quality,pH Balance,
+71,Acidification Levels,Ecosystem Health Indicators,Water Quality,pH Balance,Acidification Levels
+72,Alkalinity Variations,Ecosystem Health Indicators,Water Quality,pH Balance,Alkalinity Variations
+73,Presence of Pathogens,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,
+74,Bacterial Population Density,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Bacterial Population Density
+75,Fungal Spore Concentration,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Fungal Spore Concentration
+76,Virus Load,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Virus Load
+77,Parasite Prevalence,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Parasite Prevalence
+78,Pathogenic Microalgae Presence,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Pathogenic Microalgae Presence
+79,Protozoan Diversity,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Protozoan Diversity
+80,Antibiotic Resistance Genes in Pathogens,Ecosystem Health Indicators,Water Quality,Presence of Pathogens,Antibiotic Resistance Genes in Pathogens
+81,Turbidity,Ecosystem Health Indicators,Water Quality,Turbidity,
+82,Sediment Concentration,Ecosystem Health Indicators,Water Quality,Turbidity,Sediment Concentration
+83,Algal Bloom Levels,Ecosystem Health Indicators,Water Quality,Turbidity,Algal Bloom Levels
+84,Particulate Organic Matter,Ecosystem Health Indicators,Water Quality,Turbidity,Particulate Organic Matter
+85,Water Clarity,Ecosystem Health Indicators,Water Quality,Turbidity,Water Clarity
+86,Vegetation Cover,Ecosystem Health Indicators,Vegetation Cover,,
+87,Forest Density,Ecosystem Health Indicators,Vegetation Cover,Forest Density,
+88,Tree Canopy Cover,Ecosystem Health Indicators,Vegetation Cover,Forest Density,Tree Canopy Cover
+89,Understory Vegetation Proliferation,Ecosystem Health Indicators,Vegetation Cover,Forest Density,Understory Vegetation Proliferation
+90,Forest Biodiversity Levels,Ecosystem Health Indicators,Vegetation Cover,Forest Density,Forest Biodiversity Levels
+91,Grassland Area,Ecosystem Health Indicators,Vegetation Cover,Grassland Area,
+92,Native Plant Species Diversity,Ecosystem Health Indicators,Vegetation Cover,Grassland Area,Native Plant Species Diversity
+93,Insect Population Density,Ecosystem Health Indicators,Vegetation Cover,Grassland Area,Insect Population Density
+94,Wildlife Habitat Connectivity,Ecosystem Health Indicators,Vegetation Cover,Grassland Area,Wildlife Habitat Connectivity
+95,Wetland Vegetation Area,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,
+96,Aquatic Plant Diversity,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,Aquatic Plant Diversity
+97,Wetland Soil Quality,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,Wetland Soil Quality
+98,Water Coverage in Wetlands,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,Water Coverage in Wetlands
+99,Endemic Species Population,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,Endemic Species Population
+100,Nutrient Concentration in Wetland Waters,Ecosystem Health Indicators,Vegetation Cover,Wetland Vegetation Area,Nutrient Concentration in Wetland Waters
+101,Urban Green Space,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,
+102,Tree Canopy Coverage,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,Tree Canopy Coverage
+103,Biodiversity in Urban Parks,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,Biodiversity in Urban Parks
+104,Permeable Surface Area,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,Permeable Surface Area
+105,Air Quality Linked to Vegetation,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,Air Quality Linked to Vegetation
+106,Urban Wildlife Populations,Ecosystem Health Indicators,Vegetation Cover,Urban Green Space,Urban Wildlife Populations
+107,Mangrove Coverage,Ecosystem Health Indicators,Vegetation Cover,Mangrove Coverage,
+108,Canopy Density,Ecosystem Health Indicators,Vegetation Cover,Mangrove Coverage,Canopy Density
+109,Root Biomass,Ecosystem Health Indicators,Vegetation Cover,Mangrove Coverage,Root Biomass
+110,Species Diversity,Ecosystem Health Indicators,Vegetation Cover,Mangrove Coverage,Species Diversity
+111,Pollinator Populations,Ecosystem Health Indicators,Pollinator Populations,,
+112,Native Bee Diversity,Ecosystem Health Indicators,Pollinator Populations,Native Bee Diversity,
+113,Bee Species Richness,Ecosystem Health Indicators,Pollinator Populations,Native Bee Diversity,Bee Species Richness
+114,Bee Population Density,Ecosystem Health Indicators,Pollinator Populations,Native Bee Diversity,Bee Population Density
+115,Distribution Range of Native Bees,Ecosystem Health Indicators,Pollinator Populations,Native Bee Diversity,Distribution Range of Native Bees
+116,Genetic Variability of Bee Populations,Ecosystem Health Indicators,Pollinator Populations,Native Bee Diversity,Genetic Variability of Bee Populations
+117,Pollination Success Rate,Ecosystem Health Indicators,Pollinator Populations,Pollination Success Rate,
+118,Flower Reproduction Rates,Ecosystem Health Indicators,Pollinator Populations,Pollination Success Rate,Flower Reproduction Rates
+119,Pollinator Visitation Frequency,Ecosystem Health Indicators,Pollinator Populations,Pollination Success Rate,Pollinator Visitation Frequency
+120,Pollen Transfer Efficiency,Ecosystem Health Indicators,Pollinator Populations,Pollination Success Rate,Pollen Transfer Efficiency
+121,Economic Impact Metrics,Economic Impact Metrics,,,
+122,Agricultural Productivity,Economic Impact Metrics,Agricultural Productivity,,
+123,Crop Yield Levels,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,
+124,Annual Harvest Quantity,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,Annual Harvest Quantity
+125,Crop Variety Yields,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,Crop Variety Yields
+126,Regional Yield Distribution,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,Regional Yield Distribution
+127,Yield per Acre,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,Yield per Acre
+128,Temperature-Adjusted Yield,Economic Impact Metrics,Agricultural Productivity,Crop Yield Levels,Temperature-Adjusted Yield
+129,Livestock Production Volume,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,
+130,Cattle Inventory Levels,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Cattle Inventory Levels
+131,Poultry Production Quantity,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Poultry Production Quantity
+132,Sheep and Goat Herd Sizes,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Sheep and Goat Herd Sizes
+133,Pork Output Volume,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Pork Output Volume
+134,Dairy Production Quantities,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Dairy Production Quantities
+135,Beef Production Volume,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Beef Production Volume
+136,Egg Production Count,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Egg Production Count
+137,Aquaculture Yield,Economic Impact Metrics,Agricultural Productivity,Livestock Production Volume,Aquaculture Yield
+138,Soil Fertility,Economic Impact Metrics,Agricultural Productivity,Soil Fertility,
+139,Nutrient Availability Value,Economic Impact Metrics,Agricultural Productivity,Soil Fertility,Nutrient Availability Value
+140,pH Balance Economic Impact,Economic Impact Metrics,Agricultural Productivity,Soil Fertility,pH Balance Economic Impact
+141,Irrigation Efficiency,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,
+142,Water Usage per Unit of Crop,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Water Usage per Unit of Crop
+143,Energy Costs for Water Pumping,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Energy Costs for Water Pumping
+144,Water Delivery Time Efficiency,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Water Delivery Time Efficiency
+145,Maintenance Costs of Irrigation Systems,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Maintenance Costs of Irrigation Systems
+146,Operational Costs for Water Management,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Operational Costs for Water Management
+147,Technology Upgrade Costs in Irrigation Systems,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Technology Upgrade Costs in Irrigation Systems
+148,Revenue Generated from Improved Water Distribution,Economic Impact Metrics,Agricultural Productivity,Irrigation Efficiency,Revenue Generated from Improved Water Distribution
+149,Farm Labor Costs,Economic Impact Metrics,Agricultural Productivity,Farm Labor Costs,
+150,Wages Paid to Farm Workers,Economic Impact Metrics,Agricultural Productivity,Farm Labor Costs,Wages Paid to Farm Workers
+151,Labor Hours Required Per Crop,Economic Impact Metrics,Agricultural Productivity,Farm Labor Costs,Labor Hours Required Per Crop
+152,Labor Supply Availability,Economic Impact Metrics,Agricultural Productivity,Farm Labor Costs,Labor Supply Availability
+153,Overtime Hours Worked,Economic Impact Metrics,Agricultural Productivity,Farm Labor Costs,Overtime Hours Worked
+154,Input Costs for Seeds and Fertilizers,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,
+155,Seed Price Trends,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Seed Price Trends
+156,Fertilizer Market Prices,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Fertilizer Market Prices
+157,Import Tariffs on Agricultural Inputs,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Import Tariffs on Agricultural Inputs
+158,Transportation Costs for Distribution,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Transportation Costs for Distribution
+159,Storage Costs for Seed and Fertilizer,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Storage Costs for Seed and Fertilizer
+160,Currency Exchange Rates Impacting Imports,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Currency Exchange Rates Impacting Imports
+161,Native Agricultural Input Production Levels,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Native Agricultural Input Production Levels
+162,Technological Advancements in Input Production,Economic Impact Metrics,Agricultural Productivity,Input Costs for Seeds and Fertilizers,Technological Advancements in Input Production
+163,Post-Harvest Losses,Economic Impact Metrics,Agricultural Productivity,Post-Harvest Losses,
+164,Storage Infrastructure Efficiency,Economic Impact Metrics,Agricultural Productivity,Post-Harvest Losses,Storage Infrastructure Efficiency
+165,Market Access and Distribution Channels,Economic Impact Metrics,Agricultural Productivity,Post-Harvest Losses,Market Access and Distribution Channels
+166,Resource Extraction Revenues,Economic Impact Metrics,Resource Extraction Revenues,,
+167,Mineral Extraction Revenues,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,
+168,Mining Production Volume,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,Mining Production Volume
+169,Commodity Market Prices,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,Commodity Market Prices
+170,Export Volume of Minerals,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,Export Volume of Minerals
+171,Employment in Mining Sector,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,Employment in Mining Sector
+172,Tax Revenue from Mining Activities,Economic Impact Metrics,Resource Extraction Revenues,Mineral Extraction Revenues,Tax Revenue from Mining Activities
+173,Forestry Extraction Revenues,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,
+174,Timber Production Volume,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Timber Production Volume
+175,Market Price of Wood Products,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Market Price of Wood Products
+176,Logging Employment Numbers,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Logging Employment Numbers
+177,Export Value of Forest Products,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Export Value of Forest Products
+178,Harvest Fees and Royalties,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Harvest Fees and Royalties
+179,Investment in Forestry Infrastructure,Economic Impact Metrics,Resource Extraction Revenues,Forestry Extraction Revenues,Investment in Forestry Infrastructure
+180,Fishery Extraction Revenues,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,
+181,Commercial Fish Catch Volumes,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Commercial Fish Catch Volumes
+182,Market Price of Fish Products,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Market Price of Fish Products
+183,Fishing Fleet Size,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Fishing Fleet Size
+184,Aquaculture Production Levels,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Aquaculture Production Levels
+185,International Fish Trade Volumes,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,International Fish Trade Volumes
+186,Investment in Fishing Technology,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Investment in Fishing Technology
+187,Employment in Fisheries Sector,Economic Impact Metrics,Resource Extraction Revenues,Fishery Extraction Revenues,Employment in Fisheries Sector
+188,Energy Security Performance,Energy Security Performance,,,
+189,Energy Production Capacity,Energy Security Performance,Energy Production Capacity,,
+190,Renewable Energy Generation,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,
+191,Solar Power Capacity,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,Solar Power Capacity
+192,Wind Power Capacity,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,Wind Power Capacity
+193,Geothermal Energy Utilization,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,Geothermal Energy Utilization
+194,Biomass Energy Output,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,Biomass Energy Output
+195,Tidal and Wave Energy Production,Energy Security Performance,Energy Production Capacity,Renewable Energy Generation,Tidal and Wave Energy Production
+196,Fossil Fuel Output,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,
+197,Oil Production Volume,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Oil Production Volume
+198,Natural Gas Extraction Rates,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Natural Gas Extraction Rates
+199,Coal Mining Output,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Coal Mining Output
+200,Fossil Fuel Refining Capacity,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Fossil Fuel Refining Capacity
+201,Fuel Transport Infrastructure Capacity,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Fuel Transport Infrastructure Capacity
+202,Proven Fossil Fuel Reserves,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Proven Fossil Fuel Reserves
+203,Imported Fossil Fuel Volumes,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Imported Fossil Fuel Volumes
+204,Offshore Drilling Operations,Energy Security Performance,Energy Production Capacity,Fossil Fuel Output,Offshore Drilling Operations
+205,Nuclear Energy Capacity,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,
+206,Operational Nuclear Reactors,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Operational Nuclear Reactors
+207,Nuclear Fuel Availability,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Nuclear Fuel Availability
+208,Nuclear Energy Output,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Nuclear Energy Output
+209,Nuclear Plant Efficiency,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Nuclear Plant Efficiency
+210,Nuclear Waste Management Capacity,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Nuclear Waste Management Capacity
+211,Nuclear Safety Measures,Energy Security Performance,Energy Production Capacity,Nuclear Energy Capacity,Nuclear Safety Measures
+212,Hydroelectric Power Capacity,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,
+213,Reservoir Water Levels,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Reservoir Water Levels
+214,Turbine Efficiency Rates,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Turbine Efficiency Rates
+215,Power Plant Operational Hours,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Power Plant Operational Hours
+216,Hydroelectric Energy Storage,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Hydroelectric Energy Storage
+217,Infrastructure Integrity,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Infrastructure Integrity
+218,Transmission Capacity from Hydroelectric Sources,Energy Security Performance,Energy Production Capacity,Hydroelectric Power Capacity,Transmission Capacity from Hydroelectric Sources
+219,Grid Electricity Availability,Energy Security Performance,Energy Production Capacity,Grid Electricity Availability,
+220,Grid Reliability,Energy Security Performance,Energy Production Capacity,Grid Electricity Availability,Grid Reliability
+221,Transmission Infrastructure Capacity,Energy Security Performance,Energy Production Capacity,Grid Electricity Availability,Transmission Infrastructure Capacity
+222,Electricity Storage Capacity,Energy Security Performance,Energy Production Capacity,Grid Electricity Availability,Electricity Storage Capacity
+223,Energy Supply Diversity,Energy Security Performance,Energy Supply Diversity,,
+224,Renewable Energy Mix,Energy Security Performance,Energy Supply Diversity,Renewable Energy Mix,
+225,Proportion of Solar Power,Energy Security Performance,Energy Supply Diversity,Renewable Energy Mix,Proportion of Solar Power
+226,Proportion of Wind Energy,Energy Security Performance,Energy Supply Diversity,Renewable Energy Mix,Proportion of Wind Energy
+227,Proportion of Hydropower,Energy Security Performance,Energy Supply Diversity,Renewable Energy Mix,Proportion of Hydropower
+228,Proportion of Bioenergy,Energy Security Performance,Energy Supply Diversity,Renewable Energy Mix,Proportion of Bioenergy
+229,Geographical Source Distribution,Energy Security Performance,Energy Supply Diversity,Geographical Source Distribution,
+230,Diversity of Energy Import Origins,Energy Security Performance,Energy Supply Diversity,Geographical Source Distribution,Diversity of Energy Import Origins
+231,Proximity to Energy Supply Sources,Energy Security Performance,Energy Supply Diversity,Geographical Source Distribution,Proximity to Energy Supply Sources
+232,Energy Infrastructure Resilience,Energy Security Performance,Energy Infrastructure Resilience,,
+233,Infrastructure Redundancy,Energy Security Performance,Energy Infrastructure Resilience,Infrastructure Redundancy,
+234,Backup Power Capacity,Energy Security Performance,Energy Infrastructure Resilience,Infrastructure Redundancy,Backup Power Capacity
+235,Distributed Energy Resources,Energy Security Performance,Energy Infrastructure Resilience,Infrastructure Redundancy,Distributed Energy Resources
+236,Interconnection Capacity,Energy Security Performance,Energy Infrastructure Resilience,Infrastructure Redundancy,Interconnection Capacity
+237,Physical Durability of Energy Facilities,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,
+238,Structural Integrity of Power Plants,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,Structural Integrity of Power Plants
+239,Resilience of Solar Installations,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,Resilience of Solar Installations
+240,Wind Turbine Durability,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,Wind Turbine Durability
+241,Longevity of Hydroelectric Dams,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,Longevity of Hydroelectric Dams
+242,Durability of Transmission Towers,Energy Security Performance,Energy Infrastructure Resilience,Physical Durability of Energy Facilities,Durability of Transmission Towers
+243,Cybersecurity of Energy Systems,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,
+244,Network Vulnerability,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,Network Vulnerability
+245,Data Integrity,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,Data Integrity
+246,Incident Response Readiness,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,Incident Response Readiness
+247,Access Control Robustness,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,Access Control Robustness
+248,Real-Time Monitoring Effectiveness,Energy Security Performance,Energy Infrastructure Resilience,Cybersecurity of Energy Systems,Real-Time Monitoring Effectiveness
+249,Energy Storage Capabilities,Energy Security Performance,Energy Storage Capabilities,,
+250,Battery Energy Capacity,Energy Security Performance,Energy Storage Capabilities,Battery Energy Capacity,
+251,Battery Charge Density,Energy Security Performance,Energy Storage Capabilities,Battery Energy Capacity,Battery Charge Density
+252,Battery Lifespan,Energy Security Performance,Energy Storage Capabilities,Battery Energy Capacity,Battery Lifespan
+253,Grid Storage Integration,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,
+254,Load Balancing Capability,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,Load Balancing Capability
+255,Renewable Energy Absorption,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,Renewable Energy Absorption
+256,Storage Duration Reliability,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,Storage Duration Reliability
+257,Grid Frequency Stabilization,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,Grid Frequency Stabilization
+258,Peak Load Management,Energy Security Performance,Energy Storage Capabilities,Grid Storage Integration,Peak Load Management
+259,Thermal Storage Efficiency,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,
+260,Heat Retention Duration,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,Heat Retention Duration
+261,Thermal Energy Conductivity,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,Thermal Energy Conductivity
+262,Temperature Regulation Accuracy,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,Temperature Regulation Accuracy
+263,Material Insulation Quality,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,Material Insulation Quality
+264,Energy Loss Minimization,Energy Security Performance,Energy Storage Capabilities,Thermal Storage Efficiency,Energy Loss Minimization
+265,Hydrogen Storage Density,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,
+266,Volumetric Energy Density,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,Volumetric Energy Density
+267,Gravimetric Energy Density,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,Gravimetric Energy Density
+268,Storage Material Efficiency,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,Storage Material Efficiency
+269,Hydrogen Compression Levels,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,Hydrogen Compression Levels
+270,Cryogenic Storage Capacity,Energy Security Performance,Energy Storage Capabilities,Hydrogen Storage Density,Cryogenic Storage Capacity
+271,Human Wellbeing Measures,Human Wellbeing Measures,,,
+272,Access to Clean Water,Human Wellbeing Measures,Access to Clean Water,,
+273,Water Purity Levels,Human Wellbeing Measures,Access to Clean Water,Water Purity Levels,
+274,Chemical Contaminant Concentration,Human Wellbeing Measures,Access to Clean Water,Water Purity Levels,Chemical Contaminant Concentration
+275,Microbial Load,Human Wellbeing Measures,Access to Clean Water,Water Purity Levels,Microbial Load
+276,Heavy Metal Presence,Human Wellbeing Measures,Access to Clean Water,Water Purity Levels,Heavy Metal Presence
+277,Water Infrastructure Reliability,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,
+278,Water Distribution Efficiency,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,Water Distribution Efficiency
+279,Pipe Network Aging,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,Pipe Network Aging
+280,Pumping Station Reliability,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,Pumping Station Reliability
+281,Reservoir Storage Capacity,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,Reservoir Storage Capacity
+282,Leakage Rate in Infrastructure,Human Wellbeing Measures,Access to Clean Water,Water Infrastructure Reliability,Leakage Rate in Infrastructure
+283,Water Availability Per Capita,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,
+284,Freshwater Supply,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Freshwater Supply
+285,Rainwater Harvesting Capacity,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Rainwater Harvesting Capacity
+286,Groundwater Reserves,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Groundwater Reserves
+287,Water Stress Index,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Water Stress Index
+288,Aquifer Recharge Rates,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Aquifer Recharge Rates
+289,Desalination Output,Human Wellbeing Measures,Access to Clean Water,Water Availability Per Capita,Desalination Output
+290,Nutritional Quality,Human Wellbeing Measures,Nutritional Quality,,
+291,Dietary Diversity,Human Wellbeing Measures,Nutritional Quality,Dietary Diversity,
+292,Variety of Fruit and Vegetable Intake,Human Wellbeing Measures,Nutritional Quality,Dietary Diversity,Variety of Fruit and Vegetable Intake
+293,Range of Whole Grains Consumed,Human Wellbeing Measures,Nutritional Quality,Dietary Diversity,Range of Whole Grains Consumed
+294,Diversity of Dairy Products Included,Human Wellbeing Measures,Nutritional Quality,Dietary Diversity,Diversity of Dairy Products Included
+295,Assortment of Legumes and Nuts Eaten,Human Wellbeing Measures,Nutritional Quality,Dietary Diversity,Assortment of Legumes and Nuts Eaten
+296,Caloric Intake Adequacy,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,
+297,Daily Caloric Access per Capita,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Daily Caloric Access per Capita
+298,Caloric Distribution Equity among Populations,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Caloric Distribution Equity among Populations
+299,Availability of Caloric-Dense Food Sources,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Availability of Caloric-Dense Food Sources
+300,Caloric Consumption Patterns across Age Groups,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Caloric Consumption Patterns across Age Groups
+301,Rural vs Urban Caloric Sufficiency,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Rural vs Urban Caloric Sufficiency
+302,Seasonal Variation in Caloric Availability,Human Wellbeing Measures,Nutritional Quality,Caloric Intake Adequacy,Seasonal Variation in Caloric Availability
+303,Micronutrient Density,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,
+304,Vitamin Mineral Content,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Vitamin Mineral Content
+305,Essential Trace Elements,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Essential Trace Elements
+306,Bioavailability of Nutrients,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Bioavailability of Nutrients
+307,Nutrient Retention in Cooking,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Nutrient Retention in Cooking
+308,Fortification Levels in Food,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Fortification Levels in Food
+309,Soil Nutrient Content,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Soil Nutrient Content
+310,Plant-Based Nutrients,Human Wellbeing Measures,Nutritional Quality,Micronutrient Density,Plant-Based Nutrients
+311,Protein Quality,Human Wellbeing Measures,Nutritional Quality,Protein Quality,
+312,Amino Acid Profiles,Human Wellbeing Measures,Nutritional Quality,Protein Quality,Amino Acid Profiles
+313,Protein Digestibility,Human Wellbeing Measures,Nutritional Quality,Protein Quality,Protein Digestibility
+314,Protein Source Sustainability,Human Wellbeing Measures,Nutritional Quality,Protein Quality,Protein Source Sustainability
+315,Essential Amino Acid Availability,Human Wellbeing Measures,Nutritional Quality,Protein Quality,Essential Amino Acid Availability
+316,Protein Biomarker Levels,Human Wellbeing Measures,Nutritional Quality,Protein Quality,Protein Biomarker Levels
+317,Antioxidant Levels in Diet,Human Wellbeing Measures,Nutritional Quality,Antioxidant Levels in Diet,
+318,Vitamin C Concentration in Food,Human Wellbeing Measures,Nutritional Quality,Antioxidant Levels in Diet,Vitamin C Concentration in Food
+319,Polyphenol Content in Diet,Human Wellbeing Measures,Nutritional Quality,Antioxidant Levels in Diet,Polyphenol Content in Diet
+320,Food Freshness and Safety,Human Wellbeing Measures,Nutritional Quality,Food Freshness and Safety,
+321,Pesticide Residue Levels,Human Wellbeing Measures,Nutritional Quality,Food Freshness and Safety,Pesticide Residue Levels
+322,Microbial Contamination Rates,Human Wellbeing Measures,Nutritional Quality,Food Freshness and Safety,Microbial Contamination Rates
+323,Food Additive Concentrations,Human Wellbeing Measures,Nutritional Quality,Food Freshness and Safety,Food Additive Concentrations
+324,Preservative Longevity,Human Wellbeing Measures,Nutritional Quality,Food Freshness and Safety,Preservative Longevity
+325,Gut Microbiome Balance,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,
+326,Microbiome Diversity,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Microbiome Diversity
+327,Probiotic Levels,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Probiotic Levels
+328,Pathogenic Bacteria Presence,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Pathogenic Bacteria Presence
+329,Gut Microbial Metabolites,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Gut Microbial Metabolites
+330,Inflammation Markers,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Inflammation Markers
+331,Gut-Lining Integrity,Human Wellbeing Measures,Nutritional Quality,Gut Microbiome Balance,Gut-Lining Integrity
+332,Mental Health Status,Human Wellbeing Measures,Mental Health Status,,
+333,Stress Levels,Human Wellbeing Measures,Mental Health Status,Stress Levels,
+334,Workload Intensity,Human Wellbeing Measures,Mental Health Status,Stress Levels,Workload Intensity
+335,Sleep Quality,Human Wellbeing Measures,Mental Health Status,Stress Levels,Sleep Quality
+336,Social Support,Human Wellbeing Measures,Mental Health Status,Stress Levels,Social Support
+337,Exposure to Noise Pollution,Human Wellbeing Measures,Mental Health Status,Stress Levels,Exposure to Noise Pollution
+338,Physical Activity Levels,Human Wellbeing Measures,Mental Health Status,Stress Levels,Physical Activity Levels
+339,Time Spent in Nature,Human Wellbeing Measures,Mental Health Status,Stress Levels,Time Spent in Nature
+340,Nutritional Balance,Human Wellbeing Measures,Mental Health Status,Stress Levels,Nutritional Balance
+341,Anxiety Prevalence,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,
+342,Social Isolation Levels,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,Social Isolation Levels
+343,Access to Mental Health Services,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,Access to Mental Health Services
+344,Work-Life Balance,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,Work-Life Balance
+345,Physical Activity Frequency,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,Physical Activity Frequency
+346,Nutritional Habits,Human Wellbeing Measures,Mental Health Status,Anxiety Prevalence,Nutritional Habits
+347,Depression Severity,Human Wellbeing Measures,Mental Health Status,Depression Severity,
+348,Depressive Symptoms Intensity,Human Wellbeing Measures,Mental Health Status,Depression Severity,Depressive Symptoms Intensity
+349,Coping Mechanism Effectiveness,Human Wellbeing Measures,Mental Health Status,Depression Severity,Coping Mechanism Effectiveness
+350,Social Connectivity Levels,Human Wellbeing Measures,Mental Health Status,Depression Severity,Social Connectivity Levels
+351,Physical Health Fitness,Human Wellbeing Measures,Physical Health Fitness,,
+352,Cardiovascular Endurance,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,
+353,VO2 Max Levels,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,VO2 Max Levels
+354,Resting Heart Rate,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Resting Heart Rate
+355,Exercise Intensity Tolerance,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Exercise Intensity Tolerance
+356,Cardiorespiratory Function,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Cardiorespiratory Function
+357,Recovery Heart Rate,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Recovery Heart Rate
+358,Blood Oxygen Saturation,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Blood Oxygen Saturation
+359,Aerobic Capacity,Human Wellbeing Measures,Physical Health Fitness,Cardiovascular Endurance,Aerobic Capacity
+360,Muscular Strength,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,
+361,Muscle Fiber Density,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,Muscle Fiber Density
+362,Grip Strength,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,Grip Strength
+363,Upper Body Strength,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,Upper Body Strength
+364,Lower Body Strength,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,Lower Body Strength
+365,Core Muscle Strength,Human Wellbeing Measures,Physical Health Fitness,Muscular Strength,Core Muscle Strength
+366,Flexibility,Human Wellbeing Measures,Physical Health Fitness,Flexibility,
+367,Joint Range of Motion,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Joint Range of Motion
+368,Elasticity of Connective Tissues,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Elasticity of Connective Tissues
+369,Neuromuscular Adaptability,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Neuromuscular Adaptability
+370,Postural Alignment,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Postural Alignment
+371,Stretch Tolerance,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Stretch Tolerance
+372,Flexibility Potential in Daily Activities,Human Wellbeing Measures,Physical Health Fitness,Flexibility,Flexibility Potential in Daily Activities
+373,Body Composition,Human Wellbeing Measures,Physical Health Fitness,Body Composition,
+374,Body Fat Percentage,Human Wellbeing Measures,Physical Health Fitness,Body Composition,Body Fat Percentage
+375,Lean Muscle Mass,Human Wellbeing Measures,Physical Health Fitness,Body Composition,Lean Muscle Mass
+376,Bone Density,Human Wellbeing Measures,Physical Health Fitness,Body Composition,Bone Density
+377,Balance and Coordination,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,
+378,Postural Stability,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Postural Stability
+379,Gait Analysis,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Gait Analysis
+380,Vestibular System Function,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Vestibular System Function
+381,Proprioceptive Sensitivity,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Proprioceptive Sensitivity
+382,Neuromuscular Control,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Neuromuscular Control
+383,Reaction Time,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Reaction Time
+384,Sensory Integration,Human Wellbeing Measures,Physical Health Fitness,Balance and Coordination,Sensory Integration
+385,Life Satisfaction Levels,Human Wellbeing Measures,Life Satisfaction Levels,,
+386,Quality of Social Connections,Human Wellbeing Measures,Life Satisfaction Levels,Quality of Social Connections,
+387,Social Network Size,Human Wellbeing Measures,Life Satisfaction Levels,Quality of Social Connections,Social Network Size
+388,Frequency of Face-to-Face Interactions,Human Wellbeing Measures,Life Satisfaction Levels,Quality of Social Connections,Frequency of Face-to-Face Interactions
+389,Access to Recreational Spaces,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,
+390,Park Area Per Capita,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Park Area Per Capita
+391,Availability of Walking Trails,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Availability of Walking Trails
+392,Access to Community Sports Facilities,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Access to Community Sports Facilities
+393,Proximity to Public Beaches,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Proximity to Public Beaches
+394,Quantity of Playgrounds,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Quantity of Playgrounds
+395,Hours of Operable Recreational Spaces,Human Wellbeing Measures,Life Satisfaction Levels,Access to Recreational Spaces,Hours of Operable Recreational Spaces
+396,Urban Green Space Availability,Human Wellbeing Measures,Life Satisfaction Levels,Urban Green Space Availability,
+397,Public Park Area per Capita,Human Wellbeing Measures,Life Satisfaction Levels,Urban Green Space Availability,Public Park Area per Capita
+398,Number of Urban Trees,Human Wellbeing Measures,Life Satisfaction Levels,Urban Green Space Availability,Number of Urban Trees
+399,Access to Community Gardens,Human Wellbeing Measures,Life Satisfaction Levels,Urban Green Space Availability,Access to Community Gardens
+400,Educational Attainment Levels,Human Wellbeing Measures,Life Satisfaction Levels,Educational Attainment Levels,
+401,Literacy Rates,Human Wellbeing Measures,Life Satisfaction Levels,Educational Attainment Levels,Literacy Rates
+402,Graduation Rates,Human Wellbeing Measures,Life Satisfaction Levels,Educational Attainment Levels,Graduation Rates
+403,Access to Educational Resources,Human Wellbeing Measures,Life Satisfaction Levels,Educational Attainment Levels,Access to Educational Resources
+404,Social Conflict Intensity,Social Conflict Intensity,,,
+405,Protest Participation Levels,Social Conflict Intensity,Protest Participation Levels,,
+406,Number of Protest Events,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,
+407,Frequency of Energy-Related Protests,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,Frequency of Energy-Related Protests
+408,Occurrence of Protests for Environmental Preservation,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,Occurrence of Protests for Environmental Preservation
+409,Incidence of Protests Regarding Land Use,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,Incidence of Protests Regarding Land Use
+410,Number of Protests Against Fossil Fuel Extraction,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,Number of Protests Against Fossil Fuel Extraction
+411,Volume of Protests Demanding Renewable Energy Transition,Social Conflict Intensity,Protest Participation Levels,Number of Protest Events,Volume of Protests Demanding Renewable Energy Transition
+412,Diversity of Protest Participants,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,
+413,Demographic Range of Participants,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Demographic Range of Participants
+414,Organizational Affiliation Spectrum,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Organizational Affiliation Spectrum
+415,Socioeconomic Status Range of Participants,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Socioeconomic Status Range of Participants
+416,Age Group Variety in Participants,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Age Group Variety in Participants
+417,Cultural Backgrounds Diversity,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Cultural Backgrounds Diversity
+418,Educational Background Diversity,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Educational Background Diversity
+419,Professional Background Diversity,Social Conflict Intensity,Protest Participation Levels,Diversity of Protest Participants,Professional Background Diversity
+420,Duration of Protest Activities,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,
+421,Length of Continuous Demonstrations,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Length of Continuous Demonstrations
+422,Duration of Sit-ins,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Duration of Sit-ins
+423,Time Spent in Negotiations,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Time Spent in Negotiations
+424,Length of Organized Marches,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Length of Organized Marches
+425,Operation Duration of Roadblocks,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Operation Duration of Roadblocks
+426,Protest Camp Lifespan,Social Conflict Intensity,Protest Participation Levels,Duration of Protest Activities,Protest Camp Lifespan
+427,Geographical Spread of Protests,Social Conflict Intensity,Protest Participation Levels,Geographical Spread of Protests,
+428,Urban vs. Rural Protest Distribution,Social Conflict Intensity,Protest Participation Levels,Geographical Spread of Protests,Urban vs. Rural Protest Distribution
+429,Cross-Border Protest Incidences,Social Conflict Intensity,Protest Participation Levels,Geographical Spread of Protests,Cross-Border Protest Incidences
+430,Protestor Engagement Levels,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,
+431,Protestor Attendance,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,Protestor Attendance
+432,Frequency of Protestor Participation,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,Frequency of Protestor Participation
+433,Intensity of Protestor Actions,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,Intensity of Protestor Actions
+434,Commitment to Nonviolent Tactics,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,Commitment to Nonviolent Tactics
+435,Coordination Among Protestor Groups,Social Conflict Intensity,Protest Participation Levels,Protestor Engagement Levels,Coordination Among Protestor Groups
+436,Incidence of Violent Clashes,Social Conflict Intensity,Incidence of Violent Clashes,,
+437,Frequency of Armed Conflicts,Social Conflict Intensity,Incidence of Violent Clashes,Frequency of Armed Conflicts,
+438,Number of Active Combat Zones,Social Conflict Intensity,Incidence of Violent Clashes,Frequency of Armed Conflicts,Number of Active Combat Zones
+439,Frequency of Territorial Disputes,Social Conflict Intensity,Incidence of Violent Clashes,Frequency of Armed Conflicts,Frequency of Territorial Disputes
+440,Number of Fatalities in Clashes,Social Conflict Intensity,Incidence of Violent Clashes,Number of Fatalities in Clashes,
+441,Casualties from Civilian Clashes,Social Conflict Intensity,Incidence of Violent Clashes,Number of Fatalities in Clashes,Casualties from Civilian Clashes
+442,Fatalities in Resource-Driven Conflicts,Social Conflict Intensity,Incidence of Violent Clashes,Number of Fatalities in Clashes,Fatalities in Resource-Driven Conflicts
+443,Deaths in Ethnic or Sectarian Violence,Social Conflict Intensity,Incidence of Violent Clashes,Number of Fatalities in Clashes,Deaths in Ethnic or Sectarian Violence
+444,Displacement Due to Conflict,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,
+445,Number of Refugees,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Number of Refugees
+446,Growth of Refugee Camps,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Growth of Refugee Camps
+447,Internal Displacement Figures,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Internal Displacement Figures
+448,Host Community Population Changes,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Host Community Population Changes
+449,Cross-Border Movements,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Cross-Border Movements
+450,Urban Resettlement Counts,Social Conflict Intensity,Incidence of Violent Clashes,Displacement Due to Conflict,Urban Resettlement Counts
+451,Weapon Utilization Rates,Social Conflict Intensity,Incidence of Violent Clashes,Weapon Utilization Rates,
+452,Frequency of Specific Weapon Types,Social Conflict Intensity,Incidence of Violent Clashes,Weapon Utilization Rates,Frequency of Specific Weapon Types
+453,Volume of Ammunition Usage,Social Conflict Intensity,Incidence of Violent Clashes,Weapon Utilization Rates,Volume of Ammunition Usage
+454,Duration of Weapon Deployment,Social Conflict Intensity,Incidence of Violent Clashes,Weapon Utilization Rates,Duration of Weapon Deployment
+455,Engagement of External Military Forces,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,
+456,Deployment Duration of Foreign Troops,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,Deployment Duration of Foreign Troops
+457,Number of Foreign Nations Involved,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,Number of Foreign Nations Involved
+458,Scale of Military Resources Allocated,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,Scale of Military Resources Allocated
+459,Frequency of Cross-Border Military Operations,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,Frequency of Cross-Border Military Operations
+460,Intensity of International Military Aid,Social Conflict Intensity,Incidence of Violent Clashes,Engagement of External Military Forces,Intensity of International Military Aid
+461,Public Perception of Conflict,Social Conflict Intensity,Public Perception of Conflict,,
+462,Media Coverage and Attention,Social Conflict Intensity,Public Perception of Conflict,Media Coverage and Attention,
+463,Headline Frequency in News,Social Conflict Intensity,Public Perception of Conflict,Media Coverage and Attention,Headline Frequency in News
+464,Coverage Duration by Mainstream Media,Social Conflict Intensity,Public Perception of Conflict,Media Coverage and Attention,Coverage Duration by Mainstream Media
+465,Community Sentiment and Trust,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,
+466,Sense of Community Belonging,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Sense of Community Belonging
+467,Interpersonal Trust Levels,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Interpersonal Trust Levels
+468,Perceived Fairness in Energy Resource Distribution,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Perceived Fairness in Energy Resource Distribution
+469,Community Engagement in Environmental Decision-making,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Community Engagement in Environmental Decision-making
+470,Conflicts over Land Use and Resource Allocation,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Conflicts over Land Use and Resource Allocation
+471,Social Cohesion,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Social Cohesion
+472,Local Cooperation on Energy Initiatives,Social Conflict Intensity,Public Perception of Conflict,Community Sentiment and Trust,Local Cooperation on Energy Initiatives
+473,Public Awareness and Understanding,Social Conflict Intensity,Public Perception of Conflict,Public Awareness and Understanding,
+474,Engagement in Public Forums,Social Conflict Intensity,Public Perception of Conflict,Public Awareness and Understanding,Engagement in Public Forums
+475,Environmental Literacy Rates,Social Conflict Intensity,Public Perception of Conflict,Public Awareness and Understanding,Environmental Literacy Rates
+476,Perceived Threat Level,Social Conflict Intensity,Public Perception of Conflict,Perceived Threat Level,
+477,Security Threat Perception,Social Conflict Intensity,Public Perception of Conflict,Perceived Threat Level,Security Threat Perception
+478,Resource Scarcity Fear,Social Conflict Intensity,Public Perception of Conflict,Perceived Threat Level,Resource Scarcity Fear
+479,Cultural Cohesion Concerns,Social Conflict Intensity,Public Perception of Conflict,Perceived Threat Level,Cultural Cohesion Concerns
+480,Social Media Discourse Volume,Social Conflict Intensity,Public Perception of Conflict,Social Media Discourse Volume,
+481,Number of Social Media Posts on Energy Policies,Social Conflict Intensity,Public Perception of Conflict,Social Media Discourse Volume,Number of Social Media Posts on Energy Policies
+482,Engagement Levels in Climate Change Debates.,Social Conflict Intensity,Public Perception of Conflict,Social Media Discourse Volume,Engagement Levels in Climate Change Debates.
+483,Number of Organized Groups,Social Conflict Intensity,Number of Organized Groups,,
+484,Environmental Advocacy Groups,Social Conflict Intensity,Number of Organized Groups,Environmental Advocacy Groups,
+485,Membership Numbers,Social Conflict Intensity,Number of Organized Groups,Environmental Advocacy Groups,Membership Numbers
+486,Lobbying Activities,Social Conflict Intensity,Number of Organized Groups,Environmental Advocacy Groups,Lobbying Activities
+487,Energy Sector Labor Unions,Social Conflict Intensity,Number of Organized Groups,Energy Sector Labor Unions,
+488,Strike Frequency,Social Conflict Intensity,Number of Organized Groups,Energy Sector Labor Unions,Strike Frequency
+489,Union Membership Levels,Social Conflict Intensity,Number of Organized Groups,Energy Sector Labor Unions,Union Membership Levels
+490,Indigenous Rights Organizations,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,
+491,Land Access Disputes,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Land Access Disputes
+492,Cultural Heritage Protection Actions,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Cultural Heritage Protection Actions
+493,Natural Resource Management Conflicts,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Natural Resource Management Conflicts
+494,Legal Challenges Against Land Development,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Legal Challenges Against Land Development
+495,Engagement in Policy-Making Processes,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Engagement in Policy-Making Processes
+496,Campaigns for Environmental Justice,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Campaigns for Environmental Justice
+497,Participation in National and International Forums,Social Conflict Intensity,Number of Organized Groups,Indigenous Rights Organizations,Participation in National and International Forums
+498,Community Resilience Networks,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,
+499,Community Cohesion Levels,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Community Cohesion Levels
+500,Resource Sharing Practices,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Resource Sharing Practices
+501,Local Leadership Participation,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Local Leadership Participation
+502,Mutual Aid Structures,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Mutual Aid Structures
+503,Communication and Information Channels,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Communication and Information Channels
+504,Cultural Heritage Preservation,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Cultural Heritage Preservation
+505,Capacity for Conflict Resolution,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Capacity for Conflict Resolution
+506,Preparation and Response Coordination,Social Conflict Intensity,Number of Organized Groups,Community Resilience Networks,Preparation and Response Coordination
+507,Sustainable Development Committees,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,
+508,Public Participation Levels,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Public Participation Levels
+509,Diversity of Stakeholder Representation,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Diversity of Stakeholder Representation
+510,Frequency of Committee Meetings,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Frequency of Committee Meetings
+511,Inclusivity of Decision-Making Processes,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Inclusivity of Decision-Making Processes
+512,Transparency of Operation Procedures,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Transparency of Operation Procedures
+513,Effectiveness of Conflict Resolution Mechanisms,Social Conflict Intensity,Number of Organized Groups,Sustainable Development Committees,Effectiveness of Conflict Resolution Mechanisms
+514,Intensity of Political Polarization,Social Conflict Intensity,Intensity of Political Polarization,,
+515,Degree of Partisan Media Consumption,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,
+516,Number of Partisan News Outlets,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Number of Partisan News Outlets
+517,Share of Audiences Consuming Partisan Content,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Share of Audiences Consuming Partisan Content
+518,Frequency of Partisan Narratives in Reporting,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Frequency of Partisan Narratives in Reporting
+519,Degree of Audience Engagement with Partisan Channels,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Degree of Audience Engagement with Partisan Channels
+520,Intensity of Bias in News Coverage,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Intensity of Bias in News Coverage
+521,Volume of Influencer-Driven Partisan Content,Social Conflict Intensity,Intensity of Political Polarization,Degree of Partisan Media Consumption,Volume of Influencer-Driven Partisan Content
+522,Extent of Ideological Segregation in Social Networks,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,
+523,Homogeneity of User Interactions,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,Homogeneity of User Interactions
+524,Concentration of Ideologically Similar Communities,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,Concentration of Ideologically Similar Communities
+525,Prevalence of Ideologically Reinforcing Content,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,Prevalence of Ideologically Reinforcing Content
+526,Clustering of Ideological Perspectives,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,Clustering of Ideological Perspectives
+527,Segmentation of Friend or Follower Networks,Social Conflict Intensity,Intensity of Political Polarization,Extent of Ideological Segregation in Social Networks,Segmentation of Friend or Follower Networks
+528,Level of Polarizing Rhetoric in Political Discourse,Social Conflict Intensity,Intensity of Political Polarization,Level of Polarizing Rhetoric in Political Discourse,
+529,Frequency of Radical Policy Proposals,Social Conflict Intensity,Intensity of Political Polarization,Level of Polarizing Rhetoric in Political Discourse,Frequency of Radical Policy Proposals
+530,Prevalence of Us vs. Them Narratives,Social Conflict Intensity,Intensity of Political Polarization,Level of Polarizing Rhetoric in Political Discourse,Prevalence of Us vs. Them Narratives
+531,Magnitude of Political Distrust Among Citizens,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,
+532,Level of Trust in Electoral Processes,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Level of Trust in Electoral Processes
+533,Degree of Confidence in Government Accountability,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Degree of Confidence in Government Accountability
+534,Perceived Fairness of Legislative Actions,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Perceived Fairness of Legislative Actions
+535,Trust in Political Leadership,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Trust in Political Leadership
+536,Belief in Judicial System Impartiality,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Belief in Judicial System Impartiality
+537,Trust in News and Information Sources,Social Conflict Intensity,Intensity of Political Polarization,Magnitude of Political Distrust Among Citizens,Trust in News and Information Sources
+538,Range of Ideological Divide in Legislative Bodies,Social Conflict Intensity,Intensity of Political Polarization,Range of Ideological Divide in Legislative Bodies,
+539,Diversity of Energy Policy Perspectives in Legislatures,Social Conflict Intensity,Intensity of Political Polarization,Range of Ideological Divide in Legislative Bodies,Diversity of Energy Policy Perspectives in Legislatures
+540,Variation in Environmental Regulation Approaches Among Legislators,Social Conflict Intensity,Intensity of Political Polarization,Range of Ideological Divide in Legislative Bodies,Variation in Environmental Regulation Approaches Among Legislators
+541,Extent of Agreement on Human Health and Welfare Laws,Social Conflict Intensity,Intensity of Political Polarization,Range of Ideological Divide in Legislative Bodies,Extent of Agreement on Human Health and Welfare Laws

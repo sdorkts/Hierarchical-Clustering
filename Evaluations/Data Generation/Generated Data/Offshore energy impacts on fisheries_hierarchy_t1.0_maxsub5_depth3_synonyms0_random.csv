@@ -1,0 +1,756 @@
+,topic,category 0,category 1,category 2,category 3
+0,Fish Population Metrics,Fish Population Metrics,,,
+1,Fish Biomass,Fish Population Metrics,Fish Biomass,,
+2,Trophic Level Biomass Distribution,Fish Population Metrics,Fish Biomass,Trophic Level Biomass Distribution,
+3,Herbivorous Fish Biomass,Fish Population Metrics,Fish Biomass,Trophic Level Biomass Distribution,Herbivorous Fish Biomass
+4,Carnivorous Fish Biomass,Fish Population Metrics,Fish Biomass,Trophic Level Biomass Distribution,Carnivorous Fish Biomass
+5,Predator-Prey Biomass Ratio,Fish Population Metrics,Fish Biomass,Predator-Prey Biomass Ratio,
+6,Predator Biomass near Offshore Installations,Fish Population Metrics,Fish Biomass,Predator-Prey Biomass Ratio,Predator Biomass near Offshore Installations
+7,Prey Biomass near Offshore Installations,Fish Population Metrics,Fish Biomass,Predator-Prey Biomass Ratio,Prey Biomass near Offshore Installations
+8,Benthic Fish Biomass,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,
+9,Habitat Coverage for Benthic Species,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,Habitat Coverage for Benthic Species
+10,Reproductive Rates of Benthic Fish,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,Reproductive Rates of Benthic Fish
+11,Juvenile Benthic Fish Survival Rates,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,Juvenile Benthic Fish Survival Rates
+12,Benthic Fish Food Availability,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,Benthic Fish Food Availability
+13,Benthic Habitat Structural Complexity,Fish Population Metrics,Fish Biomass,Benthic Fish Biomass,Benthic Habitat Structural Complexity
+14,Pelagic Fish Biomass,Fish Population Metrics,Fish Biomass,Pelagic Fish Biomass,
+15,Nutrient Availability in Surface Waters,Fish Population Metrics,Fish Biomass,Pelagic Fish Biomass,Nutrient Availability in Surface Waters
+16,Depth-Integrated Biomass Distribution,Fish Population Metrics,Fish Biomass,Pelagic Fish Biomass,Depth-Integrated Biomass Distribution
+17,Habitat Range Overlapping with Offshore Structures,Fish Population Metrics,Fish Biomass,Pelagic Fish Biomass,Habitat Range Overlapping with Offshore Structures
+18,Spawning Area Biomass Concentration,Fish Population Metrics,Fish Biomass,Pelagic Fish Biomass,Spawning Area Biomass Concentration
+19,Seasonal Biomass Variation,Fish Population Metrics,Fish Biomass,Seasonal Biomass Variation,
+20,Spawning Biomass Accumulation,Fish Population Metrics,Fish Biomass,Seasonal Biomass Variation,Spawning Biomass Accumulation
+21,Juvenile Fish Biomass Growth,Fish Population Metrics,Fish Biomass,Seasonal Biomass Variation,Juvenile Fish Biomass Growth
+22,Migratory Biomass Flux,Fish Population Metrics,Fish Biomass,Seasonal Biomass Variation,Migratory Biomass Flux
+23,Biomass Density in Habitat Zones,Fish Population Metrics,Fish Biomass,Biomass Density in Habitat Zones,
+24,Reef Fish Biomass Density,Fish Population Metrics,Fish Biomass,Biomass Density in Habitat Zones,Reef Fish Biomass Density
+25,Seagrass Bed Fish Biomass Density,Fish Population Metrics,Fish Biomass,Biomass Density in Habitat Zones,Seagrass Bed Fish Biomass Density
+26,Deep Sea Fish Biomass Density,Fish Population Metrics,Fish Biomass,Biomass Density in Habitat Zones,Deep Sea Fish Biomass Density
+27,Fish Recruitment Rates,Fish Population Metrics,Fish Recruitment Rates,,
+28,Larval Survival Rate,Fish Population Metrics,Fish Recruitment Rates,Larval Survival Rate,
+29,Larval Predation Pressure,Fish Population Metrics,Fish Recruitment Rates,Larval Survival Rate,Larval Predation Pressure
+30,Larval Food Availability,Fish Population Metrics,Fish Recruitment Rates,Larval Survival Rate,Larval Food Availability
+31,Larval Habitat Stability,Fish Population Metrics,Fish Recruitment Rates,Larval Survival Rate,Larval Habitat Stability
+32,Egg Hatching Success,Fish Population Metrics,Fish Recruitment Rates,Egg Hatching Success,
+33,Thermal Conditions in Spawning Areas,Fish Population Metrics,Fish Recruitment Rates,Egg Hatching Success,Thermal Conditions in Spawning Areas
+34,Hydrodynamic Stability of Spawning Grounds,Fish Population Metrics,Fish Recruitment Rates,Egg Hatching Success,Hydrodynamic Stability of Spawning Grounds
+35,Sediment Deposition on Egg Beds,Fish Population Metrics,Fish Recruitment Rates,Egg Hatching Success,Sediment Deposition on Egg Beds
+36,Juvenile Growth Rate,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,
+37,Feeding Efficiency,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Feeding Efficiency
+38,Metabolic Rate,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Metabolic Rate
+39,Habitat Accessibility,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Habitat Accessibility
+40,Predation Pressure,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Predation Pressure
+41,Nutrient Availability,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Nutrient Availability
+42,Genetic Variability,Fish Population Metrics,Fish Recruitment Rates,Juvenile Growth Rate,Genetic Variability
+43,Nursery Habitat Availability,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,
+44,Seagrass Bed Extent,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Seagrass Bed Extent
+45,Coral Reef Coverage,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Coral Reef Coverage
+46,Kelp Forest Density,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Kelp Forest Density
+47,Mangrove Forest Area,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Mangrove Forest Area
+48,Salt Marsh Size,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Salt Marsh Size
+49,Estuarine Zone Area,Fish Population Metrics,Fish Recruitment Rates,Nursery Habitat Availability,Estuarine Zone Area
+50,Environmental Suitability for Early Life Stages,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,
+51,Water Temperature Variability,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Water Temperature Variability
+52,Oxygen Level Stability,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Oxygen Level Stability
+53,Salinity Balance,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Salinity Balance
+54,Predation Pressure on Larvae,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Predation Pressure on Larvae
+55,Habitat Complexity,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Habitat Complexity
+56,Food Availability for Larvae,Fish Population Metrics,Fish Recruitment Rates,Environmental Suitability for Early Life Stages,Food Availability for Larvae
+57,Fish Age Structure,Fish Population Metrics,Fish Age Structure,,
+58,Proportion of Juvenile Fish,Fish Population Metrics,Fish Age Structure,Proportion of Juvenile Fish,
+59,Juvenile Fish Growth Rate,Fish Population Metrics,Fish Age Structure,Proportion of Juvenile Fish,Juvenile Fish Growth Rate
+60,Juvenile Fish Habitat Availability,Fish Population Metrics,Fish Age Structure,Proportion of Juvenile Fish,Juvenile Fish Habitat Availability
+61,Proportion of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,
+62,Size Distribution of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,Size Distribution of Mature Fish
+63,Reproductive Output of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,Reproductive Output of Mature Fish
+64,Growth Rates of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,Growth Rates of Mature Fish
+65,Health and Condition of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,Health and Condition of Mature Fish
+66,Mortality Rates of Mature Fish,Fish Population Metrics,Fish Age Structure,Proportion of Mature Fish,Mortality Rates of Mature Fish
+67,Age-Class Distribution Diversity,Fish Population Metrics,Fish Age Structure,Age-Class Distribution Diversity,
+68,Age-Class Range Variability,Fish Population Metrics,Fish Age Structure,Age-Class Distribution Diversity,Age-Class Range Variability
+69,Evenness of Age Distribution,Fish Population Metrics,Fish Age Structure,Age-Class Distribution Diversity,Evenness of Age Distribution
+70,Age-Class Representation Balance,Fish Population Metrics,Fish Age Structure,Age-Class Distribution Diversity,Age-Class Representation Balance
+71,Fish Distribution Patterns,Fish Population Metrics,Fish Distribution Patterns,,
+72,Geographic Range Shifts,Fish Population Metrics,Fish Distribution Patterns,Geographic Range Shifts,
+73,Latitude Dispersion,Fish Population Metrics,Fish Distribution Patterns,Geographic Range Shifts,Latitude Dispersion
+74,Regional Occupancy Rate,Fish Population Metrics,Fish Distribution Patterns,Geographic Range Shifts,Regional Occupancy Rate
+75,Proximity to Offshore Structures,Fish Population Metrics,Fish Distribution Patterns,Geographic Range Shifts,Proximity to Offshore Structures
+76,Depth Distribution Variability,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,
+77,Vertical Migration Patterns,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,Vertical Migration Patterns
+78,Thermal Layer Occupancy,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,Thermal Layer Occupancy
+79,Nutrient Zone Utilization,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,Nutrient Zone Utilization
+80,Light Penetration Zone Occupancy,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,Light Penetration Zone Occupancy
+81,Pressure Tolerance Distribution,Fish Population Metrics,Fish Distribution Patterns,Depth Distribution Variability,Pressure Tolerance Distribution
+82,Habitat Utilization Changes,Fish Population Metrics,Fish Distribution Patterns,Habitat Utilization Changes,
+83,Species-Specific Habitat Preference,Fish Population Metrics,Fish Distribution Patterns,Habitat Utilization Changes,Species-Specific Habitat Preference
+84,Availability of Shelter Habitat,Fish Population Metrics,Fish Distribution Patterns,Habitat Utilization Changes,Availability of Shelter Habitat
+85,Proximity to Food Resources,Fish Population Metrics,Fish Distribution Patterns,Habitat Utilization Changes,Proximity to Food Resources
+86,Reproductive Site Utilization,Fish Population Metrics,Fish Distribution Patterns,Habitat Utilization Changes,Reproductive Site Utilization
+87,Seasonal Migration Alteration,Fish Population Metrics,Fish Distribution Patterns,Seasonal Migration Alteration,
+88,Migration Timing Shifts,Fish Population Metrics,Fish Distribution Patterns,Seasonal Migration Alteration,Migration Timing Shifts
+89,Migration Route Changes,Fish Population Metrics,Fish Distribution Patterns,Seasonal Migration Alteration,Migration Route Changes
+90,Migration Group Size Variation,Fish Population Metrics,Fish Distribution Patterns,Seasonal Migration Alteration,Migration Group Size Variation
+91,Aggregation Density Variation,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,
+92,Spatial Distribution Consistency,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,Spatial Distribution Consistency
+93,Reproductive Aggregation Frequency,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,Reproductive Aggregation Frequency
+94,Predator Avoidance Clustering,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,Predator Avoidance Clustering
+95,Food Availability Clustering,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,Food Availability Clustering
+96,Population Density Hotspots,Fish Population Metrics,Fish Distribution Patterns,Aggregation Density Variation,Population Density Hotspots
+97,Spawning Stock Size,Fish Population Metrics,Spawning Stock Size,,
+98,Reproductive Maturity Rates,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,
+99,Age at Reproductive Maturity,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,Age at Reproductive Maturity
+100,Percentage of Individuals Reaching Maturity,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,Percentage of Individuals Reaching Maturity
+101,Proportion of Mature Individuals in Population,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,Proportion of Mature Individuals in Population
+102,Maturation Size,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,Maturation Size
+103,Genetic Diversity in Maturation Traits,Fish Population Metrics,Spawning Stock Size,Reproductive Maturity Rates,Genetic Diversity in Maturation Traits
+104,Egg Production Capacity,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,
+105,Yolk Quality,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,Yolk Quality
+106,Egg Size,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,Egg Size
+107,Fecundity Rate,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,Fecundity Rate
+108,Larval Viability,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,Larval Viability
+109,Spawning Ground Quality,Fish Population Metrics,Spawning Stock Size,Egg Production Capacity,Spawning Ground Quality
+110,Spawning Habitat Area,Fish Population Metrics,Spawning Stock Size,Spawning Habitat Area,
+111,Seafloor Roughness,Fish Population Metrics,Spawning Stock Size,Spawning Habitat Area,Seafloor Roughness
+112,Underwater Noise Levels,Fish Population Metrics,Spawning Stock Size,Spawning Habitat Area,Underwater Noise Levels
+113,Spawning Frequency,Fish Population Metrics,Spawning Stock Size,Spawning Frequency,
+114,Duration of Spawning Seasons,Fish Population Metrics,Spawning Stock Size,Spawning Frequency,Duration of Spawning Seasons
+115,Number of Spawning Per Cycle,Fish Population Metrics,Spawning Stock Size,Spawning Frequency,Number of Spawning Per Cycle
+116,Spawning Group Size,Fish Population Metrics,Spawning Stock Size,Spawning Frequency,Spawning Group Size
+117,Fish Mortality Rates,Fish Population Metrics,Fish Mortality Rates,,
+118,Species-specific Mortality,Fish Population Metrics,Fish Mortality Rates,Species-specific Mortality,
+119,Habitat Displacement,Fish Population Metrics,Fish Mortality Rates,Species-specific Mortality,Habitat Displacement
+120,Thermal Stress,Fish Population Metrics,Fish Mortality Rates,Species-specific Mortality,Thermal Stress
+121,Age-specific Mortality,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,
+122,Spawning Success Rates,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,Spawning Success Rates
+123,Juvenile Growth Rates,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,Juvenile Growth Rates
+124,Maturity Age Distribution,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,Maturity Age Distribution
+125,Larval Survival,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,Larval Survival
+126,Adult Longevity,Fish Population Metrics,Fish Mortality Rates,Age-specific Mortality,Adult Longevity
+127,Species Composition,Fish Population Metrics,Species Composition,,
+128,Species Richness,Fish Population Metrics,Species Composition,Species Richness,
+129,Number of Endemic Fish Species,Fish Population Metrics,Species Composition,Species Richness,Number of Endemic Fish Species
+130,Diversity of Habitat Preferences Among Fish,Fish Population Metrics,Species Composition,Species Richness,Diversity of Habitat Preferences Among Fish
+131,Variety of Trophic Levels Represented,Fish Population Metrics,Species Composition,Species Richness,Variety of Trophic Levels Represented
+132,Range of Fish Morphological Traits,Fish Population Metrics,Species Composition,Species Richness,Range of Fish Morphological Traits
+133,Variety of Migratory Fish Species,Fish Population Metrics,Species Composition,Species Richness,Variety of Migratory Fish Species
+134,Species Evenness,Fish Population Metrics,Species Composition,Species Evenness,
+135,Distribution of Fish Age Classes,Fish Population Metrics,Species Composition,Species Evenness,Distribution of Fish Age Classes
+136,Relative Abundance of Non-native Species,Fish Population Metrics,Species Composition,Species Evenness,Relative Abundance of Non-native Species
+137,Diversity of Fish Trophic Levels,Fish Population Metrics,Species Composition,Species Evenness,Diversity of Fish Trophic Levels
+138,Balance of Predatory and Non-predatory Species,Fish Population Metrics,Species Composition,Species Evenness,Balance of Predatory and Non-predatory Species
+139,Dominance of Invasive Species,Fish Population Metrics,Species Composition,Dominance of Invasive Species,
+140,Invasive Species Biomass Relative to Native Species,Fish Population Metrics,Species Composition,Dominance of Invasive Species,Invasive Species Biomass Relative to Native Species
+141,Invasive Species Reproduction Rates,Fish Population Metrics,Species Composition,Dominance of Invasive Species,Invasive Species Reproduction Rates
+142,Invasive Predation on Native Fish,Fish Population Metrics,Species Composition,Dominance of Invasive Species,Invasive Predation on Native Fish
+143,Genetic Diversity within Species,Fish Population Metrics,Species Composition,Genetic Diversity within Species,
+144,Allele Frequency Variety,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Allele Frequency Variety
+145,Genetic Drift Degree,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Genetic Drift Degree
+146,Subpopulation Differentiation,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Subpopulation Differentiation
+147,Gene Flow Rate,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Gene Flow Rate
+148,Inbreeding Levels,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Inbreeding Levels
+149,Genetic Mutation Rates,Fish Population Metrics,Species Composition,Genetic Diversity within Species,Genetic Mutation Rates
+150,Proportion of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,
+151,Age Structure of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Age Structure of Demersal Species
+152,Reproductive Rate of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Reproductive Rate of Demersal Species
+153,Spatial Distribution of Demersal Fish,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Spatial Distribution of Demersal Fish
+154,Juvenile Recruitment of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Juvenile Recruitment of Demersal Species
+155,Mortality Rate of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Mortality Rate of Demersal Species
+156,Biomass of Demersal Species,Fish Population Metrics,Species Composition,Proportion of Demersal Species,Biomass of Demersal Species
+157,Presence of Sensitive Indicator Species,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,
+158,Habitat Suitability Index,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,Habitat Suitability Index
+159,Species Condition Factor,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,Species Condition Factor
+160,Breeding Ground Accessibility,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,Breeding Ground Accessibility
+161,Feeding Habitat Quality,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,Feeding Habitat Quality
+162,Nursery Habitat Area,Fish Population Metrics,Species Composition,Presence of Sensitive Indicator Species,Nursery Habitat Area
+163,Fishing Effort & Utilization,Fishing Effort & Utilization,,,
+164,Vessel Count in Fishing Areas,Fishing Effort & Utilization,Vessel Count in Fishing Areas,,
+165,Number of Active Fishing Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Number of Active Fishing Vessels,
+166,Vessel Operational Days,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Number of Active Fishing Vessels,Vessel Operational Days
+167,Fishing Trip Frequency,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Number of Active Fishing Vessels,Fishing Trip Frequency
+168,Crew Size on Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Number of Active Fishing Vessels,Crew Size on Vessels
+169,Fuel Consumption per Vessel,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Number of Active Fishing Vessels,Fuel Consumption per Vessel
+170,Presence of Non-local Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Presence of Non-local Vessels,
+171,Distance Traveled by Non-local Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Presence of Non-local Vessels,Distance Traveled by Non-local Vessels
+172,Duration of Stay in Fishing Grounds by Non-local Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Presence of Non-local Vessels,Duration of Stay in Fishing Grounds by Non-local Vessels
+173,Vessel Capacity Utilization,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Capacity Utilization,
+174,Gear Allocation Efficiency,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Capacity Utilization,Gear Allocation Efficiency
+175,Fishing Capacity Density,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Capacity Utilization,Fishing Capacity Density
+176,Trip Duration Frequency,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Capacity Utilization,Trip Duration Frequency
+177,Vessel Registration Variability,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,
+178,Frequency of Vessel Registration Updates,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Frequency of Vessel Registration Updates
+179,Diversity in Vessel Ownership,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Diversity in Vessel Ownership
+180,Regional Distribution of Registered Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Regional Distribution of Registered Vessels
+181,Types of Registration Categories,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Types of Registration Categories
+182,Duration of Active Registrations,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Duration of Active Registrations
+183,Proportion of Renewable Energy Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Registration Variability,Proportion of Renewable Energy Vessels
+184,Concentration of Vessel Types,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Concentration of Vessel Types,
+185,Proportion of Trawl Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Concentration of Vessel Types,Proportion of Trawl Vessels
+186,Density of Longline Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Concentration of Vessel Types,Density of Longline Vessels
+187,Prevalence of Jigging Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Concentration of Vessel Types,Prevalence of Jigging Vessels
+188,Dominance of Pot Fishing Vessels,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Concentration of Vessel Types,Dominance of Pot Fishing Vessels
+189,Vessel Turnover Rates,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,
+190,Frequency of Vessel Replacement,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,Frequency of Vessel Replacement
+191,Seasonal Switching of Vessel Roles,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,Seasonal Switching of Vessel Roles
+192,Transfer of Vessel Ownership,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,Transfer of Vessel Ownership
+193,Vessel Decommissioning Rates,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,Vessel Decommissioning Rates
+194,Fleet Modernization Activities,Fishing Effort & Utilization,Vessel Count in Fishing Areas,Vessel Turnover Rates,Fleet Modernization Activities
+195,Fishing Gear Type Usage,Fishing Effort & Utilization,Fishing Gear Type Usage,,
+196,Selectivity of Fishing Gear,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,
+197,Mesh Size Variation,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Mesh Size Variation
+198,Bycatch Composition,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Bycatch Composition
+199,Target Species Catch Rate,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Target Species Catch Rate
+200,Depth of Gear Deployment,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Depth of Gear Deployment
+201,Seasonal Gear Adjustment,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Seasonal Gear Adjustment
+202,Non-target Species Selectivity,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Non-target Species Selectivity
+203,Size Selectivity in Gear,Fishing Effort & Utilization,Fishing Gear Type Usage,Selectivity of Fishing Gear,Size Selectivity in Gear
+204,Adaptation of Gear to Offshore Conditions,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,
+205,Resilience of Fishing Gear Materials,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,Resilience of Fishing Gear Materials
+206,Deployment Depth Capabilities,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,Deployment Depth Capabilities
+207,Gear Design Innovation for Stability,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,Gear Design Innovation for Stability
+208,Efficiency in Gear Retrieval,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,Efficiency in Gear Retrieval
+209,Compatibility with Offshore Currents,Fishing Effort & Utilization,Fishing Gear Type Usage,Adaptation of Gear to Offshore Conditions,Compatibility with Offshore Currents
+210,Fishing Trip Duration,Fishing Effort & Utilization,Fishing Trip Duration,,
+211,Distance Traveled During Fishing Trips,Fishing Effort & Utilization,Fishing Trip Duration,Distance Traveled During Fishing Trips,
+212,Range of Fishing Locations,Fishing Effort & Utilization,Fishing Trip Duration,Distance Traveled During Fishing Trips,Range of Fishing Locations
+213,Fuel Consumption for Fishing Ventures,Fishing Effort & Utilization,Fishing Trip Duration,Distance Traveled During Fishing Trips,Fuel Consumption for Fishing Ventures
+214,Access to Remote Fishing Zones,Fishing Effort & Utilization,Fishing Trip Duration,Distance Traveled During Fishing Trips,Access to Remote Fishing Zones
+215,Time Spent at Fishing Grounds,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,
+216,Duration of Fishing Activity,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,Duration of Fishing Activity
+217,Hours of Peak Fishing Effort,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,Hours of Peak Fishing Effort
+218,Length of Time Engaged in Gear Deployment,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,Length of Time Engaged in Gear Deployment
+219,Time Allocated for Navigating Between Fishing Sites,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,Time Allocated for Navigating Between Fishing Sites
+220,Time Spent on Catch Processing Aboard,Fishing Effort & Utilization,Fishing Trip Duration,Time Spent at Fishing Grounds,Time Spent on Catch Processing Aboard
+221,Frequency of Fishing Trips Linked to Offshore Energy Areas,Fishing Effort & Utilization,Fishing Trip Duration,Frequency of Fishing Trips Linked to Offshore Energy Areas,
+222,Number of Vessels Engaged in Fishing,Fishing Effort & Utilization,Fishing Trip Duration,Frequency of Fishing Trips Linked to Offshore Energy Areas,Number of Vessels Engaged in Fishing
+223,Fishing Hours Allocated to Offshore Areas,Fishing Effort & Utilization,Fishing Trip Duration,Frequency of Fishing Trips Linked to Offshore Energy Areas,Fishing Hours Allocated to Offshore Areas
+224,Frequency of Fish Catch Assessments Linked to Energy Areas,Fishing Effort & Utilization,Fishing Trip Duration,Frequency of Fishing Trips Linked to Offshore Energy Areas,Frequency of Fish Catch Assessments Linked to Energy Areas
+225,Overlap of Fishing Routes with Energy Installations,Fishing Effort & Utilization,Fishing Trip Duration,Frequency of Fishing Trips Linked to Offshore Energy Areas,Overlap of Fishing Routes with Energy Installations
+226,Fishing Area Coverage,Fishing Effort & Utilization,Fishing Area Coverage,,
+227,Spatial Overlap with Energy Installations,Fishing Effort & Utilization,Fishing Area Coverage,Spatial Overlap with Energy Installations,
+228,Fishing Effort Density,Fishing Effort & Utilization,Fishing Area Coverage,Spatial Overlap with Energy Installations,Fishing Effort Density
+229,Fishing Gear Deployment,Fishing Effort & Utilization,Fishing Area Coverage,Spatial Overlap with Energy Installations,Fishing Gear Deployment
+230,Vessel Traffic Intensity,Fishing Effort & Utilization,Fishing Area Coverage,Spatial Overlap with Energy Installations,Vessel Traffic Intensity
+231,Spatial Allocation of Fishing Zones,Fishing Effort & Utilization,Fishing Area Coverage,Spatial Overlap with Energy Installations,Spatial Allocation of Fishing Zones
+232,Access to Traditional Fishing Sites,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,
+233,Navigability of Fishing Areas,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Navigability of Fishing Areas
+234,Physical Barriers to Fishing Sites,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Physical Barriers to Fishing Sites
+235,Seasonal Access Variability,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Seasonal Access Variability
+236,Cultural Site Preservation Impact,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Cultural Site Preservation Impact
+237,Fishing Zone Legal Designation,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Fishing Zone Legal Designation
+238,Infrastructure Development on Shorelines,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Infrastructure Development on Shorelines
+239,Availability of Entry Points,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Availability of Entry Points
+240,Competition for Site Access,Fishing Effort & Utilization,Fishing Area Coverage,Access to Traditional Fishing Sites,Competition for Site Access
+241,Exclusion Zones due to Energy Development,Fishing Effort & Utilization,Fishing Area Coverage,Exclusion Zones due to Energy Development,
+242,Fishing Effort Redistribution,Fishing Effort & Utilization,Fishing Area Coverage,Exclusion Zones due to Energy Development,Fishing Effort Redistribution
+243,Fishing Gear Adaptation,Fishing Effort & Utilization,Fishing Area Coverage,Exclusion Zones due to Energy Development,Fishing Gear Adaptation
+244,Catch Per Unit Effort,Fishing Effort & Utilization,Catch Per Unit Effort,,
+245,Effort Allocation in Offshore Areas,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,
+246,Vessel Density in Offshore Fishing Zones,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Vessel Density in Offshore Fishing Zones
+247,Fishing Gear Deployment Offshore,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Fishing Gear Deployment Offshore
+248,Fishing Hours Spent in Offshore Regions,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Fishing Hours Spent in Offshore Regions
+249,Seasonal Allocation Patterns in Offshore Fishing,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Seasonal Allocation Patterns in Offshore Fishing
+250,Species Targeting Focus in Offshore Areas,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Species Targeting Focus in Offshore Areas
+251,Crew Size Utilization for Offshore Expeditions,Fishing Effort & Utilization,Catch Per Unit Effort,Effort Allocation in Offshore Areas,Crew Size Utilization for Offshore Expeditions
+252,Catch Rates at Offshore Energy Sites,Fishing Effort & Utilization,Catch Per Unit Effort,Catch Rates at Offshore Energy Sites,
+253,Target Species Presence,Fishing Effort & Utilization,Catch Per Unit Effort,Catch Rates at Offshore Energy Sites,Target Species Presence
+254,Fishing Gear Efficiency,Fishing Effort & Utilization,Catch Per Unit Effort,Catch Rates at Offshore Energy Sites,Fishing Gear Efficiency
+255,Seasonal Catch Variability,Fishing Effort & Utilization,Catch Per Unit Effort,Catch Rates at Offshore Energy Sites,Seasonal Catch Variability
+256,Bycatch Rates,Fishing Effort & Utilization,Catch Per Unit Effort,Catch Rates at Offshore Energy Sites,Bycatch Rates
+257,Seasonal Fishing Activity,Fishing Effort & Utilization,Seasonal Fishing Activity,,
+258,Seasonal Shift in Fishing Grounds,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,
+259,Duration of Fishing Operations,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Duration of Fishing Operations
+260,Concentration of Fishing Vessels,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Concentration of Fishing Vessels
+261,Distance Travelled to Fishing Grounds,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Distance Travelled to Fishing Grounds
+262,Variety of Fishing Techniques Employed,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Variety of Fishing Techniques Employed
+263,Diversity of Targeted Species,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Diversity of Targeted Species
+264,Adaption of Fishing Equipment,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Adaption of Fishing Equipment
+265,Timing of Fishing Efforts,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Timing of Fishing Efforts
+266,Allocation of Crew Resources,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Shift in Fishing Grounds,Allocation of Crew Resources
+267,Seasonal Allocation of Fishing Quotas,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Allocation of Fishing Quotas,
+268,Quota Distribution by Species,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Allocation of Fishing Quotas,Quota Distribution by Species
+269,Fishing Hours Utilization,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Allocation of Fishing Quotas,Fishing Hours Utilization
+270,Temporal Quota Caps,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Allocation of Fishing Quotas,Temporal Quota Caps
+271,Quota Exchange Volumes,Fishing Effort & Utilization,Seasonal Fishing Activity,Seasonal Allocation of Fishing Quotas,Quota Exchange Volumes
+272,Technological Advancements in Fishing Methods,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,,
+273,Sonar and Fish-Finding Technology,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Sonar and Fish-Finding Technology,
+274,Sonar Signal Precision,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Sonar and Fish-Finding Technology,Sonar Signal Precision
+275,Detection Range Extension,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Sonar and Fish-Finding Technology,Detection Range Extension
+276,Operator Skill in Sonar Utilization,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Sonar and Fish-Finding Technology,Operator Skill in Sonar Utilization
+277,Energy Consumption of Fish-Finding Devices,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Sonar and Fish-Finding Technology,Energy Consumption of Fish-Finding Devices
+278,Automated Fishing Equipment,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,
+279,Robotic Fishing Gear Deployment,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,Robotic Fishing Gear Deployment
+280,Automated Net Retrieval Systems,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,Automated Net Retrieval Systems
+281,AI-Controlled Trawl Efficiency,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,AI-Controlled Trawl Efficiency
+282,Mechanized Line Setting,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,Mechanized Line Setting
+283,Automated Fish Sorting and Processing,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Automated Fishing Equipment,Automated Fish Sorting and Processing
+284,Advanced Navigation Systems,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Advanced Navigation Systems,
+285,Route Efficiency,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Advanced Navigation Systems,Route Efficiency
+286,Time at Sea,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Advanced Navigation Systems,Time at Sea
+287,Fuel Consumption,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Advanced Navigation Systems,Fuel Consumption
+288,Fishing Zone Precision,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Advanced Navigation Systems,Fishing Zone Precision
+289,Remote Sensing for Fish Detection,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,
+290,Satellite Imagery Analysis for Fish Presence,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,Satellite Imagery Analysis for Fish Presence
+291,Thermal Mapping for Fish Aggregation Zones,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,Thermal Mapping for Fish Aggregation Zones
+292,Hydrological Data Integration for Fish Movement,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,Hydrological Data Integration for Fish Movement
+293,Optical Sensor Calibration for Fish Detection,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,Optical Sensor Calibration for Fish Detection
+294,Remote Sensing Data Accuracy in Offshore Sites,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Remote Sensing for Fish Detection,Remote Sensing Data Accuracy in Offshore Sites
+295,Electric and Hybrid Propulsion Systems,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,
+296,Range of Fishing Operations,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,Range of Fishing Operations
+297,Fuel Consumption Efficiency,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,Fuel Consumption Efficiency
+298,Maintenance Requirements,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,Maintenance Requirements
+299,Vessel Noise Levels,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,Vessel Noise Levels
+300,Operational Cost Dynamics,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Electric and Hybrid Propulsion Systems,Operational Cost Dynamics
+301,Drones for Monitoring and Survey,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Drones for Monitoring and Survey,
+302,Survey Coverage Area by Drones,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Drones for Monitoring and Survey,Survey Coverage Area by Drones
+303,Data Collection Frequency using Drones,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Drones for Monitoring and Survey,Data Collection Frequency using Drones
+304,Drone Operational Efficiency in Offshore Monitoring,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Drones for Monitoring and Survey,Drone Operational Efficiency in Offshore Monitoring
+305,Biometric Monitoring for Bycatch Reduction,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,
+306,Bycatch Monitoring Technology Implementation,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,Bycatch Monitoring Technology Implementation
+307,Data Collection Frequency,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,Data Collection Frequency
+308,Observer Coverage Levels,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,Observer Coverage Levels
+309,Non-Target Species Identification Accuracy,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,Non-Target Species Identification Accuracy
+310,Real-Time Data Processing Capacity,Fishing Effort & Utilization,Technological Advancements in Fishing Methods,Biometric Monitoring for Bycatch Reduction,Real-Time Data Processing Capacity
+311,Governance Effectiveness & Stakeholder Engagement,Governance Effectiveness & Stakeholder Engagement,,,
+312,Stakeholder Representation in Decision-Making,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,,
+313,Inclusivity of Fishing Communities,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Inclusivity of Fishing Communities,
+314,Community Representation in Decision-Making,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Inclusivity of Fishing Communities,Community Representation in Decision-Making
+315,Access to Consultation Platforms,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Inclusivity of Fishing Communities,Access to Consultation Platforms
+316,Equitability of Resource Allocation,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Inclusivity of Fishing Communities,Equitability of Resource Allocation
+317,Support for Community Capacity Building,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Inclusivity of Fishing Communities,Support for Community Capacity Building
+318,Participation of Indigenous Groups,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Participation of Indigenous Groups,
+319,Representation in Policy-making Forums,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Participation of Indigenous Groups,Representation in Policy-making Forums
+320,Access to Consultation Processes,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Participation of Indigenous Groups,Access to Consultation Processes
+321,Involvement in Decision-making Structures,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Participation of Indigenous Groups,Involvement in Decision-making Structures
+322,Diversity of Advisory Panels,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,
+323,Representation of Marine Scientists,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,Representation of Marine Scientists
+324,Inclusion of Energy Sector Experts,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,Inclusion of Energy Sector Experts
+325,Cultural Diversity Among Panel Members,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,Cultural Diversity Among Panel Members
+326,Representation of Local Government Officials,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,Representation of Local Government Officials
+327,Participation of Environmental NGOs,Governance Effectiveness & Stakeholder Engagement,Stakeholder Representation in Decision-Making,Diversity of Advisory Panels,Participation of Environmental NGOs
+328,Transparency in Policy Implementation,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,,
+329,Access to Policy Documentation,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Access to Policy Documentation,
+330,Availability of Offshore Energy Policy Records,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Access to Policy Documentation,Availability of Offshore Energy Policy Records
+331,Comprehensiveness of Fisheries Impact Assessments,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Access to Policy Documentation,Comprehensiveness of Fisheries Impact Assessments
+332,Timeliness of Document Releases,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Access to Policy Documentation,Timeliness of Document Releases
+333,Extent of Stakeholder Input in Policy Formation,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Access to Policy Documentation,Extent of Stakeholder Input in Policy Formation
+334,Clarity in Communication of Objectives,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,
+335,Consistency in Strategic Messaging,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,Consistency in Strategic Messaging
+336,Specificity in Project Goals,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,Specificity in Project Goals
+337,Transparency in Decision-Making Rationales,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,Transparency in Decision-Making Rationales
+338,Alignment of Stakeholder Priorities,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,Alignment of Stakeholder Priorities
+339,Comprehensibility of Communication Channels,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Clarity in Communication of Objectives,Comprehensibility of Communication Channels
+340,Public Accessibility to Implementation Updates,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,
+341,Transparency of Progress Timelines,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,Transparency of Progress Timelines
+342,Accessibility of Stakeholder Meeting Summaries,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,Accessibility of Stakeholder Meeting Summaries
+343,Availability of Project Milestones Updates,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,Availability of Project Milestones Updates
+344,Public Participation in Update Dissemination,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,Public Participation in Update Dissemination
+345,Reach of Communication Channels for Updates,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Public Accessibility to Implementation Updates,Reach of Communication Channels for Updates
+346,Audit Trail Availability,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,
+347,Record Completeness,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,Record Completeness
+348,Timeliness of Entry,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,Timeliness of Entry
+349,Access Permissions,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,Access Permissions
+350,Data Consistency,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,Data Consistency
+351,Integration with Decision-Making Processes,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Audit Trail Availability,Integration with Decision-Making Processes
+352,Reporting of Stakeholder Feedback,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,
+353,Frequency of Stakeholder Surveys,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,Frequency of Stakeholder Surveys
+354,Diversity in Stakeholder Representation,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,Diversity in Stakeholder Representation
+355,Stakeholder Feedback Data Collection Methods,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,Stakeholder Feedback Data Collection Methods
+356,Transparency in Reporting Processes,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,Transparency in Reporting Processes
+357,Stakeholder Satisfaction Ratings,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Reporting of Stakeholder Feedback,Stakeholder Satisfaction Ratings
+358,Frequency of Progress Reports,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Frequency of Progress Reports,
+359,Report Delivery Timeliness,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Frequency of Progress Reports,Report Delivery Timeliness
+360,Frequency of Stakeholder Meetings for Report Review,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Frequency of Progress Reports,Frequency of Stakeholder Meetings for Report Review
+361,Report Format Consistency,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Frequency of Progress Reports,Report Format Consistency
+362,Detail Levels in Policy Briefings,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Detail Levels in Policy Briefings,
+363,Specificity in Regulatory Guidelines,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Detail Levels in Policy Briefings,Specificity in Regulatory Guidelines
+364,Granularity of Impact Assessments,Governance Effectiveness & Stakeholder Engagement,Transparency in Policy Implementation,Detail Levels in Policy Briefings,Granularity of Impact Assessments
+365,Offshore Energy Infrastructure Development,Offshore Energy Infrastructure Development,,,
+366,Wind Turbine Installation,Offshore Energy Infrastructure Development,Wind Turbine Installation,,
+367,Spatial Footprint,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,
+368,Seafloor Area Utilized,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Seafloor Area Utilized
+369,Surface Area Occupied,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Surface Area Occupied
+370,Connected Infrastructure Footprint,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Connected Infrastructure Footprint
+371,Cable and Pipeline Extent,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Cable and Pipeline Extent
+372,Anchor and Mooring Spread,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Anchor and Mooring Spread
+373,Exclusion Zone Coverage,Offshore Energy Infrastructure Development,Wind Turbine Installation,Spatial Footprint,Exclusion Zone Coverage
+374,Acoustic Emissions,Offshore Energy Infrastructure Development,Wind Turbine Installation,Acoustic Emissions,
+375,Sound Pressure Levels,Offshore Energy Infrastructure Development,Wind Turbine Installation,Acoustic Emissions,Sound Pressure Levels
+376,Frequency Range,Offshore Energy Infrastructure Development,Wind Turbine Installation,Acoustic Emissions,Frequency Range
+377,Propagation Distance,Offshore Energy Infrastructure Development,Wind Turbine Installation,Acoustic Emissions,Propagation Distance
+378,Sediment Disturbance,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,
+379,Sediment Resuspension,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Sediment Resuspension
+380,Sediment Deposition Rates,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Sediment Deposition Rates
+381,Turbidity Levels,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Turbidity Levels
+382,Grain Size Distribution,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Grain Size Distribution
+383,Benthic Habitat Coverage,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Benthic Habitat Coverage
+384,Sediment Transport Patterns,Offshore Energy Infrastructure Development,Wind Turbine Installation,Sediment Disturbance,Sediment Transport Patterns
+385,Habitat Alteration,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,
+386,Seafloor Habitat Coverage,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,Seafloor Habitat Coverage
+387,Artificial Reef Creation,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,Artificial Reef Creation
+388,Benthic Organism Distribution,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,Benthic Organism Distribution
+389,Water Column Structure Alteration,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,Water Column Structure Alteration
+390,Underwater Vegetation Growth,Offshore Energy Infrastructure Development,Wind Turbine Installation,Habitat Alteration,Underwater Vegetation Growth
+391,Navigational Impact,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,
+392,Navigation Route Alteration,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Navigation Route Alteration
+393,Vessel Traffic Density,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Vessel Traffic Density
+394,Navigational Hazard Creation,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Navigational Hazard Creation
+395,Navigation Safety Protocol Changes,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Navigation Safety Protocol Changes
+396,Maritime Traffic Congestion,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Maritime Traffic Congestion
+397,Operational Range of Navigation Aids,Offshore Energy Infrastructure Development,Wind Turbine Installation,Navigational Impact,Operational Range of Navigation Aids
+398,Offshore Drilling Platforms,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,,
+399,Seabed Habitat Disturbance,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Seabed Habitat Disturbance,
+400,Seabed Sediment Displacement,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Seabed Habitat Disturbance,Seabed Sediment Displacement
+401,Benthic Fauna Habitat Alteration,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Seabed Habitat Disturbance,Benthic Fauna Habitat Alteration
+402,Substrate Composition Change,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Seabed Habitat Disturbance,Substrate Composition Change
+403,Oil Spill Occurrence,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,
+404,Volume of Oil Released,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,Volume of Oil Released
+405,Frequency of Oil Spill Incidents,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,Frequency of Oil Spill Incidents
+406,Area of Marine Impact,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,Area of Marine Impact
+407,Duration of Containment and Cleanup,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,Duration of Containment and Cleanup
+408,Amount of Oil Transported via Offshore Infrastructure,Offshore Energy Infrastructure Development,Offshore Drilling Platforms,Oil Spill Occurrence,Amount of Oil Transported via Offshore Infrastructure
+409,Underwater Cabling Networks,Offshore Energy Infrastructure Development,Underwater Cabling Networks,,
+410,Cable Length and Coverage,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Length and Coverage,
+411,Distance of Cable Routes,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Length and Coverage,Distance of Cable Routes
+412,Area of Seabed Impacted,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Length and Coverage,Area of Seabed Impacted
+413,Number of Habitats Spanned,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Length and Coverage,Number of Habitats Spanned
+414,Extent of Fish Migration Corridors Traversed,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Length and Coverage,Extent of Fish Migration Corridors Traversed
+415,Cable Burial Depth,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,
+416,Sediment Displacement Volume,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,Sediment Displacement Volume
+417,Seafloor Disturbance Area,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,Seafloor Disturbance Area
+418,Marine Habitat Coverage,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,Marine Habitat Coverage
+419,Substrate Stability,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,Substrate Stability
+420,Burial Depth Consistency,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Burial Depth,Burial Depth Consistency
+421,Interconnection Points Quantity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Interconnection Points Quantity,
+422,Turbine Grid Connectivity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Interconnection Points Quantity,Turbine Grid Connectivity
+423,Substation Capacity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Interconnection Points Quantity,Substation Capacity
+424,Cross-border Link Points,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Interconnection Points Quantity,Cross-border Link Points
+425,Load Distribution Nodes,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Interconnection Points Quantity,Load Distribution Nodes
+426,Cable Structural Integrity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Structural Integrity,
+427,Cable Material Durability,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Structural Integrity,Cable Material Durability
+428,Seabed Stability Impact,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Structural Integrity,Seabed Stability Impact
+429,Corrosion Resistance,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Structural Integrity,Corrosion Resistance
+430,Electric Current Capacity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,
+431,Energy Transmission Efficiency,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Energy Transmission Efficiency
+432,Current Load Handling,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Current Load Handling
+433,Voltage Regulation,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Voltage Regulation
+434,Reactive Power Management,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Reactive Power Management
+435,Thermal Dissipation Rate,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Thermal Dissipation Rate
+436,Conductor Material Conductivity,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Conductor Material Conductivity
+437,Operational Voltage Range,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Electric Current Capacity,Operational Voltage Range
+438,Network Redundancy,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Network Redundancy,
+439,Redundant Power Supply Lines,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Network Redundancy,Redundant Power Supply Lines
+440,Backup Generation Systems,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Network Redundancy,Backup Generation Systems
+441,Alternative Data Communication Channels,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Network Redundancy,Alternative Data Communication Channels
+442,Cable Maintenance Frequency,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Maintenance Frequency,
+443,Inspection Schedule Variability,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Maintenance Frequency,Inspection Schedule Variability
+444,Repair Interval Duration,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Maintenance Frequency,Repair Interval Duration
+445,Component Replacement Rate,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Maintenance Frequency,Component Replacement Rate
+446,Preventative Maintenance Activities,Offshore Energy Infrastructure Development,Underwater Cabling Networks,Cable Maintenance Frequency,Preventative Maintenance Activities
+447,Tidal Energy Facilities,Offshore Energy Infrastructure Development,Tidal Energy Facilities,,
+448,Turbine Installation Density,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,
+449,Number of Turbines per Square Kilometer,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Number of Turbines per Square Kilometer
+450,Spacing Between Turbines,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Spacing Between Turbines
+451,Cluster Formation Patterns,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Cluster Formation Patterns
+452,Height Variety Among Turbines,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Height Variety Among Turbines
+453,Foundation Structure Types,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Foundation Structure Types
+454,Array Layout Designs,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Turbine Installation Density,Array Layout Designs
+455,Seafloor Footprint,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,
+456,Footprint Area of Foundations,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,Footprint Area of Foundations
+457,Extent of Seafloor Cables,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,Extent of Seafloor Cables
+458,Seafloor Habitat Alteration,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,Seafloor Habitat Alteration
+459,Sediment Redistribution,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,Sediment Redistribution
+460,Seafloor Infrastructure Density,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Seafloor Footprint,Seafloor Infrastructure Density
+461,Marine Navigation Obstructions,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Marine Navigation Obstructions,
+462,Presence of Underwater Cables,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Marine Navigation Obstructions,Presence of Underwater Cables
+463,Navigation Markers and Buoys,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Marine Navigation Obstructions,Navigation Markers and Buoys
+464,Visibility of Surface Structures,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Marine Navigation Obstructions,Visibility of Surface Structures
+465,Influence on Navigational Routes,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Marine Navigation Obstructions,Influence on Navigational Routes
+466,Operational Noise Levels,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Operational Noise Levels,
+467,Sound Intensity of Turbine Operation,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Operational Noise Levels,Sound Intensity of Turbine Operation
+468,Frequency Range Emission,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Operational Noise Levels,Frequency Range Emission
+469,Noise Propagation Distance,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Operational Noise Levels,Noise Propagation Distance
+470,Intermittency of Acoustic Output,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Operational Noise Levels,Intermittency of Acoustic Output
+471,Tidal Range Alteration,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Tidal Range Alteration,
+472,Coastal Erosion Rates,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Tidal Range Alteration,Coastal Erosion Rates
+473,Habitat Area Changes,Offshore Energy Infrastructure Development,Tidal Energy Facilities,Tidal Range Alteration,Habitat Area Changes
+474,Wave Power Structures,Offshore Energy Infrastructure Development,Wave Power Structures,,
+475,Device Deployment Density,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,
+476,Turbine Array Compactness,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,Turbine Array Compactness
+477,Spacing Between Devices,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,Spacing Between Devices
+478,Deployment Layer Concentration,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,Deployment Layer Concentration
+479,Device Cluster Distribution,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,Device Cluster Distribution
+480,Grid Pattern Complexity,Offshore Energy Infrastructure Development,Wave Power Structures,Device Deployment Density,Grid Pattern Complexity
+481,Sea Floor Footprint Size,Offshore Energy Infrastructure Development,Wave Power Structures,Sea Floor Footprint Size,
+482,Foundation Area Coverage,Offshore Energy Infrastructure Development,Wave Power Structures,Sea Floor Footprint Size,Foundation Area Coverage
+483,Cable Trenching Extent,Offshore Energy Infrastructure Development,Wave Power Structures,Sea Floor Footprint Size,Cable Trenching Extent
+484,Scour Protection Zone,Offshore Energy Infrastructure Development,Wave Power Structures,Sea Floor Footprint Size,Scour Protection Zone
+485,Equipment Anchoring Size,Offshore Energy Infrastructure Development,Wave Power Structures,Sea Floor Footprint Size,Equipment Anchoring Size
+486,Power Generation Capacity,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,
+487,Turbine Power Output,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,Turbine Power Output
+488,Renewable Energy Integration,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,Renewable Energy Integration
+489,Energy Storage Capability,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,Energy Storage Capability
+490,Grid Connection Capacity,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,Grid Connection Capacity
+491,Transmission Efficiency,Offshore Energy Infrastructure Development,Wave Power Structures,Power Generation Capacity,Transmission Efficiency
+492,Material Usage Volume,Offshore Energy Infrastructure Development,Wave Power Structures,Material Usage Volume,
+493,Steel Consumption,Offshore Energy Infrastructure Development,Wave Power Structures,Material Usage Volume,Steel Consumption
+494,Concrete Utilization,Offshore Energy Infrastructure Development,Wave Power Structures,Material Usage Volume,Concrete Utilization
+495,Plastic Components Usage,Offshore Energy Infrastructure Development,Wave Power Structures,Material Usage Volume,Plastic Components Usage
+496,Marine Habitat Encroachment,Offshore Energy Infrastructure Development,Wave Power Structures,Marine Habitat Encroachment,
+497,Sediment Displacement,Offshore Energy Infrastructure Development,Wave Power Structures,Marine Habitat Encroachment,Sediment Displacement
+498,Marine Mammal Movement Interruption,Offshore Energy Infrastructure Development,Wave Power Structures,Marine Habitat Encroachment,Marine Mammal Movement Interruption
+499,Shoreline Distance,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,
+500,Turbine Distance to Shore,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Turbine Distance to Shore
+501,Cable Length to Grid Connection,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Cable Length to Grid Connection
+502,Visual Impact Radius from Shore,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Visual Impact Radius from Shore
+503,Proximity to Shipping Lanes,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Proximity to Shipping Lanes
+504,Shoreline Access for Construction,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Shoreline Access for Construction
+505,Distance to Marine Protected Areas,Offshore Energy Infrastructure Development,Wave Power Structures,Shoreline Distance,Distance to Marine Protected Areas
+506,Maintenance Frequency,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,
+507,Inspection Cycles,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Inspection Cycles
+508,Component Replacement Intervals,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Component Replacement Intervals
+509,Corrosion Monitoring Frequency,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Corrosion Monitoring Frequency
+510,Lubrication Schedule Frequency,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Lubrication Schedule Frequency
+511,Equipment Testing Frequency,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Equipment Testing Frequency
+512,Structural Integrity Assessments,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Structural Integrity Assessments
+513,Operational Downtime for Maintenance,Offshore Energy Infrastructure Development,Wave Power Structures,Maintenance Frequency,Operational Downtime for Maintenance
+514,Marine Environmental Quality,Marine Environmental Quality,,,
+515,Water Column Turbidity,Marine Environmental Quality,Water Column Turbidity,,
+516,Suspended Sediment Concentration,Marine Environmental Quality,Water Column Turbidity,Suspended Sediment Concentration,
+517,Sediment Load from Offshore Construction,Marine Environmental Quality,Water Column Turbidity,Suspended Sediment Concentration,Sediment Load from Offshore Construction
+518,Algal Blooms Density,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,
+519,Nutrient Concentration,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,Nutrient Concentration
+520,Water Temperature,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,Water Temperature
+521,Salinity Levels,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,Salinity Levels
+522,Light Availability,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,Light Availability
+523,Ocean Current Patterns,Marine Environmental Quality,Water Column Turbidity,Algal Blooms Density,Ocean Current Patterns
+524,Particulate Matter Content,Marine Environmental Quality,Water Column Turbidity,Particulate Matter Content,
+525,Microplastic Concentration,Marine Environmental Quality,Water Column Turbidity,Particulate Matter Content,Microplastic Concentration
+526,Organic Particulate Levels,Marine Environmental Quality,Water Column Turbidity,Particulate Matter Content,Organic Particulate Levels
+527,Inorganic Particulate Composition,Marine Environmental Quality,Water Column Turbidity,Particulate Matter Content,Inorganic Particulate Composition
+528,Biogenic Particulate Material,Marine Environmental Quality,Water Column Turbidity,Particulate Matter Content,Biogenic Particulate Material
+529,Noise Pollution Levels,Marine Environmental Quality,Noise Pollution Levels,,
+530,Underwater Acoustic Levels,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,
+531,Ambient Underwater Noise Levels,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Ambient Underwater Noise Levels
+532,Hydroacoustic Pressure Variations,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Hydroacoustic Pressure Variations
+533,Underwater Acoustic Propagation Range,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Underwater Acoustic Propagation Range
+534,Sound Frequency Distribution,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Sound Frequency Distribution
+535,Noise Impact on Sedimentation Rates,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Noise Impact on Sedimentation Rates
+536,Sound Transmission Loss Factors,Marine Environmental Quality,Noise Pollution Levels,Underwater Acoustic Levels,Sound Transmission Loss Factors
+537,Ship Traffic Noise Intensity,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,
+538,Propeller Noise Levels,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Propeller Noise Levels
+539,Engine Sound Emission,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Engine Sound Emission
+540,Hull Vibration Acoustic Output,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Hull Vibration Acoustic Output
+541,Anchor Deployment Noise,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Anchor Deployment Noise
+542,Ballast Water Discharge Sounds,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Ballast Water Discharge Sounds
+543,Navigational Signal Acoustic Emission,Marine Environmental Quality,Noise Pollution Levels,Ship Traffic Noise Intensity,Navigational Signal Acoustic Emission
+544,Seismic Survey Sound Emissions,Marine Environmental Quality,Noise Pollution Levels,Seismic Survey Sound Emissions,
+545,Marine Mammal Stress Levels,Marine Environmental Quality,Noise Pollution Levels,Seismic Survey Sound Emissions,Marine Mammal Stress Levels
+546,Seafloor Habitat Disruption,Marine Environmental Quality,Noise Pollution Levels,Seismic Survey Sound Emissions,Seafloor Habitat Disruption
+547,Marine Construction Noise Emission,Marine Environmental Quality,Noise Pollution Levels,Marine Construction Noise Emission,
+548,Frequency Range of Emitted Sounds,Marine Environmental Quality,Noise Pollution Levels,Marine Construction Noise Emission,Frequency Range of Emitted Sounds
+549,Intensity Levels at Construction Sites,Marine Environmental Quality,Noise Pollution Levels,Marine Construction Noise Emission,Intensity Levels at Construction Sites
+550,Temporal Duration of Construction Noise,Marine Environmental Quality,Noise Pollution Levels,Marine Construction Noise Emission,Temporal Duration of Construction Noise
+551,Impact Radius on Marine Mammals Behavior,Marine Environmental Quality,Noise Pollution Levels,Marine Construction Noise Emission,Impact Radius on Marine Mammals Behavior
+552,Acoustic Disturbance from Wind Farms,Marine Environmental Quality,Noise Pollution Levels,Acoustic Disturbance from Wind Farms,
+553,Noise Transmission Distance,Marine Environmental Quality,Noise Pollution Levels,Acoustic Disturbance from Wind Farms,Noise Transmission Distance
+554,Sound Frequency Variation,Marine Environmental Quality,Noise Pollution Levels,Acoustic Disturbance from Wind Farms,Sound Frequency Variation
+555,Disturbance Duration,Marine Environmental Quality,Noise Pollution Levels,Acoustic Disturbance from Wind Farms,Disturbance Duration
+556,Subsea Drilling Noise Complexity,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,
+557,Noise Frequency Spectrum Variation,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Noise Frequency Spectrum Variation
+558,Sound Propagation Distance,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Sound Propagation Distance
+559,Acoustic Impact on Sediment Layers,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Acoustic Impact on Sediment Layers
+560,Vibration Transmission Through Substrate,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Vibration Transmission Through Substrate
+561,Interaction with Marine Mammal Communication,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Interaction with Marine Mammal Communication
+562,Residual Noise Post-Drilling,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Residual Noise Post-Drilling
+563,Cumulative Noise Effects in Multi-Operation Sites,Marine Environmental Quality,Noise Pollution Levels,Subsea Drilling Noise Complexity,Cumulative Noise Effects in Multi-Operation Sites
+564,Artificial Noise in Coral Reef Areas,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,
+565,Noise Pollution Levels in Coral Reefs,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Noise Pollution Levels in Coral Reefs
+566,Anthropogenic Soundscape Variability,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Anthropogenic Soundscape Variability
+567,Impact on Coral Reef Organism Communication,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Impact on Coral Reef Organism Communication
+568,Sound Masking Effects on Coral Reefs,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Sound Masking Effects on Coral Reefs
+569,Acoustic Habitat Alteration,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Acoustic Habitat Alteration
+570,Underwater Sound Propagation Disturbance,Marine Environmental Quality,Noise Pollution Levels,Artificial Noise in Coral Reef Areas,Underwater Sound Propagation Disturbance
+571,Chemical Contamination,Marine Environmental Quality,Chemical Contamination,,
+572,Heavy Metal Concentrations,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,
+573,Mercury Levels in Marine Sediments,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Mercury Levels in Marine Sediments
+574,Lead Concentration in Coastal Waters,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Lead Concentration in Coastal Waters
+575,Cadmium Content in Marine Organisms,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Cadmium Content in Marine Organisms
+576,Arsenic Presence in Oceanic Currents,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Arsenic Presence in Oceanic Currents
+577,Copper Accumulation on Seafloor,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Copper Accumulation on Seafloor
+578,Nickel Levels in Marine Food Chains,Marine Environmental Quality,Chemical Contamination,Heavy Metal Concentrations,Nickel Levels in Marine Food Chains
+579,Persistent Organic Pollutant Levels,Marine Environmental Quality,Chemical Contamination,Persistent Organic Pollutant Levels,
+580,PCB Concentrations,Marine Environmental Quality,Chemical Contamination,Persistent Organic Pollutant Levels,PCB Concentrations
+581,Dioxin Levels,Marine Environmental Quality,Chemical Contamination,Persistent Organic Pollutant Levels,Dioxin Levels
+582,PAH Accumulation,Marine Environmental Quality,Chemical Contamination,Persistent Organic Pollutant Levels,PAH Accumulation
+583,Pesticide Residues,Marine Environmental Quality,Chemical Contamination,Persistent Organic Pollutant Levels,Pesticide Residues
+584,Nutrient Enrichment,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,
+585,Algal Bloom Intensity,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,Algal Bloom Intensity
+586,Dissolved Oxygen Concentration,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,Dissolved Oxygen Concentration
+587,Nitrate Levels,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,Nitrate Levels
+588,Phosphate Levels,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,Phosphate Levels
+589,Water Turbidity,Marine Environmental Quality,Chemical Contamination,Nutrient Enrichment,Water Turbidity
+590,pH Changes from Chemical Discharges,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,
+591,Acidity Levels in Coastal Waters,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Acidity Levels in Coastal Waters
+592,Alkalinity Shifts in Marine Ecosystems,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Alkalinity Shifts in Marine Ecosystems
+593,Buffer Capacity of Seawater,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Buffer Capacity of Seawater
+594,Carbonate Ion Concentration,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Carbonate Ion Concentration
+595,Calcification Rates in Marine Organisms,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Calcification Rates in Marine Organisms
+596,Dissolution Rates of Calcium Carbonate Structures,Marine Environmental Quality,Chemical Contamination,pH Changes from Chemical Discharges,Dissolution Rates of Calcium Carbonate Structures
+597,Hydrocarbon Residues,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,
+598,Sediment Contamination Levels,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,Sediment Contamination Levels
+599,Water Column Hydrocarbon Concentrations,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,Water Column Hydrocarbon Concentrations
+600,Dissolved Hydrocarbon Content,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,Dissolved Hydrocarbon Content
+601,Marine Organism Tissue Residues,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,Marine Organism Tissue Residues
+602,Oil Slick Formation Extent,Marine Environmental Quality,Chemical Contamination,Hydrocarbon Residues,Oil Slick Formation Extent
+603,Synthetic Microfiber Presence,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,
+604,Water Column Concentration of Microfibers,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Water Column Concentration of Microfibers
+605,Microfiber Accumulation in Marine Sediments,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Microfiber Accumulation in Marine Sediments
+606,Microfiber Ingestion by Marine Organisms,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Microfiber Ingestion by Marine Organisms
+607,Fiber Presence in Coastal Waters,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Fiber Presence in Coastal Waters
+608,Microfiber Transport in Ocean Currents,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Microfiber Transport in Ocean Currents
+609,Microfiber Concentration in Marine Snow,Marine Environmental Quality,Chemical Contamination,Synthetic Microfiber Presence,Microfiber Concentration in Marine Snow
+610,Fisheries Economic Performance,Fisheries Economic Performance,,,
+611,Revenue from Fish Sales,Fisheries Economic Performance,Revenue from Fish Sales,,
+612,Fish Harvest Quantity,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,
+613,Catch Volume Consistency,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,Catch Volume Consistency
+614,Aggregate Species Harvest,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,Aggregate Species Harvest
+615,Fishing Trip Yield,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,Fishing Trip Yield
+616,Regional Fish Catch Distribution,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,Regional Fish Catch Distribution
+617,Offshore Area-Specific Harvest Levels,Fisheries Economic Performance,Revenue from Fish Sales,Fish Harvest Quantity,Offshore Area-Specific Harvest Levels
+618,Species-Specific Market Share,Fisheries Economic Performance,Revenue from Fish Sales,Species-Specific Market Share,
+619,Regional Species Preference,Fisheries Economic Performance,Revenue from Fish Sales,Species-Specific Market Share,Regional Species Preference
+620,Market Price Variability by Species,Fisheries Economic Performance,Revenue from Fish Sales,Species-Specific Market Share,Market Price Variability by Species
+621,Seasonal Catch Volume,Fisheries Economic Performance,Revenue from Fish Sales,Seasonal Catch Volume,
+622,Catch Timing Variability,Fisheries Economic Performance,Revenue from Fish Sales,Seasonal Catch Volume,Catch Timing Variability
+623,Regional Catch Distribution,Fisheries Economic Performance,Revenue from Fish Sales,Seasonal Catch Volume,Regional Catch Distribution
+624,Catch Composition Diversity,Fisheries Economic Performance,Revenue from Fish Sales,Seasonal Catch Volume,Catch Composition Diversity
+625,Season-Specific Catch Reliance,Fisheries Economic Performance,Revenue from Fish Sales,Seasonal Catch Volume,Season-Specific Catch Reliance
+626,Cost of Operations,Fisheries Economic Performance,Cost of Operations,,
+627,Fuel Costs,Fisheries Economic Performance,Cost of Operations,Fuel Costs,
+628,Fuel Price Volatility,Fisheries Economic Performance,Cost of Operations,Fuel Costs,Fuel Price Volatility
+629,Fuel Supply Chain Dynamics,Fisheries Economic Performance,Cost of Operations,Fuel Costs,Fuel Supply Chain Dynamics
+630,Refueling Frequency,Fisheries Economic Performance,Cost of Operations,Fuel Costs,Refueling Frequency
+631,Energy Source Diversification,Fisheries Economic Performance,Cost of Operations,Fuel Costs,Energy Source Diversification
+632,Equipment Maintenance Costs,Fisheries Economic Performance,Cost of Operations,Equipment Maintenance Costs,
+633,Replacement Parts Availability,Fisheries Economic Performance,Cost of Operations,Equipment Maintenance Costs,Replacement Parts Availability
+634,Repair Frequency,Fisheries Economic Performance,Cost of Operations,Equipment Maintenance Costs,Repair Frequency
+635,Technology Adaptation in Equipment,Fisheries Economic Performance,Cost of Operations,Equipment Maintenance Costs,Technology Adaptation in Equipment
+636,Labor Expenses,Fisheries Economic Performance,Cost of Operations,Labor Expenses,
+637,Wage Levels,Fisheries Economic Performance,Cost of Operations,Labor Expenses,Wage Levels
+638,Crew Size,Fisheries Economic Performance,Cost of Operations,Labor Expenses,Crew Size
+639,Training and Skill Development Costs,Fisheries Economic Performance,Cost of Operations,Labor Expenses,Training and Skill Development Costs
+640,Safety Equipment and Compliance Costs,Fisheries Economic Performance,Cost of Operations,Labor Expenses,Safety Equipment and Compliance Costs
+641,Insurance Premiums,Fisheries Economic Performance,Cost of Operations,Insurance Premiums,
+642,Natural Hazard Coverage,Fisheries Economic Performance,Cost of Operations,Insurance Premiums,Natural Hazard Coverage
+643,Risk Assessment Adjustments,Fisheries Economic Performance,Cost of Operations,Insurance Premiums,Risk Assessment Adjustments
+644,Vessel Lease Costs,Fisheries Economic Performance,Cost of Operations,Vessel Lease Costs,
+645,Availability of Leasing Opportunities,Fisheries Economic Performance,Cost of Operations,Vessel Lease Costs,Availability of Leasing Opportunities
+646,Demand for Specialized Vessels,Fisheries Economic Performance,Cost of Operations,Vessel Lease Costs,Demand for Specialized Vessels
+647,Fish Market Prices,Fisheries Economic Performance,Fish Market Prices,,
+648,Local Fish Availability,Fisheries Economic Performance,Fish Market Prices,Local Fish Availability,
+649,Energy Project Proximity to Fishing Zones,Fisheries Economic Performance,Fish Market Prices,Local Fish Availability,Energy Project Proximity to Fishing Zones
+650,Fish Distribution over Fishable Areas,Fisheries Economic Performance,Fish Market Prices,Local Fish Availability,Fish Distribution over Fishable Areas
+651,Spawning Ground Access,Fisheries Economic Performance,Fish Market Prices,Local Fish Availability,Spawning Ground Access
+652,Operational Zone Reductions,Fisheries Economic Performance,Fish Market Prices,Local Fish Availability,Operational Zone Reductions
+653,Transportation Costs to Market,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,
+654,Fuel Expenditures,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,Fuel Expenditures
+655,Distance to Market,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,Distance to Market
+656,Vessel Maintenance Costs,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,Vessel Maintenance Costs
+657,Port Fees,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,Port Fees
+658,Crew Labor Costs,Fisheries Economic Performance,Fish Market Prices,Transportation Costs to Market,Crew Labor Costs
+659,Seasonal Fishing Yields,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,
+660,Seasonal Species Catch Volume,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Seasonal Species Catch Volume
+661,Regional Market Prices During Season,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Regional Market Prices During Season
+662,Sea Condition Variability Impact on Harvest,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Sea Condition Variability Impact on Harvest
+663,Seasonal Workforce Availability,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Seasonal Workforce Availability
+664,Technological Adaptation for Seasonal Conditions,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Technological Adaptation for Seasonal Conditions
+665,Access to Seasonal Fishing Grounds,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Access to Seasonal Fishing Grounds
+666,Timing of Seasonal Openings and Closures,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Timing of Seasonal Openings and Closures
+667,Investment in Seasonal Fishing Gear,Fisheries Economic Performance,Fish Market Prices,Seasonal Fishing Yields,Investment in Seasonal Fishing Gear
+668,Offshore Energy Policy Impacts,Fisheries Economic Performance,Fish Market Prices,Offshore Energy Policy Impacts,
+669,Fishing Revenue from Energy Lease Areas,Fisheries Economic Performance,Fish Market Prices,Offshore Energy Policy Impacts,Fishing Revenue from Energy Lease Areas
+670,Fleet Operation Costs due to Energy Regulations,Fisheries Economic Performance,Fish Market Prices,Offshore Energy Policy Impacts,Fleet Operation Costs due to Energy Regulations
+671,Access to Fishing Grounds Affected by Energy Development,Fisheries Economic Performance,Fish Market Prices,Offshore Energy Policy Impacts,Access to Fishing Grounds Affected by Energy Development
+672,Market Competition from Energy Sector,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,
+673,Fishery Product Pricing Pressure,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Fishery Product Pricing Pressure
+674,Access to Fishing Grounds,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Access to Fishing Grounds
+675,Labor Allocation between Sectors,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Labor Allocation between Sectors
+676,Energy Market Influence on Fishery Exports,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Energy Market Influence on Fishery Exports
+677,Investment in Fishery Technology,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Investment in Fishery Technology
+678,Fishery Sector Revenue Variability,Fisheries Economic Performance,Fish Market Prices,Market Competition from Energy Sector,Fishery Sector Revenue Variability
+679,Investment in Processing Facilities,Fisheries Economic Performance,Investment in Processing Facilities,,
+680,Processing Facility Capacity,Fisheries Economic Performance,Investment in Processing Facilities,Processing Facility Capacity,
+681,Storage Capacity for Processed Fish,Fisheries Economic Performance,Investment in Processing Facilities,Processing Facility Capacity,Storage Capacity for Processed Fish
+682,Facility Throughput Rate,Fisheries Economic Performance,Investment in Processing Facilities,Processing Facility Capacity,Facility Throughput Rate
+683,Technology Integration in Processing,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,
+684,Automation Level in Processing Equipment,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Automation Level in Processing Equipment
+685,Adoption of Smart Sensors for Quality Control,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Adoption of Smart Sensors for Quality Control
+686,Utilization of Data Analytics for Processing Optimization,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Utilization of Data Analytics for Processing Optimization
+687,Implementation of Blockchain for Traceability,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Implementation of Blockchain for Traceability
+688,Usage of Advanced Refrigeration Technologies,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Usage of Advanced Refrigeration Technologies
+689,Integration of AI-driven Sorting Systems,Fisheries Economic Performance,Investment in Processing Facilities,Technology Integration in Processing,Integration of AI-driven Sorting Systems
+690,Workforce Size in Processing Facilities,Fisheries Economic Performance,Investment in Processing Facilities,Workforce Size in Processing Facilities,
+691,Number of Skilled Laborers,Fisheries Economic Performance,Investment in Processing Facilities,Workforce Size in Processing Facilities,Number of Skilled Laborers
+692,Seasonal Worker Utilization,Fisheries Economic Performance,Investment in Processing Facilities,Workforce Size in Processing Facilities,Seasonal Worker Utilization
+693,Geographic Distribution of Workers,Fisheries Economic Performance,Investment in Processing Facilities,Workforce Size in Processing Facilities,Geographic Distribution of Workers
+694,Availability of Specialized Training Programs,Fisheries Economic Performance,Investment in Processing Facilities,Workforce Size in Processing Facilities,Availability of Specialized Training Programs
+695,Supply Chain Efficiency in Processing,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,
+696,Logistics Coordination in Fish Processing,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Logistics Coordination in Fish Processing
+697,Processing Throughput Times,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Processing Throughput Times
+698,Cold Storage Utilization Rates,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Cold Storage Utilization Rates
+699,Transportation Network Integration,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Transportation Network Integration
+700,Product Quality Maintenance in Supply Chain,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Product Quality Maintenance in Supply Chain
+701,Inventory Accuracy in Fish Processing,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Inventory Accuracy in Fish Processing
+702,Supplier Reliability in Processing,Fisheries Economic Performance,Investment in Processing Facilities,Supply Chain Efficiency in Processing,Supplier Reliability in Processing
+703,Energy Consumption in Processing Facilities,Fisheries Economic Performance,Investment in Processing Facilities,Energy Consumption in Processing Facilities,
+704,Energy Efficiency of Machinery,Fisheries Economic Performance,Investment in Processing Facilities,Energy Consumption in Processing Facilities,Energy Efficiency of Machinery
+705,Renewable Energy Usage,Fisheries Economic Performance,Investment in Processing Facilities,Energy Consumption in Processing Facilities,Renewable Energy Usage
+706,Fuel Dependency Levels,Fisheries Economic Performance,Investment in Processing Facilities,Energy Consumption in Processing Facilities,Fuel Dependency Levels
+707,Consumer Demand for Fish Products,Fisheries Economic Performance,Consumer Demand for Fish Products,,
+708,Consumer Preferences for Fish Types,Fisheries Economic Performance,Consumer Demand for Fish Products,Consumer Preferences for Fish Types,
+709,Demand for Local Fish Varieties,Fisheries Economic Performance,Consumer Demand for Fish Products,Consumer Preferences for Fish Types,Demand for Local Fish Varieties
+710,Popularity of Exotic Fish Species,Fisheries Economic Performance,Consumer Demand for Fish Products,Consumer Preferences for Fish Types,Popularity of Exotic Fish Species
+711,Preference for Sustainably Sourced Fish,Fisheries Economic Performance,Consumer Demand for Fish Products,Consumer Preferences for Fish Types,Preference for Sustainably Sourced Fish
+712,Interest in Fish with Health Benefits,Fisheries Economic Performance,Consumer Demand for Fish Products,Consumer Preferences for Fish Types,Interest in Fish with Health Benefits
+713,Retail Availability of Fish Products,Fisheries Economic Performance,Consumer Demand for Fish Products,Retail Availability of Fish Products,
+714,Variety of Fish Species Offered,Fisheries Economic Performance,Consumer Demand for Fish Products,Retail Availability of Fish Products,Variety of Fish Species Offered
+715,Quantity of Fish Stock in Stores,Fisheries Economic Performance,Consumer Demand for Fish Products,Retail Availability of Fish Products,Quantity of Fish Stock in Stores
+716,Frequency of Restocking Fish Products,Fisheries Economic Performance,Consumer Demand for Fish Products,Retail Availability of Fish Products,Frequency of Restocking Fish Products
+717,Awareness of Sustainable Fishing Practices,Fisheries Economic Performance,Consumer Demand for Fish Products,Awareness of Sustainable Fishing Practices,
+718,Educational Campaign Reach on Sustainable Practices,Fisheries Economic Performance,Consumer Demand for Fish Products,Awareness of Sustainable Fishing Practices,Educational Campaign Reach on Sustainable Practices
+719,Adoption Rate of Sustainable Fishing Certification,Fisheries Economic Performance,Consumer Demand for Fish Products,Awareness of Sustainable Fishing Practices,Adoption Rate of Sustainable Fishing Certification
+720,Investment in Sustainable Fishing Technologies,Fisheries Economic Performance,Consumer Demand for Fish Products,Awareness of Sustainable Fishing Practices,Investment in Sustainable Fishing Technologies
+721,Perception of Fish Product Safety,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,
+722,Contaminant Levels in Fish Products,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,Contaminant Levels in Fish Products
+723,Traceability and Certification Systems,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,Traceability and Certification Systems
+724,Incidence of Foodborne Illnesses from Fish Consumption,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,Incidence of Foodborne Illnesses from Fish Consumption
+725,Awareness of Chemical Runoff into Aquatic Ecosystems,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,Awareness of Chemical Runoff into Aquatic Ecosystems
+726,Availability of Information on Fish Handling Practices,Fisheries Economic Performance,Consumer Demand for Fish Products,Perception of Fish Product Safety,Availability of Information on Fish Handling Practices
+727,Influence of Cultural Trends on Fish Consumption,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,
+728,Demand for Locally Sourced Fish,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Demand for Locally Sourced Fish
+729,Interest in Exotic Fish Varieties,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Interest in Exotic Fish Varieties
+730,Popularity of Fish in Culinary Trends,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Popularity of Fish in Culinary Trends
+731,Cultural Significance of Seafood in Dietary Habits,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Cultural Significance of Seafood in Dietary Habits
+732,Seasonal Variations in Fish-Based Dishes,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Seasonal Variations in Fish-Based Dishes
+733,Consumption of Fish in Festive Occasions,Fisheries Economic Performance,Consumer Demand for Fish Products,Influence of Cultural Trends on Fish Consumption,Consumption of Fish in Festive Occasions
+734,Export Volume of Fish,Fisheries Economic Performance,Export Volume of Fish,,
+735,International Demand for Export,Fisheries Economic Performance,Export Volume of Fish,International Demand for Export,
+736,Global Consumer Preferences for Fish Products,Fisheries Economic Performance,Export Volume of Fish,International Demand for Export,Global Consumer Preferences for Fish Products
+737,Market Access for Sustainable-Certified Fisheries,Fisheries Economic Performance,Export Volume of Fish,International Demand for Export,Market Access for Sustainable-Certified Fisheries
+738,Transportation and Logistics Capacity,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,
+739,Port Handling Efficiency,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Port Handling Efficiency
+740,Cold Storage Capacity at Docks,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Cold Storage Capacity at Docks
+741,Vessel Turnaround Time,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Vessel Turnaround Time
+742,Shipping Route Availability,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Shipping Route Availability
+743,Fuel Supply Logistics,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Fuel Supply Logistics
+744,Crew Transportation Infrastructure,Fisheries Economic Performance,Export Volume of Fish,Transportation and Logistics Capacity,Crew Transportation Infrastructure
+745,International Trade Agreements,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,
+746,Tariff Structures on Fish Products,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,Tariff Structures on Fish Products
+747,Market Access Provisions,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,Market Access Provisions
+748,Non-Tariff Barriers,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,Non-Tariff Barriers
+749,Fisheries Subsidy Regulations,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,Fisheries Subsidy Regulations
+750,Trade Dispute Resolution Mechanisms,Fisheries Economic Performance,Export Volume of Fish,International Trade Agreements,Trade Dispute Resolution Mechanisms
+751,Export Quality Standards Compliance,Fisheries Economic Performance,Export Volume of Fish,Export Quality Standards Compliance,
+752,Certification Achievement Levels,Fisheries Economic Performance,Export Volume of Fish,Export Quality Standards Compliance,Certification Achievement Levels
+753,Product Quality Testing Frequency,Fisheries Economic Performance,Export Volume of Fish,Export Quality Standards Compliance,Product Quality Testing Frequency
+754,Packaging and Labeling Adherence,Fisheries Economic Performance,Export Volume of Fish,Export Quality Standards Compliance,Packaging and Labeling Adherence

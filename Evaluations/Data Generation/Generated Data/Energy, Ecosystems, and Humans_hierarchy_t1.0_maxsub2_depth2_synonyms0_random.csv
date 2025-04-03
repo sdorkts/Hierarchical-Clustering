@@ -1,0 +1,36 @@
+,topic,category 0,category 1,category 2
+0,Ecosystem Health Indicators,Ecosystem Health Indicators,,
+1,Biodiversity Levels,Ecosystem Health Indicators,Biodiversity Levels,
+2,Species Richness,Ecosystem Health Indicators,Biodiversity Levels,Species Richness
+3,Genetic Diversity,Ecosystem Health Indicators,Biodiversity Levels,Genetic Diversity
+4,Water Quality Index,Ecosystem Health Indicators,Water Quality Index,
+5,Dissolved Oxygen Levels,Ecosystem Health Indicators,Water Quality Index,Dissolved Oxygen Levels
+6,Nutrient Concentration,Ecosystem Health Indicators,Water Quality Index,Nutrient Concentration
+7,Economic Impact Metrics,Economic Impact Metrics,,
+8,Tourism Revenue,Economic Impact Metrics,Tourism Revenue,
+9,Visitor Spending,Economic Impact Metrics,Tourism Revenue,Visitor Spending
+10,Tourism-related Job Creation,Economic Impact Metrics,Tourism Revenue,Tourism-related Job Creation
+11,Infrastructure Development,Economic Impact Metrics,Infrastructure Development,
+12,Transportation Network Expansion,Economic Impact Metrics,Infrastructure Development,Transportation Network Expansion
+13,Utility Infrastructure Capacity,Economic Impact Metrics,Infrastructure Development,Utility Infrastructure Capacity
+14,Energy Security Performance,Energy Security Performance,,
+15,Energy Supply Reliability,Energy Security Performance,Energy Supply Reliability,
+16,Grid Stability,Energy Security Performance,Energy Supply Reliability,Grid Stability
+17,Redundancy in Energy Infrastructure,Energy Security Performance,Energy Supply Reliability,Redundancy in Energy Infrastructure
+18,Energy Source Diversity,Energy Security Performance,Energy Source Diversity,
+19,Renewable Energy Portfolio,Energy Security Performance,Energy Source Diversity,Renewable Energy Portfolio
+20,Fossil Fuel Dependency,Energy Security Performance,Energy Source Diversity,Fossil Fuel Dependency
+21,Human Wellbeing Measures,Human Wellbeing Measures,,
+22,Access to Clean Water,Human Wellbeing Measures,Access to Clean Water,
+23,Water Quality Standards,Human Wellbeing Measures,Access to Clean Water,Water Quality Standards
+24,Water Availability,Human Wellbeing Measures,Access to Clean Water,Water Availability
+25,Nutritional Intake Levels,Human Wellbeing Measures,Nutritional Intake Levels,
+26,Caloric Consumption,Human Wellbeing Measures,Nutritional Intake Levels,Caloric Consumption
+27,Micronutrient Availability,Human Wellbeing Measures,Nutritional Intake Levels,Micronutrient Availability
+28,Social Conflict Intensity,Social Conflict Intensity,,
+29,Protest Frequency,Social Conflict Intensity,Protest Frequency,
+30,Number of Protest Participants,Social Conflict Intensity,Protest Frequency,Number of Protest Participants
+31,Geographic Spread of Protests,Social Conflict Intensity,Protest Frequency,Geographic Spread of Protests
+32,Civil Unrest Duration,Social Conflict Intensity,Civil Unrest Duration,
+33,Number of Ongoing Incidents,Social Conflict Intensity,Civil Unrest Duration,Number of Ongoing Incidents
+34,Involvement Duration of Key Groups,Social Conflict Intensity,Civil Unrest Duration,Involvement Duration of Key Groups

@@ -1,0 +1,1829 @@
+{
+  "Ecosystem Health Indicators": {
+    "Biodiversity Levels": {
+      "Species Richness": {
+        "Habitat Diversity": {
+          "Vegetation Complexity": {
+            "Plant Species Diversity": {},
+            "Canopy Layer Structuring": {},
+            "Vegetation Density": {},
+            "Biomass Distribution": {}
+          },
+          "Aquatic Habitat Variety": {
+            "Wetland Diversity": {},
+            "Riparian Zone Coverage": {},
+            "Stream Morphology Variation": {}
+          },
+          "Microhabitat Availability": {
+            "Undisturbed soil patches": {},
+            "Tree cavity availability": {},
+            "Leaf litter depth": {},
+            "Water micro-pool presence": {}
+          }
+        },
+        "Invasive Species Presence": {
+          "Species Density": {
+            "Population Abundance": {},
+            "Habitat Distribution": {},
+            "Population Age Structure": {}
+          },
+          "Biodiversity Disruption": {
+            "Habitat Fragmentation": {},
+            "Invasive Species Proliferation": {},
+            "Genetic Diversity": {}
+          }
+        },
+        "Nutrient Availability": {
+          "Soil Nutrient Content": {
+            "Soil Organic Matter": {},
+            "Soil pH Levels": {}
+          },
+          "Water Nutrient Levels": {
+            "Phosphate Concentration": {},
+            "Nitrate Levels": {},
+            "Algal Bloom Presence": {}
+          }
+        },
+        "Pollinator Population Levels": {
+          "Bee Colony Numbers": {
+            "Bee Foraging Area": {},
+            "Hive Productivity": {}
+          },
+          "Butterfly Species Count": {
+            "Pollen Source Availability": {}
+          }
+        }
+      }
+    },
+    "Habitat Quality": {
+      "Soil Composition": {
+        "Soil Nutrient Levels": {
+          "Nutrient Uptake by Plants": {
+            "Root Biomass Accumulation": {},
+            "Leaf Nutrient Concentration": {},
+            "Microbial Activity in Rhizosphere": {}
+          },
+          "Soil pH Balance": {
+            "Microbial Activity Levels": {},
+            "Soil Organic Matter Content": {}
+          },
+          "Mineral Availability": {
+            "Soil Mineral Composition": {},
+            "Trace Mineral Density": {},
+            "Sediment Mineral Content": {},
+            "Aquatic Mineral Concentration": {}
+          }
+        },
+        "Soil Microbial Diversity": {
+          "Functional Diversity": {
+            "Species Functional Traits": {},
+            "Trophic Level Diversity": {},
+            "Ecological Role Variety": {},
+            "Functional Redundancy": {}
+          },
+          "Microbial Biomass": {
+            "Soil Carbon Content": {},
+            "Nitrogen Cycling Rate": {},
+            "Microbial Diversity": {}
+          }
+        }
+      },
+      "Habitat Connectivity": {
+        "Wildlife Movement Corridors": {
+          "Corridor Connectivity": {
+            "Wildlife Movement Rates": {},
+            "Genetic Diversity Exchange": {},
+            "Habitat Fragmentation Levels": {}
+          }
+        },
+        "Fragmentation Index": {
+          "Patch Size Distribution": {
+            "Largest Patch Index": {},
+            "Fragmentation Ratio": {},
+            "Core Area Size": {}
+          },
+          "Edge Habitat Proportion": {
+            "Biodiversity in Edge Habitats": {},
+            "Species Interaction at Edges": {},
+            "Microclimate Variation": {}
+          }
+        },
+        "Gene Flow Potential": {
+          "Breeding Population Size": {
+            "Nesting Site Availability": {},
+            "Breeding Success Rate": {},
+            "Seasonal Breeding Cycles": {},
+            "Juvenile Survival Rate": {}
+          },
+          "Species Dispersal Ability": {
+            "Seed Dispersal Distance": {},
+            "Animal Migration Patterns": {},
+            "Waterborne Propagule Movement": {},
+            "Wind-Borne Seed Dispersal": {}
+          }
+        }
+      }
+    },
+    "Water Quality Index": {
+      "Nutrient Concentrations": {
+        "Nitrogen Levels": {
+          "Soil Nitrogen Concentration": {
+            "Soil Microbial Biomass": {},
+            "Nitrogen Mineralization Rate": {}
+          },
+          "Aquatic Nitrate Levels": {
+            "Algal Bloom Frequency": {},
+            "Aquatic Biodiversity": {},
+            "Water Clarity": {},
+            "Dissolved Oxygen Levels": {}
+          },
+          "Atmospheric Nitrogen Deposition": {
+            "Nitrogen Oxide Emissions": {},
+            "Ammonia Release Levels": {}
+          },
+          "Plant Nitrogen Uptake": {
+            "Root Nitrogen Absorption": {},
+            "Leaf Nitrogen Content": {},
+            "Plant Nitrogen Use Efficiency": {},
+            "Biomass Nitrogen Allocation": {}
+          }
+        },
+        "Phosphorus Levels": {
+          "Soil Phosphorus Concentration": {
+            "Phosphorus Runoff Levels": {},
+            "Soil Microbial Activity": {},
+            "Plant Phosphorus Uptake Rates": {},
+            "Soil Erosion Rates": {}
+          }
+        }
+      },
+      "Chemical Contaminants": {
+        "Heavy Metal Concentrations": {
+          "Soil Heavy Metal Content": {
+            "Soil Metal Bioavailability": {},
+            "Soil Metal Retention Capacity": {}
+          },
+          "Waterway Heavy Metal Levels": {
+            "Sediment Metal Concentration": {},
+            "Aquatic Organism Metal Bioaccumulation": {}
+          },
+          "Biomass Metal Accumulation": {
+            "Plant Metal Concentration": {},
+            "Animal Tissue Metal Burden": {},
+            "Microbial Biomass Metal Levels": {}
+          },
+          "Airborne Heavy Metal Particulates": {
+            "Atmospheric Deposition Rates": {},
+            "Air Quality Metal Concentration": {},
+            "Metal Interaction with Vegetation": {}
+          }
+        },
+        "Pesticide Residues": {
+          "Pesticide Concentrations in Aquatic Systems": {
+            "Residue Levels in Sediment": {},
+            "Pesticide Presence in Surface Water": {}
+          },
+          "Bioaccumulation in Wildlife": {
+            "Heavy Metal Concentration in Tissues": {},
+            "Chemical Residue Levels in Food Chains": {},
+            "Persistent Organic Pollutants in Organisms": {},
+            "Toxin Levels in Predatory Species": {}
+          },
+          "Soil Pesticide Load": {
+            "Pesticide Residue in Agricultural Soil": {},
+            "Pesticide Degradation Rate": {},
+            "Soil Biodiversity": {},
+            "Non-target Soil Organism Exposure": {}
+          }
+        },
+        "Persistent Organic Pollutants": {
+          "Bioaccumulation Levels in Wildlife": {
+            "Toxin Concentrations in Marine Animals": {},
+            "Heavy Metal Levels in Avian Species": {},
+            "Chemical Residue in Mammalian Tissue": {},
+            "Pesticide Accumulation in Amphibians": {}
+          },
+          "Soil Contamination Rates": {
+            "Heavy Metal Concentration": {},
+            "Pesticide Residue Levels": {}
+          }
+        }
+      }
+    }
+  },
+  "Economic Impact Metrics": {
+    "Renewable Energy Investment": {
+      "Renewable Energy Capital Expenditure": {
+        "Infrastructure Development Cost": {
+          "Material Transportation Costs": {
+            "Fuel Prices": {},
+            "Logistics Infrastructure Quality": {},
+            "Distance to Market": {},
+            "Transport Labor Costs": {}
+          },
+          "Permit and Legal Fees": {
+            "Environmental Compliance Costs": {},
+            "Land Use Permit Charges": {},
+            "Zoning and Development Fees": {},
+            "Regulatory Filing Expenses": {}
+          },
+          "Technology Integration Expenses": {
+            "Software Licensing Costs": {},
+            "Infrastructure Upgrade Expenditure": {},
+            "Training and Development Budget": {},
+            "Maintenance and Support Expenses": {}
+          }
+        },
+        "Equipment Procurement Cost": {
+          "Cost of Raw Materials": {
+            "Metal Prices": {},
+            "Timber Costs": {}
+          },
+          "Logistical Expenses": {
+            "Transportation Costs": {},
+            "Warehousing Costs": {}
+          },
+          "Supplier Costs": {
+            "Renewable Resource Pricing": {},
+            "Supplier Energy Efficiency": {}
+          },
+          "Technology Acquisition Cost": {
+            "Hardware Expenditure": {},
+            "Software Licensing Fees": {},
+            "Implementation Costs": {}
+          }
+        },
+        "Installation Labor Cost": {
+          "Skilled Labor Availability": {
+            "Technical Certification Rates": {},
+            "STEM Graduate Numbers": {},
+            "Vocational Training Enrollment": {}
+          },
+          "Wage Levels in Renewable Sector": {
+            "Renewable Energy Technician Salaries": {},
+            "Renewable Sector Wage Disparity": {}
+          }
+        }
+      },
+      "Renewable Energy Project Financing": {
+        "Project Funding Allocation": {
+          "Renewable Energy Projects": {
+            "Job Creation in Renewable Energy Sector": {},
+            "Investment in Renewable Infrastructure": {},
+            "Cost Savings from Renewable Energy": {},
+            "Export Revenue from Renewable Technologies": {}
+          },
+          "Infrastructure Development Funding": {
+            "Public Transportation Investments": {},
+            "Communication Network Expansion": {},
+            "Water Supply Infrastructure Financing": {},
+            "Road and Bridge Construction Funding": {}
+          }
+        },
+        "Tax Incentives Utilization": {
+          "Corporate Tax Credit Adoption": {
+            "Corporate Investment Levels": {},
+            "Operational Efficiency Improvements": {},
+            "R&D Expenditure": {},
+            "Profit Margins": {}
+          },
+          "Renewable Energy Subsidy Uptake": {
+            "Subsidy Uptake by Industry": {},
+            "Renewable Energy Capacity Installations": {},
+            "Subsidy-Enabled Job Growth": {},
+            "Consumer Savings from Subsidies": {}
+          }
+        },
+        "Loan Interest Rates": {
+          "Borrower Repayment Burden": {
+            "Household Debt-to-Income Ratio": {},
+            "Monthly Repayment-to-Disposable Income Ratio": {}
+          },
+          "Credit Accessibility": {
+            "Interest Rate Offerings": {},
+            "Credit Approval Rates": {},
+            "Small Business Loan Availability": {}
+          },
+          "Loan Default Rates": {
+            "Energy Sector Loan Defaults": {},
+            "Ecosystem Restoration Project Loans": {},
+            "Residential Solar Installation Financing": {}
+          },
+          "Investment in Renewable Energy Projects": {
+            "Capital Allocation": {},
+            "Job Creation in Renewable Sector": {},
+            "Return on Investment": {},
+            "Cost of Renewable Technology": {}
+          }
+        }
+      }
+    },
+    "Green Job Growth": {
+      "Employment in Renewable Energy": {
+        "Number of Renewable Energy Jobs": {
+          "Solar Energy Employment": {
+            "Solar Installation Jobs": {},
+            "Solar Manufacturing Employment": {},
+            "Solar Maintenance Workforce": {}
+          },
+          "Wind Energy Workforce Size": {
+            "Skilled Technician Employment": {},
+            "Engineering and Design Staffing": {},
+            "Turbine Manufacturing Jobs": {},
+            "Installation and Maintenance Roles": {}
+          },
+          "Hydroelectric Power Job Count": {
+            "Construction and Maintenance Workforce": {},
+            "Operational Staffing Levels": {}
+          },
+          "Biomass Energy Workforce": {
+            "Employment Numbers in Biomass Facility Operations": {},
+            "Training Program Participation for Biomass Sector": {},
+            "Wages in Biomass Energy Jobs": {},
+            "Number of Biomass Supply Chain Enterprises": {}
+          }
+        },
+        "Job Market Share of Renewable Energy": {
+          "Renewable Energy Sector Wages": {
+            "Average Wage by Renewable Energy Job Type": {},
+            "Regional Wage Variations in Renewable Energy": {},
+            "Wage Growth Rate in Renewable Energy Sector": {},
+            "Benefit Packages in Renewable Energy Jobs": {}
+          },
+          "Renewable Energy Workforce Skill Level": {
+            "Skill Training Enrollment": {},
+            "Competency in Advanced Renewable Technologies": {}
+          },
+          "Proportion of part-time jobs in Renewable Energy": {
+            "Number of Part-Time Positions within Solar Energy": {},
+            "Share of Part-Time Roles in Wind Energy Operations": {}
+          },
+          "Renewable Energy Workforce Demographics": {
+            "Age Distribution within Renewable Energy Workforce": {},
+            "Gender Representation in Renewable Energy Jobs": {},
+            "Geographic Concentration of Renewable Energy Employment": {}
+          }
+        },
+        "Regional Distribution of Renewable Energy Employment": {
+          "Urban vs. Rural Renewable Energy Employment Levels": {
+            "Urban Renewable Energy Job Opportunities": {},
+            "Rural Renewable Energy Workforce Size": {}
+          },
+          "Employment Diversity within Renewable Sectors": {
+            "Gender Representation in Renewable Sector Employment": {},
+            "Ethnic Diversity in Renewable Sector Workforce": {}
+          },
+          "Regional Workforce Development Initiatives": {
+            "Training Program Enrollment Rates": {},
+            "Skill Certification Achievements": {},
+            "Job Placement Success Rates": {},
+            "Apprenticeship Participation Levels": {}
+          }
+        }
+      },
+      "Salaries in Green Sectors": {
+        "Salary Distribution in Renewable Energy": {
+          "Regional Salary Variance": {
+            "Industry-Specific Salary Trends": {},
+            "Urban-Rural Salary Disparities": {},
+            "Cost of Living Adjustments": {}
+          },
+          "Job Role Compensation Levels": {
+            "Renewable Energy Sector Salaries": {},
+            "Environmental Science Professional Salaries": {},
+            "Energy Efficiency Analyst Compensation": {},
+            "Ecological Economist Pay Rates": {}
+          },
+          "Experience-Based Salary Tiers": {
+            "Skill-Specific Compensation": {},
+            "Industry Experience Premium": {}
+          }
+        },
+        "Wage Levels in Sustainable Agriculture": {
+          "Minimum Wage Standards in Sustainable Agriculture": {
+            "Farm Operating Costs": {},
+            "Product Pricing and Market Value": {},
+            "Labor Productivity": {},
+            "Investment in Sustainable Practices": {}
+          },
+          "Living Wage Calculations for Agricultural Workers": {
+            "Cost of Essential Goods and Services for Farm Workers": {},
+            "Regional Variability in Farm Worker Expenditure Needs": {}
+          },
+          "Earnings of Seasonal and Migrant Farm Workers": {
+            "Hourly Pay Rates": {},
+            "Seasonal Work Availability": {},
+            "Access to Employment Benefits": {}
+          },
+          "Wage Parity Between Conventional and Sustainable Agriculture Sectors": {
+            "Wage Distribution Across Agricultural Roles": {},
+            "Compensation Gap by Farm Size": {},
+            "Salary Variation by Geographic Region": {}
+          }
+        }
+      },
+      "Training and Certification Programs for Green Skills": {
+        "Enrollment in Green Skills Programs": {
+          "Number of Enrolled Workers in Energy Sector Programs": {
+            "Completion Rate of Energy Sector Programs": {},
+            "Job Placement Rate in Energy Sector After Program Completion": {}
+          },
+          "Diversity of Occupational Fields in Green Skills Curriculum": {
+            "Variety of Career Pathways Offered": {},
+            "Range of Skill Sets Taught": {},
+            "Breadth of Industry Partnerships": {},
+            "Scope of Certification Programs": {}
+          }
+        },
+        "Certification Completion Rates in Green Skills": {
+          "Employment Opportunities in Green Sectors": {
+            "Number of Green Industry Jobs": {},
+            "Training Programs for Green Skills": {},
+            "Growth of Renewable Energy Sector Employment": {},
+            "Opportunities in Sustainable Agriculture": {}
+          },
+          "Average Wage Levels for Certified Green Professionals": {
+            "Wage Distribution Across Certification Types": {},
+            "Earned Benefits and Bonuses": {},
+            "Regional Wage Variations for Green Professionals": {}
+          },
+          "Industry Investment in Green Certifications": {
+            "Green Certification Fees": {},
+            "Renewable Technology Adoption Rates": {},
+            "Sustainable Supply Chain Developments": {}
+          }
+        }
+      }
+    },
+    "Clean Technology Exports": {
+      "Export Volume of Clean Technologies": {
+        "Number of Export Destinations for Clean Technologies": {
+          "Diversity of Import Partners": {
+            "Import Source Variability": {},
+            "Import Market Share Distribution": {}
+          },
+          "Regional Market Penetration": {
+            "Renewable Energy Adoption Rates": {},
+            "Energy Infrastructure Investment": {},
+            "Local Energy Market Share": {},
+            "Green Technology Implementation": {}
+          }
+        },
+        "Variety of Clean Technologies Exported": {
+          "Types of Renewable Energy Equipment": {
+            "Solar Panel Installations": {},
+            "Wind Turbine Deployments": {}
+          },
+          "Categories of Energy Storage Solutions": {
+            "Battery Production Output": {},
+            "Pumped Hydro Storage Capacity": {},
+            "Thermal Energy Storage Utilization": {},
+            "Flywheel Energy Storage Deployment": {}
+          },
+          "Diversity of Carbon Capture Technologies": {
+            "Variety in Direct Air Capture Systems": {},
+            "Range of Bioenergy with Carbon Capture and Storage": {},
+            "Diversity in Carbon Utilization Applications": {}
+          },
+          "Range of Electric Vehicle Components": {
+            "Battery Cost": {},
+            "Manufacturing Scale": {},
+            "Supply Chain Robustness": {},
+            "Component Lifespan": {}
+          }
+        },
+        "Value of Clean Technology Export Contracts": {
+          "Monetary Value of Solar Technology Contracts": {
+            "Investment in Solar Infrastructure Development": {},
+            "Valuation of Solar Panel Manufacturing Contracts": {},
+            "Market Price of Solar Energy Purchase Agreements": {}
+          },
+          "Revenue from Wind Energy Technology Exports": {
+            "Market Share of Wind Turbines": {},
+            "Export Volume of Wind Energy Components": {},
+            "Average Selling Price of Wind Power Systems": {}
+          },
+          "Financial Worth of Electric Vehicle Technology Deals": {
+            "Investment in EV Charging Infrastructure": {},
+            "Valuation of EV Battery Technology Licenses": {},
+            "Market Share of Electric Vehicle Component Suppliers": {}
+          }
+        },
+        "Export Frequency of Clean Technologies": {
+          "Market Share in International Clean Tech Markets": {
+            "Clean Tech Export Revenue": {},
+            "Market Penetration Rate": {},
+            "Competitive Pricing Index": {},
+            "Brand Recognition in Clean Tech Markets": {}
+          },
+          "Frequency of New Market Entry for Clean Technologies": {
+            "Number of Startups in Clean Tech Sector": {},
+            "Investment in Clean Tech Innovation": {},
+            "Patents Filed for Renewable Energy Solutions": {}
+          }
+        }
+      },
+      "Market Share in Global Clean Tech Sector": {
+        "Clean Tech Company Valuation": {
+          "Market Capitalization": {
+            "Share Price": {},
+            "Total Outstanding Shares": {},
+            "Sectoral Market Value": {}
+          },
+          "Revenue from Clean Tech Products": {
+            "Sales of Solar Panels": {},
+            "Revenue from Wind Turbines": {}
+          },
+          "Investment in Clean Tech Companies": {
+            "Venture Capital Inflows": {},
+            "Public Funding for Clean Tech": {},
+            "Foreign Direct Investment": {},
+            "Infrastructure Development Investment": {}
+          },
+          "Cost Efficiency of Clean Tech Solutions": {
+            "Operational Cost Savings": {},
+            "Return on Investment (ROI) of Clean Technologies": {},
+            "Maintenance and Repair Costs": {},
+            "Resource Efficiency": {}
+          }
+        },
+        "Number of Global Patents in Clean Tech": {
+          "Regional Patent Concentration": {
+            "Technological Innovation Density": {},
+            "Regional R&D Investment": {},
+            "Local Talent Pool Development": {},
+            "Innovation Ecosystem Maturity": {}
+          },
+          "Patent Commercialization Rate": {
+            "Revenue from Patented Products": {},
+            "Market Share of Patented Technologies": {},
+            "Licensing Agreements Executed": {}
+          },
+          "Cross-Border Patent Collaborations": {
+            "International Licensing Agreements": {},
+            "Cross-National R&D Partnerships": {},
+            "Global Patent Filings": {}
+          }
+        },
+        "Clean Tech Product Range": {
+          "Diversity of Clean Tech Products": {
+            "Variety of Renewable Energy Sources": {},
+            "Range of Clean Technology Export Destinations": {}
+          },
+          "Market Share of Clean Tech Solutions": {
+            "Revenue from Clean Tech Sales": {},
+            "Clean Tech Investment Levels": {},
+            "Adoption Rate of Clean Energy Technologies": {},
+            "Market Penetration of Electric Vehicles": {}
+          }
+        }
+      },
+      "Revenue from Clean Tech Exports": {
+        "Average Export Price of Clean Technologies": {
+          "Material Costs in Clean Technology Production": {
+            "Raw Material Prices": {},
+            "Supply Chain Logistics Costs": {},
+            "Recycling and Reuse Costs": {}
+          },
+          "International Pricing Agreements for Clean Technologies": {
+            "Export Pricing Stability": {},
+            "Import Cost Variability": {},
+            "Global Market Access": {},
+            "Cross-border Investment Flows": {}
+          },
+          "Tariff Rates on Clean Technology Exports": {
+            "Domestic Market Competitiveness of Clean Technology": {},
+            "International Demand for Clean Technology Products": {}
+          },
+          "Technological Innovation Cost in Clean Technologies": {
+            "Research and Development Investment in Clean Technologies": {},
+            "Cost of Implementing Cutting-Edge Clean Tech Solutions": {},
+            "Expenditure on Clean Tech Skill Development and Training": {}
+          }
+        },
+        "Diversification of Clean Tech Export Destinations": {
+          "Market Share of Clean Technology in New Regions": {
+            "Adoption Rate of Renewable Energy Technologies": {},
+            "Penetration of Electric Vehicles": {}
+          },
+          "Number of Active Trade Agreements for Clean Technology": {
+            "Trade Volume in Clean Technology": {},
+            "Tariff Rates for Clean Tech Components": {}
+          },
+          "Diversity Index of Clean Tech Importing Countries": {
+            "Clean Tech Import Volume by Country": {},
+            "Number of Countries Engaged in Clean Tech Trade": {},
+            "Value Diversity of Imported Clean Tech Products": {},
+            "Geographical Spread of Clean Tech Import Partners": {}
+          }
+        },
+        "Growth in Clean Tech Export Contracts": {
+          "Volume of Clean Tech Export Orders": {
+            "Market Demand for Clean Technology": {},
+            "Export Revenue from Clean Tech Products": {},
+            "Number of Export Destinations for Clean Tech": {}
+          },
+          "Number of International Clean Tech Partnerships": {
+            "Number of Joint Clean Tech Research Projects": {},
+            "Count of Collaborative Clean Tech Development Initiatives": {},
+            "Volume of Cross-Border Clean Tech Funding Agreements": {},
+            "Number of Global Clean Tech Licensing Deals": {}
+          }
+        },
+        "Currency Exchange Rate Impact on Clean Tech Exports": {
+          "Price Competitiveness of Clean Tech Products": {
+            "Production Cost of Clean Tech Products": {},
+            "Consumer Acceptance of Price Levels for Clean Tech Products": {}
+          },
+          "Market Share of Clean Technologies in Foreign Markets": {
+            "Adoption Rate in International Markets": {},
+            "Distribution Network Extent Abroad": {}
+          },
+          "Profit Margins on Clean Tech Exports": {
+            "Production Costs of Clean Technologies": {},
+            "Tariff and Trade Policy Effects": {},
+            "Foreign Exchange Rate Impact": {}
+          }
+        }
+      }
+    }
+  },
+  "Energy Security Performance": {
+    "Energy Supply Reliability": {
+      "Power Outage Frequency": {
+        "Supply Disruption Events": {
+          "Duration of Disruptions": {
+            "Time to Restoration": {},
+            "Downtime of Critical Infrastructure": {},
+            "Rate of Recovery Services": {}
+          },
+          "Frequency of Supply Interruptions": {
+            "Number of Grid Failures": {},
+            "Frequency of Pipeline Disruptions": {},
+            "Rate of Renewable Energy Downtime": {}
+          },
+          "Geographic Extent of Supply Gaps": {
+            "Regional Dependency on External Sources": {},
+            "Coverage of Domestic Energy Networks": {}
+          },
+          "Volume of Energy Supply Affected": {
+            "Fossil Fuel Availability": {},
+            "Renewable Energy Integration": {},
+            "Energy Import Dependency": {}
+          }
+        },
+        "Infrastructure Maintenance Rate": {
+          "Grid Inspection Frequency": {
+            "Inspection Personnel Availability": {},
+            "Inspection Technology Utilization": {},
+            "Inspection Schedule Compliance": {}
+          },
+          "Pipeline Integrity Assessments": {
+            "Corrosion Monitoring": {},
+            "Leak Detection Sensitivity": {}
+          },
+          "Transmission Line Upkeep": {
+            "Conductor Condition Assessment": {},
+            "Insulator Integrity Monitoring": {}
+          },
+          "Renewable Energy Facility Servicing": {
+            "Wind Turbine Maintenance": {},
+            "Solar Panel Cleanliness": {}
+          }
+        },
+        "Backup System Availability": {
+          "Power Storage Capacity": {
+            "Battery Storage Volume": {},
+            "Grid Storage Efficiency": {}
+          },
+          "Redundant Energy Sources": {
+            "Diversity of Energy Supply": {},
+            "Backup Generation Capacity": {},
+            "Geographical Distribution of Energy Sources": {}
+          },
+          "System Response Time": {
+            "Grid Stabilization Speed": {},
+            "Demand Response Efficiency": {},
+            "Backup Activation Time": {}
+          }
+        },
+        "Energy Source Reliability": {
+          "Renewable Energy Availability": {
+            "Renewable Energy Output": {},
+            "Renewable Energy Resource Capacity": {}
+          },
+          "Grid Stability": {
+            "Voltage Regulation": {},
+            "Frequency Stability": {},
+            "Grid Infrastructure Resilience": {}
+          },
+          "Fossil Fuel Supply Consistency": {
+            "Import Dependency": {},
+            "Domestic Production Volume": {},
+            "Storage Capacity": {}
+          },
+          "Nuclear Energy Dependability": {
+            "Uranium Supply Stability": {},
+            "Reactor Operational Efficiency": {},
+            "Nuclear Waste Management Capacity": {},
+            "Safety Protocol Compliance": {}
+          }
+        }
+      }
+    },
+    "Diversity of Energy Sources": {
+      "Renewable Energy Mix": {
+        "Percentage of Solar Energy": {
+          "Solar Energy Storage Capacity": {
+            "Battery Storage Efficiency": {},
+            "Storage Capacity Expansion": {},
+            "Storage Technology Diversification": {},
+            "Storage Cost Reduction": {}
+          },
+          "Grid Integration of Solar Power": {
+            "Grid Capacity Utilization": {},
+            "Grid Stability Metrics": {}
+          },
+          "Solar Infrastructure Development": {
+            "Number of Solar Installations": {},
+            "Quality of Solar Panels": {},
+            "Solar Energy Generation Capacity": {}
+          }
+        },
+        "Wind Energy Capacity": {
+          "Installed Wind Turbine Units": {
+            "Turbine Capacity Availability": {},
+            "Utilization Rate": {},
+            "Maintenance Frequency": {}
+          },
+          "Grid Integration Capability": {
+            "Renewable Energy Penetration": {},
+            "Grid Flexibility": {},
+            "Energy Storage Capacity": {},
+            "Interconnection Capacity": {}
+          }
+        }
+      },
+      "Fossil Fuel Dependency": {
+        "Import Reliance": {
+          "Percentage of Energy Imports": {
+            "Reliance on Single Energy Source": {},
+            "Import Dependency on Non-renewable Energy": {}
+          },
+          "Diversity of Import Sources": {
+            "Number of Source Countries": {},
+            "Variety of Energy Types Imported": {},
+            "Proportion of Reliable Suppliers": {}
+          }
+        },
+        "Strategic Reserves Levels": {
+          "Reserve Storage Capacity": {
+            "Strategic Petroleum Reserve Size": {},
+            "Natural Gas Storage Volume": {},
+            "Battery Storage Capacity": {}
+          },
+          "Reserve Quality and Composition": {
+            "Fossil Fuel Content": {},
+            "Renewable Energy Composition": {},
+            "Strategic Mineral Quality": {}
+          },
+          "Reserve Accessibility": {
+            "Infrastructure Connectivity": {},
+            "Regulatory Barriers": {},
+            "Geopolitical Stability": {},
+            "Technological Compatibility": {}
+          }
+        },
+        "Domestic Production Capacity": {
+          "Fossil Fuel Production Level": {
+            "Oil Extraction Volume": {},
+            "Natural Gas Output": {},
+            "Coal Mining Rate": {}
+          },
+          "Energy Infrastructure Utilization": {
+            "Grid Capacity Usage": {},
+            "Transmission Efficiency": {},
+            "Storage Facility Utilization": {},
+            "Distribution Network Load": {}
+          },
+          "Nuclear Energy Generation Capacity": {
+            "Nuclear Power Plant Availability": {},
+            "Reactor Efficiency": {},
+            "Spent Fuel Management Capacity": {}
+          }
+        }
+      },
+      "Nuclear Energy Utilization": {
+        "Nuclear Power Generation Capacity": {
+          "Spent Fuel Storage Capacity": {
+            "Storage Infrastructure Availability": {},
+            "Facility Utilization Rate": {}
+          },
+          "Safety Regulation Compliance": {
+            "Inspection Frequency": {},
+            "Equipment Certification Status": {}
+          }
+        },
+        "Nuclear Fuel Availability": {
+          "Uranium Supply Levels": {
+            "Uranium Extraction Rates": {},
+            "Uranium Resource Availability": {}
+          },
+          "Fuel Cycle Stockpiles": {
+            "Strategic Oil Reserves": {},
+            "Natural Gas Storage Levels": {},
+            "Coal Stockpile Reserves": {}
+          },
+          "Reprocessing Capacity": {
+            "Facility Throughput": {},
+            "Waste Processing Efficiency": {},
+            "Material Recovery Rate": {}
+          },
+          "International Uranium Trade": {
+            "Uranium Export Volumes": {},
+            "Uranium Import Dependence": {},
+            "Trade Route Stability": {},
+            "Bilateral Trade Agreements": {}
+          }
+        },
+        "Reactor Deployment Rates": {
+          "Reactor Construction Timelines": {
+            "Permitting and Regulatory Approvals": {},
+            "Supply Chain Efficiency": {}
+          },
+          "Operational Reactor Count": {
+            "Reactor Maintenance Frequency": {},
+            "Fuel Supply Stability": {},
+            "Reactor Capacity Utilization": {},
+            "Operational Downtime Rates": {}
+          }
+        }
+      }
+    },
+    "Energy Infrastructure Resilience": {
+      "Infrastructure Redundancy": {
+        "Backup Power Systems": {
+          "System Reliability": {
+            "Power Grid Stability": {},
+            "Frequency Consistency": {},
+            "Infrastructure Resilience": {}
+          }
+        },
+        "Alternative Energy Supply Networks": {
+          "Renewable Energy Infrastructure": {
+            "Grid Integration Capacity": {},
+            "Renewable Energy Generation Sites": {},
+            "Transmission Network Expansion": {},
+            "Access to Renewable Energy Technologies": {}
+          }
+        }
+      },
+      "Cybersecurity Measures in Energy Systems": {
+        "Threat Detection Capabilities": {
+          "Intrusion Detection Technology": {
+            "Anomaly Detection Algorithms": {},
+            "Data Breach Detection Rates": {}
+          },
+          "Real-Time Monitoring Systems": {
+            "Data Accuracy": {},
+            "System Scalability": {}
+          },
+          "Vulnerability Assessment Tools": {
+            "Risk Scoring Systems": {},
+            "Critical Infrastructure Analysis": {},
+            "Supply Chain Vulnerability Assessment": {},
+            "Resilience Modeling": {}
+          }
+        },
+        "Access Control Mechanisms": {
+          "Authentication Complexity": {
+            "Multi-Factor Authentication Implementation": {},
+            "Biometric Verification Systems": {},
+            "Encryption Protocol Diversity": {},
+            "Authentication Process Duration": {}
+          },
+          "Authorization Levels": {
+            "Grid Access Permissions": {},
+            "Energy Supply Chain Authorizations": {}
+          }
+        },
+        "Incident Response Readiness": {
+          "Response Time Efficiency": {
+            "Backup Power Activation": {},
+            "Energy Supply Chain Responsiveness": {},
+            "System Recovery Time": {}
+          },
+          "Resource Allocation Effectiveness": {
+            "Strategic Reserve Levels": {}
+          },
+          "Staff Training Levels": {
+            "Certification Achievements": {},
+            "On-the-Job Training Hours": {},
+            "Specialized Skill Development": {}
+          },
+          "Communication Infrastructure Robustness": {
+            "Network Redundancy": {},
+            "Cybersecurity Measures": {}
+          }
+        },
+        "Data Encryption Practices": {
+          "Encryption Algorithm Strength": {
+            "Encryption Key Length": {},
+            "Algorithm Computational Complexity": {}
+          },
+          "Key Management Procedures": {
+            "Energy Resource Allocation": {},
+            "Supply Chain Resilience": {},
+            "Infrastructure Integrity": {},
+            "Emergency Response Readiness": {}
+          }
+        }
+      },
+      "Disaster Preparedness of Energy Facilities": {
+        "Emergency Fuel Reserves": {
+          "Reserve Stockpile Size": {
+            "Emergency Reserve Allocations": {},
+            "Private Sector Reserve Participation": {}
+          },
+          "Reserve Replenishment Rate": {
+            "Renewable Resource Integration": {}
+          },
+          "Fuel Storage Capacity": {
+            "Storage Facility Availability": {},
+            "Infrastructure Integrity Assurance": {}
+          },
+          "Fuel Diversity in Reserves": {
+            "Proportion of Renewable Fuels": {},
+            "Number of Alternative Fuel Types": {},
+            "Geographic Distribution of Reserves": {},
+            "Fossil Fuel Reserve Variety": {}
+          }
+        },
+        "Resilience of Power Generation Systems": {
+          "Infrastructure Robustness": {
+            "Transmission Network Redundancy": {},
+            "Distribution System Resilience": {},
+            "Critical Facility Hardening": {},
+            "Supply Chain Reliability": {}
+          }
+        }
+      }
+    }
+  },
+  "Human Wellbeing Measures": {
+    "Health Status": {
+      "Chronic Disease Prevalence": {
+        "Diabetes Incidence": {
+          "Blood Glucose Levels": {
+            "Insulin Sensitivity": {},
+            "Glycemic Index Consumption": {}
+          },
+          "Prevalence of Obesity": {
+            "Physical Activity Levels": {},
+            "Dietary Habits": {},
+            "Access to Healthy Foods": {},
+            "Sedentary Behavior": {}
+          }
+        },
+        "Cardiovascular Disease Rates": {
+          "Hypertension Prevalence": {
+            "Sodium Intake": {},
+            "Access to Healthcare Services": {},
+            "Body Mass Index": {},
+            "Stress Levels": {}
+          },
+          "Cholesterol Levels": {
+            "LDL Cholesterol Concentration": {},
+            "HDL Cholesterol Concentration": {},
+            "Triglyceride Levels": {}
+          }
+        },
+        "Respiratory Condition Prevalence": {
+          "Asthma Incidence": {
+            "Air Quality Levels": {},
+            "Indoor Allergen Exposure": {}
+          },
+          "Chronic Obstructive Pulmonary Disease (COPD) Prevalence": {
+            "Air Quality Index": {},
+            "Smoking Rate": {},
+            "Access to Healthcare": {}
+          },
+          "Allergic Respiratory Disorders": {
+            "Allergen Exposure Levels": {},
+            "Respiratory Symptom Severity": {},
+            "Healthcare Accessibility for Allergic Conditions": {}
+          },
+          "Lung Infection Occurrence": {
+            "Respiratory Infection Rates": {},
+            "Pneumonia Cases": {},
+            "Tuberculosis Incidence": {},
+            "Viral Lung Infections": {}
+          }
+        }
+      },
+      "Nutritional Health": {
+        "Dietary Diversity": {
+          "Food Variety": {
+            "Nutritional Diversity": {},
+            "Cultural Representation in Diets": {},
+            "Availability of Seasonal Ingredients": {}
+          },
+          "Culinary Traditions": {
+            "Culinary Skills and Knowledge Retention": {},
+            "Cultural Significance of Regional Ingredients": {}
+          },
+          "Access to Diverse Foods": {
+            "Nutritional Variety": {},
+            "Cultural Dietary Inclusivity": {},
+            "Availability of Fresh Produce": {}
+          }
+        },
+        "Micronutrient Intake": {
+          "Vitamin Consumption": {
+            "Dietary Vitamin Intake": {},
+            "Vitamin Supplement Usage": {},
+            "Serum Vitamin Levels": {},
+            "Nutrient Density in Foods": {}
+          },
+          "Mineral Absorption": {
+            "Iron Uptake": {},
+            "Calcium Assimilation": {}
+          },
+          "Essential Fatty Acid Levels": {
+            "Omega-3 Fatty Acid Concentration": {},
+            "Omega-6 Fatty Acid Balance": {},
+            "Total Fat Intake": {}
+          }
+        }
+      },
+      "Mental Wellbeing": {
+        "Emotional Resilience": {
+          "Coping Skills": {
+            "Stress Management Techniques": {},
+            "Problem-Solving Abilities": {}
+          },
+          "Self-Efficacy": {
+            "Problem-Solving Confidence": {},
+            "Goal-Setting Ability": {},
+            "Persistence in Challenges": {}
+          },
+          "Adaptability": {
+            "Learning Agility": {},
+            "Resourcefulness": {},
+            "Problem-Solving Ability": {},
+            "Social Resilience": {}
+          },
+          "Emotional Awareness": {
+            "Emotional Recognition": {},
+            "Emotional Regulation": {}
+          }
+        },
+        "Quality of Social Connections": {
+          "Frequency of Social Interactions": {
+            "Frequency of Group Activities": {},
+            "Frequency of Public Gatherings": {}
+          },
+          "Depth of Personal Relationships": {
+            "Emotional Closeness": {},
+            "Trust Levels": {},
+            "Relationship Satisfaction": {}
+          },
+          "Community Engagement": {
+            "Volunteering Rates": {},
+            "Participation in Local Events": {},
+            "Membership in Civic Organizations": {},
+            "Collaboration in Community Projects": {}
+          },
+          "Sense of Belonging": {
+            "Cultural Identity Recognition": {},
+            "Social Support Networks": {}
+          }
+        }
+      }
+    },
+    "Educational Attainment": {
+      "Literacy Rates": {
+        "Reading Comprehension Levels": {
+          "Vocabulary Breadth": {
+            "Reading Comprehension": {},
+            "Language Usage Frequency": {}
+          },
+          "Text Interpretation Skills": {
+            "Context Comprehension": {},
+            "Critical Analysis": {},
+            "Inference Making": {},
+            "Metaphor Interpretation": {}
+          }
+        },
+        "Access to Educational Resources": {
+          "Digital Learning Tools Availability": {
+            "Access to Online Educational Platforms": {},
+            "Quality of Educational Software": {}
+          },
+          "School Infrastructure Quality": {
+            "Building Safety Standards": {},
+            "Access to Sanitation Facilities": {},
+            "Availability of Natural Light": {}
+          },
+          "Teacher-to-Student Ratio": {
+            "Classroom Size": {},
+            "Individualized Instruction Time": {}
+          }
+        },
+        "Adult Literacy Programs Participation": {
+          "Enrollment Numbers in Adult Literacy Programs": {
+            "Access to Literacy Program Information": {},
+            "Availability of Qualified Instructors": {},
+            "Flexibility of Enrollment Options": {},
+            "Support Services for Enrollees": {}
+          },
+          "Completion Rates of Adult Literacy Courses": {
+            "Course Attendance Consistency": {},
+            "Instructor Availability": {},
+            "Access to Learning Resources": {},
+            "Student Motivation Levels": {}
+          }
+        }
+      },
+      "High School Graduation Rates": {
+        "School Attendance Rates": {
+          "Access to Educational Facilities": {
+            "School Enrollment Rates": {},
+            "Proximity to Educational Institutions": {},
+            "Availability of Qualified Teachers": {}
+          },
+          "Health-Related Absenteeism": {
+            "Chronic Illness Prevalence": {},
+            "Mental Health Decline": {},
+            "Workplace Injury Frequency": {}
+          },
+          "Childcare Support Availability": {
+            "Childcare Facility Accessibility": {},
+            "Affordability of Childcare Services": {},
+            "Quality of Childcare Programs": {},
+            "Parental Leave Provisions": {}
+          }
+        },
+        "Academic Achievement Levels": {
+          "Standardized Test Scores": {
+            "Mathematics Proficiency Levels": {},
+            "Scientific Literacy Rates": {},
+            "Critical Thinking Skill Scores": {}
+          },
+          "Graduation Rates": {
+            "Student Engagement Levels": {}
+          },
+          "Advanced Coursework Enrollment": {
+            "STEM Course Enrollment": {},
+            "AP Course Availability": {},
+            "Dual Enrollment in College Courses": {},
+            "Specialized Elective Participation": {}
+          }
+        },
+        "Extracurricular Participation": {
+          "Physical Activity Levels in Youth": {
+            "Time Spent in Outdoor Activities": {},
+            "Participation in Organized Sports": {}
+          },
+          "Participation in Arts and Creative Programs": {
+            "Access to Arts Education": {},
+            "Community Engagement in Arts Activities": {}
+          }
+        },
+        "Teacher-Student Ratio": {
+          "Classroom Engagement Time": {
+            "In-class Participation Levels": {},
+            "Focus Duration": {},
+            "Peer Collaboration Time": {},
+            "Interactive Activity Time": {}
+          },
+          "Individualized Attention": {
+            "Personalized Healthcare Access": {},
+            "One-on-One Counseling Services": {},
+            "Tailored Fitness Programs": {}
+          },
+          "Student Support Services": {
+            "Mental Health Resources": {},
+            "Counseling Availability": {}
+          },
+          "Teaching Staff Workload": {
+            "Lesson Planning Hours": {},
+            "Administrative Duties": {},
+            "Professional Development Activities": {}
+          }
+        }
+      },
+      "Post-Secondary Enrollment": {
+        "Access to Higher Education Resources": {
+          "Availability of Online Learning Platforms": {
+            "Number of Enrolled Users": {},
+            "Variety of Available Courses": {},
+            "Quality of Educational Content": {},
+            "Accessibility Features": {}
+          },
+          "Library Resource Accessibility": {
+            "Library Material Availability": {},
+            "Digital Resource Accessibility": {},
+            "Library Facility Accessibility": {},
+            "User Support Services": {}
+          }
+        },
+        "Student Retention Rates": {
+          "Student Academic Performance": {
+            "Cognitive Development": {},
+            "Attendance Rates": {}
+          },
+          "Campus Mental Health Services Utilization": {
+            "Student Counseling Hours": {},
+            "Number of Service Access Points": {}
+          }
+        },
+        "Diversity in Enrollment": {
+          "Cultural Representation": {
+            "Artistic Expression": {},
+            "Cultural Festivals": {},
+            "Language Preservation": {},
+            "Media Diversity": {}
+          },
+          "Gender Balance": {
+            "Educational Attainment Gender Parity": {},
+            "Labor Market Gender Participation": {},
+            "Gender-Based Health Access": {},
+            "Political Representation Gender Ratio": {}
+          },
+          "Socioeconomic Inclusion": {
+            "Access to Education": {},
+            "Employment Opportunities": {},
+            "Financial Inclusivity": {}
+          },
+          "Age Range Diversity": {
+            "Youth Engagement": {},
+            "Elderly Support Systems": {},
+            "Middle Age Workforce Participation": {},
+            "Intergenerational Housing": {}
+          }
+        }
+      }
+    },
+    "Access to Clean Water": {
+      "Water Quality Standards": {
+        "Contaminant Concentration Levels": {
+          "Airborne Particulate Matter": {
+            "Respiratory Health Conditions": {},
+            "Cardiovascular Health Risks": {},
+            "Air Quality Index Scores": {}
+          },
+          "Waterborne Chemical Residues": {
+            "Chemical Exposure Risk": {},
+            "Water Quality Standards Compliance": {},
+            "Public Health Outcomes": {}
+          },
+          "Soil Toxin Concentration": {
+            "Soil Trace Metal Levels": {},
+            "Pesticide Residue Quantity": {},
+            "Soil Organic Pollutant Density": {}
+          }
+        },
+        "Pathogen Presence Assessment": {
+          "Microbial Load": {
+            "Microbiome Diversity": {},
+            "Pathogenic Species Prevalence": {}
+          },
+          "Viral Particle Count": {
+            "Viral Load in Respiratory Systems": {},
+            "Viral Presence in Water Sources": {},
+            "Airborne Viral Concentrations": {},
+            "Viral Contamination in Food Supplies": {}
+          },
+          "Bacterial Colony Density": {
+            "Gut Microbiome Diversity": {},
+            "Surface Bacteria Concentration": {},
+            "Pathogenic Bacteria Levels": {}
+          }
+        },
+        "Chemical Oxygen Demand": {
+          "Safe Drinking Water Access": {
+            "Availability of Clean Water Sources": {},
+            "Household Water Supply Reliability": {},
+            "Affordability of Water Services": {},
+            "Water Infrastructure Coverage": {}
+          }
+        },
+        "Heavy Metal Content": {
+          "Blood Lead Levels": {
+            "Blood Lead Prevalence in Children": {},
+            "Adult Blood Lead Concentration": {},
+            "Occupational Lead Exposure Levels": {}
+          },
+          "Cadmium Urinary Concentration": {
+            "Kidney Function Biomarkers": {},
+            "Bone Density Levels": {},
+            "Liver Enzyme Activity": {}
+          }
+        }
+      },
+      "Infrastructure for Water Distribution": {
+        "Water Access Coverage": {
+          "Clean Water Availability": {
+            "Water Access Points": {},
+            "Per Capita Water Use": {}
+          },
+          "Sanitation Infrastructure": {
+            "Access to Improved Sanitation Facilities": {},
+            "Wastewater Treatment Capacity": {}
+          }
+        },
+        "Maintenance and Repair Frequency": {
+          "Infrastructure Reliability": {
+            "Transportation Accessibility": {},
+            "Water Supply Consistency": {},
+            "Telecommunication Stability": {},
+            "Public Facility Availability": {}
+          },
+          "Household Equipment Longevity": {
+            "Appliance Durability": {}
+          }
+        },
+        "Distribution Efficiency": {
+          "Infrastructure Accessibility": {
+            "Public Transportation Coverage": {},
+            "Utility Service Availability": {}
+          }
+        }
+      },
+      "Availability of Water Resources": {
+        "Access to Clean Drinking Water": {
+          "Water Treatment Infrastructure": {
+            "Water Access Availability": {},
+            "Water Treatment Capacity": {},
+            "Public Health Indices Related to Waterborne Diseases": {}
+          }
+        },
+        "Water Availability for Agriculture": {
+          "Irrigation Water Supply": {
+            "Household Water Access": {},
+            "Agricultural Productivity": {},
+            "Nutritional Security": {},
+            "Water Quality for Domestic Use": {}
+          },
+          "Crop Water Requirement": {
+            "Evapotranspiration Rate": {},
+            "Soil Moisture Levels": {},
+            "Crop Yield Efficiency": {}
+          }
+        },
+        "Household Water Supply Adequacy": {
+          "Water Storage Capacity": {
+            "Reservoir Capacity": {},
+            "Groundwater Reserves": {},
+            "Rainwater Harvesting Systems": {}
+          },
+          "Water Delivery Infrastructure": {
+            "Access to Piped Water Supply": {},
+            "Efficiency of Water Distribution Systems": {}
+          },
+          "Water Quality Assurance": {
+            "Contaminant Levels": {},
+            "Microbiological Safety": {}
+          }
+        },
+        "Water Availability for Hygiene and Sanitation": {
+          "Public Sanitation Infrastructure": {
+            "Urban Drainage Systems": {},
+            "Solid Waste Management Facilities": {},
+            "Public Toilet Availability": {}
+          },
+          "Access to Personal Hygiene Facilities": {
+            "Availability of Wash Stations": {},
+            "Access to Personal Hygiene Supplies": {}
+          },
+          "Institutional Water Supply for Sanitation": {
+            "Reliability of Water Supply": {}
+          }
+        }
+      }
+    }
+  },
+  "Social Conflict Intensity": {
+    "Protest Frequency": {
+      "Number of Demonstrations": {
+        "Demonstration Participant Count": {
+          "Age Group Participation": {
+            "Youth Activism Rate": {},
+            "Elder Involvement Level": {},
+            "Middle-Aged Volunteerism": {},
+            "Intergenerational Dialogue Frequency": {}
+          },
+          "Organizational Affiliation Presence": {
+            "Membership Count": {},
+            "Coalition Formation": {},
+            "Activist Network Size": {}
+          },
+          "Social Media Mobilization Level": {
+            "Viral Campaign Engagement": {},
+            "Hashtag Usage Frequency": {},
+            "Meme Distribution Rate": {},
+            "Influencer Participation": {}
+          }
+        },
+        "Geographical Distribution of Demonstrations": {
+          "Urban Protest Locations": {
+            "Number of Protest Events": {},
+            "Protest Participation Rate": {}
+          },
+          "Rural Protest Locations": {
+            "Protest Participation Numbers": {},
+            "Frequency of Protests": {},
+            "Use of Agricultural Lands as Protest Sites": {},
+            "Involvement of Local Leaders": {}
+          },
+          "Cross-Border Demonstrations": {
+            "Transnational Participation": {},
+            "Cross-Border Communication Networks": {},
+            "International Policy Engagement": {}
+          },
+          "Proximity to Energy Infrastructure": {
+            "Community Tensions": {},
+            "Incidents of Vandalism": {}
+          }
+        },
+        "Duration of Demonstrations": {
+          "Length of Individual Protests": {
+            "Duration of Energy-related Protests": {},
+            "Seasonal Variation in Protest Length": {}
+          }
+        }
+      },
+      "Incidents of Public Gatherings": {
+        "Participation Levels in Gatherings": {
+          "Number of Participants": {
+            "Protest Group Size": {},
+            "Community Mobilization Effort": {},
+            "Activist Recruitment": {},
+            "Strike Participation Rate": {}
+          },
+          "Diversity of Participant Demographics": {
+            "Age Range of Participants": {},
+            "Cultural Background Representation": {},
+            "Gender Ratio": {}
+          }
+        },
+        "Diversity of Issues Addressed": {
+          "Representation of Marginalized Groups": {
+            "Political Representation": {},
+            "Healthcare Equity": {}
+          },
+          "Cultural Identity Conflicts": {
+            "Intercultural Communication Barriers": {},
+            "Cultural Preservation Efforts": {}
+          },
+          "Resource Allocation Disputes": {
+            "Access to Energy Resources": {},
+            "Water Resource Distribution": {}
+          },
+          "Policy Change Demands": {
+            "Public Protests": {},
+            "Petition Initiatives": {}
+          }
+        },
+        "Geographic Spread of Incidents": {
+          "Number of Affected Regions": {
+            "Intensity of Hostilities in Regions": {},
+            "Population Displacement Count": {},
+            "Resource Allocation Strains": {}
+          },
+          "Range of Urban and Rural Areas Involved": {
+            "Urban Area Extent": {},
+            "Rural Area Coverage": {}
+          },
+          "Cross-Border Incidents": {
+            "Frequency of Cross-Border Skirmishes": {},
+            "Number of Refugees and Displaced Persons": {},
+            "Intensity of Diplomatic Tensions": {},
+            "Military Force Deployment": {}
+          }
+        }
+      },
+      "Rate of Protest Organization": {
+        "Social Media Mobilization": {
+          "Hashtag Proliferation": {
+            "Hashtag Diversity": {},
+            "Hashtag Frequency": {},
+            "Hashtag Geographical Distribution": {},
+            "Hashtag Sentiment Variation": {}
+          },
+          "Influencer Engagement": {
+            "Engagement Rate with Social Conflict Themes": {},
+            "Sentiment of Influencer Interactions": {}
+          },
+          "Online Advocacy Groups": {
+            "Membership Size": {},
+            "Frequency of Campaigns": {}
+          },
+          "User-Generated Content Volume": {
+            "Comment Threads Lengths": {},
+            "Image and Video Upload Frequency": {}
+          }
+        },
+        "Community Organizing Capacity": {
+          "Volunteer Participation": {
+            "Volunteer Engagement in Advocacy Campaigns": {},
+            "Volunteer Attendance at Public Demonstrations": {},
+            "Frequency of Volunteer-Led Community Dialogue Sessions": {}
+          },
+          "Local Leadership Development": {
+            "Community Mediation Skills": {},
+            "Conflict Resolution Workshops": {}
+          },
+          "Grassroots Network Size": {
+            "Community Group Membership": {},
+            "Social Media Engagement": {},
+            "Number of Local Chapters": {},
+            "Collaboration with Other Networks": {}
+          },
+          "Resource Accessibility for Organizing": {
+            "Communication Infrastructure Access": {},
+            "Funding Availability for Advocacy": {},
+            "Material Resource Supply": {},
+            "Venue Accessibility for Meetings": {}
+          }
+        }
+      }
+    },
+    "Incidence of Community Tensions": {
+      "Neighbor Disputes": {
+        "Property Boundary Clashes": {
+          "Illegal Land Encroachments": {
+            "Frequency of Incidents": {},
+            "Scale of Land Affected": {},
+            "Number of Stakeholder Groups Involved": {},
+            "Intensity of Violent Confrontations": {}
+          },
+          "Disputes Over Access Rights": {
+            "Water Resource Allocation Conflicts": {},
+            "Land Use Access Disagreements": {},
+            "Fishing Rights Contention": {}
+          }
+        },
+        "Noise Complaints": {
+          "Neighborhood Sound Levels": {
+            "Community Complaints": {},
+            "Soundproofing Measures": {},
+            "Public Event Volume": {},
+            "Traffic Noise Levels": {}
+          },
+          "Frequency of Disturbance Reports": {
+            "Incidents of Public Disorder": {}
+          },
+          "Variety of Noise Sources": {
+            "Traffic Noise": {},
+            "Industrial Noise": {},
+            "Recreational Noise": {}
+          },
+          "Time of Day Noise Occurrences": {
+            "Early Morning Noise Events": {},
+            "Midday Noise Levels": {},
+            "Evening Disturbance Frequency": {},
+            "Late Night Sound Incidents": {}
+          }
+        },
+        "Pet-related Incidents": {
+          "Animal Bite Reports": {
+            "Incidence of Stray Animal Bites": {},
+            "Frequency of Aggressive Pet Encounters": {},
+            "Cases of Wild Animal Attacks": {},
+            "Reports of Animal Provoked Injuries": {}
+          },
+          "Pet-induced Property Damage": {
+            "Frequency of Pet-related Incidents": {},
+            "Extent of Damage to Common Areas": {}
+          },
+          "Pet-loss Reports": {
+            "Missing Pet Notices": {},
+            "Pet Abandonment Cases": {},
+            "Pet Theft Incidences": {}
+          },
+          "Pet-related Allergic Reactions": {
+            "Allergy Incidence Rates": {},
+            "Severity of Allergic Symptoms": {},
+            "Access to Allergen-free Zones": {}
+          }
+        },
+        "Shared Space Disagreements": {
+          "Public Park Usage Conflicts": {
+            "Crowding Levels": {},
+            "Noise Pollution": {},
+            "User Group Interactions": {},
+            "Space Allocation Disputes": {}
+          },
+          "Sidewalk Accessibility Issues": {
+            "Pedestrian Traffic Congestion": {},
+            "Obstruction by Outdoor Dining": {},
+            "Accessibility for Individuals with Disabilities": {},
+            "Sidewalk Construction and Maintenance": {}
+          },
+          "Community Garden Disputes": {
+            "Access to Gardening Resources": {},
+            "Volunteer Participation Levels": {},
+            "Garden Management Practices": {},
+            "Plot Allocation Fairness": {}
+          },
+          "Parking Space Competition": {
+            "Vehicle Density": {},
+            "Parking Space Availability": {},
+            "Public Complaint Frequency": {}
+          }
+        }
+      },
+      "Resource Access Conflicts": {
+        "Water Allocation Disputes": {
+          "Intercommunity Tensions": {
+            "Resource Access Disputes": {},
+            "Cultural Identity Clashes": {}
+          },
+          "Negotiation Frequency": {
+            "Dialogue Sessions": {},
+            "Conflict Mediation Initiatives": {},
+            "Formal Peace Talks": {},
+            "Community Forums Attendance": {}
+          }
+        },
+        "Land Use Conflicts": {
+          "Agricultural Land Disputes": {
+            "Land Ownership Claims": {},
+            "Access to Water Resources": {}
+          },
+          "Urban Expansion Conflicts": {
+            "Land Use Disputes": {},
+            "Infrastructure Development Tensions": {},
+            "Housing Density Conflicts": {},
+            "Public Space Allocation Controversies": {}
+          }
+        },
+        "Mineral Extraction Clashes": {
+          "Legal Disputes Over Extraction Sites": {
+            "Number of Court Cases Filed": {},
+            "Duration of Litigation Processes": {},
+            "Diversity of Stakeholders Involved": {}
+          }
+        }
+      }
+    },
+    "Levels of Civil Unrest": {
+      "Mobilization Scale": {
+        "Protest Participation Levels": {
+          "Participant Demographics": {
+            "Age Diversity of Participants": {},
+            "Gender Representation in Participants": {},
+            "Socioeconomic Status of Participants": {}
+          },
+          "Geographic Spread of Protests": {
+            "Urban Area Incidents": {},
+            "Rural Zone Disturbances": {},
+            "Cross-Border Protests": {}
+          },
+          "Protest Duration": {
+            "Resource Allocation During Protests": {},
+            "Number of Protest Stages": {}
+          }
+        },
+        "Community Organizing Efforts": {
+          "Community Dialogue Initiatives": {
+            "Frequency of Dialogue Sessions": {},
+            "Diversity of Participants": {},
+            "Public Awareness Campaigns": {},
+            "Facilitator Training Programs": {}
+          },
+          "Collaborative Resource Sharing": {
+            "Intergroup Trust Levels": {},
+            "Resource Allocation Agreements": {},
+            "Shared Governance Structures": {}
+          }
+        },
+        "Advocacy Group Membership": {
+          "Membership Diversity": {
+            "Demographic Distribution": {},
+            "Ideological Spectrum": {}
+          },
+          "Geographic Reach": {
+            "Cross-border Incidents": {},
+            "Urban vs. Rural Conflicts": {},
+            "Regional Concentration": {}
+          },
+          "Financial Contributions": {
+            "Funding for Advocacy Groups": {},
+            "Donations to Mediating Organizations": {},
+            "Investment in Conflict Resolution Programs": {}
+          },
+          "Membership Turnover": {
+            "Member Recruitment Rate": {},
+            "Member Resignation Incidents": {}
+          }
+        }
+      },
+      "Public Disorder Incidents": {
+        "Protests and Demonstrations": {
+          "Geographic Spread of Demonstrations": {
+            "Duration of Demonstrations Across Locations": {},
+            "Frequency of Demonstrations in Key Areas": {}
+          },
+          "Diversity of Protester Demographics": {
+            "Age Range Variability of Protesters": {},
+            "Racial and Ethnic Representation": {},
+            "Socioeconomic Status Diversity": {}
+          }
+        },
+        "Riots": {
+          "Crowd Size and Composition": {
+            "Demographic Diversity": {},
+            "Participant Age Range": {},
+            "Organizational Affiliation": {},
+            "Geographical Origin": {}
+          },
+          "Extent of Property Damage": {
+            "Building Vandalism": {},
+            "Infrastructure Destruction": {},
+            "Vehicle Damages": {}
+          }
+        },
+        "Civil Disobedience Events": {
+          "Participation Rate in Civil Disobedience": {
+            "Protest Participation Density": {},
+            "Diverse Group Involvement": {}
+          },
+          "Frequency of Organized Nonviolent Actions": {
+            "Environmental Advocacy Campaigns": {},
+            "Community-Led Renewable Energy Projects": {},
+            "Peaceful Protests for Ecosystem Protection": {},
+            "Nonviolent Actions for Indigenous Rights": {}
+          }
+        },
+        "Vandalism During Turmoil": {
+          "Destruction of Public Infrastructure": {
+            "Damage to Transportation Networks": {},
+            "Compromise of Water Supply Systems": {}
+          },
+          "Defacement of Property": {
+            "Graffiti Incidents": {},
+            "Vandalism Reports": {}
+          }
+        }
+      },
+      "Security Force Engagement": {
+        "Deployment Frequency": {
+          "Incident Reports": {
+            "Environmental Protest Incidents": {},
+            "Resource Conflict Occurrences": {}
+          },
+          "Military or Security Presence": {
+            "Checkpoint Density": {}
+          },
+          "Community Protests": {
+            "Protest Participation": {},
+            "Frequency of Demonstrations": {},
+            "Diversity of Protest Groups": {},
+            "Duration of Protests": {}
+          }
+        },
+        "Resource Allocation": {
+          "Distribution of Water Resources": {
+            "Water Allocation Equity": {},
+            "Transboundary Water Management": {}
+          },
+          "Allocation of Land Resources": {
+            "Land Ownership Disputes": {},
+            "Access to Arable Land": {},
+            "Land Use Zoning Conflicts": {},
+            "Competition for Urban Land": {}
+          }
+        },
+        "Operational Scale": {
+          "Number of Groups Involved": {
+            "Ethnic Diversity of Groups": {},
+            "Socioeconomic Class Composition": {},
+            "Groups with Differing Energy Interests": {}
+          },
+          "Geographical Spread": {
+            "Regional Distribution of Protests": {},
+            "Cross-Border Tensions": {}
+          },
+          "Intensity of Engagement": {
+            "Level of Active Debate": {}
+          }
+        },
+        "Duration of Engagement": {
+          "Protest Activity Length": {
+            "Protest Participant Numbers": {},
+            "Protest Geographic Spread": {}
+          },
+          "Negotiation Periods": {
+            "Dialogue Duration": {},
+            "Mediation Sessions": {},
+            "Stakeholder Involvement": {},
+            "Agreement Revisions": {}
+          }
+        }
+      }
+    }
+  }
+}

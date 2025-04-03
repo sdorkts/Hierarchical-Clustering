@@ -1,0 +1,928 @@
+{
+  "Fish Population Metrics": {
+    "Fish Biomass": {
+      "Trophic Level Biomass Distribution": {
+        "Herbivorous Fish Biomass": {},
+        "Carnivorous Fish Biomass": {}
+      },
+      "Predator-Prey Biomass Ratio": {
+        "Predator Biomass near Offshore Installations": {},
+        "Prey Biomass near Offshore Installations": {}
+      },
+      "Benthic Fish Biomass": {
+        "Habitat Coverage for Benthic Species": {},
+        "Reproductive Rates of Benthic Fish": {},
+        "Juvenile Benthic Fish Survival Rates": {},
+        "Benthic Fish Food Availability": {},
+        "Benthic Habitat Structural Complexity": {}
+      },
+      "Pelagic Fish Biomass": {
+        "Nutrient Availability in Surface Waters": {},
+        "Depth-Integrated Biomass Distribution": {},
+        "Habitat Range Overlapping with Offshore Structures": {},
+        "Spawning Area Biomass Concentration": {}
+      },
+      "Seasonal Biomass Variation": {
+        "Spawning Biomass Accumulation": {},
+        "Juvenile Fish Biomass Growth": {},
+        "Migratory Biomass Flux": {}
+      },
+      "Biomass Density in Habitat Zones": {
+        "Reef Fish Biomass Density": {},
+        "Seagrass Bed Fish Biomass Density": {},
+        "Deep Sea Fish Biomass Density": {}
+      }
+    },
+    "Fish Recruitment Rates": {
+      "Larval Survival Rate": {
+        "Larval Predation Pressure": {},
+        "Larval Food Availability": {},
+        "Larval Habitat Stability": {}
+      },
+      "Egg Hatching Success": {
+        "Thermal Conditions in Spawning Areas": {},
+        "Hydrodynamic Stability of Spawning Grounds": {},
+        "Sediment Deposition on Egg Beds": {}
+      },
+      "Juvenile Growth Rate": {
+        "Feeding Efficiency": {},
+        "Metabolic Rate": {},
+        "Habitat Accessibility": {},
+        "Predation Pressure": {},
+        "Nutrient Availability": {},
+        "Genetic Variability": {}
+      },
+      "Nursery Habitat Availability": {
+        "Seagrass Bed Extent": {},
+        "Coral Reef Coverage": {},
+        "Kelp Forest Density": {},
+        "Mangrove Forest Area": {},
+        "Salt Marsh Size": {},
+        "Estuarine Zone Area": {}
+      },
+      "Environmental Suitability for Early Life Stages": {
+        "Water Temperature Variability": {},
+        "Oxygen Level Stability": {},
+        "Salinity Balance": {},
+        "Predation Pressure on Larvae": {},
+        "Habitat Complexity": {},
+        "Food Availability for Larvae": {}
+      }
+    },
+    "Fish Age Structure": {
+      "Proportion of Juvenile Fish": {
+        "Juvenile Fish Growth Rate": {},
+        "Juvenile Fish Habitat Availability": {}
+      },
+      "Proportion of Mature Fish": {
+        "Size Distribution of Mature Fish": {},
+        "Reproductive Output of Mature Fish": {},
+        "Growth Rates of Mature Fish": {},
+        "Health and Condition of Mature Fish": {},
+        "Mortality Rates of Mature Fish": {}
+      },
+      "Age-Class Distribution Diversity": {
+        "Age-Class Range Variability": {},
+        "Evenness of Age Distribution": {},
+        "Age-Class Representation Balance": {}
+      }
+    },
+    "Fish Distribution Patterns": {
+      "Geographic Range Shifts": {
+        "Latitude Dispersion": {},
+        "Regional Occupancy Rate": {},
+        "Proximity to Offshore Structures": {}
+      },
+      "Depth Distribution Variability": {
+        "Vertical Migration Patterns": {},
+        "Thermal Layer Occupancy": {},
+        "Nutrient Zone Utilization": {},
+        "Light Penetration Zone Occupancy": {},
+        "Pressure Tolerance Distribution": {}
+      },
+      "Habitat Utilization Changes": {
+        "Species-Specific Habitat Preference": {},
+        "Availability of Shelter Habitat": {},
+        "Proximity to Food Resources": {},
+        "Reproductive Site Utilization": {}
+      },
+      "Seasonal Migration Alteration": {
+        "Migration Timing Shifts": {},
+        "Migration Route Changes": {},
+        "Migration Group Size Variation": {}
+      },
+      "Aggregation Density Variation": {
+        "Spatial Distribution Consistency": {},
+        "Reproductive Aggregation Frequency": {},
+        "Predator Avoidance Clustering": {},
+        "Food Availability Clustering": {},
+        "Population Density Hotspots": {}
+      }
+    },
+    "Spawning Stock Size": {
+      "Reproductive Maturity Rates": {
+        "Age at Reproductive Maturity": {},
+        "Percentage of Individuals Reaching Maturity": {},
+        "Proportion of Mature Individuals in Population": {},
+        "Maturation Size": {},
+        "Genetic Diversity in Maturation Traits": {}
+      },
+      "Egg Production Capacity": {
+        "Yolk Quality": {},
+        "Egg Size": {},
+        "Fecundity Rate": {},
+        "Larval Viability": {},
+        "Spawning Ground Quality": {}
+      },
+      "Spawning Habitat Area": {
+        "Seafloor Roughness": {},
+        "Underwater Noise Levels": {}
+      },
+      "Spawning Frequency": {
+        "Duration of Spawning Seasons": {},
+        "Number of Spawning Per Cycle": {},
+        "Spawning Group Size": {}
+      }
+    },
+    "Fish Mortality Rates": {
+      "Species-specific Mortality": {
+        "Habitat Displacement": {},
+        "Thermal Stress": {}
+      },
+      "Age-specific Mortality": {
+        "Spawning Success Rates": {},
+        "Juvenile Growth Rates": {},
+        "Maturity Age Distribution": {},
+        "Larval Survival": {},
+        "Adult Longevity": {}
+      }
+    },
+    "Species Composition": {
+      "Species Richness": {
+        "Number of Endemic Fish Species": {},
+        "Diversity of Habitat Preferences Among Fish": {},
+        "Variety of Trophic Levels Represented": {},
+        "Range of Fish Morphological Traits": {},
+        "Variety of Migratory Fish Species": {}
+      },
+      "Species Evenness": {
+        "Distribution of Fish Age Classes": {},
+        "Relative Abundance of Non-native Species": {},
+        "Diversity of Fish Trophic Levels": {},
+        "Balance of Predatory and Non-predatory Species": {}
+      },
+      "Dominance of Invasive Species": {
+        "Invasive Species Biomass Relative to Native Species": {},
+        "Invasive Species Reproduction Rates": {},
+        "Invasive Predation on Native Fish": {}
+      },
+      "Genetic Diversity within Species": {
+        "Allele Frequency Variety": {},
+        "Genetic Drift Degree": {},
+        "Subpopulation Differentiation": {},
+        "Gene Flow Rate": {},
+        "Inbreeding Levels": {},
+        "Genetic Mutation Rates": {}
+      },
+      "Proportion of Demersal Species": {
+        "Age Structure of Demersal Species": {},
+        "Reproductive Rate of Demersal Species": {},
+        "Spatial Distribution of Demersal Fish": {},
+        "Juvenile Recruitment of Demersal Species": {},
+        "Mortality Rate of Demersal Species": {},
+        "Biomass of Demersal Species": {}
+      },
+      "Presence of Sensitive Indicator Species": {
+        "Habitat Suitability Index": {},
+        "Species Condition Factor": {},
+        "Breeding Ground Accessibility": {},
+        "Feeding Habitat Quality": {},
+        "Nursery Habitat Area": {}
+      }
+    }
+  },
+  "Fishing Effort & Utilization": {
+    "Vessel Count in Fishing Areas": {
+      "Number of Active Fishing Vessels": {
+        "Vessel Operational Days": {},
+        "Fishing Trip Frequency": {},
+        "Crew Size on Vessels": {},
+        "Fuel Consumption per Vessel": {}
+      },
+      "Presence of Non-local Vessels": {
+        "Distance Traveled by Non-local Vessels": {},
+        "Duration of Stay in Fishing Grounds by Non-local Vessels": {}
+      },
+      "Vessel Capacity Utilization": {
+        "Gear Allocation Efficiency": {},
+        "Fishing Capacity Density": {},
+        "Trip Duration Frequency": {}
+      },
+      "Vessel Registration Variability": {
+        "Frequency of Vessel Registration Updates": {},
+        "Diversity in Vessel Ownership": {},
+        "Regional Distribution of Registered Vessels": {},
+        "Types of Registration Categories": {},
+        "Duration of Active Registrations": {},
+        "Proportion of Renewable Energy Vessels": {}
+      },
+      "Concentration of Vessel Types": {
+        "Proportion of Trawl Vessels": {},
+        "Density of Longline Vessels": {},
+        "Prevalence of Jigging Vessels": {},
+        "Dominance of Pot Fishing Vessels": {}
+      },
+      "Vessel Turnover Rates": {
+        "Frequency of Vessel Replacement": {},
+        "Seasonal Switching of Vessel Roles": {},
+        "Transfer of Vessel Ownership": {},
+        "Vessel Decommissioning Rates": {},
+        "Fleet Modernization Activities": {}
+      }
+    },
+    "Fishing Gear Type Usage": {
+      "Selectivity of Fishing Gear": {
+        "Mesh Size Variation": {},
+        "Bycatch Composition": {},
+        "Target Species Catch Rate": {},
+        "Depth of Gear Deployment": {},
+        "Seasonal Gear Adjustment": {},
+        "Non-target Species Selectivity": {},
+        "Size Selectivity in Gear": {}
+      },
+      "Adaptation of Gear to Offshore Conditions": {
+        "Resilience of Fishing Gear Materials": {},
+        "Deployment Depth Capabilities": {},
+        "Gear Design Innovation for Stability": {},
+        "Efficiency in Gear Retrieval": {},
+        "Compatibility with Offshore Currents": {}
+      }
+    },
+    "Fishing Trip Duration": {
+      "Distance Traveled During Fishing Trips": {
+        "Range of Fishing Locations": {},
+        "Fuel Consumption for Fishing Ventures": {},
+        "Access to Remote Fishing Zones": {}
+      },
+      "Time Spent at Fishing Grounds": {
+        "Duration of Fishing Activity": {},
+        "Hours of Peak Fishing Effort": {},
+        "Length of Time Engaged in Gear Deployment": {},
+        "Time Allocated for Navigating Between Fishing Sites": {},
+        "Time Spent on Catch Processing Aboard": {}
+      },
+      "Frequency of Fishing Trips Linked to Offshore Energy Areas": {
+        "Number of Vessels Engaged in Fishing": {},
+        "Fishing Hours Allocated to Offshore Areas": {},
+        "Frequency of Fish Catch Assessments Linked to Energy Areas": {},
+        "Overlap of Fishing Routes with Energy Installations": {}
+      }
+    },
+    "Fishing Area Coverage": {
+      "Spatial Overlap with Energy Installations": {
+        "Fishing Effort Density": {},
+        "Fishing Gear Deployment": {},
+        "Vessel Traffic Intensity": {},
+        "Spatial Allocation of Fishing Zones": {}
+      },
+      "Access to Traditional Fishing Sites": {
+        "Navigability of Fishing Areas": {},
+        "Physical Barriers to Fishing Sites": {},
+        "Seasonal Access Variability": {},
+        "Cultural Site Preservation Impact": {},
+        "Fishing Zone Legal Designation": {},
+        "Infrastructure Development on Shorelines": {},
+        "Availability of Entry Points": {},
+        "Competition for Site Access": {}
+      },
+      "Exclusion Zones due to Energy Development": {
+        "Fishing Effort Redistribution": {},
+        "Fishing Gear Adaptation": {}
+      }
+    },
+    "Catch Per Unit Effort": {
+      "Effort Allocation in Offshore Areas": {
+        "Vessel Density in Offshore Fishing Zones": {},
+        "Fishing Gear Deployment Offshore": {},
+        "Fishing Hours Spent in Offshore Regions": {},
+        "Seasonal Allocation Patterns in Offshore Fishing": {},
+        "Species Targeting Focus in Offshore Areas": {},
+        "Crew Size Utilization for Offshore Expeditions": {}
+      },
+      "Catch Rates at Offshore Energy Sites": {
+        "Target Species Presence": {},
+        "Fishing Gear Efficiency": {},
+        "Seasonal Catch Variability": {},
+        "Bycatch Rates": {}
+      }
+    },
+    "Seasonal Fishing Activity": {
+      "Seasonal Shift in Fishing Grounds": {
+        "Duration of Fishing Operations": {},
+        "Concentration of Fishing Vessels": {},
+        "Distance Travelled to Fishing Grounds": {},
+        "Variety of Fishing Techniques Employed": {},
+        "Diversity of Targeted Species": {},
+        "Adaption of Fishing Equipment": {},
+        "Timing of Fishing Efforts": {},
+        "Allocation of Crew Resources": {}
+      },
+      "Seasonal Allocation of Fishing Quotas": {
+        "Quota Distribution by Species": {},
+        "Fishing Hours Utilization": {},
+        "Temporal Quota Caps": {},
+        "Quota Exchange Volumes": {}
+      }
+    },
+    "Technological Advancements in Fishing Methods": {
+      "Sonar and Fish-Finding Technology": {
+        "Sonar Signal Precision": {},
+        "Detection Range Extension": {},
+        "Operator Skill in Sonar Utilization": {},
+        "Energy Consumption of Fish-Finding Devices": {}
+      },
+      "Automated Fishing Equipment": {
+        "Robotic Fishing Gear Deployment": {},
+        "Automated Net Retrieval Systems": {},
+        "AI-Controlled Trawl Efficiency": {},
+        "Mechanized Line Setting": {},
+        "Automated Fish Sorting and Processing": {}
+      },
+      "Advanced Navigation Systems": {
+        "Route Efficiency": {},
+        "Time at Sea": {},
+        "Fuel Consumption": {},
+        "Fishing Zone Precision": {}
+      },
+      "Remote Sensing for Fish Detection": {
+        "Satellite Imagery Analysis for Fish Presence": {},
+        "Thermal Mapping for Fish Aggregation Zones": {},
+        "Hydrological Data Integration for Fish Movement": {},
+        "Optical Sensor Calibration for Fish Detection": {},
+        "Remote Sensing Data Accuracy in Offshore Sites": {}
+      },
+      "Electric and Hybrid Propulsion Systems": {
+        "Range of Fishing Operations": {},
+        "Fuel Consumption Efficiency": {},
+        "Maintenance Requirements": {},
+        "Vessel Noise Levels": {},
+        "Operational Cost Dynamics": {}
+      },
+      "Drones for Monitoring and Survey": {
+        "Survey Coverage Area by Drones": {},
+        "Data Collection Frequency using Drones": {},
+        "Drone Operational Efficiency in Offshore Monitoring": {}
+      },
+      "Biometric Monitoring for Bycatch Reduction": {
+        "Bycatch Monitoring Technology Implementation": {},
+        "Data Collection Frequency": {},
+        "Observer Coverage Levels": {},
+        "Non-Target Species Identification Accuracy": {},
+        "Real-Time Data Processing Capacity": {}
+      }
+    }
+  },
+  "Governance Effectiveness & Stakeholder Engagement": {
+    "Stakeholder Representation in Decision-Making": {
+      "Inclusivity of Fishing Communities": {
+        "Community Representation in Decision-Making": {},
+        "Access to Consultation Platforms": {},
+        "Equitability of Resource Allocation": {},
+        "Support for Community Capacity Building": {}
+      },
+      "Participation of Indigenous Groups": {
+        "Representation in Policy-making Forums": {},
+        "Access to Consultation Processes": {},
+        "Involvement in Decision-making Structures": {}
+      },
+      "Diversity of Advisory Panels": {
+        "Representation of Marine Scientists": {},
+        "Inclusion of Energy Sector Experts": {},
+        "Cultural Diversity Among Panel Members": {},
+        "Representation of Local Government Officials": {},
+        "Participation of Environmental NGOs": {}
+      }
+    },
+    "Transparency in Policy Implementation": {
+      "Access to Policy Documentation": {
+        "Availability of Offshore Energy Policy Records": {},
+        "Comprehensiveness of Fisheries Impact Assessments": {},
+        "Timeliness of Document Releases": {},
+        "Extent of Stakeholder Input in Policy Formation": {}
+      },
+      "Clarity in Communication of Objectives": {
+        "Consistency in Strategic Messaging": {},
+        "Specificity in Project Goals": {},
+        "Transparency in Decision-Making Rationales": {},
+        "Alignment of Stakeholder Priorities": {},
+        "Comprehensibility of Communication Channels": {}
+      },
+      "Public Accessibility to Implementation Updates": {
+        "Transparency of Progress Timelines": {},
+        "Accessibility of Stakeholder Meeting Summaries": {},
+        "Availability of Project Milestones Updates": {},
+        "Public Participation in Update Dissemination": {},
+        "Reach of Communication Channels for Updates": {}
+      },
+      "Audit Trail Availability": {
+        "Record Completeness": {},
+        "Timeliness of Entry": {},
+        "Access Permissions": {},
+        "Data Consistency": {},
+        "Integration with Decision-Making Processes": {}
+      },
+      "Reporting of Stakeholder Feedback": {
+        "Frequency of Stakeholder Surveys": {},
+        "Diversity in Stakeholder Representation": {},
+        "Stakeholder Feedback Data Collection Methods": {},
+        "Transparency in Reporting Processes": {},
+        "Stakeholder Satisfaction Ratings": {}
+      },
+      "Frequency of Progress Reports": {
+        "Report Delivery Timeliness": {},
+        "Frequency of Stakeholder Meetings for Report Review": {},
+        "Report Format Consistency": {}
+      },
+      "Detail Levels in Policy Briefings": {
+        "Specificity in Regulatory Guidelines": {},
+        "Granularity of Impact Assessments": {}
+      }
+    }
+  },
+  "Offshore Energy Infrastructure Development": {
+    "Wind Turbine Installation": {
+      "Spatial Footprint": {
+        "Seafloor Area Utilized": {},
+        "Surface Area Occupied": {},
+        "Connected Infrastructure Footprint": {},
+        "Cable and Pipeline Extent": {},
+        "Anchor and Mooring Spread": {},
+        "Exclusion Zone Coverage": {}
+      },
+      "Acoustic Emissions": {
+        "Sound Pressure Levels": {},
+        "Frequency Range": {},
+        "Propagation Distance": {}
+      },
+      "Sediment Disturbance": {
+        "Sediment Resuspension": {},
+        "Sediment Deposition Rates": {},
+        "Turbidity Levels": {},
+        "Grain Size Distribution": {},
+        "Benthic Habitat Coverage": {},
+        "Sediment Transport Patterns": {}
+      },
+      "Habitat Alteration": {
+        "Seafloor Habitat Coverage": {},
+        "Artificial Reef Creation": {},
+        "Benthic Organism Distribution": {},
+        "Water Column Structure Alteration": {},
+        "Underwater Vegetation Growth": {}
+      },
+      "Navigational Impact": {
+        "Navigation Route Alteration": {},
+        "Vessel Traffic Density": {},
+        "Navigational Hazard Creation": {},
+        "Navigation Safety Protocol Changes": {},
+        "Maritime Traffic Congestion": {},
+        "Operational Range of Navigation Aids": {}
+      }
+    },
+    "Offshore Drilling Platforms": {
+      "Seabed Habitat Disturbance": {
+        "Seabed Sediment Displacement": {},
+        "Benthic Fauna Habitat Alteration": {},
+        "Substrate Composition Change": {}
+      },
+      "Oil Spill Occurrence": {
+        "Volume of Oil Released": {},
+        "Frequency of Oil Spill Incidents": {},
+        "Area of Marine Impact": {},
+        "Duration of Containment and Cleanup": {},
+        "Amount of Oil Transported via Offshore Infrastructure": {}
+      }
+    },
+    "Underwater Cabling Networks": {
+      "Cable Length and Coverage": {
+        "Distance of Cable Routes": {},
+        "Area of Seabed Impacted": {},
+        "Number of Habitats Spanned": {},
+        "Extent of Fish Migration Corridors Traversed": {}
+      },
+      "Cable Burial Depth": {
+        "Sediment Displacement Volume": {},
+        "Seafloor Disturbance Area": {},
+        "Marine Habitat Coverage": {},
+        "Substrate Stability": {},
+        "Burial Depth Consistency": {}
+      },
+      "Interconnection Points Quantity": {
+        "Turbine Grid Connectivity": {},
+        "Substation Capacity": {},
+        "Cross-border Link Points": {},
+        "Load Distribution Nodes": {}
+      },
+      "Cable Structural Integrity": {
+        "Cable Material Durability": {},
+        "Seabed Stability Impact": {},
+        "Corrosion Resistance": {}
+      },
+      "Electric Current Capacity": {
+        "Energy Transmission Efficiency": {},
+        "Current Load Handling": {},
+        "Voltage Regulation": {},
+        "Reactive Power Management": {},
+        "Thermal Dissipation Rate": {},
+        "Conductor Material Conductivity": {},
+        "Operational Voltage Range": {}
+      },
+      "Network Redundancy": {
+        "Redundant Power Supply Lines": {},
+        "Backup Generation Systems": {},
+        "Alternative Data Communication Channels": {}
+      },
+      "Cable Maintenance Frequency": {
+        "Inspection Schedule Variability": {},
+        "Repair Interval Duration": {},
+        "Component Replacement Rate": {},
+        "Preventative Maintenance Activities": {}
+      }
+    },
+    "Tidal Energy Facilities": {
+      "Turbine Installation Density": {
+        "Number of Turbines per Square Kilometer": {},
+        "Spacing Between Turbines": {},
+        "Cluster Formation Patterns": {},
+        "Height Variety Among Turbines": {},
+        "Foundation Structure Types": {},
+        "Array Layout Designs": {}
+      },
+      "Seafloor Footprint": {
+        "Footprint Area of Foundations": {},
+        "Extent of Seafloor Cables": {},
+        "Seafloor Habitat Alteration": {},
+        "Sediment Redistribution": {},
+        "Seafloor Infrastructure Density": {}
+      },
+      "Marine Navigation Obstructions": {
+        "Presence of Underwater Cables": {},
+        "Navigation Markers and Buoys": {},
+        "Visibility of Surface Structures": {},
+        "Influence on Navigational Routes": {}
+      },
+      "Operational Noise Levels": {
+        "Sound Intensity of Turbine Operation": {},
+        "Frequency Range Emission": {},
+        "Noise Propagation Distance": {},
+        "Intermittency of Acoustic Output": {}
+      },
+      "Tidal Range Alteration": {
+        "Coastal Erosion Rates": {},
+        "Habitat Area Changes": {}
+      }
+    },
+    "Wave Power Structures": {
+      "Device Deployment Density": {
+        "Turbine Array Compactness": {},
+        "Spacing Between Devices": {},
+        "Deployment Layer Concentration": {},
+        "Device Cluster Distribution": {},
+        "Grid Pattern Complexity": {}
+      },
+      "Sea Floor Footprint Size": {
+        "Foundation Area Coverage": {},
+        "Cable Trenching Extent": {},
+        "Scour Protection Zone": {},
+        "Equipment Anchoring Size": {}
+      },
+      "Power Generation Capacity": {
+        "Turbine Power Output": {},
+        "Renewable Energy Integration": {},
+        "Energy Storage Capability": {},
+        "Grid Connection Capacity": {},
+        "Transmission Efficiency": {}
+      },
+      "Material Usage Volume": {
+        "Steel Consumption": {},
+        "Concrete Utilization": {},
+        "Plastic Components Usage": {}
+      },
+      "Marine Habitat Encroachment": {
+        "Sediment Displacement": {},
+        "Marine Mammal Movement Interruption": {}
+      },
+      "Shoreline Distance": {
+        "Turbine Distance to Shore": {},
+        "Cable Length to Grid Connection": {},
+        "Visual Impact Radius from Shore": {},
+        "Proximity to Shipping Lanes": {},
+        "Shoreline Access for Construction": {},
+        "Distance to Marine Protected Areas": {}
+      },
+      "Maintenance Frequency": {
+        "Inspection Cycles": {},
+        "Component Replacement Intervals": {},
+        "Corrosion Monitoring Frequency": {},
+        "Lubrication Schedule Frequency": {},
+        "Equipment Testing Frequency": {},
+        "Structural Integrity Assessments": {},
+        "Operational Downtime for Maintenance": {}
+      }
+    }
+  },
+  "Marine Environmental Quality": {
+    "Water Column Turbidity": {
+      "Suspended Sediment Concentration": {
+        "Sediment Load from Offshore Construction": {}
+      },
+      "Algal Blooms Density": {
+        "Nutrient Concentration": {},
+        "Water Temperature": {},
+        "Salinity Levels": {},
+        "Light Availability": {},
+        "Ocean Current Patterns": {}
+      },
+      "Particulate Matter Content": {
+        "Microplastic Concentration": {},
+        "Organic Particulate Levels": {},
+        "Inorganic Particulate Composition": {},
+        "Biogenic Particulate Material": {}
+      }
+    },
+    "Noise Pollution Levels": {
+      "Underwater Acoustic Levels": {
+        "Ambient Underwater Noise Levels": {},
+        "Hydroacoustic Pressure Variations": {},
+        "Underwater Acoustic Propagation Range": {},
+        "Sound Frequency Distribution": {},
+        "Noise Impact on Sedimentation Rates": {},
+        "Sound Transmission Loss Factors": {}
+      },
+      "Ship Traffic Noise Intensity": {
+        "Propeller Noise Levels": {},
+        "Engine Sound Emission": {},
+        "Hull Vibration Acoustic Output": {},
+        "Anchor Deployment Noise": {},
+        "Ballast Water Discharge Sounds": {},
+        "Navigational Signal Acoustic Emission": {}
+      },
+      "Seismic Survey Sound Emissions": {
+        "Marine Mammal Stress Levels": {},
+        "Seafloor Habitat Disruption": {}
+      },
+      "Marine Construction Noise Emission": {
+        "Frequency Range of Emitted Sounds": {},
+        "Intensity Levels at Construction Sites": {},
+        "Temporal Duration of Construction Noise": {},
+        "Impact Radius on Marine Mammals Behavior": {}
+      },
+      "Acoustic Disturbance from Wind Farms": {
+        "Noise Transmission Distance": {},
+        "Sound Frequency Variation": {},
+        "Disturbance Duration": {}
+      },
+      "Subsea Drilling Noise Complexity": {
+        "Noise Frequency Spectrum Variation": {},
+        "Sound Propagation Distance": {},
+        "Acoustic Impact on Sediment Layers": {},
+        "Vibration Transmission Through Substrate": {},
+        "Interaction with Marine Mammal Communication": {},
+        "Residual Noise Post-Drilling": {},
+        "Cumulative Noise Effects in Multi-Operation Sites": {}
+      },
+      "Artificial Noise in Coral Reef Areas": {
+        "Noise Pollution Levels in Coral Reefs": {},
+        "Anthropogenic Soundscape Variability": {},
+        "Impact on Coral Reef Organism Communication": {},
+        "Sound Masking Effects on Coral Reefs": {},
+        "Acoustic Habitat Alteration": {},
+        "Underwater Sound Propagation Disturbance": {}
+      }
+    },
+    "Chemical Contamination": {
+      "Heavy Metal Concentrations": {
+        "Mercury Levels in Marine Sediments": {},
+        "Lead Concentration in Coastal Waters": {},
+        "Cadmium Content in Marine Organisms": {},
+        "Arsenic Presence in Oceanic Currents": {},
+        "Copper Accumulation on Seafloor": {},
+        "Nickel Levels in Marine Food Chains": {}
+      },
+      "Persistent Organic Pollutant Levels": {
+        "PCB Concentrations": {},
+        "Dioxin Levels": {},
+        "PAH Accumulation": {},
+        "Pesticide Residues": {}
+      },
+      "Nutrient Enrichment": {
+        "Algal Bloom Intensity": {},
+        "Dissolved Oxygen Concentration": {},
+        "Nitrate Levels": {},
+        "Phosphate Levels": {},
+        "Water Turbidity": {}
+      },
+      "pH Changes from Chemical Discharges": {
+        "Acidity Levels in Coastal Waters": {},
+        "Alkalinity Shifts in Marine Ecosystems": {},
+        "Buffer Capacity of Seawater": {},
+        "Carbonate Ion Concentration": {},
+        "Calcification Rates in Marine Organisms": {},
+        "Dissolution Rates of Calcium Carbonate Structures": {}
+      },
+      "Hydrocarbon Residues": {
+        "Sediment Contamination Levels": {},
+        "Water Column Hydrocarbon Concentrations": {},
+        "Dissolved Hydrocarbon Content": {},
+        "Marine Organism Tissue Residues": {},
+        "Oil Slick Formation Extent": {}
+      },
+      "Synthetic Microfiber Presence": {
+        "Water Column Concentration of Microfibers": {},
+        "Microfiber Accumulation in Marine Sediments": {},
+        "Microfiber Ingestion by Marine Organisms": {},
+        "Fiber Presence in Coastal Waters": {},
+        "Microfiber Transport in Ocean Currents": {},
+        "Microfiber Concentration in Marine Snow": {}
+      }
+    }
+  },
+  "Fisheries Economic Performance": {
+    "Revenue from Fish Sales": {
+      "Fish Harvest Quantity": {
+        "Catch Volume Consistency": {},
+        "Aggregate Species Harvest": {},
+        "Fishing Trip Yield": {},
+        "Regional Fish Catch Distribution": {},
+        "Offshore Area-Specific Harvest Levels": {}
+      },
+      "Species-Specific Market Share": {
+        "Regional Species Preference": {},
+        "Market Price Variability by Species": {}
+      },
+      "Seasonal Catch Volume": {
+        "Catch Timing Variability": {},
+        "Regional Catch Distribution": {},
+        "Catch Composition Diversity": {},
+        "Season-Specific Catch Reliance": {}
+      }
+    },
+    "Cost of Operations": {
+      "Fuel Costs": {
+        "Fuel Price Volatility": {},
+        "Fuel Supply Chain Dynamics": {},
+        "Refueling Frequency": {},
+        "Energy Source Diversification": {}
+      },
+      "Equipment Maintenance Costs": {
+        "Replacement Parts Availability": {},
+        "Repair Frequency": {},
+        "Technology Adaptation in Equipment": {}
+      },
+      "Labor Expenses": {
+        "Wage Levels": {},
+        "Crew Size": {},
+        "Training and Skill Development Costs": {},
+        "Safety Equipment and Compliance Costs": {}
+      },
+      "Insurance Premiums": {
+        "Natural Hazard Coverage": {},
+        "Risk Assessment Adjustments": {}
+      },
+      "Vessel Lease Costs": {
+        "Availability of Leasing Opportunities": {},
+        "Demand for Specialized Vessels": {}
+      }
+    },
+    "Fish Market Prices": {
+      "Local Fish Availability": {
+        "Energy Project Proximity to Fishing Zones": {},
+        "Fish Distribution over Fishable Areas": {},
+        "Spawning Ground Access": {},
+        "Operational Zone Reductions": {}
+      },
+      "Transportation Costs to Market": {
+        "Fuel Expenditures": {},
+        "Distance to Market": {},
+        "Vessel Maintenance Costs": {},
+        "Port Fees": {},
+        "Crew Labor Costs": {}
+      },
+      "Seasonal Fishing Yields": {
+        "Seasonal Species Catch Volume": {},
+        "Regional Market Prices During Season": {},
+        "Sea Condition Variability Impact on Harvest": {},
+        "Seasonal Workforce Availability": {},
+        "Technological Adaptation for Seasonal Conditions": {},
+        "Access to Seasonal Fishing Grounds": {},
+        "Timing of Seasonal Openings and Closures": {},
+        "Investment in Seasonal Fishing Gear": {}
+      },
+      "Offshore Energy Policy Impacts": {
+        "Fishing Revenue from Energy Lease Areas": {},
+        "Fleet Operation Costs due to Energy Regulations": {},
+        "Access to Fishing Grounds Affected by Energy Development": {}
+      },
+      "Market Competition from Energy Sector": {
+        "Fishery Product Pricing Pressure": {},
+        "Access to Fishing Grounds": {},
+        "Labor Allocation between Sectors": {},
+        "Energy Market Influence on Fishery Exports": {},
+        "Investment in Fishery Technology": {},
+        "Fishery Sector Revenue Variability": {}
+      }
+    },
+    "Investment in Processing Facilities": {
+      "Processing Facility Capacity": {
+        "Storage Capacity for Processed Fish": {},
+        "Facility Throughput Rate": {}
+      },
+      "Technology Integration in Processing": {
+        "Automation Level in Processing Equipment": {},
+        "Adoption of Smart Sensors for Quality Control": {},
+        "Utilization of Data Analytics for Processing Optimization": {},
+        "Implementation of Blockchain for Traceability": {},
+        "Usage of Advanced Refrigeration Technologies": {},
+        "Integration of AI-driven Sorting Systems": {}
+      },
+      "Workforce Size in Processing Facilities": {
+        "Number of Skilled Laborers": {},
+        "Seasonal Worker Utilization": {},
+        "Geographic Distribution of Workers": {},
+        "Availability of Specialized Training Programs": {}
+      },
+      "Supply Chain Efficiency in Processing": {
+        "Logistics Coordination in Fish Processing": {},
+        "Processing Throughput Times": {},
+        "Cold Storage Utilization Rates": {},
+        "Transportation Network Integration": {},
+        "Product Quality Maintenance in Supply Chain": {},
+        "Inventory Accuracy in Fish Processing": {},
+        "Supplier Reliability in Processing": {}
+      },
+      "Energy Consumption in Processing Facilities": {
+        "Energy Efficiency of Machinery": {},
+        "Renewable Energy Usage": {},
+        "Fuel Dependency Levels": {}
+      }
+    },
+    "Consumer Demand for Fish Products": {
+      "Consumer Preferences for Fish Types": {
+        "Demand for Local Fish Varieties": {},
+        "Popularity of Exotic Fish Species": {},
+        "Preference for Sustainably Sourced Fish": {},
+        "Interest in Fish with Health Benefits": {}
+      },
+      "Retail Availability of Fish Products": {
+        "Variety of Fish Species Offered": {},
+        "Quantity of Fish Stock in Stores": {},
+        "Frequency of Restocking Fish Products": {}
+      },
+      "Awareness of Sustainable Fishing Practices": {
+        "Educational Campaign Reach on Sustainable Practices": {},
+        "Adoption Rate of Sustainable Fishing Certification": {},
+        "Investment in Sustainable Fishing Technologies": {}
+      },
+      "Perception of Fish Product Safety": {
+        "Contaminant Levels in Fish Products": {},
+        "Traceability and Certification Systems": {},
+        "Incidence of Foodborne Illnesses from Fish Consumption": {},
+        "Awareness of Chemical Runoff into Aquatic Ecosystems": {},
+        "Availability of Information on Fish Handling Practices": {}
+      },
+      "Influence of Cultural Trends on Fish Consumption": {
+        "Demand for Locally Sourced Fish": {},
+        "Interest in Exotic Fish Varieties": {},
+        "Popularity of Fish in Culinary Trends": {},
+        "Cultural Significance of Seafood in Dietary Habits": {},
+        "Seasonal Variations in Fish-Based Dishes": {},
+        "Consumption of Fish in Festive Occasions": {}
+      }
+    },
+    "Export Volume of Fish": {
+      "International Demand for Export": {
+        "Global Consumer Preferences for Fish Products": {},
+        "Market Access for Sustainable-Certified Fisheries": {}
+      },
+      "Transportation and Logistics Capacity": {
+        "Port Handling Efficiency": {},
+        "Cold Storage Capacity at Docks": {},
+        "Vessel Turnaround Time": {},
+        "Shipping Route Availability": {},
+        "Fuel Supply Logistics": {},
+        "Crew Transportation Infrastructure": {}
+      },
+      "International Trade Agreements": {
+        "Tariff Structures on Fish Products": {},
+        "Market Access Provisions": {},
+        "Non-Tariff Barriers": {},
+        "Fisheries Subsidy Regulations": {},
+        "Trade Dispute Resolution Mechanisms": {}
+      },
+      "Export Quality Standards Compliance": {
+        "Certification Achievement Levels": {},
+        "Product Quality Testing Frequency": {},
+        "Packaging and Labeling Adherence": {}
+      }
+    }
+  }
+}

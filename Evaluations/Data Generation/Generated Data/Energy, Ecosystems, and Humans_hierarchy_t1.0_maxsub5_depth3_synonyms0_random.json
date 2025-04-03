@@ -1,0 +1,664 @@
+{
+  "Ecosystem Health Indicators": {
+    "Biodiversity Index": {
+      "Species Richness": {
+        "Number of Endemic Species": {},
+        "Variety of Pollinator Species": {},
+        "Diversity of Marine Species": {},
+        "Forest Species Diversity": {},
+        "Freshwater Species Variety": {},
+        "Presence of Keystone Species": {}
+      },
+      "Genetic Diversity": {
+        "Allelic Variation": {},
+        "Genetic Population Structure": {},
+        "Adaptive Genetic Traits": {}
+      },
+      "Habitat Connectivity": {
+        "Corridor Lengths": {},
+        "Landscape Permeability": {},
+        "Patch Size Distribution": {}
+      },
+      "Population Abundance": {
+        "Herbivore Population Density": {},
+        "Pollinator Population Size": {},
+        "Predator Population Levels": {},
+        "Aquatic Organism Abundance": {},
+        "Migratory Bird Population Numbers": {}
+      },
+      "Invasive Species Presence": {
+        "Invasive Species Population Density": {},
+        "Range of Invasive Species Distribution": {}
+      }
+    },
+    "Soil Quality": {
+      "Soil Organic Matter Content": {
+        "Carbon Sequestration Capacity": {},
+        "Soil Carbon Fractionation": {},
+        "Rate of Organic Matter Decomposition": {}
+      },
+      "Soil Nutrient Levels": {
+        "Soil Nitrogen Concentration": {},
+        "Soil Phosphorus Availability": {},
+        "Soil Potassium Content": {}
+      },
+      "Soil Microbial Diversity": {
+        "Microbial Species Richness": {},
+        "Microbial Evenness": {},
+        "Microbial Biomass": {},
+        "Functional Diversity of Microbes": {},
+        "Soil Microbial Respiration": {}
+      },
+      "Soil Structure": {
+        "Soil Compaction": {},
+        "Aggregate Stability": {},
+        "Soil Porosity": {},
+        "Soil Texture": {},
+        "Root Penetration Depth": {}
+      },
+      "Soil Moisture": {
+        "Infiltration Rate": {},
+        "Evapotranspiration Rate": {},
+        "Soil Water Retention Capacity": {}
+      },
+      "Soil Contamination Levels": {
+        "Heavy Metal Concentration": {},
+        "Pesticide Residues": {},
+        "Polycyclic Aromatic Hydrocarbons": {},
+        "Persistent Organic Pollutants": {},
+        "Radioactive Contaminants": {}
+      }
+    },
+    "Water Quality": {
+      "Dissolved Oxygen Levels": {
+        "Oxygen Saturation in Freshwater Bodies": {},
+        "Hypoxic Zones": {},
+        "Aerobic Microorganism Activity": {},
+        "Fish Species Respiratory Efficiency": {},
+        "Aquatic Plant Photosynthesis Rates": {}
+      },
+      "Nutrient Concentration": {
+        "Nitrogen Levels": {},
+        "Phosphorus Concentrations": {},
+        "Algal Bloom Frequency": {},
+        "Organic Carbon Content": {},
+        "Silica Availability": {}
+      },
+      "pH Balance": {
+        "Acidification Levels": {},
+        "Alkalinity Variations": {}
+      },
+      "Presence of Pathogens": {
+        "Bacterial Population Density": {},
+        "Fungal Spore Concentration": {},
+        "Virus Load": {},
+        "Parasite Prevalence": {},
+        "Pathogenic Microalgae Presence": {},
+        "Protozoan Diversity": {},
+        "Antibiotic Resistance Genes in Pathogens": {}
+      },
+      "Turbidity": {
+        "Sediment Concentration": {},
+        "Algal Bloom Levels": {},
+        "Particulate Organic Matter": {},
+        "Water Clarity": {}
+      }
+    },
+    "Vegetation Cover": {
+      "Forest Density": {
+        "Tree Canopy Cover": {},
+        "Understory Vegetation Proliferation": {},
+        "Forest Biodiversity Levels": {}
+      },
+      "Grassland Area": {
+        "Native Plant Species Diversity": {},
+        "Insect Population Density": {},
+        "Wildlife Habitat Connectivity": {}
+      },
+      "Wetland Vegetation Area": {
+        "Aquatic Plant Diversity": {},
+        "Wetland Soil Quality": {},
+        "Water Coverage in Wetlands": {},
+        "Endemic Species Population": {},
+        "Nutrient Concentration in Wetland Waters": {}
+      },
+      "Urban Green Space": {
+        "Tree Canopy Coverage": {},
+        "Biodiversity in Urban Parks": {},
+        "Permeable Surface Area": {},
+        "Air Quality Linked to Vegetation": {},
+        "Urban Wildlife Populations": {}
+      },
+      "Mangrove Coverage": {
+        "Canopy Density": {},
+        "Root Biomass": {},
+        "Species Diversity": {}
+      }
+    },
+    "Pollinator Populations": {
+      "Native Bee Diversity": {
+        "Bee Species Richness": {},
+        "Bee Population Density": {},
+        "Distribution Range of Native Bees": {},
+        "Genetic Variability of Bee Populations": {}
+      },
+      "Pollination Success Rate": {
+        "Flower Reproduction Rates": {},
+        "Pollinator Visitation Frequency": {},
+        "Pollen Transfer Efficiency": {}
+      }
+    }
+  },
+  "Economic Impact Metrics": {
+    "Agricultural Productivity": {
+      "Crop Yield Levels": {
+        "Annual Harvest Quantity": {},
+        "Crop Variety Yields": {},
+        "Regional Yield Distribution": {},
+        "Yield per Acre": {},
+        "Temperature-Adjusted Yield": {}
+      },
+      "Livestock Production Volume": {
+        "Cattle Inventory Levels": {},
+        "Poultry Production Quantity": {},
+        "Sheep and Goat Herd Sizes": {},
+        "Pork Output Volume": {},
+        "Dairy Production Quantities": {},
+        "Beef Production Volume": {},
+        "Egg Production Count": {},
+        "Aquaculture Yield": {}
+      },
+      "Soil Fertility": {
+        "Nutrient Availability Value": {},
+        "pH Balance Economic Impact": {}
+      },
+      "Irrigation Efficiency": {
+        "Water Usage per Unit of Crop": {},
+        "Energy Costs for Water Pumping": {},
+        "Water Delivery Time Efficiency": {},
+        "Maintenance Costs of Irrigation Systems": {},
+        "Operational Costs for Water Management": {},
+        "Technology Upgrade Costs in Irrigation Systems": {},
+        "Revenue Generated from Improved Water Distribution": {}
+      },
+      "Farm Labor Costs": {
+        "Wages Paid to Farm Workers": {},
+        "Labor Hours Required Per Crop": {},
+        "Labor Supply Availability": {},
+        "Overtime Hours Worked": {}
+      },
+      "Input Costs for Seeds and Fertilizers": {
+        "Seed Price Trends": {},
+        "Fertilizer Market Prices": {},
+        "Import Tariffs on Agricultural Inputs": {},
+        "Transportation Costs for Distribution": {},
+        "Storage Costs for Seed and Fertilizer": {},
+        "Currency Exchange Rates Impacting Imports": {},
+        "Native Agricultural Input Production Levels": {},
+        "Technological Advancements in Input Production": {}
+      },
+      "Post-Harvest Losses": {
+        "Storage Infrastructure Efficiency": {},
+        "Market Access and Distribution Channels": {}
+      }
+    },
+    "Resource Extraction Revenues": {
+      "Mineral Extraction Revenues": {
+        "Mining Production Volume": {},
+        "Commodity Market Prices": {},
+        "Export Volume of Minerals": {},
+        "Employment in Mining Sector": {},
+        "Tax Revenue from Mining Activities": {}
+      },
+      "Forestry Extraction Revenues": {
+        "Timber Production Volume": {},
+        "Market Price of Wood Products": {},
+        "Logging Employment Numbers": {},
+        "Export Value of Forest Products": {},
+        "Harvest Fees and Royalties": {},
+        "Investment in Forestry Infrastructure": {}
+      },
+      "Fishery Extraction Revenues": {
+        "Commercial Fish Catch Volumes": {},
+        "Market Price of Fish Products": {},
+        "Fishing Fleet Size": {},
+        "Aquaculture Production Levels": {},
+        "International Fish Trade Volumes": {},
+        "Investment in Fishing Technology": {},
+        "Employment in Fisheries Sector": {}
+      }
+    }
+  },
+  "Energy Security Performance": {
+    "Energy Production Capacity": {
+      "Renewable Energy Generation": {
+        "Solar Power Capacity": {},
+        "Wind Power Capacity": {},
+        "Geothermal Energy Utilization": {},
+        "Biomass Energy Output": {},
+        "Tidal and Wave Energy Production": {}
+      },
+      "Fossil Fuel Output": {
+        "Oil Production Volume": {},
+        "Natural Gas Extraction Rates": {},
+        "Coal Mining Output": {},
+        "Fossil Fuel Refining Capacity": {},
+        "Fuel Transport Infrastructure Capacity": {},
+        "Proven Fossil Fuel Reserves": {},
+        "Imported Fossil Fuel Volumes": {},
+        "Offshore Drilling Operations": {}
+      },
+      "Nuclear Energy Capacity": {
+        "Operational Nuclear Reactors": {},
+        "Nuclear Fuel Availability": {},
+        "Nuclear Energy Output": {},
+        "Nuclear Plant Efficiency": {},
+        "Nuclear Waste Management Capacity": {},
+        "Nuclear Safety Measures": {}
+      },
+      "Hydroelectric Power Capacity": {
+        "Reservoir Water Levels": {},
+        "Turbine Efficiency Rates": {},
+        "Power Plant Operational Hours": {},
+        "Hydroelectric Energy Storage": {},
+        "Infrastructure Integrity": {},
+        "Transmission Capacity from Hydroelectric Sources": {}
+      },
+      "Grid Electricity Availability": {
+        "Grid Reliability": {},
+        "Transmission Infrastructure Capacity": {},
+        "Electricity Storage Capacity": {}
+      }
+    },
+    "Energy Supply Diversity": {
+      "Renewable Energy Mix": {
+        "Proportion of Solar Power": {},
+        "Proportion of Wind Energy": {},
+        "Proportion of Hydropower": {},
+        "Proportion of Bioenergy": {}
+      },
+      "Geographical Source Distribution": {
+        "Diversity of Energy Import Origins": {},
+        "Proximity to Energy Supply Sources": {}
+      }
+    },
+    "Energy Infrastructure Resilience": {
+      "Infrastructure Redundancy": {
+        "Backup Power Capacity": {},
+        "Distributed Energy Resources": {},
+        "Interconnection Capacity": {}
+      },
+      "Physical Durability of Energy Facilities": {
+        "Structural Integrity of Power Plants": {},
+        "Resilience of Solar Installations": {},
+        "Wind Turbine Durability": {},
+        "Longevity of Hydroelectric Dams": {},
+        "Durability of Transmission Towers": {}
+      },
+      "Cybersecurity of Energy Systems": {
+        "Network Vulnerability": {},
+        "Data Integrity": {},
+        "Incident Response Readiness": {},
+        "Access Control Robustness": {},
+        "Real-Time Monitoring Effectiveness": {}
+      }
+    },
+    "Energy Storage Capabilities": {
+      "Battery Energy Capacity": {
+        "Battery Charge Density": {},
+        "Battery Lifespan": {}
+      },
+      "Grid Storage Integration": {
+        "Load Balancing Capability": {},
+        "Renewable Energy Absorption": {},
+        "Storage Duration Reliability": {},
+        "Grid Frequency Stabilization": {},
+        "Peak Load Management": {}
+      },
+      "Thermal Storage Efficiency": {
+        "Heat Retention Duration": {},
+        "Thermal Energy Conductivity": {},
+        "Temperature Regulation Accuracy": {},
+        "Material Insulation Quality": {},
+        "Energy Loss Minimization": {}
+      },
+      "Hydrogen Storage Density": {
+        "Volumetric Energy Density": {},
+        "Gravimetric Energy Density": {},
+        "Storage Material Efficiency": {},
+        "Hydrogen Compression Levels": {},
+        "Cryogenic Storage Capacity": {}
+      }
+    }
+  },
+  "Human Wellbeing Measures": {
+    "Access to Clean Water": {
+      "Water Purity Levels": {
+        "Chemical Contaminant Concentration": {},
+        "Microbial Load": {},
+        "Heavy Metal Presence": {}
+      },
+      "Water Infrastructure Reliability": {
+        "Water Distribution Efficiency": {},
+        "Pipe Network Aging": {},
+        "Pumping Station Reliability": {},
+        "Reservoir Storage Capacity": {},
+        "Leakage Rate in Infrastructure": {}
+      },
+      "Water Availability Per Capita": {
+        "Freshwater Supply": {},
+        "Rainwater Harvesting Capacity": {},
+        "Groundwater Reserves": {},
+        "Water Stress Index": {},
+        "Aquifer Recharge Rates": {},
+        "Desalination Output": {}
+      }
+    },
+    "Nutritional Quality": {
+      "Dietary Diversity": {
+        "Variety of Fruit and Vegetable Intake": {},
+        "Range of Whole Grains Consumed": {},
+        "Diversity of Dairy Products Included": {},
+        "Assortment of Legumes and Nuts Eaten": {}
+      },
+      "Caloric Intake Adequacy": {
+        "Daily Caloric Access per Capita": {},
+        "Caloric Distribution Equity among Populations": {},
+        "Availability of Caloric-Dense Food Sources": {},
+        "Caloric Consumption Patterns across Age Groups": {},
+        "Rural vs Urban Caloric Sufficiency": {},
+        "Seasonal Variation in Caloric Availability": {}
+      },
+      "Micronutrient Density": {
+        "Vitamin Mineral Content": {},
+        "Essential Trace Elements": {},
+        "Bioavailability of Nutrients": {},
+        "Nutrient Retention in Cooking": {},
+        "Fortification Levels in Food": {},
+        "Soil Nutrient Content": {},
+        "Plant-Based Nutrients": {}
+      },
+      "Protein Quality": {
+        "Amino Acid Profiles": {},
+        "Protein Digestibility": {},
+        "Protein Source Sustainability": {},
+        "Essential Amino Acid Availability": {},
+        "Protein Biomarker Levels": {}
+      },
+      "Antioxidant Levels in Diet": {
+        "Vitamin C Concentration in Food": {},
+        "Polyphenol Content in Diet": {}
+      },
+      "Food Freshness and Safety": {
+        "Pesticide Residue Levels": {},
+        "Microbial Contamination Rates": {},
+        "Food Additive Concentrations": {},
+        "Preservative Longevity": {}
+      },
+      "Gut Microbiome Balance": {
+        "Microbiome Diversity": {},
+        "Probiotic Levels": {},
+        "Pathogenic Bacteria Presence": {},
+        "Gut Microbial Metabolites": {},
+        "Inflammation Markers": {},
+        "Gut-Lining Integrity": {}
+      }
+    },
+    "Mental Health Status": {
+      "Stress Levels": {
+        "Workload Intensity": {},
+        "Sleep Quality": {},
+        "Social Support": {},
+        "Exposure to Noise Pollution": {},
+        "Physical Activity Levels": {},
+        "Time Spent in Nature": {},
+        "Nutritional Balance": {}
+      },
+      "Anxiety Prevalence": {
+        "Social Isolation Levels": {},
+        "Access to Mental Health Services": {},
+        "Work-Life Balance": {},
+        "Physical Activity Frequency": {},
+        "Nutritional Habits": {}
+      },
+      "Depression Severity": {
+        "Depressive Symptoms Intensity": {},
+        "Coping Mechanism Effectiveness": {},
+        "Social Connectivity Levels": {}
+      }
+    },
+    "Physical Health Fitness": {
+      "Cardiovascular Endurance": {
+        "VO2 Max Levels": {},
+        "Resting Heart Rate": {},
+        "Exercise Intensity Tolerance": {},
+        "Cardiorespiratory Function": {},
+        "Recovery Heart Rate": {},
+        "Blood Oxygen Saturation": {},
+        "Aerobic Capacity": {}
+      },
+      "Muscular Strength": {
+        "Muscle Fiber Density": {},
+        "Grip Strength": {},
+        "Upper Body Strength": {},
+        "Lower Body Strength": {},
+        "Core Muscle Strength": {}
+      },
+      "Flexibility": {
+        "Joint Range of Motion": {},
+        "Elasticity of Connective Tissues": {},
+        "Neuromuscular Adaptability": {},
+        "Postural Alignment": {},
+        "Stretch Tolerance": {},
+        "Flexibility Potential in Daily Activities": {}
+      },
+      "Body Composition": {
+        "Body Fat Percentage": {},
+        "Lean Muscle Mass": {},
+        "Bone Density": {}
+      },
+      "Balance and Coordination": {
+        "Postural Stability": {},
+        "Gait Analysis": {},
+        "Vestibular System Function": {},
+        "Proprioceptive Sensitivity": {},
+        "Neuromuscular Control": {},
+        "Reaction Time": {},
+        "Sensory Integration": {}
+      }
+    },
+    "Life Satisfaction Levels": {
+      "Quality of Social Connections": {
+        "Social Network Size": {},
+        "Frequency of Face-to-Face Interactions": {}
+      },
+      "Access to Recreational Spaces": {
+        "Park Area Per Capita": {},
+        "Availability of Walking Trails": {},
+        "Access to Community Sports Facilities": {},
+        "Proximity to Public Beaches": {},
+        "Quantity of Playgrounds": {},
+        "Hours of Operable Recreational Spaces": {}
+      },
+      "Urban Green Space Availability": {
+        "Public Park Area per Capita": {},
+        "Number of Urban Trees": {},
+        "Access to Community Gardens": {}
+      },
+      "Educational Attainment Levels": {
+        "Literacy Rates": {},
+        "Graduation Rates": {},
+        "Access to Educational Resources": {}
+      }
+    }
+  },
+  "Social Conflict Intensity": {
+    "Protest Participation Levels": {
+      "Number of Protest Events": {
+        "Frequency of Energy-Related Protests": {},
+        "Occurrence of Protests for Environmental Preservation": {},
+        "Incidence of Protests Regarding Land Use": {},
+        "Number of Protests Against Fossil Fuel Extraction": {},
+        "Volume of Protests Demanding Renewable Energy Transition": {}
+      },
+      "Diversity of Protest Participants": {
+        "Demographic Range of Participants": {},
+        "Organizational Affiliation Spectrum": {},
+        "Socioeconomic Status Range of Participants": {},
+        "Age Group Variety in Participants": {},
+        "Cultural Backgrounds Diversity": {},
+        "Educational Background Diversity": {},
+        "Professional Background Diversity": {}
+      },
+      "Duration of Protest Activities": {
+        "Length of Continuous Demonstrations": {},
+        "Duration of Sit-ins": {},
+        "Time Spent in Negotiations": {},
+        "Length of Organized Marches": {},
+        "Operation Duration of Roadblocks": {},
+        "Protest Camp Lifespan": {}
+      },
+      "Geographical Spread of Protests": {
+        "Urban vs. Rural Protest Distribution": {},
+        "Cross-Border Protest Incidences": {}
+      },
+      "Protestor Engagement Levels": {
+        "Protestor Attendance": {},
+        "Frequency of Protestor Participation": {},
+        "Intensity of Protestor Actions": {},
+        "Commitment to Nonviolent Tactics": {},
+        "Coordination Among Protestor Groups": {}
+      }
+    },
+    "Incidence of Violent Clashes": {
+      "Frequency of Armed Conflicts": {
+        "Number of Active Combat Zones": {},
+        "Frequency of Territorial Disputes": {}
+      },
+      "Number of Fatalities in Clashes": {
+        "Casualties from Civilian Clashes": {},
+        "Fatalities in Resource-Driven Conflicts": {},
+        "Deaths in Ethnic or Sectarian Violence": {}
+      },
+      "Displacement Due to Conflict": {
+        "Number of Refugees": {},
+        "Growth of Refugee Camps": {},
+        "Internal Displacement Figures": {},
+        "Host Community Population Changes": {},
+        "Cross-Border Movements": {},
+        "Urban Resettlement Counts": {}
+      },
+      "Weapon Utilization Rates": {
+        "Frequency of Specific Weapon Types": {},
+        "Volume of Ammunition Usage": {},
+        "Duration of Weapon Deployment": {}
+      },
+      "Engagement of External Military Forces": {
+        "Deployment Duration of Foreign Troops": {},
+        "Number of Foreign Nations Involved": {},
+        "Scale of Military Resources Allocated": {},
+        "Frequency of Cross-Border Military Operations": {},
+        "Intensity of International Military Aid": {}
+      }
+    },
+    "Public Perception of Conflict": {
+      "Media Coverage and Attention": {
+        "Headline Frequency in News": {},
+        "Coverage Duration by Mainstream Media": {}
+      },
+      "Community Sentiment and Trust": {
+        "Sense of Community Belonging": {},
+        "Interpersonal Trust Levels": {},
+        "Perceived Fairness in Energy Resource Distribution": {},
+        "Community Engagement in Environmental Decision-making": {},
+        "Conflicts over Land Use and Resource Allocation": {},
+        "Social Cohesion": {},
+        "Local Cooperation on Energy Initiatives": {}
+      },
+      "Public Awareness and Understanding": {
+        "Engagement in Public Forums": {},
+        "Environmental Literacy Rates": {}
+      },
+      "Perceived Threat Level": {
+        "Security Threat Perception": {},
+        "Resource Scarcity Fear": {},
+        "Cultural Cohesion Concerns": {}
+      },
+      "Social Media Discourse Volume": {
+        "Number of Social Media Posts on Energy Policies": {},
+        "Engagement Levels in Climate Change Debates.": {}
+      }
+    },
+    "Number of Organized Groups": {
+      "Environmental Advocacy Groups": {
+        "Membership Numbers": {},
+        "Lobbying Activities": {}
+      },
+      "Energy Sector Labor Unions": {
+        "Strike Frequency": {},
+        "Union Membership Levels": {}
+      },
+      "Indigenous Rights Organizations": {
+        "Land Access Disputes": {},
+        "Cultural Heritage Protection Actions": {},
+        "Natural Resource Management Conflicts": {},
+        "Legal Challenges Against Land Development": {},
+        "Engagement in Policy-Making Processes": {},
+        "Campaigns for Environmental Justice": {},
+        "Participation in National and International Forums": {}
+      },
+      "Community Resilience Networks": {
+        "Community Cohesion Levels": {},
+        "Resource Sharing Practices": {},
+        "Local Leadership Participation": {},
+        "Mutual Aid Structures": {},
+        "Communication and Information Channels": {},
+        "Cultural Heritage Preservation": {},
+        "Capacity for Conflict Resolution": {},
+        "Preparation and Response Coordination": {}
+      },
+      "Sustainable Development Committees": {
+        "Public Participation Levels": {},
+        "Diversity of Stakeholder Representation": {},
+        "Frequency of Committee Meetings": {},
+        "Inclusivity of Decision-Making Processes": {},
+        "Transparency of Operation Procedures": {},
+        "Effectiveness of Conflict Resolution Mechanisms": {}
+      }
+    },
+    "Intensity of Political Polarization": {
+      "Degree of Partisan Media Consumption": {
+        "Number of Partisan News Outlets": {},
+        "Share of Audiences Consuming Partisan Content": {},
+        "Frequency of Partisan Narratives in Reporting": {},
+        "Degree of Audience Engagement with Partisan Channels": {},
+        "Intensity of Bias in News Coverage": {},
+        "Volume of Influencer-Driven Partisan Content": {}
+      },
+      "Extent of Ideological Segregation in Social Networks": {
+        "Homogeneity of User Interactions": {},
+        "Concentration of Ideologically Similar Communities": {},
+        "Prevalence of Ideologically Reinforcing Content": {},
+        "Clustering of Ideological Perspectives": {},
+        "Segmentation of Friend or Follower Networks": {}
+      },
+      "Level of Polarizing Rhetoric in Political Discourse": {
+        "Frequency of Radical Policy Proposals": {},
+        "Prevalence of Us vs. Them Narratives": {}
+      },
+      "Magnitude of Political Distrust Among Citizens": {
+        "Level of Trust in Electoral Processes": {},
+        "Degree of Confidence in Government Accountability": {},
+        "Perceived Fairness of Legislative Actions": {},
+        "Trust in Political Leadership": {},
+        "Belief in Judicial System Impartiality": {},
+        "Trust in News and Information Sources": {}
+      },
+      "Range of Ideological Divide in Legislative Bodies": {
+        "Diversity of Energy Policy Perspectives in Legislatures": {},
+        "Variation in Environmental Regulation Approaches Among Legislators": {},
+        "Extent of Agreement on Human Health and Welfare Laws": {}
+      }
+    }
+  }
+}

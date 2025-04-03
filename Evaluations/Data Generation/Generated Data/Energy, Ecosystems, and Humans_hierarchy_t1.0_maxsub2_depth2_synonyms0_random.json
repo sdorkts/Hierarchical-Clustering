@@ -1,0 +1,52 @@
+{
+  "Ecosystem Health Indicators": {
+    "Biodiversity Levels": {
+      "Species Richness": {},
+      "Genetic Diversity": {}
+    },
+    "Water Quality Index": {
+      "Dissolved Oxygen Levels": {},
+      "Nutrient Concentration": {}
+    }
+  },
+  "Economic Impact Metrics": {
+    "Tourism Revenue": {
+      "Visitor Spending": {},
+      "Tourism-related Job Creation": {}
+    },
+    "Infrastructure Development": {
+      "Transportation Network Expansion": {},
+      "Utility Infrastructure Capacity": {}
+    }
+  },
+  "Energy Security Performance": {
+    "Energy Supply Reliability": {
+      "Grid Stability": {},
+      "Redundancy in Energy Infrastructure": {}
+    },
+    "Energy Source Diversity": {
+      "Renewable Energy Portfolio": {},
+      "Fossil Fuel Dependency": {}
+    }
+  },
+  "Human Wellbeing Measures": {
+    "Access to Clean Water": {
+      "Water Quality Standards": {},
+      "Water Availability": {}
+    },
+    "Nutritional Intake Levels": {
+      "Caloric Consumption": {},
+      "Micronutrient Availability": {}
+    }
+  },
+  "Social Conflict Intensity": {
+    "Protest Frequency": {
+      "Number of Protest Participants": {},
+      "Geographic Spread of Protests": {}
+    },
+    "Civil Unrest Duration": {
+      "Number of Ongoing Incidents": {},
+      "Involvement Duration of Key Groups": {}
+    }
+  }
+}
